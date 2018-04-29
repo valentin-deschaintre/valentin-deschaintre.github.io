@@ -1,0 +1,23 @@
+<footer class="visible-xs">
+  {% include sponsors-panel.html %}
+</footer>
+
+<div id="blueimp-gallery" class="blueimp-gallery js-only">
+  <div class="slides">#</div>
+  <h3 class="title">#</h3>
+  <a class="prev">‹</a>
+  <a class="next">›</a>
+  <a class="close">×</a>
+  <a class="play-pause"></a>
+  <ol class="indicator"></ol>
+</div>
+
+<!-- footer -->
+<div class="panel" id="social">
+  <span>&copy; {{ site.time | date: '%Y' }} {{ site.conference.name }}.{% if site.conference.contact %} Contact: <a href="mailto:{{site.conference.contact}}" target="_top">{{site.conference.contact}}</a>{% endif %}</span>
+  <div class="social-icons pull-right">
+    {% if site.conference.twitter %}<a href="https://twitter.com/{{ site.conference.twitter }}" title="{{ site.conference.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+    {% if site.conference.facebook %}<a href="https://www.facebook.com/{{ site.conference.facebook }}" title="{{ site.conference.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
+    {% if site.conference.github %}<a href="https://github.com/{{ site.conference.github }}" title="{{ site.conference.name}} on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
+  </div>
+</div>

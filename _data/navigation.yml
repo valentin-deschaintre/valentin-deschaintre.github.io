@@ -1,0 +1,25 @@
+# Site navigation links
+
+# - title: Call for Submissions
+#   url: /submissions/
+
+# - title: Submission Instructions
+#   url: /instructions/
+
+#- title: Program
+#  url: /program/
+
+#- title: Registration
+#  url: /registration/
+
+# - title: Venue
+#   url: /venue/
+
+- title: Committees
+  url: /committees/
+
+# - title: Previous Editions
+#   url: /../previous/
+
+- title: News
+  url: /news/
