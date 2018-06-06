@@ -98,8 +98,8 @@ img#venue {
   margin: 0;
 }
 
-footer #sponsors img {
-  width: 33%;
+footer #sponsors .col-xs-12 img {
+  width: 25%;
   float: left;
   padding: 0em 1em;
   margin: 0;
