@@ -4,7 +4,7 @@ timezone: London/Europe
 baseurl: '/2018' # the subpath to the year of conference
 # baseurl: '/' # the subpath to the year of conference
 # url: 'http://cvmp.richardt.name' # the base hostname & protocol for your site
-url: 'http://www.cvmp-conference.org' # the base hostname & protocol for your site
+url: 'https://www.cvmp-conference.org' # the base hostname & protocol for your site
 # url: 'http://localhost:4000' # local development
 
 title: 'CVMP 2018'
