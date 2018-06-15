@@ -21,14 +21,29 @@ Authors should upload a PDF file of no more than 20 MB containing their paper fo
 Full formatting instructions and LaTeX templates are available here:\\
 <https://www.siggraph.org/learn/instructions-authors>
 
-You should use the “**sigconf**” template style.
+To set up the LaTeX template for anonymous submission, assign the “**sigconf**” style in the document class as follows:
+
+```
+\documentclass[sigconf,review,anonymous]{acmart}
+```
+
+Additionally, please set the conference details in the template as follows:
+
+```
+%Conference
+\acmConference[CVMP 2018]{the 15th ACM SIGGRAPH European Conference
+Visual Media Production}{Dec.\ 13--14}{London, UK}
+\acmYear{2018}
+\copyrightyear{2018}
+\setcopyright{none}
+```
 
 Full papers should be of no more than 10 pages.
 
 
 ### Instructions for authors of short papers and demos
 
-Authors of accepted short papers should prepare their one page paper using LaTeX style files available to download here:
+Authors of accepted short papers should prepare their **one-page paper** using the LaTeX style files available to download here:
 
 [CVMP Short Paper and Demos LaTeX template (1.1 MB)]({{ site.baseurl }}/files/latex_CVMP_short_2018.zip)
 
