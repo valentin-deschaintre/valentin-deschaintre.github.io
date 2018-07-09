@@ -92,34 +92,25 @@ year: 2018
 <div class="col-12 col-sm-12 col-lg-12">
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<h4 class="panel-title">Programme Committee (<em>to be confirmed</em>)</h4>
+			<h4 class="panel-title">Programme Committee</h4>
 		</div>
 		<div class="panel-body">
 			<div class="col-4 col-sm-4 col-lg-4">
-				<h4>Thabo Beeler<br><small>Disney Research Zurich, CH</small></h4>
-				<h4>Celine Loscos<br><small>URCA, FR</small></h4>
-				<h4>Dan Casas<br><small>URJC, ES</small></h4>
-				<h4>Peter Eisert<br><small>Fraunhofer HHI, DE</small></h4>
-				<h4>Graham Fyffe<br><small>Google VR, US</small></h4>
-				<h4>Mashhuda Glencross<br><small>Yulio, UK</small></h4>
-				<h4>Jean-Yves Guillemaut<br><small>University of Surrey, UK</small></h4>
+				<h4>Dan Casas<br><small>URJC</small></h4>
+				<h4>Erik Reinhard<br><small>Technicolor</small></h4>
+				<h4>Jean-Yves Guillemaut<br><small>University of Surrey</small></h4>
+				<h4>Jeremy Riviere<br><small>Disney Research</small></h4>
 			</div>
 			<div class="col-4 col-sm-4 col-lg-4">
-				<h4>Oliver James<br><small>Double Negative, UK</small></h4>
-				<h4>Andrew Jones<br><small>USC-ICT, US</small></h4>
-				<h4>Taku Komura<br><small>University of Edinburgh, UK</small></h4>
-				<h4>Jean-François Lalonde<br><small>Laval University, CA</small></h4>
-				<h4>Wan-Chun (Alex) Ma<br><small>Activision, US</small></h4>
-				<h4>Rafal Mantiuk<br><small>University of Cambridge, UK</small></h4>
+				<h4>Mashhuda Glencross<br><small>Pismo Software</small></h4>
+				<h4>Peter Eisert<br><small>Fraunhofer Heinrich Hertz Institute</small></h4>
+				<h4>Rafal Mantiuk<br><small>University of Cambridge</small></h4>
 			</div>
 			<div class="col-4 col-sm-4 col-lg-4">
-				<h4>Matthias Nießner<br><small>TU Munich, DE</small></h4>
-				<h4>Erik Reinhard<br><small>Technicolor, FR</small></h4>
-				<h4>Taehyun Rhee<br><small>Victoria University of Wellington, NZ</small></h4>
-				<h4>Tobias Ritschel<br><small>University College London, UK</small></h4>
-				<h4>Jon Starck<br><small>Synthesia Technologies, UK</small></h4>
-				<h4>Zhidong Xiao<br><small>Bournemouth University, UK</small></h4>
-			</div>	
+				<h4>Taku Komura<br><small>University of Edinburgh</small></h4>
+				<h4>Tobias Ritschel<br><small>University College London</small></h4>
+				<h4>Zhidong Xiao<br><small>Bournemouth University</small></h4>
+			</div>
 		</div>
 	</div>
 </div>
