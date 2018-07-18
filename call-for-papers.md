@@ -11,7 +11,7 @@ For over a decade, CVMP has built a reputation as the prime venue for researcher
 
 {::options parse_block_html="true" /}
 
-<div class="panel panel-warning">
+<div class="panel panel-info">
 #### Important dates
 {: .panel-heading}
 <div class="panel-body">
@@ -26,6 +26,25 @@ For over a decade, CVMP has built a reputation as the prime venue for researcher
 | __Demos deadline:__ | 28 September 2018 |
 
 *All deadlines are 23:59 Pacific Time.*
+
+</div>
+</div>
+
+{::options parse_block_html="false" /}
+
+{::options parse_block_html="true" /}
+
+<div class="panel panel-success">
+#### New in 2018: ACM Europe Council Best Paper Award
+{: .panel-heading}
+<div class="panel-body">
+
+The __CVMP 2018 Best Paper Award__ will be sponsored by [ACM Europe Council](http://europe.acm.org/).
+It will be awarded to the best full paper submission, as judged by the conference organisers.
+Each of the winners will receive a plaque.
+In addition, there will be a 1000 Euro honorarium to be split among the winners.
+
+For further information about the award and its selection criteria, please see the [ACM Europe Council Best Paper Award website](http://europe.acm.org/best-paper-awards-conferences.html).
 
 </div>
 </div>
