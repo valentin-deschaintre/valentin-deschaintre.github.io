@@ -10,6 +10,22 @@ We are pleased to announce the following keynote speakers for CVMP 2018:
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1">
 
+#### Wolfgang Lempp, FilmLight:<br>Technology of Visual Storytelling <small>*(title to be confirmed)*</small>
+
+*Wolfgang Lempp has been involved in motion picture technology for over 30 years. With a background in Physics, he started as an electronic design engineer in animatronics, and moved on to develop motion control systems. He was instrumental in the pioneering efforts of the Computer Film Company, developing one of the first digital film compositing systems, creating numerous image processing tools, including the original Keylight algorithm. In 2002, he founded FilmLight, together with his engineering colleagues from CFC. The Northlight film scanner, the Truelight colour management tools and the Baselight grading system were the basis of FilmLight’s widely recognised success, and the combination of film heritage, colour science and creative toolset are still driving innovation at FilmLight today. Wolfgang has received a number of industry awards, including an AMPAS Sci-Tech award and, more recently, the Herbert T. Kalmus Medal Award.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="/2018/img/wolfgang-lempp.jpg" class="img-responsive img-thumbnail" alt="Wolfgang Lempp" title="Wolfgang Lempp">
+</figure>
+
+</div>
+
+
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1">
+
 #### Rafał Mantiuk, University of Cambridge:<br>How many pixels are too many? <small>*(title to be confirmed)*</small>
 
 *Rafał K. Mantiuk is a senior lecturer at the Computer Laboratory, University of Cambridge (UK). He received PhD from the Max-Planck-Institute for Computer Science (Germany). His recent interests focus on computational displays, novel display technologies, rendering and imaging algorithms that adapt to human visual performance and viewing conditions in order to deliver the best images given limited resources, such as computation time, bandwidth or dynamic range. He contributed to early work on high dynamic range imaging, including quality metrics (HDR-VDP), video compression and tone-mapping. More on his research can be found at: <http://www.cl.cam.ac.uk/~rkm38/>.*
@@ -57,6 +73,3 @@ In this talk, I will cover our latest research on 3D reconstruction and semantic
 </figure>
 
 </div>
-
-
-#### *Additional keynote speakers to be announced.*
