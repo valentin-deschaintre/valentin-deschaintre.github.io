@@ -17,7 +17,7 @@ For over a decade, CVMP has built a reputation as the prime venue for researcher
 <div class="panel-body">
 
 | ~~__Full Papers deadline:__~~ | ~~20 July 2018~~ |
-| __Full Papers deadline (extended):__ | 3 August 2018 |
+| __Full Papers deadline (extended<sup>2</sup>):__ | 17 August 2018 |
 | __Full Papers notification:__ | 3 September 2018 |
 | __Full Papers camera-ready due:__ | 28 September 2018 |
 |||
