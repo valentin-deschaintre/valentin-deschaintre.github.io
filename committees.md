@@ -96,20 +96,42 @@ year: 2018
 		</div>
 		<div class="panel-body">
 			<div class="col-4 col-sm-4 col-lg-4">
-				<h4>Dan Casas<br><small>URJC</small></h4>
-				<h4>Erik Reinhard<br><small>Technicolor</small></h4>
-				<h4>Jean-Yves Guillemaut<br><small>University of Surrey</small></h4>
+				<h4>Dan Casas<br><small>URJC, Spain</small></h4>
+				<h4>Peter Eisert<br><small>Fraunhofer HHI, Germany</small></h4>
+				<h4>Mashhuda Glencross<br><small>Pismo Software, UK</small></h4>
+				<h4>Jean-Yves Guillemaut<br><small>University of Surrey, UK</small></h4>
+			</div>
+			<div class="col-4 col-sm-4 col-lg-4">
+				<h4>Taku Komura<br><small>University of Edinburgh, UK</small></h4>
+				<h4>Rafal Mantiuk<br><small>University of Cambridge, UK</small></h4>
+				<h4>Erik Reinhard<br><small>Technicolor, France</small></h4>
+			</div>
+			<div class="col-4 col-sm-4 col-lg-4">
+				<h4>Tobias Ritschel<br><small>University College London, UK</small></h4>
 				<h4>Jeremy Riviere<br><small>Disney Research</small></h4>
+				<h4>Zhidong Xiao<br><small>Bournemouth University, UK</small></h4>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="col-12 col-sm-12 col-lg-12">
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h4 class="panel-title">Steering Committee</h4>
+		</div>
+		<div class="panel-body">
+			<div class="col-4 col-sm-4 col-lg-4">
+				<h4>Jeff Clifford<br><small>Wavecrest, UK</small></h4>
+				<h4>John Collomosse<br><small>University of Surrey, UK</small></h4>
 			</div>
 			<div class="col-4 col-sm-4 col-lg-4">
-				<h4>Mashhuda Glencross<br><small>Pismo Software</small></h4>
-				<h4>Peter Eisert<br><small>Fraunhofer Heinrich Hertz Institute</small></h4>
-				<h4>Rafal Mantiuk<br><small>University of Cambridge</small></h4>
+				<h4>Oliver Grau<br><small>Intel, Germany</small></h4>
+				<h4>Peter Hall<br><small>University of Bath, UK</small></h4>
 			</div>
 			<div class="col-4 col-sm-4 col-lg-4">
-				<h4>Taku Komura<br><small>University of Edinburgh</small></h4>
-				<h4>Tobias Ritschel<br><small>University College London</small></h4>
-				<h4>Zhidong Xiao<br><small>Bournemouth University</small></h4>
+				<h4>Volker Helzle<br><small>Filmakademie, Germany</small></h4>
+				<h4>Anil Kokaram<br><small>Youtube/Google Inc., USA</small></h4>
 			</div>
 		</div>
 	</div>
