@@ -55,7 +55,7 @@ When registering for CVMP, you will also be asked to select your choice of menu 
 </div>
 
 <div class="panel panel-default">
-#### vegetarian menu
+#### Vegetarian menu
 {: .panel-heading}
 <div class="panel-body">
 - Spiced mulligatawny soup, sour cream, coriander (V)
