@@ -21,7 +21,7 @@ For over a decade, CVMP has built a reputation as the prime venue for researcher
 | __Full Papers notification:__ | ~~3 September 2018~~ 7 September 2018 |
 | __Full Papers camera-ready due:__ | ~~28 September 2018~~ 5 October 2018 |
 |||
-| __Industry Talks deadline:__ | 7 September 2018 |
+| __Industry Talks deadline:__ | ~~7 September 2018~~ 12 October 2018 |
 | __Short Papers deadline:__ | 28 September 2018 |
 | __Demos deadline:__ | 28 September 2018 |
 
