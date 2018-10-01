@@ -11,6 +11,8 @@ Ticket numbers are restricted, so make sure to reserve your place early!
 
 Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the conference dinner on Thursday, 13 December 2018 (except one-day tickets).
 
+**Please note:** The CVMP 2018 Conference Dinner is included only for registrations _before 3 December 2018_.
+
 The **[registration website](https://store.bath.ac.uk/conferences-and-events/conferencescoursesevents/faculty-of-science/dept-of-computer-science/cvmp-2018)** is now open.
 
 <!-- Please note that registration for the meal is full. It is now no longer possible to change/ edit your menu choices. Please contact the restaurant direct on the evening with any issues. -->
