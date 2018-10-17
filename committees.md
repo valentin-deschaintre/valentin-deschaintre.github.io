@@ -57,8 +57,8 @@ year: 2018
 			<h4 class="panel-title">Conference Secretaries</h4>
 		</div>
 		<div class="panel-body">
+			<h4><a href="mailto:A.Numphud@bath.ac.uk">Anna Numphud</a> (lead)<br><small>University of Bath, UK</small></h4>
 			<h4>Matthew Young<br><small>University of Bath, UK</small></h4>
-			<h4>Anna Numphud<br><small>University of Bath, UK</small></h4>
 		</div>
 	</div>
 </div>
