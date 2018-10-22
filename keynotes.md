@@ -55,7 +55,7 @@ In this talk, I will cover our latest research on 3D reconstruction and semantic
 </div>
 
 
-<div class="row">
+<!-- <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1">
 
 #### Sebastian Sylwan, Felix & Paul Studios <small>*(title to be confirmed)*</small>
@@ -72,4 +72,4 @@ In this talk, I will cover our latest research on 3D reconstruction and semantic
   <img src="/2018/img/sebastian-sylwan.jpg" class="img-responsive img-thumbnail" alt="Sebastian Sylwan" title="Sebastian Sylwan">
 </figure>
 
-</div>
+</div> -->
