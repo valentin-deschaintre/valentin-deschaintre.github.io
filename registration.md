@@ -19,8 +19,8 @@ The **[registration website](https://store.bath.ac.uk/conferences-and-events/con
 
 ### Available tickets
 
-- **Early-bird ticket – £365**  
-Full conference ticket, including conference dinner (limited availability)
+<!-- - **Early-bird ticket – £365**  
+Full conference ticket, including conference dinner (limited availability) -->
 
 - **Full delegate ticket – £400**  
 Full conference ticket, including conference dinner
