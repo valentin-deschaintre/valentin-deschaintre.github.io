@@ -7,6 +7,7 @@ year: 2018
 We are pleased to announce the following keynote speakers for CVMP 2018:
 
 
+<a name="WL" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1">
 
@@ -23,6 +24,7 @@ We are pleased to announce the following keynote speakers for CVMP 2018:
 </div>
 
 
+<a name="RM" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1">
 
@@ -39,6 +41,7 @@ We are pleased to announce the following keynote speakers for CVMP 2018:
 </div>
 
 
+<a name="MN" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1">
 

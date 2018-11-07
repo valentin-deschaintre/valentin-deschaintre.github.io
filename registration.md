@@ -38,6 +38,7 @@ Conference dinner only at BFI Kitchen and Bar on Thursday, 13 December 2018
 <!-- Please email contact@cvmp-conference.org for group booking & discounts. -->
 
 
+<a name="dinner"></a>
 ### Dinner menu
 
 The CVMP 2018 Conference Dinner will be held on Thursday, 13 December 2018, at [BFI Bar & Kitchen (Benugo)](https://www.benugo.com/restaurants/bfi-bar-kitchen) at the BFI Southbank.

@@ -3,20 +3,20 @@
 - title: About
   url: /about/
 
-- title: Call for Papers
-  url: /call-for-papers/
-
 # - title: Submission Instructions
   # url: /submission-instructions/
+
+- title: Programme
+  url: /programme/
+
+- title: Keynotes
+  url: /keynotes/
 
 - title: Registration
   url: /registration/
 
-#- title: Program
-#  url: /program/
-
-- title: Keynotes
-  url: /keynotes/
+- title: Call for Papers
+  url: /call-for-papers/
 
 # - title: Venue
 #   url: /venue/
