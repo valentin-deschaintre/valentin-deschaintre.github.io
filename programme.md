@@ -173,7 +173,7 @@ How many pixels are too many?</b></a><br/>Rafał Mantiuk, <i>University of Cambr
 				<td><b>Industry Talks Session 2</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
 					<ul>
 						<li>Genesis: A Virtual Production Platform<br/><i>(MPC)</i></li>
-						<li>I was a First-Time Filmmaker! Or: How we Learned to Stop Worrying and Make Our (Independent) Movie</li>
+						<li>I was a First-Time Filmmaker! Or: How we Learned to Stop Worrying and Make Our (Independent) Movie<br><i>(Blood & Tweed)</i></li>
 					</ul>
 				</td>
 			</tr>
