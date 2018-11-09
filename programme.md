@@ -56,7 +56,7 @@ Please find the complete list of accepted submissions **[here](/2018/accepted/in
 				<td><b>Coffee Break</b></td>
 			</tr>
 			<tr>
-				<td>11:30</td><td><a href="/2018/keynotes/#WL"><b>Keynote: Technology of Visual Storytelling</b></a><br/>Wolfgang Lempp, <i>FilmLight</i></td>
+				<td>11:30</td><td><a href="/2018/keynotes/#WL"><b>Keynote: Technology of Visual Storytelling</b></a> <i>(tbc)</i><br/>Wolfgang Lempp, <i>FilmLight</i></td>
 			</tr>
 			<tr>
 				<td>12:30</td>
@@ -66,10 +66,10 @@ Please find the complete list of accepted submissions **[here](/2018/accepted/in
 				<td>13:45</td>
 				<td><b>Industry Talks Session 1</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
 					<ul>
-						<li>Recolouring Deep Images<br/><i>(MPC)</i></li>
-						<li>InnovateUK HARPC</li>
-						<li>Deformable Objects for Virtual Environments</li>
-						<li>Modern Rigging Paradigms to Improve Performance and Modularity<br/><i>(DNEG)</i></li>
+						<li>Recolouring Deep Images<br/><i>Rob Pieké (MPC)</i></li>
+						<li>InnovateUK HARPC: high-quality facial capture unencumbered by head mounted cameras<br/><i>Jon Starck (Synthesia)</i></li>
+						<li>Deformable Objects for Virtual Environments<br/><i>Martin Jowers and Eleanor Whitley (Marshmallow Laser Feast)</i></li>
+						<li>Modern Rigging Paradigms to Improve Performance and Modularity<br/><i>Chus Nieto, Charlie Banks and Ryan Chan (DNEG)</i></li>
 					</ul>
 				</td>
 			</tr>
@@ -78,7 +78,7 @@ Please find the complete list of accepted submissions **[here](/2018/accepted/in
 				<td><b>Coffee Break</b></td>
 			</tr>
 			<tr>
-				<td>15:50</td><td><a href="/2018/keynotes/#MN"><b>Keynote: 3D Reconstruction and Understanding of the Real World</b></a><br/>Matthias Nießner, <i>Technical University of Munich</i></td>
+				<td>15:50</td><td><a href="/2018/keynotes/#MN"><b>Keynote: 3D Reconstruction and Understanding of the Real World</b></a> <i>(tbc)</i><br/>Matthias Nießner, <i>Technical University of Munich</i></td>
 			</tr>
 			<tr>
 				<td>16:50</td>
@@ -135,8 +135,8 @@ Please find the complete list of accepted submissions **[here](/2018/accepted/in
 				<td><b>Coffee Break</b></td>
 			</tr>
 			<tr>
-				<td>10:40</td><td><!--<a href="/2018/keynotes/#JPL">--><b>Keynote:
-To be confirmed</b><!--</a>--><br/>J. P. Lewis, <i>SEED and Victoria University</i></td>
+				<td>10:40</td><td><a href="/2018/keynotes/#JPL"><b>Keynote:
+The Promise, and Problems, of Deep Learning for Character (and other Content) Creation</b></a> <i>(tbc)</i><br/>J.P. Lewis, <i>SEED, Electronic Arts</i></td>
 			</tr>
 			<tr>
 				<td>11:40</td>
@@ -161,8 +161,9 @@ To be confirmed</b><!--</a>--><br/>J. P. Lewis, <i>SEED and Victoria University<
 				</td>
 			</tr>
 			<tr>
-				<td>14:35</td><td><a href="/2018/keynotes/#RM"><b>Keynote:
-How many pixels are too many?</b></a><br/>Rafał Mantiuk, <i>University of Cambridge</i></td>
+				<td>14:35</td>
+				<td><a href="/2018/keynotes/#RM"><b>Keynote:
+How many pixels are too many?</b></a> <i>(tbc)</i><br/>Rafał Mantiuk, <i>University of Cambridge</i></td>
 			</tr>
 			<tr>
 				<td>15:35</td>
@@ -172,8 +173,8 @@ How many pixels are too many?</b></a><br/>Rafał Mantiuk, <i>University of Cambr
 				<td>16:00</td>
 				<td><b>Industry Talks Session 2</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
 					<ul>
-						<li>Genesis: A Virtual Production Platform<br/><i>(MPC)</i></li>
-						<li>I was a First-Time Filmmaker! Or: How we Learned to Stop Worrying and Make Our (Independent) Movie<br><i>(Blood & Tweed)</i></li>
+						<li>Genesis: A Virtual Production Platform<br/><i>Callum James (MPC)</i></li>
+						<li>I was a First-Time Filmmaker! Or: How we Learned to Stop Worrying and Make Our (Independent) Movie<br><i>Luke Kaile and Samuel Gridley (Blood &amp; Tweed)</i></li>
 					</ul>
 				</td>
 			</tr>
