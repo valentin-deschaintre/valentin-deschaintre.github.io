@@ -24,6 +24,23 @@ We are pleased to announce the following keynote speakers for CVMP 2018:
 </div>
 
 
+<a name="JPL" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1">
+
+#### J.P. Lewis, SEED, Electronic Arts<br>The Promise, and Problems, of Deep Learning for Character (and other Content) Creation <small>*(title to be confirmed)*</small>
+
+*J.P. Lewis is a numerical programmer and researcher. Lewis is Principal Research Scientist at SEED, the new research lab of Electronic Arts, and is an adjunct Associate Professor in the machine learning group of Victoria University. His interests include computer vision and machine learning applications in entertainment. He has received credits on a few movies including Avatar and The Matrix Sequels, and several of his algorithms have been adopted in commercial software including Maya and Matlab.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="/2018/img/jp-lewis.jpg" class="img-responsive img-thumbnail" alt="J.P. Lewis" title="J.P. Lewis">
+</figure>
+
+</div>
+
+
 <a name="RM" />
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1">
