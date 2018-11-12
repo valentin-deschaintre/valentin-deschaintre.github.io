@@ -4,11 +4,7 @@ title: Conference Programme
 year: 2018
 ---
 
-<!-- **The proceedings of the Symposium can now be acquired [from here](https://dl.acm.org/citation.cfm?id=3229147)**.
-
-Please find the complete list of accepted submissions **[here](/2018/accepted/index.html)**. -->
-
-*This programme is preliminary and subject to change.*
+*Please note: This conference programme is preliminary and subject to change.*
 
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="Thursday"></a>
@@ -25,7 +21,7 @@ Please find the complete list of accepted submissions **[here](/2018/accepted/in
 			</tr>
 			<tr>
 				<td>09:45</td>
-				<td><b>Industry Sponsors Talk: Procedural Mesostructure Synthesis for Digital Materials</b><br/><i>Allegorithmic</i></td>
+				<td><b>Industry Sponsors Talk: Procedural Mesostructure Synthesis for Digital Materials</b><br/><i>Tamy Boubekeur and Sébastien Deguy (Allegorithmic)</i></td>
 			</tr>
 			<tr>
 				<td>10:10</td>
@@ -64,9 +60,8 @@ Please find the complete list of accepted submissions **[here](/2018/accepted/in
 			</tr>
 			<tr>
 				<td>13:45</td>
-				<td><b>Industry Talks Session 1</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
+				<td><b>Industry Talks</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
 					<ul>
-						<li>Recolouring Deep Images<br/><i>Rob Pieké (MPC)</i></li>
 						<li>InnovateUK HARPC: high-quality facial capture unencumbered by head mounted cameras<br/><i>Jon Starck (Synthesia)</i></li>
 						<li>Deformable Objects for Virtual Environments<br/><i>Martin Jowers and Eleanor Whitley (Marshmallow Laser Feast)</i></li>
 						<li>Modern Rigging Paradigms to Improve Performance and Modularity<br/><i>Chus Nieto, Charlie Banks and Ryan Chan (DNEG)</i></li>
@@ -142,8 +137,8 @@ The Promise, and Problems, of Deep Learning for Character (and other Content) Cr
 				<td>11:40</td>
 				<td><b>Industry Sponsors Session</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
 					<ul>
-						<li>What's new in Arnold?<br/><i>(Autodesk)</i></li>
-						<li>Corona Renderer and Architectural Visualization<br/><i>(Render Legion)</i></li>
+						<li>What's new in Arnold?<br/><i>Frédéric Servant (Autodesk)</i></li>
+						<li>Corona Renderer and Architectural Visualization<br/><i>Jaroslav Křivánek (Render Legion)</i></li>
 					</ul>
 				</td>
 			</tr>
@@ -171,11 +166,8 @@ How many pixels are too many?</b></a> <i>(tbc)</i><br/>Rafał Mantiuk, <i>Univer
 			</tr>
 			<tr>
 				<td>16:00</td>
-				<td><b>Industry Talks Session 2</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
-					<ul>
-						<li>Genesis: A Virtual Production Platform<br/><i>Callum James (MPC)</i></li>
-						<li>I was a First-Time Filmmaker! Or: How we Learned to Stop Worrying and Make Our (Independent) Movie<br><i>Luke Kaile and Samuel Gridley (Blood &amp; Tweed)</i></li>
-					</ul>
+				<td><b>Production Talk</b><br/>
+					I was a First-Time Filmmaker! Or: How we Learned to Stop Worrying and Make Our (Independent) Movie<br><i>Luke Kaile and Samuel Gridley (Blood &amp; Tweed Films)</i>
 				</td>
 			</tr>
 			<tr>
