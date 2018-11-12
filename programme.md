@@ -4,7 +4,7 @@ title: Conference Programme
 year: 2018
 ---
 
-*Please note: This conference programme is preliminary and may change.*
+<!-- *Please note: This conference programme is preliminary and may change.* -->
 
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="Thursday"></a>
@@ -52,7 +52,7 @@ year: 2018
 				<td><b>Coffee Break</b></td>
 			</tr>
 			<tr>
-				<td>11:30</td><td><a href="/2018/keynotes/#WL"><b>Keynote: Technology of Visual Storytelling</b></a> <i>(tbc)</i><br/>Wolfgang Lempp, <i>FilmLight</i></td>
+				<td>11:30</td><td><a href="/2018/keynotes/#WL"><b>Keynote: Technology of Visual Storytelling</b></a><br/>Wolfgang Lempp, <i>FilmLight</i></td>
 			</tr>
 			<tr>
 				<td>12:30</td>
@@ -73,7 +73,7 @@ year: 2018
 				<td><b>Coffee Break</b></td>
 			</tr>
 			<tr>
-				<td>15:50</td><td><a href="/2018/keynotes/#MN"><b>Keynote: 3D Reconstruction and Understanding of the Real World</b></a> <i>(tbc)</i><br/>Matthias Nießner, <i>Technical University of Munich</i></td>
+				<td>15:50</td><td><a href="/2018/keynotes/#MN"><b>Keynote: 3D Reconstruction and Understanding of the Real World</b></a><br/>Matthias Nießner, <i>Technical University of Munich</i></td>
 			</tr>
 			<tr>
 				<td>16:50</td>
@@ -131,7 +131,7 @@ year: 2018
 			</tr>
 			<tr>
 				<td>10:40</td><td><a href="/2018/keynotes/#JPL"><b>Keynote:
-The Promise, and Problems, of Deep Learning for Character (and other Content) Creation</b></a> <i>(tbc)</i><br/>J.P. Lewis, <i>SEED, Electronic Arts</i></td>
+The Promise, and Problems, of Deep Learning for Character (and other Content) Creation</b></a><br/>J.P. Lewis, <i>SEED, Electronic Arts</i></td>
 			</tr>
 			<tr>
 				<td>11:40</td>
@@ -158,7 +158,7 @@ The Promise, and Problems, of Deep Learning for Character (and other Content) Cr
 			<tr>
 				<td>14:35</td>
 				<td><a href="/2018/keynotes/#RM"><b>Keynote:
-How many pixels are too many?</b></a> <i>(tbc)</i><br/>Rafał Mantiuk, <i>University of Cambridge</i></td>
+How many pixels are too many?</b></a><br/>Rafał Mantiuk, <i>University of Cambridge</i></td>
 			</tr>
 			<tr>
 				<td>15:35</td>
