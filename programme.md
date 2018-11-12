@@ -4,7 +4,7 @@ title: Conference Programme
 year: 2018
 ---
 
-*Please note: This conference programme is preliminary and subject to change.*
+*Please note: This conference programme is preliminary and may change.*
 
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="Thursday"></a>
