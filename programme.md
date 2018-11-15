@@ -21,7 +21,7 @@ year: 2018
 			</tr>
 			<tr>
 				<td>09:45</td>
-				<td><b>Industry Sponsors Talk: Procedural Mesostructure Synthesis for Digital Materials</b><br/><i>Tamy Boubekeur and Sébastien Deguy (Allegorithmic)</i></td>
+				<td><b>Industry Sponsors Talk:</b><br/><a href="/2018/industry-talks/#Allegorithmic">Procedural Mesostructure Synthesis for Digital Materials</a><br/><i>Tamy Boubekeur and Sébastien Deguy (Allegorithmic)</i></td>
 			</tr>
 			<tr>
 				<td>10:10</td>
@@ -62,9 +62,9 @@ year: 2018
 				<td>13:45</td>
 				<td><b>Industry Talks</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
 					<ul>
-						<li>InnovateUK HARPC: high-quality facial capture unencumbered by head mounted cameras<br/><i>Jon Starck (Synthesia)</i></li>
-						<li>Deformable Objects for Virtual Environments<br/><i>Martin Jowers and Eleanor Whitley (Marshmallow Laser Feast)</i></li>
-						<li>Modern Rigging Paradigms to Improve Performance and Modularity<br/><i>Chus Nieto, Charlie Banks and Ryan Chan (DNEG)</i></li>
+						<li><a href="/2018/industry-talks/#Synthesia">InnovateUK HARPC: high-quality facial capture unencumbered by head mounted cameras</a><br/><i>Jon Starck (Synthesia)</i></li>
+						<li><a href="/2018/industry-talks/#MLF">Deformable Objects for Virtual Environments</a><br/><i>Martin Jowers and Eleanor Whitley (Marshmallow Laser Feast)</i></li>
+						<li><a href="/2018/industry-talks/#DNEG">Modern Rigging Paradigms to Improve Performance and Modularity</a><br/><i>Chus Nieto, Charlie Banks and Ryan Chan (DNEG)</i></li>
 					</ul>
 				</td>
 			</tr>
