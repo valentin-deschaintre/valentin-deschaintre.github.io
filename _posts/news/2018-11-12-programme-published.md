@@ -17,7 +17,11 @@ We have an exciting [programme]({{site.baseurl}}/programme/) planned that includ
 * 15 short papers and demos
 * 8 full papers
 * 6 industry talks and coffee breaks
-* [4 keynotes]({{site.baseurl}}/keynotes/) (two academic and two from industry)
+* [4 keynotes]({{site.baseurl}}/keynotes/) (two academic and two from industry):
+  * [Wolfgang Lempp: Technology of Visual Storytelling]({{site.baseurl}}/keynotes/#WL)
+  * [J.P. Lewis: The Promise, and Problems, of Deep Learning for Character (and other Content) Creation]({{site.baseurl}}/keynotes/#JPL)
+  * [Rafał Mantiuk: How many pixels are too many?]({{site.baseurl}}/keynotes/#RM)
+  * [Matthias Nießner: 3D Reconstruction and Understanding of the Real World]({{site.baseurl}}/keynotes/#WL)
 * 2 full days of invigorating discussions
 * 1 production talk and conference dinner
 
