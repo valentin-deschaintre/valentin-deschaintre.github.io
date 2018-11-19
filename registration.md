@@ -33,9 +33,21 @@ One-day conference ticket, NOT including conference dinner
 (please book dinner ticket separately if interested)
 
 - **Dinner only – £40**  
-Conference dinner only at BFI Kitchen and Bar on Thursday, 13 December 2018
+Conference dinner only at BFI Kitchen and Bar on Thursday, 13 December 2018<a name="ZBrush"></a>
 
-<!-- Please email contact@cvmp-conference.org for group booking & discounts. -->
+- <span class="label label-success">New</span> **ZBrush workshop for postgraduate students – £55**
+
+   This is an industry-led workshop on [ZBrush](https://pixologic.com/features/).
+   It will offer an opportunity to work in teams, using ZBrush to create a character.
+   There will be a prize at the end for the winning team.
+   This is an _introductory workshop_, aimed at those with experience of coding and/or programming, but with no specific experience in ZBrush.
+
+   **Details:**  
+   Date: Wednesday, 12 December 2018, 10:00–17:00  
+   Location: Southbank University, London  
+   Price: £55 including lunch, welcome coffee and afternoon tea break  
+   Tablets will be provided, but you may prefer to bring your laptop as well.
+
 
 
 <a name="dinner"></a>
