@@ -11,7 +11,11 @@ Ticket numbers are restricted, so make sure to reserve your place early!
 
 Tickets gain you entry to all areas of the conference (keynotes, paper sessions, poster and demos), lunch, refreshments, and also to the conference dinner on Thursday, 13 December 2018 (except one-day tickets).
 
-**Please note:** The CVMP 2018 Conference Dinner is included only for registrations _before 3 December 2018_. No further dinner tickets will be available after 3 December 2018 17:00.
+<!-- **Please note:** The CVMP 2018 Conference Dinner is included only for registrations _before 3 December 2018_. No further dinner tickets will be available after 3 December 2018 17:00. -->
+
+<span class="label label-info">**Please note:**</span>
+**The CVMP 2018 Conference Dinner has sold out.**
+
 
 The **[registration website](https://store.bath.ac.uk/conferences-and-events/conferencescoursesevents/faculty-of-science/dept-of-computer-science/cvmp-2018)** is now open.
 
@@ -22,18 +26,18 @@ The **[registration website](https://store.bath.ac.uk/conferences-and-events/con
 <!-- - **Early-bird ticket – £365**  
 Full conference ticket, including conference dinner (limited availability) -->
 
-- **Full delegate ticket – £400**  
+<!-- - **Full delegate ticket – £400**  
 Full conference ticket, including conference dinner
 
 - **Student delegate ticket – £300**  
-Student conference ticket, including conference dinner
+Student conference ticket, including conference dinner -->
 
 - **Day delegate ticket – £190**  
 One-day conference ticket, NOT including conference dinner  
 (please book dinner ticket separately if interested)
 
-- **Dinner only – £40**  
-Conference dinner only at BFI Kitchen and Bar on Thursday, 13 December 2018<a name="ZBrush"></a>
+<!-- - **Dinner only – £40**  
+Conference dinner only at BFI Kitchen and Bar on Thursday, 13 December 2018<a name="ZBrush"></a> -->
 
 - <span class="label label-success">New</span> **ZBrush workshop for postgraduate students – £55**
 
