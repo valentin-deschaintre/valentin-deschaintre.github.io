@@ -63,7 +63,7 @@ year: 2018
 				<td><b>Industry Talks</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
 					<ul>
 						<li><a href="/2018/industry-talks/#Synthesia">InnovateUK HARPC: high-quality facial capture unencumbered by head mounted cameras</a><br/><i>Jon Starck (Synthesia)</i></li>
-						<li><a href="/2018/industry-talks/#MLF">Deformable Objects for Virtual Environments</a><br/><i>Martin Jowers and Eleanor Whitley (Marshmallow Laser Feast)</i></li>
+						<li><a href="/2018/industry-talks/#MLF">Deformable Objects for Virtual Environments</a><br/><i>Robin McNicholas (Marshmallow Laser Feast), Catherine Taylor and Murray Evans (CAMERA, University of Bath)</i></li>
 						<li><a href="/2018/industry-talks/#DNEG">Modern Rigging Paradigms to Improve Performance and Modularity</a><br/><i>Chus Nieto, Charlie Banks and Ryan Chan (DNEG)</i></li>
 					</ul>
 				</td>
@@ -167,7 +167,7 @@ How many pixels are too many?</b></a><br/>Rafał Mantiuk, <i>University of Cambr
 			<tr>
 				<td>16:00</td>
 				<td><b>Production Talk</b><br/>
-					I was a First-Time Filmmaker! Or: How we Learned to Stop Worrying and Make Our (Independent) Movie<br><i>Luke Kaile and Samuel Gridley (Blood &amp; Tweed Films)</i>
+					<a href="/2018/files/CriminalAudition-TalkAbstract.pdf">I was a First-Time Filmmaker! Or: How we Learned to Stop Worrying and Make Our (Independent) Movie</a><br><i>Luke Kaile and Samuel Gridley (Blood &amp; Tweed Films)</i>
 				</td>
 			</tr>
 			<tr>
