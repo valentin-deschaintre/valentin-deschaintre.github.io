@@ -174,6 +174,10 @@ How many pixels are too many?</b></a><br/>Rafał Mantiuk, <i>University of Cambr
 				<td>16:50</td>
 				<td><b>Prizes, Announcements and Close</b></td>
 			</tr>
+			<tr>
+				<td>17:00</td>
+				<td><b>CVMP Closing Drinks Reception</b><br>hosted by the CDE in the Blue Room</td>
+			</tr>
 		</table>
 	</div>
 </div>
