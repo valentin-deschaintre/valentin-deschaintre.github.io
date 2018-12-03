@@ -16,15 +16,15 @@ year: 2018
 				<td><b>Registration opens with Coffee and Posters</b></td>
 			</tr>
 			<tr>
-				<td>09:40</td>
+				<td>09:25</td>
 				<td><b>Opening Remarks</b><br/>Abhijeet Ghosh (Conference Chair), <i>Imperial College London</i></td>
 			</tr>
 			<tr>
-				<td>09:45</td>
+				<td>09:30</td>
 				<td><b>Industry Sponsors Talk:</b><br/><a href="/2018/industry-talks/#Allegorithmic">Procedural Mesostructure Synthesis for Digital Materials</a><br/><i>Tamy Boubekeur and Sébastien Deguy (Allegorithmic)</i></td>
 			</tr>
 			<tr>
-				<td>10:10</td>
+				<td>09:55</td>
 				<td><b>Paper Session 1: 3D</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
 					<ul>
 						<li>Lie Bodies Based 3D Shape Morphing and Interpolation<br/><i>Sumukh Bansal and Aditya Tatu</i></li>
@@ -33,7 +33,7 @@ year: 2018
 				</td>
 			</tr>
 			<tr>
-				<td>11:00</td>
+				<td>10:45</td>
 				<td><b>Spotlight Session 1</b><br/>
 					<ul>
 						<li>Artistic Style Transfer to Light Fields<br/><i>Andrew Gibb and Florian Schweiger</i></li>
@@ -48,18 +48,18 @@ year: 2018
 				</td>
 			</tr>
 			<tr>
-				<td>11:05</td>
+				<td>10:50</td>
 				<td><b>Coffee Break</b></td>
 			</tr>
 			<tr>
-				<td>11:30</td><td><a href="/2018/keynotes/#WL"><b>Keynote: Technology of Visual Storytelling</b></a><br/>Wolfgang Lempp, <i>FilmLight</i></td>
+				<td>11:15</td><td><a href="/2018/keynotes/#WL"><b>Keynote: Technology of Visual Storytelling</b></a><br/>Wolfgang Lempp, <i>FilmLight</i></td>
 			</tr>
 			<tr>
-				<td>12:30</td>
+				<td>12:15</td>
 				<td><b>Lunch, Demos and Short Papers</b></td>
 			</tr>
 			<tr>
-				<td>13:45</td>
+				<td>13:30</td>
 				<td><b>Industry Talks</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
 					<ul>
 						<li><a href="/2018/industry-talks/#Synthesia">InnovateUK HARPC: high-quality facial capture unencumbered by head mounted cameras</a><br/><i>Jon Starck (Synthesia)</i></li>
@@ -69,14 +69,14 @@ year: 2018
 				</td>
 			</tr>
 			<tr>
-				<td>15:25</td>
+				<td>14:40</td>
 				<td><b>Coffee Break</b></td>
 			</tr>
 			<tr>
-				<td>15:50</td><td><a href="/2018/keynotes/#MN"><b>Keynote: 3D Reconstruction and Understanding of the Real World</b></a><br/>Matthias Nießner, <i>Technical University of Munich</i></td>
+				<td>15:05</td><td><a href="/2018/keynotes/#MN"><b>Keynote: 3D Reconstruction and Understanding of the Real World</b></a><br/>Matthias Nießner, <i>Technical University of Munich</i></td>
 			</tr>
 			<tr>
-				<td>16:50</td>
+				<td>16:05</td>
 				<td><b>Paper Session 2: Simulation</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
 					<ul>
 						<li>Director’s Cut – A Combined Dataset for Visual Attention Analysis in Cinematic VR Content<br/><i>Sebastian Knorr, Cagri Ozcinar, Colm O Fearghail and Aljosa Smolic</i></li>
@@ -85,7 +85,7 @@ year: 2018
 				</td>
 			</tr>
 			<tr>
-				<td>17:45</td>
+				<td>17:00</td>
 				<td><b>Networking Reception</b></td>
 			</tr>
 			<tr>
