@@ -12,12 +12,12 @@ year: 2018
 		<div class="panel-heading"><b>Thursday, 13 December 2018</b></div>
 		<table class="table table-striped">
 			<tr>
-				<td>09:00</td>
+				<td>08:45</td>
 				<td><b>Registration opens with Coffee and Posters</b></td>
 			</tr>
 			<tr>
 				<td>09:25</td>
-				<td><b>Opening Remarks</b><br/>Abhijeet Ghosh (Conference Chair), <i>Imperial College London</i></td>
+				<td><b>Chair’s Welcome</b><br/>Abhijeet Ghosh (Conference Chair), <i>Imperial College London</i></td>
 			</tr>
 			<tr>
 				<td>09:30</td>
@@ -69,14 +69,14 @@ year: 2018
 				</td>
 			</tr>
 			<tr>
-				<td>14:40</td>
+				<td>14:45</td>
 				<td><b>Coffee Break</b></td>
 			</tr>
 			<tr>
-				<td>15:05</td><td><a href="/2018/keynotes/#MN"><b>Keynote: 3D Reconstruction and Understanding of the Real World</b></a><br/>Matthias Nießner, <i>Technical University of Munich</i></td>
+				<td>15:10</td><td><a href="/2018/keynotes/#MN"><b>Keynote: 3D Reconstruction and Understanding of the Real World</b></a><br/>Matthias Nießner, <i>Technical University of Munich</i></td>
 			</tr>
 			<tr>
-				<td>16:05</td>
+				<td>16:10</td>
 				<td><b>Paper Session 2: Simulation</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
 					<ul>
 						<li>Director’s Cut – A Combined Dataset for Visual Attention Analysis in Cinematic VR Content<br/><i>Sebastian Knorr, Cagri Ozcinar, Colm O Fearghail and Aljosa Smolic</i></li>
@@ -89,7 +89,7 @@ year: 2018
 				<td><b>Networking Reception</b></td>
 			</tr>
 			<tr>
-				<td>19:00</td>
+				<td>18:30</td>
 				<td><a href="/2018/registration/#dinner"><b>Conference Dinner</b></a><br/>At <a href="https://www.benugo.com/restaurants/bfi-bar-kitchen">BFI Bar &amp; Kitchen (Benugo)</a></td>
 			</tr>
 		</table>
