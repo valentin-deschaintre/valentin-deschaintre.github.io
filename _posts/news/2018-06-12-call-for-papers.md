@@ -3,12 +3,8 @@ layout: news
 categories: news
 title: Call for Papers posted
 excerpt: CVMP 2018 Call for Papers is live
-# image:
-  # #feature: sample.jpg
-  # #credit: "Markus Spiske"
-  # #creditlink: "https://unsplash.com/photos/8OyKWQgBsKQ"
-  # card: 2018/expressiveCard.jpg
 sidebar: twitter
+year: 2018
 ---
 
 The [Call for Papers for CVMP 2018]({{site.baseurl}}/call-for-papers/) is now live.

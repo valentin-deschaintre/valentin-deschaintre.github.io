@@ -1,29 +1,51 @@
 <div class="panel panel-default" id="sponsors">
-  <h4 class="panel-heading">Sponsors</h4>
-  <div class="panel-body">
-    <div class="dense-gutter">
-      <a href="https://www.siggraph.org/"><img src="{{ site.baseurl }}/img/logo-acm-siggraph-wide.png" class="col-xs-12 img-responsive" alt="ACM SIGGRAPH logo" title="ACM SIGGRAPH"></a>  
-
-      <div class="col-xs-12 col-sm-6">
-        <a href="https://www.google.com/"><img src="{{ site.baseurl }}/img/logo-google-2x.png" class="img-responsive" alt="Google logo" title="Google / YouTube (Gold sponsor)"></a>
-        <a href="https://www.nvidia.com/"><img src="{{ site.baseurl }}/img/logo-nvidia-2x.png" class="img-responsive" alt="NVIDIA logo" title="NVIDIA (Gold sponsor)"></a>
-        <a href="https://www.allegorithmic.com/"><img src="{{ site.baseurl }}/img/logo-allegorithmic-2x.png" class="img-responsive" alt="Allegorithmic logo" title="Allegorithmic (Silver sponsor)"></a>
-        <a href="https://www.activision.com/"><img src="{{ site.baseurl }}/img/logo-activision-2x.png" class="img-responsive" alt="Activision logo" title="Activision (Bronze sponsor)"></a>
-        <a href="https://www.immerseuk.org/"><img src="{{ site.baseurl }}/img/logo-immerseuk-2x.png" class="img-responsive" alt="Immerse UK logo" title="Immerse UK (Academic sponsor)"></a>
-
-        <!-- <a href="https://www.camera.ac.uk/"><img src="{{ site.baseurl }}/img/logo-camera-2x.png" class="img-responsive" alt="Centre for the Analysis of Motion, Entertainment Research and Applications (CAMERA)"></a> -->
-      </div>
-
-      <div class="col-xs-12 col-sm-6">
-        <a href="https://www.foundry.com/"><img src="{{ site.baseurl }}/img/logo-foundry-2x.png" class="img-responsive" alt="Foundry logo" title="Foundry (Gold sponsor)"></a>
-        <a href="https://www.autodesk.com/"><img src="{{ site.baseurl }}/img/logo-autodesk-2x.png" class="img-responsive" alt="Autodesk logo" title="Autodesk / Solid Angle (Silver sponsor)"></a>
-        <a href="https://corona-renderer.com/"><img src="{{ site.baseurl }}/img/logo-corona-2x.png" class="img-responsive" alt="Corona Renderer logo" title="Render Legion (Bronze sponsor)"></a>
-        <a href="http://www.digital-entertainment.org/"><img src="{{ site.baseurl }}/img/logo-cde-2x.png" class="img-responsive" alt="CDE logo" title="CDE – Centre for Digital Entertainment (Academic sponsor)"></a>
-
-        <!-- <a href="https://www.disneyresearch.com/"><img src="{{ site.baseurl }}/img/logo-disneyresearch-2x.png" class="img-responsive" alt="Disney Research"></a> -->
-        <!-- <a href="http://www.bmva.org/"><img src="{{ site.baseurl }}/img/logo-bmva-2x.png" class="img-responsive" alt="The British Machine Vision Association and Society for Pattern Recognition (BMVA)"></a> -->        
-        <!-- <a href="https://www.sohonet.com/"><img src="{{ site.baseurl }}/img/logo-sohonet-2x.png" class="img-responsive" alt="sohonet"></a> -->
-      </div>
+    <h4 class="panel-heading">Sponsors</h4>
+    <div class="panel-body">
+        <div class="dense-gutter">
+            {% for sponsor in site.data.sponsors[page.year] %}
+                {% if sponsor.level contains 'conference' %}
+                    <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{site.baseurl}}{{sponsor.image}}" class="col-xs-12 img-responsive" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+                {% endif %}
+            {% endfor %}
+            <br/>
+            <div class="row-xs-12">
+                {% for sponsor in site.data.sponsors[page.year] %}
+                    {% if sponsor.level contains 'gold' %}
+                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{site.baseurl}}{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+                    {% endif %}
+                {% endfor %}
+            </div>
+            <br/>
+            <div class="row-xs-12 row-sm-6">
+                {% for sponsor in site.data.sponsors[page.year] %}
+                    {% if sponsor.level contains 'silver' %}
+                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{site.baseurl}}{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+                    {% endif %}
+                {% endfor %}
+            </div>
+            <br/>
+            <div class="row-xs-12 row-sm-6">
+                {% for sponsor in site.data.sponsors[page.year] %}
+                    {% if sponsor.level contains 'bronze' %}
+                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{site.baseurl}}{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+                    {% endif %}
+                {% endfor %}
+            </div>
+            <div class="row-xs-12 row-sm-6">
+                {% for sponsor in site.data.sponsors[page.year] %}
+                    {% if sponsor.level contains 'academic' %}
+                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{site.baseurl}}{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
     </div>
-  </div>
 </div>
+
+
+
+
+
+
+
+

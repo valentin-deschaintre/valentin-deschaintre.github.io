@@ -3,12 +3,8 @@ layout: news
 categories: news
 title: Registration open
 excerpt: Tickets are now available for CVMP 2018 and the conference dinner.
-# image:
-  # #feature: sample.jpg
-  # #credit: "Markus Spiske"
-  # #creditlink: "https://unsplash.com/photos/8OyKWQgBsKQ"
-  # card: 2018/expressiveCard.jpg
 sidebar: twitter
+year: 2018
 ---
 
 [Tickets are now available]({{site.baseurl}}/registration/) for CVMP 2018 on 13–14 December 2018 at the BFI Southbank in London.

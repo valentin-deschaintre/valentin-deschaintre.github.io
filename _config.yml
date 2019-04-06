@@ -1,82 +1,36 @@
 # Site settings
-timezone: London/Europe
+title: "CVMP"
+tagline: "The European Conference for Visual Media Production"
 
-baseurl: '/2018' # the subpath to the year of conference
-# baseurl: '/' # the subpath to the year of conference
-# url: 'http://cvmp.richardt.name' # the base hostname & protocol for your site
-url: 'https://www.cvmp-conference.org' # the base hostname & protocol for your site
-# url: 'http://localhost:4000' # local development
-
-title: 'CVMP 2018'
-author: 'Christian Richardt' # Santiago Montesdeoca, Amir Semmo, Daniel Limberger
-
-# google_font_sans_serif: 'Source+Sans+Pro:300'
-
-# flickr_user: '131006004@N06'
-# flickr_api_key: adb4be93419edab991522b4fa92b7029
+# URL - Deployment
+#url: "www.cvmp-conference.org"
+#url: "http://cvmp.github.io/"
+baseurl: ""
+# URL - Local Development
+url: "http://localhost:4000"
+baseurl: ''
 
 # Handling Reading
 safe: true
-encoding: utf-8
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
 
-# Defaults
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      layout: "default"
-      schema: NewsArticle
-#       comments: true
-#       share: true
-      image:
-        card: cvmp2018-card.png
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
 
-# Outputting
-exclude: [
-  'cibuild',
-  'CNAME',
-  'deploy.sh',
-  'Gemfile',
-  'Gemfile.lock',
-  'package.json',
-  'README.md',
-  'img/sources',
-  'img/unused',
-  'unused',
-  'vendor']
+# Contact
+email: "contact@cvmp-conference.org"
 
-# # CSS Minification
-# sass:
-#   style: compressed
+# Social
+facebook: Conference-on-Visual-Media-Production-307514829299111
+twitter: CVMP
 
 
-# Symposium data
-conference:
-  name: CVMP
-  date: 13–14 December 2018
-  location: BFI Southbank, London United Kingdom
-  URL: cvmp-conference.org/2018
-  # sponsors: TODO
-  contact: contact@cvmp-conference.org
-  # disqus-shortname: expressiverendering
-  twitter: CVMP
-  facebook: Conference-on-Visual-Media-Production-307514829299111
-  # github: expressivegraphics
-  # google:
-  #   analytics: UA-76809364-1
-  #   verify:
-  # bing-verify:
-  # submission: https://easychair.org/conferences/?conf=expressive180
-
-deadlines:
-  fullpapers: August 2018?
-  industrytalks: September 2018?
-  shortpapers: September 2018?
-  demos: September 2018?
+# Use this for production
+sass:
+    style: compressed
+exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]

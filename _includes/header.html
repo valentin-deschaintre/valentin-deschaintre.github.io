@@ -4,15 +4,15 @@
   <div class="row">
     <div id="logo" class="col-xs-12 col-sm-6">
         <div class="img-responsive">
-          <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/cvmp2018-logo-1200w.png" width="100%" height="100%" alt="CVMP 2018 logo" /></a>
+          <a href="{{site.baseurl}}/{{page.year}}"><img src="{{site.url}}/{{site.baseurl}}{{site.data.cvmp[page.year].logo}}" width="100%" height="100%" alt="CVMP {{page.year}} logo" /></a>
         </div>
-		<br>
+        <br>
     </div>
     <div class="col-xs-12 col-sm-6">
-      <h1>
-        The 15<sup>th</sup> <b>ACM SIGGRAPH European Conference on Visual Media Production</b><br>
-        <small><b>13–14 December 2018</b><br>BFI Southbank, London, UK</small>
-      </h1>
+    <h1>
+        {{site.data.cvmp[page.year].title}}<br>
+        <small><b>{{site.data.cvmp[page.year].date}}</b><br>{{site.data.cvmp[page.year].location}}</small>
+    </h1>
     </div>
   </div>
 </div>

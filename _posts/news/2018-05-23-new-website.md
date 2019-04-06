@@ -3,12 +3,8 @@ layout: news
 categories: news
 title: New website
 excerpt: The official CVMP 2018 website is live
-# image:
-  # #feature: sample.jpg
-  # #credit: "Markus Spiske"
-  # #creditlink: "https://unsplash.com/photos/8OyKWQgBsKQ"
-  # card: 2018/expressiveCard.jpg
 sidebar: twitter
+year: 2018
 ---
 
 Hi everyone,

@@ -1,0 +1,102 @@
+2019:
+- name: ACM SIGGRAPH
+  url: https://www.siggraph.org/
+  image: /img/2019/sponsors/logo-acm-siggraph-wide.png
+  level: conference
+
+- name: Google/YouTube
+  url: https://www.google.com/
+  image: /img/2019/sponsors/logo-google-2x.png
+  level: gold
+
+- name: Foundry
+  url: https://www.foundry.com/
+  image: /img/2019/sponsors/logo-foundry-2x.png
+  level: gold
+
+- name: NVidia
+  url: https://www.nvidia.com/
+  image: /img/2019/sponsors/logo-nvidia-2x.png
+  level: gold
+
+- name: Activision
+  url: https://www.activision.com/
+  image: /img/2019/sponsors/logo-activision-2x.png
+  level: bronze
+
+- name: Allegorithmic
+  url: https://www.allegorithmic.com/
+  image: /img/2019/sponsors/logo-allegorithmic-2x.png
+  level: silver
+
+- name: ImmerseUK
+  url: https://www.immerseuk.org/
+  image: /img/2019/sponsors/logo-immerseuk-2x.png
+  level: academic
+
+- name: Autodesk
+  url: https://www.autodesk.com/
+  image: /img/2019/sponsors/logo-autodesk-2x.png
+  level: silver
+
+- name: Render Legion
+  url: https://corona-renderer.com/
+  image: /img/2019/sponsors/logo-corona-2x.png
+  level: bronze
+
+- name: CDE – Centre for Digital Entertainment
+  url: http://www.digital-entertainment.org/
+  image: /img/2019/sponsors/logo-cde-2x.png
+  level: academic
+
+
+2018:
+- name: ACM SIGGRAPH
+  url: https://www.siggraph.org/
+  image: /img/2018/sponsors/logo-acm-siggraph-wide.png
+  level: conference
+
+- name: Google/YouTube
+  url: https://www.google.com/
+  image: /img/2018/sponsors/logo-google-2x.png
+  level: gold
+
+- name: Foundry
+  url: https://www.foundry.com/
+  image: /img/2018/sponsors/logo-foundry-2x.png
+  level: gold
+
+- name: NVidia
+  url: https://www.nvidia.com/
+  image: /img/2018/sponsors/logo-nvidia-2x.png
+  level: gold
+
+- name: Activision
+  url: https://www.activision.com/
+  image: /img/2018/sponsors/logo-activision-2x.png
+  level: bronze
+
+- name: Allegorithmic
+  url: https://www.allegorithmic.com/
+  image: /img/2018/sponsors/logo-allegorithmic-2x.png
+  level: silver
+
+- name: Autodesk
+  url: https://www.autodesk.com/
+  image: /img/2018/sponsors/logo-autodesk-2x.png
+  level: silver
+
+- name: Render Legion
+  url: https://corona-renderer.com/
+  image: /img/2018/sponsors/logo-corona-2x.png
+  level: bronze
+
+- name: CDE – Centre for Digital Entertainment
+  url: http://www.digital-entertainment.org/
+  image: /img/2018/sponsors/logo-cde-2x.png
+  level: academic
+
+- name: ImmerseUK
+  url: https://www.immerseuk.org/
+  image: /img/2018/sponsors/logo-immerseuk-2x.png
+  level: academic

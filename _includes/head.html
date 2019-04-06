@@ -1,24 +1,24 @@
 <head>
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta charset="{{ site.encoding }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ site.title }} – {{ page.title }}</title>
-  <meta name="description" content="{{ page.description }}">
-  <meta name="author" content="{{ site.author }}">
-  <meta name="robots" content="index, follow">
-  
-  {% include open-graph.html %}
+	<!-- Plain Description -->
+    <title>{{ site.title }} – {{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+    <meta name="author"     content="{{ site.author }}">
+	
+    <!-- Icons-->
+    <link rel="shortcut icon" href="{{site.url}}{{site.baseurl}}/favicon.ico">
+    <link rel="icon" type="image/png" href="{{site.url}}/{{site.baseurl}}/favicon.png">
 
-  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+	<!-- CSS  -->
+	<link rel="stylesheet" href="{{site.url}}/{{site.baseurl}}/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{site.url}}/{{site.baseurl}}/css/cvmp.css">
+    <link rel="stylesheet" href="{{site.url}}/{{site.baseurl}}/css/font-awesome.min.css">
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/blueimp-gallery/2.15.0/css/blueimp-gallery.min.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.min.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/cvmp.css">
+	<!--Fonts -->
 
-  <!--<link rel="canonical" href="{{ page.url | replace:'index.html', '' | prepend: site.baseurl | prepend: site.url }}">-->
-
-  <!--<noscript><style>.js-only { display: none; }</style></noscript>-->
 
 </head>
+

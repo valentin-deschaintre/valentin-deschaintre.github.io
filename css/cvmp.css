@@ -91,7 +91,7 @@ img#venue {
   margin-top: 0px;
 }
 
-
+.img-responsive-50{display:block;height:auto;max-width:50%}
 
 #sponsors img {
   padding: 0em 1em;

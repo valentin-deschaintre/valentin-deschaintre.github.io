@@ -1,10 +1,15 @@
 # Site navigation links
 
+2019:
 - title: About
   url: /about/
 
-# - title: Submission Instructions
-  # url: /submission-instructions/
+- title: Committees
+  url: /committees/
+
+2018:
+- title: About
+  url: /about/
 
 - title: Programme
   url: /programme/
@@ -18,14 +23,8 @@
 - title: Call for Papers
   url: /call-for-papers/
 
-# - title: Venue
-#   url: /venue/
-
 - title: Committees
   url: /committees/
-
-# - title: Previous Editions
-#   url: /../previous/
-
+  
 - title: News
   url: /news/

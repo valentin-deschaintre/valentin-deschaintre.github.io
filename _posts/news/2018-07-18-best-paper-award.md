@@ -3,12 +3,8 @@ layout: news
 categories: news
 title: Best Paper Award
 excerpt: The CVMP 2018 Best Paper Award will be sponsored by ACM Europe Council.
-# image:
-  # #feature: sample.jpg
-  # #credit: "Markus Spiske"
-  # #creditlink: "https://unsplash.com/photos/8OyKWQgBsKQ"
-  # card: 2018/expressiveCard.jpg
 sidebar: twitter
+year: 2018
 ---
 
 [ACM Europe Council](http://europe.acm.org/) will be sponsoring this year’s __Best Paper Award__.
