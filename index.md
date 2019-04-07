@@ -1,4 +1,4 @@
 ---
-layout: plain
+layout: cvmp-plain
 title: CVMP Home
 ---
