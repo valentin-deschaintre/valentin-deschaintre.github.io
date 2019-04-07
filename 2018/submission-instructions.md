@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cvmp-default
 title: Submission instructions
 excerpt: Submission instructions for CVMP 2018
 headline: Submission instructions

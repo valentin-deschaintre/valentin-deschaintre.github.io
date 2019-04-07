@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cvmp-default
 title: Call for Papers
 excerpt: "Submit your work to CVMP 2018"
 year: 2018

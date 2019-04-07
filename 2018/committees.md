@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cvmp-default
 title: Committees
 year: 2018
 ---

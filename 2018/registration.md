@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cvmp-default
 title: Registration
 excerpt: Register for CVMP 2018
 headline: Registration

@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: cvmp-news
 title: News
 sidebar: twitter
 year: 2018
