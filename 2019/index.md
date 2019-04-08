@@ -15,7 +15,7 @@ In this 16th edition of the conference, we are proud to be officially affiliated
 
 <!-- featured images -->
 <figure class="top3" >
-    <img class="col-xs-12 col-sm-4" src="{{site.url}}/{{site.baseurl}}/img/cvmp/cvmp-audience.jpg" alt="Audience">
-    <img class="col-xs-12 col-sm-4" src="{{site.url}}/{{site.baseurl}}/img/cvmp/cvmp-keynote.jpg" alt="Keynote">
-    <img class="col-xs-12 col-sm-4" src="{{site.url}}/{{site.baseurl}}/img/cvmp/cvmp-theatre.jpg" alt="NFT3">
+    <img class="col-xs-12 col-sm-4" src="{{site.url}}/img/cvmp/cvmp-audience.jpg" alt="Audience">
+    <img class="col-xs-12 col-sm-4" src="{{site.url}}/img/cvmp/cvmp-keynote.jpg" alt="Keynote">
+    <img class="col-xs-12 col-sm-4" src="{{site.url}}/img/cvmp/cvmp-theatre.jpg" alt="NFT3">
 </figure>

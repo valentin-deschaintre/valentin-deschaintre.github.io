@@ -10,12 +10,12 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{site.url}}/{{site.baseurl}}/{{page.year}}">{{site.title}} {{page.year}}</a>
+      <a class="navbar-brand" href="{{site.url}}/{{page.year}}">{{site.title}} {{page.year}}</a>
     </div>
     <div class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
         {% for link in site.data.navigation[page.year] %}
-              <li><a href="{{site.url}}/{{site.baseurl}}/{{page.year}}{{link.url}}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+              <li><a href="{{site.url}}/{{page.year}}/{{link.url}}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
       </ul>
     </div>

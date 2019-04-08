@@ -5,10 +5,6 @@ tagline: "The European Conference for Visual Media Production"
 # URL - Deployment
 #url: "www.cvmp-conference.org"
 url: "https://cvmp.github.io/"
-baseurl: ""
-# URL - Local Development
-# url: "http://localhost:4000"
-# baseurl: ''
 
 # Handling Reading
 safe: true

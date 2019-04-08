@@ -12,7 +12,7 @@ The conference provides a forum to demonstrate innovative techniques used in med
 
 Papers are invited to present novel research and practical applications related to media production.
 
-<img src="{{site.url}}/{{site.baseurl}}/img/cvmp/cvmp-audience.jpg" class="img-thumbnail">
+<img src="{{site.url}}/img/cvmp/cvmp-audience.jpg" class="img-thumbnail">
 
 
 ### What is CVMP?
@@ -21,7 +21,7 @@ CVMP brings together the worlds of academic algorithmic research and post produc
 
 “CVMP offered a good mix of research people in graphics and vision as well as industry experts in production and post-production. Surprisingly for such a smaller conference, papers, speeches and posters were continuously of good quality. The time I spent in London was a good investment.” Jurgen Stauder, Technical Advisor, Thomson Corporate Research
 
-<img src="{{site.url}}/{{site.baseurl}}/img/cvmp/cvmp-keynote.jpg" class="img-thumbnail">
+<img src="{{site.url}}/img/cvmp/cvmp-keynote.jpg" class="img-thumbnail">
 
 
 ### Why visit CVMP?
@@ -107,4 +107,4 @@ The BFI provides an accessible forum for the European Media Industry and is a gr
 
 The drinks evening held on the first day is attended by both speakers and attendees and is an ideal opportunity to discuss topics raised in the conference and to brainstorm with like-minded people.
 
-<img src="{{site.url}}/{{site.baseurl}}/img/cvmp/cvmp-theatre.jpg" class="img-thumbnail">
+<img src="{{site.url}}/img/cvmp/cvmp-theatre.jpg" class="img-thumbnail">
