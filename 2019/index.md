@@ -1,4 +1,5 @@
 ---
+redirect_from: "/"
 layout: cvmp-default
 title: "CVMP 2019"
 year: 2019
