@@ -1,6 +1,13 @@
 ---
 layout: cvmp-default
-title: Previous Conferences
+title: Previous Years
 ---
 
-[CVMP 2018]({{site.url}}/2018).
+
+<ul>
+    {% for year in site.data.cvmp.previous-years %}
+        <li> 
+            <a href="{{site.url}}/{{year}}"> {{site.data.cvmp[year].title}} </a> 
+        </li>      
+    {% endfor %}
+</ul>

@@ -1,6 +1,6 @@
 ---
 redirect_from: "/"
-layout: cvmp-default
+layout: cvmp-plain
 title: "CVMP 2019"
 year: 2019
 image:
@@ -8,6 +8,7 @@ image:
     credit: BFI Southbank
     creditlink: http://www.bfi.org.uk/
 ---
+## Date TBC
 
 Welcome to the ACM SIGGRAPH European Conference on Visual Media Production (CVMP). For the years, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries.
 
