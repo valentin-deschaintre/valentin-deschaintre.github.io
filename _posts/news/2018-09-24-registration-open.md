@@ -5,7 +5,7 @@ title: Registration open
 excerpt: Tickets are now available for CVMP 2018 and the conference dinner.
 ---
 
-[Tickets are now available]({{site.baseurl}}/registration/) for CVMP 2018 on 13–14 December 2018 at the BFI Southbank in London.
+[Tickets are now available]({{site.baseurl}}/2018/registration/) for CVMP 2018 on 13–14 December 2018 at the BFI Southbank in London.
 
 Early-bird tickets (£365 including dinner) are limited to the first 15 people signing up.
 

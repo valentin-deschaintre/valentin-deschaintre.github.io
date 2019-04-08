@@ -20,7 +20,7 @@ We take it for granted that image capture technology, computer-generated images,
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/{{site.baseurl}}/img/2018/keynotes/wolfgang-lempp.jpg" class="img-responsive img-thumbnail" alt="Wolfgang Lempp" title="Wolfgang Lempp">
+  <img src="{{site.url}}/img/2018/keynotes/wolfgang-lempp.jpg" class="img-responsive img-thumbnail" alt="Wolfgang Lempp" title="Wolfgang Lempp">
 </figure>
 
 </div>
@@ -37,7 +37,7 @@ We take it for granted that image capture technology, computer-generated images,
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/{{site.baseurl}}/img/2018/keynotes/jp-lewis.jpg" class="img-responsive img-thumbnail" alt="J.P. Lewis" title="J.P. Lewis">
+  <img src="{{site.url}}/img/2018/keynotes/jp-lewis.jpg" class="img-responsive img-thumbnail" alt="J.P. Lewis" title="J.P. Lewis">
 </figure>
 
 </div>
@@ -56,7 +56,7 @@ We start to lack the processing power and bandwidth to drive 8K and high-resolut
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/{{site.baseurl}}/img/2018/keynotes/rafal-mantiuk.jpg" class="img-responsive img-thumbnail" alt="Rafał K. Mantiuk" title="Rafał K. Mantiuk">
+  <img src="{{site.url}}/img/2018/keynotes/rafal-mantiuk.jpg" class="img-responsive img-thumbnail" alt="Rafał K. Mantiuk" title="Rafał K. Mantiuk">
 </figure>
 
 </div>
@@ -75,7 +75,7 @@ In this talk, I will cover our latest research on 3D reconstruction and semantic
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/{{site.baseurl}}/img/2018/keynotes/matthias-niessner.jpg" class="img-responsive img-thumbnail" alt="Matthias Nießner" title="Matthias Nießner">
+  <img src="{{site.url}}/img/2018/keynotes/matthias-niessner.jpg" class="img-responsive img-thumbnail" alt="Matthias Nießner" title="Matthias Nießner">
 </figure>
 
 </div>

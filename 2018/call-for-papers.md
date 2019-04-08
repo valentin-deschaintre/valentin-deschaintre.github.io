@@ -16,7 +16,7 @@ For over a decade, CVMP has built a reputation as the prime venue for researcher
 {: .panel-heading}
 <div class="panel-body">
 
-| ~~__Full Papers deadline:__~~ | ~~20 July 2018~~ |
+| __Full Papers deadline:__ | ~~20 July 2018~~ |
 | __Full Papers deadline (extended<sup>2</sup>):__ | 17 August 2018 |
 | __Full Papers notification:__ | ~~3 September 2018~~ 7 September 2018 |
 | __Full Papers camera-ready due:__ | ~~28 September 2018~~ 5 October 2018 |
@@ -96,4 +96,4 @@ Papers, Demos and Talks are invited in all areas of visual media production rela
 - Visual effects (VFX)
 - Virtual production
  
-For information on how to submit papers, please refer to the [Submission Instructions]({{site.baseurl}}/{{page.year}}/submission-instructions/).
+For information on how to submit papers, please refer to the [Submission Instructions]({{site.baseurl}}/2018/submission-instructions/).

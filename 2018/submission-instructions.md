@@ -15,7 +15,6 @@ All submissions should be made via the CVMP 2018 submission site:\\
 
 Authors should upload a PDF file of no more than 20 MB containing their paper for review. Full papers submissions may optionally include supplementary materials in a single ZIP file of no more than 100 MB (for example, videos or PDFs of additional results).
 
-
 ### Instructions for authors of full papers
 
 Full formatting instructions and LaTeX templates are available here:\\
@@ -40,11 +39,10 @@ Visual Media Production}{Dec.\ 13--14}{London, UK}
 
 Full papers should be of no more than 10 pages.
 
-
 ### Instructions for authors of short papers and demos
 
 Authors of accepted short papers should prepare their **one-page paper** using the LaTeX style files available to download here:
 
-[CVMP Short Paper and Demos LaTeX template (1.1 MB)]({{ site.baseurl }}/files/latex_CVMP_short_2018.zip)
+[CVMP Short Paper and Demos LaTeX template (1.1 MB)]({{ site.url }}/files/2018/latex_CVMP_short_2018.zip)
 
 Authors of demos should use the same format as short papers, describing their demo and its novelty.

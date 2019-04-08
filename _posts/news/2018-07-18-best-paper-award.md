@@ -14,4 +14,4 @@ In addition, there will be a 1000 Euro honorarium to be split among the winners.
 
 For further information about the award and its selection criteria, please see the [ACM Europe Council Best Paper Award website](http://europe.acm.org/best-paper-awards-conferences.html).
 
-To submit your work to CVMP 2018, please see the [Call for Papers]({{site.baseurl}}/call-for-papers/) and the [submission instructions]({{site.baseurl}}/submission-instructions/).
+To submit your work to CVMP 2018, please see the [Call for Papers]({{site.baseurl}}/2018/call-for-papers/) and the [submission instructions]({{site.baseurl}}/2018/submission-instructions/).
