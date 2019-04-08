@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cvmp-default
 title: "CVMP 2019"
 year: 2019
 ---
