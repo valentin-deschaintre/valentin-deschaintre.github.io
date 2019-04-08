@@ -45,7 +45,7 @@ year: 2019
             <h4 class="panel-title">Industry Chairs</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="https://www.linkedin.com/in/volker-helzle/">Volker Helzle</a><br><small>Filmakademie Baden-Württemberg, Germany</small></h4>
+            <h4><a href="https://www.linkedin.com/in/volker-helzle/">Volker Helzle</a><br><small>Filmakademie, Germany</small></h4>
             <h4><a href="https://www.linkedin.com/in/ringdk">Dan Ring</a><br><small>Foundry, UK</small></h4>
         </div>
     </div>
