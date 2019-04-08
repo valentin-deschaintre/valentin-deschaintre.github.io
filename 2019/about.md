@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cvmp-default
 title: About CVMP
 year: 2019
 ---
