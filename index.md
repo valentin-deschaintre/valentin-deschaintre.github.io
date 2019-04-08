@@ -1,4 +1,4 @@
 ---
-layout: cvmp-plain
+layout: cvmp-twitter
 title: CVMP Home
 ---

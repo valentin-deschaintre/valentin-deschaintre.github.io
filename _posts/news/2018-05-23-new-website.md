@@ -1,10 +1,8 @@
 ---
-layout: news
+layout: cvmp-default
 categories: news
 title: New website
 excerpt: The official CVMP 2018 website is live
-sidebar: twitter
-year: 2018
 ---
 
 Hi everyone,
