@@ -24,7 +24,7 @@
         {% for link in site.data.navigation[year] %}
               <li><a href='
                 {% if link.url contains '/' %}
-                    {{site.url}}{{link.url}}
+                    {{site.url}}/{{link.url}}
                 {% else %}
                     {{site.url}}/{{year}}/{{link.url}}
                 {% endif %}
