@@ -3,6 +3,7 @@ layout: cvmp-default
 categories: news
 title: Programme published
 excerpt: The conference programme for CVMP 2018 is now available.
+year: 2018
 ---
 
 We are pleased to announce the [**conference programme**]({{site.baseurl}}/2018/programme/) for CVMP 2018 on 13–14 December 2018 at the BFI Southbank in London.
