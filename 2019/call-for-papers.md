@@ -5,7 +5,7 @@ excerpt: "Submit your work to CVMP 2018"
 year: 2019
 ---
 
-For over a decade, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries: film, broadcast and games. The Conference brings together expertise in video processing, computer vision, computer graphics, animation and physical simulation sponsored by ACM SIGGRAPH. It provides a forum for presentation of the latest research and application advances, combined with keynote and invited talks on state-of-the-art industry practice. CVMP regularly attracts around 140 attendees approximately 50:50 from academia and the creative industries.
+For over a decade, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries: film, broadcast and games. The conference brings together expertise in video processing, computer vision, computer graphics, animation and physical simulation sponsored by ACM SIGGRAPH. It provides a forum for presentation of the latest research and application advances, combined with keynote and invited talks on state-of-the-art industry practice. CVMP regularly attracts around 140 attendees approximately 50:50 from academia and the creative industries.
 
 ---
 
@@ -47,8 +47,6 @@ The demos programme promotes applied research and applications to facilitate col
 
 #### Industry Talks
 This year we are pleased to introduce a new track for industry talks. These should be submitted in the form of a one-page extended abstract describing the proposed talk. Talks will take a similar form to submissions for talks at SIGGRAPH and FMX and can be talks that have already been presented at other venues.
-
-
 
 Papers, Demos and Talks are invited in all areas of visual media production related to film, games, and broadcast, including but not limited to:
 
