@@ -5,6 +5,7 @@ excerpt: "Submit your work to CVMP 2018"
 year: 2019
 ---
 For over a decade, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries: film, broadcast and games. The Conference brings together expertise in video processing, computer vision, computer graphics, animation and physical simulation sponsored by ACM SIGGRAPH. It provides a forum for presentation of the latest research and application advances, combined with keynote and invited talks on state-of-the-art industry practice. CVMP regularly attracts around 140 attendees approximately 50:50 from academia and the creative industries.
+---
 
 We encourage participation from a diverse range of backgrounds including scientists, engineers, artists and producers to contribute inspiring papers, presentations, posters and technical abstracts. We invite submissions to the conference on any topic that demonstrates an impact on visual media production, animation, and interactive content creation and experiences. This year there is an additional focus on gaming across all platforms including design, production and engineering. We hope contributions will convey innovative ideas, technical details and insight or experience into theory and/or practice.
 
