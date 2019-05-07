@@ -8,7 +8,7 @@ year: 2019
 
 <!-- ### Paper submission -->
 
-CVMP 2018 offers the opportunity to showcase your work through submission of Full (up to 10 pages) and Short (1 page) papers.
+CVMP 2019 offers the opportunity to showcase your work through submission of Full (up to 10 pages) and Short (1 page) papers.
 
 All submissions should be made via the CVMP 2019 submission site:\\
 <https://cmt3.research.microsoft.com/CVMP2019>
