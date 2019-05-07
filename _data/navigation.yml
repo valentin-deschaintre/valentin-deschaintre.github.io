@@ -3,12 +3,14 @@
 2019:
 - title: About
   url: about
-- title: Call for Papers
-  url: call-for-papers
+- title: Call for Submissions
+  url: call-for-submissions
 - title: Committees
   url: committees
 - title: News
   url: news
+- title: CVMP 2018
+  url: /2018/
 
 2018:
 - title: About
@@ -25,3 +27,5 @@
   url: committees
 - title: News
   url: news
+- title: CVMP 2019
+  url: /2019/
