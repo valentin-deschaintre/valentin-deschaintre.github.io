@@ -11,6 +11,28 @@ For over a decade, CVMP has built a reputation as the prime venue for researcher
 
 We encourage participation from a diverse range of backgrounds including scientists, engineers, artists and producers to contribute inspiring papers, presentations, posters and technical abstracts. We invite submissions to the conference on any topic that demonstrates an impact on visual media production, animation, and interactive content creation and experiences. This year there is an additional focus on gaming across all platforms including design, production and engineering. We hope contributions will convey innovative ideas, technical details and insight or experience into theory and/or practice.
 
+---
+
+{::options parse_block_html="true" /}
+<div class="panel panel-info">
+<h3> Important Dates </h3>
+{: .panel-heading}
+<div class="panel-body">
+
+| __Full Papers deadline:__ | 26 July 2019 |
+| __Industry Talks deadline:__ | 27 September 2019 |
+| __Short Papers deadline:__ | 27 September 2019 |
+| __Demos deadline:__ | 27 September 2019|
+
+*All deadlines are 23:59 Pacific Time.*
+
+</div>
+</div>
+
+---
+
+
+
 #### Full Papers
 We invite submissions of regular, technical papers presenting novel research or applications related to any aspect of media production, including computer vision, graphics and machine learning research with application in this area. We particularly encourage submission of early-stage doctoral work. Submitted papers can be any length up to 10 pages and will be subject to double-blind peer review. Accepted papers will be presented in either oral or poster form, and will appear in the ACM Digital Library. Browse past CVMP papers in the [ACM Digital Library](http://bit.ly/ACM_CVMP).
 
@@ -26,25 +48,7 @@ The demos programme promotes applied research and applications to facilitate col
 #### Industry Talks
 This year we are pleased to introduce a new track for industry talks. These should be submitted in the form of a one-page extended abstract describing the proposed talk. Talks will take a similar form to submissions for talks at SIGGRAPH and FMX and can be talks that have already been presented at other venues.
 
----
 
-{::options parse_block_html="true" /}
-<div class="panel panel-info">
-<h3> Submission Dates </h3>
-{: .panel-heading}
-<div class="panel-body">
-
-| __Full Papers deadline:__ | 26 July 2019 |
-| __Industry Talks deadline:__ | 27 September 2019 |
-| __Short Papers deadline:__ | 27 September 2019 |
-| __Demos deadline:__ | 27 September 2019|
-
-*All deadlines are 23:59 Pacific Time.*
-
-</div>
-</div>
-
----
 
 Papers, Demos and Talks are invited in all areas of visual media production related to film, games, and broadcast, including but not limited to:
 
