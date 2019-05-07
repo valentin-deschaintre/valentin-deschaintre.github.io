@@ -1,8 +1,8 @@
 ---
 layout: cvmp-default
-title: Submission instructions
+title: Submission Instructions
 excerpt: Submission instructions for CVMP 2019
-headline: Submission instructions
+headline: Submission Instructions
 year: 2019
 ---
 
