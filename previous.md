@@ -1,8 +1,7 @@
 ---
-layout: cvmp-default
+layout: cvmp-twitter
 title: Previous Years
 ---
-
 
 <ul>
     {% for year in site.data.cvmp.previous-years %}
