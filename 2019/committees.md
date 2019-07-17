@@ -51,6 +51,7 @@ year: 2019
     </div>
 </div>
 
+<!--
 <div class="col-8 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -60,7 +61,7 @@ year: 2019
             <h4><a href="mailto:A.Numphud@bath.ac.uk">Anna Numphud</a> <br><small>University of Bath, UK</small></h4>
         </div>
     </div>
-</div>
+</div> -->
 <!--
 <div class="col-8 col-sm-6 col-lg-4">
     <div class="panel panel-default">
