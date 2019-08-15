@@ -4,6 +4,10 @@
   image: img/2019/sponsors/logo-acm-siggraph-wide.png
   level: conference
 
+- name: YouTube
+  url: https://www.youtube.com/
+  image: img/2019/sponsors/logo-youtube.png
+  level: gold
 
 2018:
 - name: ACM SIGGRAPH
