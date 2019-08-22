@@ -12,7 +12,7 @@ year: 2019
             <h4 class="panel-title">Conference Chair</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="https://www-users.cs.york.ac.uk/wsmith/">Will Smith</a><br><small>University of York, UK</small></h4>
+            <h4><a href="https://www-users.cs.york.ac.uk/wsmith/" target="_blank">Will Smith</a><br><small>University of York, UK</small></h4>
         </div>
     </div>
 </div>
@@ -23,7 +23,7 @@ year: 2019
             <h4 class="panel-title">Full Papers Chair</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="http://cs.bath.ac.uk/~nc537/">Neill Campbell</a><br><small>University of Bath, UK</small></h4>
+            <h4><a href="http://cs.bath.ac.uk/~nc537/" target="_blank">Neill Campbell</a><br><small>University of Bath, UK</small></h4>
         </div>
     </div>
 </div>
@@ -34,7 +34,7 @@ year: 2019
             <h4 class="panel-title">Short Papers &amp; Demo Chair</h4>
         </div>
         <div class="panel-body">
-                    <h4><a href="https://richardt.name">Christian Richardt</a><br><small>University of Bath, UK</small></h4>
+                    <h4><a href="https://richardt.name" target="_blank">Christian Richardt</a><br><small>University of Bath, UK</small></h4>
         </div>
     </div>
 </div>
@@ -45,34 +45,34 @@ year: 2019
             <h4 class="panel-title">Industry Chairs</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="https://www.linkedin.com/in/volker-helzle/">Volker Helzle</a><br><small>Filmakademie, Germany</small></h4>
-            <h4><a href="https://www.linkedin.com/in/ringdk">Dan Ring</a><br><small>Foundry, UK</small></h4>
+            <h4><a href="https://www.linkedin.com/in/volker-helzle/" target="_blank">Volker Helzle</a><br><small>Filmakademie, Germany</small></h4>
+            <h4><a href="https://www.linkedin.com/in/ringdk" target="_blank">Dan Ring</a><br><small>Foundry, UK</small></h4>
         </div>
     </div>
 </div>
 
-<!--
+
 <div class="col-8 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">Conference Secretary</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="mailto:A.Numphud@bath.ac.uk">Anna Numphud</a> <br><small>University of Bath, UK</small></h4>
+            <h4>Melissa Green<br><small>University of York, UK</small></h4> <br/>
         </div>
     </div>
-</div> -->
-<!--
+</div> 
+
 <div class="col-8 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
-            <h4 class="panel-title">Local Organisation</h4>
+            <h4 class="panel-title">Local Arrangments</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="http://cs.bath.ac.uk/~nc537/">Neill Campbell</a><br><small>University of Bath, UK</small></h4>
+            <h4><a href="https://www.patrikhuber.ch/" target="_blank">Patrik Huber</a><br><small>University of York, UK</small></h4>
         </div>
     </div>
-</div>-->
+</div>
 
 <div class="col-8 col-sm-6 col-lg-4">
     <div class="panel panel-default">
@@ -80,7 +80,7 @@ year: 2019
             <h4 class="panel-title">Website Chair</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="https://marcovolino.github.io">Marco Volino</a><br><small>University of Surrey, UK</small></h4>
+            <h4><a href="https://marcovolino.github.io" target="_blank">Marco Volino</a><br><small>University of Surrey, UK</small></h4>
         </div>
     </div>
 </div>
