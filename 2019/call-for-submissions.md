@@ -20,9 +20,9 @@ We encourage participation from a diverse range of backgrounds including scienti
 <div class="panel-body">
 
 | __Full Papers deadline:__ | ~~26 July~~ ~~<span style="color:red"> 16 August </span>~~  <span style="color:red"> <b>23 August 2019</b></span> |
-| __Industry Talks deadline:__ | 27 September 2019 |
-| __Short Papers deadline:__ | 27 September 2019 |
-| __Demos deadline:__ | 27 September 2019|
+| __Industry Talks deadline:__ | ~~27 September 2019~~ <span style="color:red"> <b>11 October 2019</b></span>|
+| __Short Papers deadline:__ | ~~27 September 2019~~ <span style="color:red"> <b>11 October 2019</b></span>|
+| __Demos deadline:__ | ~~27 September 2019~~ <span style="color:red"> <b>11 October 2019</b></span>|
 
 *All deadlines are 23:59 Pacific Time.*
 
