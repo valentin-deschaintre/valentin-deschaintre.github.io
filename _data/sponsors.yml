@@ -4,16 +4,15 @@
   image: img/2019/sponsors/logo-acm-siggraph-wide.png
   level: conference
 
-- name: Activision
-  url: https://www.activision.com/
-  image: img/2019/sponsors/logo-activision-2x.png
-  level: gold
-
 - name: YouTube
   url: https://www.youtube.com/
   image: img/2019/sponsors/logo-youtube.png
   level: gold
 
+- name: Activision
+  url: https://www.activision.com/
+  image: img/2019/sponsors/logo-activision-2x.png
+  level: bronze
 
 
 2018:
