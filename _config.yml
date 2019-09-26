@@ -32,4 +32,4 @@ sass:
 exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
 
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
