@@ -4,9 +4,9 @@ title: Previous Years
 ---
 
 <ul>
-    {% for year in site.data.cvmp.previous-years %}
+    {% for year in site.data.egsr.previous-years %}
         <li> 
-            <a href="{{site.url}}/{{year}}"> {{site.data.cvmp[year].title}} </a> 
+            <a href="{{site.url}}/{{year}}"> {{site.data.egsr[year].title}} </a> 
         </li>      
     {% endfor %}
 </ul>
