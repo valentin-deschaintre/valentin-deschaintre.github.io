@@ -37,11 +37,16 @@ Full conference ticket
 One-day conference ticket
 <span class="label label-info">No dinner</span>
 
+- **Dinner only – £40**  
+Conference dinner only at BFI Kitchen and Bar on Tuesday, 17 December 2019.
+
 The **[registration website](https://store.york.ac.uk/product-catalogue/computer-science/cvmp-2019)** is now open. 
 
 
+### Dinner 
+The CVMP 2018 Conference Dinner will be held on Tuesday, 17 December 2019, at [BFI Bar & Kitchen (Benugo)](https://www.benugo.com/restaurants/bfi-bar-kitchen) at the BFI Southbank. Details to follow.
+
 <!--
-<a name="dinner"></a>
 ### Dinner menu
 
 The CVMP 2018 Conference Dinner will be held on Thursday, 13 December 2018, at [BFI Bar & Kitchen (Benugo)](https://www.benugo.com/restaurants/bfi-bar-kitchen) at the BFI Southbank.

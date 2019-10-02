@@ -10,7 +10,7 @@ year: 2019
 
 Early-bird tickets (£375 including dinner) are limited to the first 30 people signing up.
 
-<!--Full and student tickets cost £400 and £300, respectively (including dinner).-->
+Full and student tickets cost £410 including dinner.
 
-<!--The CVMP 2019 Conference Dinner is included with most ticket options and will be held on Tuesday, 17 December 2019, at [BFI Bar & Kitchen (Benugo)](https://www.benugo.com/restaurants/bfi-bar-kitchen).-->
+The CVMP 2019 Conference Dinner is included with most ticket options and will be held on Tuesday, 17 December 2019, at [BFI Bar & Kitchen (Benugo)](https://www.benugo.com/restaurants/bfi-bar-kitchen).
 
