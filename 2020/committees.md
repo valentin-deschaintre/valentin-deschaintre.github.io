@@ -36,7 +36,8 @@ year: 2020
         </div>
     </div>
 </div>
-<br>
+</div>
+<div class="col-12 col-sm-12 col-lg-12">
 <div class="col-4 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
