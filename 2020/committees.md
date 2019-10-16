@@ -26,7 +26,7 @@ year: 2020
             <h4 class="panel-title">Local organizing committee</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="https://pharr.org/matt/" target="_blank">Abhijeet Ghosh</a><br><small> Imperial College London, UK</small></h4>
+            <h4><a href="https://www.doc.ic.ac.uk/~ghosh/" target="_blank">Abhijeet Ghosh</a><br><small> Imperial College London, UK</small></h4>
         </div>
         <div class="panel-body">
             <h4><a href="http://www.homepages.ucl.ac.uk/~ucactri/" target="_blank">Tobias Ritchel</a><br><small> University College London, UK</small></h4>
