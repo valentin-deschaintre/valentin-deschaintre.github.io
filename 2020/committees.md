@@ -4,9 +4,52 @@ title: Committees
 year: 2020
 ---
 
-A list of people.
+<div class="col-12 col-sm-12 col-lg-12">
 
+<div class="col-4 col-sm-6 col-lg-4">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">Program chairs</h4>
+        </div>
+        <div class="panel-body">
+            <h4><a href="https://pharr.org/matt/" target="_blank">Matt Phar</a><br><small> Nvidia Research, USA</small></h4>
+        </div>
+        <div class="panel-body">
+            <h4><a href="https://cg.ivd.kit.edu/english/dachsbacher/" target="_blank">Carsten Dachsbacher</a><br><small> Karlsruhe Institute of Technology (KIT), Germany</small></h4>
+        </div>
+    </div>
+</div>
 
+<div class="col-4 col-sm-6 col-lg-4">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">Local organizing committee</h4>
+        </div>
+        <div class="panel-body">
+            <h4><a href="https://pharr.org/matt/" target="_blank">Abhijeet Ghosh</a><br><small> Imperial College London, UK</small></h4>
+        </div>
+        <div class="panel-body">
+            <h4><a href="http://www.homepages.ucl.ac.uk/~ucactri/" target="_blank">Tobias Ritchel</a><br><small> University College London, UK</small></h4>
+        </div>
+        <div class="panel-body">
+            <h4><a href="http://reality.cs.ucl.ac.uk/weyrich.html" target="_blank">Tim Weyrich</a><br><small> University College London, UK</small></h4>
+        </div>
+    </div>
+</div>
+
+<div class="col-4 col-sm-6 col-lg-4">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">Website chair</h4>
+        </div>
+        <div class="panel-body">
+            <h4><a href="http://valentin.deschaintre.fr/" target="_blank">Valentin Deschaintre</a><br><small> Imperial College London, UK</small></h4>
+        </div>
+
+    </div>
+</div>
+
+</div>
 <!--
 <div class="col-12 col-sm-12 col-lg-12">
 
