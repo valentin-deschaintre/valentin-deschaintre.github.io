@@ -4,14 +4,19 @@
   image: img/2019/sponsors/logo-acm-siggraph-wide.png
   level: conference
 
-- name: YouTube
-  url: https://www.youtube.com/
-  image: img/2019/sponsors/logo-youtube.png
+- name: Foundry
+  url: https://www.foundry.com/
+  image: img/2019/sponsors/logo-foundry-2x.png
   level: gold
-
+  
 - name: NVidia
   url: https://www.nvidia.com/
   image: img/2019/sponsors/logo-nvidia-2x.png
+  level: gold
+
+- name: YouTube
+  url: https://www.youtube.com/
+  image: img/2019/sponsors/logo-youtube.png
   level: gold
 
 - name: Activision
