@@ -4,7 +4,7 @@ layout: cvmp-plain
 title: "EGSR 2020"
 year: 2020
 image:
-    feature: img/teaser/imperial.jpg
+    feature: img/teaser/egsr2020_teaser.pdf
     credit: Imperial College London
     creditlink: https://www.imperial.ac.uk
 ---
