@@ -5,7 +5,7 @@ excerpt: "Submit your work to EGSR 2020"
 year: 2020
 ---
 
-Here goes the call for paper.
+Watch this space for the call for paper.
 
 <!--
 For over a decade, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries: film, broadcast and games. The conference brings together expertise in video processing, computer vision, computer graphics, animation and physical simulation sponsored by ACM SIGGRAPH. It provides a forum for presentation of the latest research and application advances, combined with keynote and invited talks on state-of-the-art industry practice. CVMP regularly attracts around 140 attendees approximately 50:50 from academia and the creative industries.
