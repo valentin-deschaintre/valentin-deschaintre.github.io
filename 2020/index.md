@@ -5,7 +5,7 @@ title: "EGSR 2020"
 year: 2020
 image:
     feature: img/teaser/egsr_2020_teaser.png
-    credit: Imperial College London
+    credit: Imperial College London and University College London
     creditlink: https://www.imperial.ac.uk
 ---
 ## Eurographics Symposium on Rendering
