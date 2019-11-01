@@ -1,6 +1,6 @@
 ---
-layout: cvmp-twitter
+layout: egsr-twitter
 title: EGSR Home
 ---
 
-Welcome
+Welcome on the EGSR website

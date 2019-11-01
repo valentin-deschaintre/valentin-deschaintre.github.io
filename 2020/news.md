@@ -1,5 +1,5 @@
 ---
-layout: cvmp-twitter
+layout: egsr-twitter
 title: News
 year: 2020
 ---

@@ -1,5 +1,5 @@
 ---
-layout: cvmp-default
+layout: egsr-default
 categories: news
 title: Call for Submissions Announced
 excerpt: EGSR 2020 Call for Submissions is live

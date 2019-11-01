@@ -1,5 +1,5 @@
 ---
-layout: cvmp-default
+layout: egsr-default
 title: Committees
 year: 2020
 ---
