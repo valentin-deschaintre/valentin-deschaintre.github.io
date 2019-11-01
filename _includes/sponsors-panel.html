@@ -22,7 +22,8 @@
                 {% endfor %}
             </div>
             <br/>
-            <hr width="70%" style="margin-top: 10px; margin-bottom: 10px;">
+            <div class="fakeHr" style="border-bottom: 2px solid; width:70%;"></div>
+            <!--<hr width="70%" style="margin-top: 10px; margin-bottom: 10px;">-->
             <div class="row-xs-12 row-sm-6">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'silver' %}
