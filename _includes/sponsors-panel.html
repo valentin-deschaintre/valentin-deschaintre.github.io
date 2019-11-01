@@ -21,9 +21,8 @@
                     {% endif %}
                 {% endfor %}
             </div>
-            <br/>            
-            <hr width="70%">
             <br/>
+            <hr width="70%" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row-xs-12 row-sm-6">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'silver' %}
@@ -32,8 +31,7 @@
                 {% endfor %}
             </div>
             <br/>            
-            <hr width="70%">
-            <br/>
+            <hr width="70%" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row-xs-12 row-sm-6">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'bronze' %}
@@ -41,6 +39,8 @@
                     {% endif %}
                 {% endfor %}
             </div>
+            <br/>                        
+            <hr width="70%" style="margin-top: 10px; margin-bottom: 10px;">
             <div class="row-xs-12 row-sm-6">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'academic' %}
