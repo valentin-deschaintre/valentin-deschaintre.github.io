@@ -25,6 +25,10 @@ email: "egsr2020@cs.ucl.ac.uk"
 #facebook: egsr-4668468684?
 #twitter: egsr
 
+author:
+  name: Valentin Deschaintre
+  
+url-pretty: "egsr2020.london"
 
 # Use this for production
 sass:

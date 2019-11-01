@@ -1,4 +1,5 @@
 ---
+permalink: /committees
 layout: cvmp-default
 title: Committees
 year: 2020

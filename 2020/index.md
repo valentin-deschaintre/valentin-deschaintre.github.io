@@ -1,5 +1,5 @@
 ---
-redirect_from: "/"
+permalink: /
 layout: cvmp-plain
 title: "EGSR 2020"
 year: 2020
