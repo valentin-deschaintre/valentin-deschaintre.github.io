@@ -1,4 +1,6 @@
 ---
+permalink: /committees/
+redirect_from: "/2020/committees"
 layout: egsr-default
 title: Committees
 year: 2020

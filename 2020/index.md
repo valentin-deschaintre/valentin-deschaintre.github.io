@@ -1,5 +1,6 @@
 ---
-redirect_from: "/"
+permalink: /
+redirect_from: "/2020"
 layout: egsr-plain
 title: "EGSR 2020"
 year: 2020
