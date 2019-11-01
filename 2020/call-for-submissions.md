@@ -7,4 +7,4 @@ excerpt: "Submit your work to EGSR 2020"
 year: 2020
 ---
 
-Watch this space for the call for paper.
+Watch this space for the call for papers.
