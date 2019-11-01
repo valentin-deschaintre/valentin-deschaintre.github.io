@@ -20,10 +20,9 @@
                         <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
                     {% endif %}
                 {% endfor %}
+            <hr width="70%">
             </div>
             <br/>
-            <div class="fakeHr" style="border-bottom: 2px solid; width:70%;"></div>
-            <!--<hr width="70%" style="margin-top: 10px; margin-bottom: 10px;">-->
             <div class="row-xs-12 row-sm-6">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'silver' %}
