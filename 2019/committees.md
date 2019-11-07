@@ -88,7 +88,6 @@ year: 2019
 </div>
 
 <!-- <h2>Programme Committee</h2> -->
-
 <div class="col-12 col-sm-12 col-lg-12">
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -96,23 +95,24 @@ year: 2019
         </div>
         <div class="panel-body">
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Dan Casas<br><small>URJC, Spain</small></h4>
-                <h4>Robert Dawes<br><small>BBC R&D, UK</small></h4>
-                <h4>Peter Eisert<br><small>Fraunhofer HHI, Germany</small></h4>
-                <h4>Andrew Gibb<br><small>BBC R&D, UK</small></h4>
-                <h4>Mashhuda Glencross<br><small>Pismo Software, UK</small></h4>
+                <h4>Andrew Gilbert<br><small>University of Surrey</small></h4>
+                <h4>Armin Mustafa<br><small>University of Surrey</small></h4>
+                <h4>Dan Casas<br><small> Universidad Rey Juan Carlos</small></h4>
+                <h4>Dan Ring<br><small>Foundry</small></h4>
+                <h4>Marco Volino<br><small>University of Surrey</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Jean-Yves Guillemaut<br><small>University of Surrey, UK</small></h4>
-                <h4>Taku Komura<br><small>University of Edinburgh, UK</small></h4>
-                <h4>Rafal Mantiuk<br><small>University of Cambridge, UK</small></h4>
-                <h4>Erik Reinhard<br><small>Technicolor, France</small></h4>
+                 <h4>Mashhuda Glencross<br><small>Pismo Software</small></h4>
+                 <h4>Nadejda Roubtsova<br><small>University of Bath</small></h4>
+                 <h4>Peter Eisert<br><small>Fraunhofer Heinrich Hertz Institute</small></h4>
+                <h4>Rafal Mantiuk<br><small>University of Cambridge</small></h4>
+                <h4>Robert  Dawes  <br><small>BBC R&D</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Tobias Ritschel<br><small>University College London, UK</small></h4>
-                <h4>Jeremy Riviere<br><small>Disney Research</small></h4>
-                <h4>Zhidong Xiao<br><small>Bournemouth University, UK</small></h4>
-                <h4>Chao Zhang<br><small>University of York, UK</small></h4>
+                <h4>Tobias Ritschel<br><small>University College London</small></h4>
+                <h4>Tom Haines<br><small>University of Bath</small></h4>
+                <h4>Volker Helzle<br><small>Filmakademie</small></h4>
+                <h4>Zhidong Xiao<br><small>Bournemouth University</small></h4>
             </div>
         </div>
     </div>
