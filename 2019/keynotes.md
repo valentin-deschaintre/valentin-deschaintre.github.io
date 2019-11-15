@@ -1,0 +1,53 @@
+---
+layout: cvmp-default
+title: Keynotes
+year: 2019
+---
+
+We are pleased to announce the following keynote speakers for CVMP 2019:
+
+
+<a name="BB" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Bruna Berford, Penrose Studios<br>The Artist’s Perspective: Storytelling in Spatial Computing
+
+With spatial computing as an emerging platform, we are becoming more active in the way we consume entertainment. The pivot point has changed from watching life through a window to jumping through that window and breathing the fresh air of a vast new world that now surrounds us. After continuous experiments, we at Penrose have started to craft our own way of navigating this new world. Drawn from the past, with an eye for the future, this talk will walk people through the challenges and lessons learned during the production of the award-winning VR experience “Arden’s Wake”, through the artist’s perspective: highlighting the new challenges of the medium and the exciting dynamic ways to engage with the story.
+
+
+*Bruna Berford is the XR Animation Supervisor at Penrose Studios, where she supervised the animation for the award-winning experience "Arden’s Wake" (Best VR Award at the 74th Venice International Film Festival), and “Allumette" (2016 Tribeca Film Festival). Before joining Penrose, she worked as an animator at Oculus Story Studio on the EMMY Awarded experience "Henry", as a cinematic artist at Telltale Games, and several other projects including animated Disney TV Series. As a storyteller, Bruna likes to see the world as potential ideas for future narratives.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2019/keynotes/bruna-berford .jpg" class="img-responsive img-thumbnail" alt="Bruna Berford " title="Bruna Berford">
+</figure>
+
+</div>
+
+
+<a name="AG" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Abhijeet Ghosh, Imperial College London<br>Computational Imaging for Realistic Appearance Modelling
+
+This talk will provide an overview of the research we have been conducting in the Realistic Graphics and Imaging group at Imperial College on measurement based appearance modelling for realistic computer graphics. The talk will span techniques focusing both on standard geometric optics based acquisition, as well as imaging wave optical effects of surface reflectance. In the standard geometric optics regime, I will briefly describe our work on acquiring shape and reflectance of spatially varying planar material samples using a mobile device. I will then present some recent work on imaging wave optical effects such as polarization for appearance acquisition in uncontrolled outdoor environments, and imaging surface diffraction to model the complex iridescence seen on manufactured materials such LCD screens and holographic samples. The talk will conclude with a description of a multi-spectral Light Stage apparatus that we have built at Imperial and some recent results on high-quality facial capture including shape and reflectance acquisition for realistic facial renderings.
+
+*Abhijeet Ghosh is a Reader in Graphics and Imaging in the Department of Computing at Imperial College London, where he leads the Realistic Graphics and Imaging group and his current research interests include appearance modelling and computational photography/illumination for graphics and vision. He currently holds an EPSRC Early Career Fellowship (2016-2021), and has recently held a Royal Society Wolfson Research Merit Award (2013-2017) in this area. Previously, he was a Research Assistant Professor at the USC Institute for Creative Technologies where he significantly contributed to Light Stage based facial capture using polarized spherical gradient illumination that has been recognized with a Technical Achievement Award in 2019 by the Academy of Motion Picture Arts and Sciences. Abhijeet completed his PhD in Computer Science from the University of British Columbia is 2007. His doctoral dissertation received the 2008 Alain Fournier award for the best Canadian PhD thesis in computer graphics. Abhijeet was a program co-chair for Pacific Graphics in 2018 and conference chair for the ACM SIGGRAPH Conference on Visual Media Production (CVMP) in 2018. He is currently serving on the Editorial Board of IEEE Trans. on Visualization and Computer Graphics (TVCG).*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2019/keynotes/abhijeet-ghosh.jpg" class="img-responsive img-thumbnail" alt="Abhijeet Ghosh" title="Abhijeet Ghosh">
+</figure>
+
+</div>
+
+
+<a name="RM" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1">
+
+
