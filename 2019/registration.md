@@ -23,10 +23,7 @@ Tickets gain you entry to all areas of the conference (keynotes, paper sessions,
 
 ### Available tickets 
 
- - **Early-bird registration – £375**  
-Full conference ticket, including conference dinner (limited availability)
-
- - **Early-bird student registration – £300**  
+ - **Full delegate registration – £410**  
 Full conference ticket, including conference dinner (limited availability)
 
 - **Full delegate registration – £360**  
