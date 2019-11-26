@@ -46,8 +46,27 @@ This talk will provide an overview of the research we have been conducting in th
 </div>
 
 
-<a name="RM" />
+
+
+
+<a name="JP" />
 <div class="row">
-<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Johanna Pirker, Graz University of Technology<br>Talk Title TBC
+
+Talk Abstract TBC. 
+
+*Dr. Johanna Pirker is a computer scientist focusing on game development, research, and education and an active and strong voice of the local indie dev community. She has lengthy experience in designing, developing, and evaluating games and VR experiences and believes in them as tools to support learning, collaboration, and solving real problems. Johanna has started in the industry as QA tester at EA and still consults studios in the field of games user research. In 2011/12 she started researching and developing VR experiences at Massachusetts Institute of Technology. At the moment she is Ass. Prof. for game
+development at TU Graz and researches games with a focus on AI, HCI, data analysis, and VR technologies. Johanna was listed on the Forbes 30 Under 30 list of science professionals.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2019/keynotes/johanna-pirker.jpg" class="img-responsive img-thumbnail" alt="Abhijeet Ghosh" title="Abhijeet Ghosh">
+</figure>
+
+</div>
+
 
 
