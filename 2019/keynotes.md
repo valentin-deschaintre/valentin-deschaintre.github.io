@@ -63,10 +63,28 @@ development at TU Graz and researches games with a focus on AI, HCI, data analys
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/img/2019/keynotes/johanna-pirker.jpg" class="img-responsive img-thumbnail" alt="Abhijeet Ghosh" title="Abhijeet Ghosh">
+  <img src="{{site.url}}/img/2019/keynotes/johanna-pirker.jpg" class="img-responsive img-thumbnail" alt="Johanna Pirker" title="Johanna Pirker">
 </figure>
 
 </div>
 
 
+
+<a name="MD" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Max Dennison, DNEG<br>Talk Title TBC
+
+Talk Abstract TBC. 
+
+*With over 20 years of experience in the VFX industry, Max Dennison is recognised as a true expert in his field. Most recently he was recipient of the 2019 Primetime Emmy Award for ‘Outstanding Special Visual Effects in a Supporting Role’ for his work as VFX Supervisor on HBO’s ‘Chernobyl’. Prior to this he was nominated in 2018 with DNEG TV for a BAFTA Television Craft Award for ‘Special, Visual & Graphic Effects’ for ‘Emerald City’. Over the years, Max has applied his expertise on dozens of much-loved cinematic universes across adventure, fantasy and sci-fi productions including “Star War: Episode III - Revenge of the Sith’ and ‘Harry Potter and the Goblet of Fire’. His knowledge, experience and intrinsic insight has assisted many of cinema’s most renowned directors, including Martin Scorsese, George Lucas and Ron Howard.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2019/keynotes/max-dennsion.jpg" class="img-responsive img-thumbnail" alt="Max Dennison" title="Max Dennison">
+</figure>
+
+</div>
 
