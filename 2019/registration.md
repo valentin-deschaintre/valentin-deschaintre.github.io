@@ -34,19 +34,14 @@ Full conference ticket
 One-day conference ticket
 <span class="label label-info">No dinner</span>
 
-- **Dinner only – £50**  
+- **Dinner only – £40**  
 Conference dinner only at BFI Kitchen and Bar on Tuesday, 17 December 2019.
 
 The **[registration website](https://store.york.ac.uk/product-catalogue/computer-science/cvmp-2019)** is now open. 
 
 
-### Dinner 
+### Dinner Menu
 The CVMP 2019 Conference Dinner will be held on Tuesday, 17 December 2019, at [BFI Bar & Kitchen (Benugo)](https://www.benugo.com/restaurants/bfi-bar-kitchen) at the BFI Southbank. Details to follow.
-
-<!--
-### Dinner menu
-
-The CVMP 2018 Conference Dinner will be held on Thursday, 13 December 2018, at [BFI Bar & Kitchen (Benugo)](https://www.benugo.com/restaurants/bfi-bar-kitchen) at the BFI Southbank.
 
 When registering for CVMP, you will have been asked to select your choice of menu for the evening:
 
@@ -56,9 +51,9 @@ When registering for CVMP, you will have been asked to select your choice of men
 #### Non-vegetarian menu
 {: .panel-heading}
 <div class="panel-body">
-- Crayfish cocktail, avocado, cucumber, radish & baby gem
-- Roast Norfolk turkey crown, duck fat roast potatoes, roasted vegetables, cranberry sauce, red wine & thyme gravy 
-- Sticky toffee pudding, salted caramel, cinnamon ice cream
+- Ham hock terrine, piccalilli, parsley & caperberry salad, sourdough toast
+- Roast turkey, pigs in blankets, Brussels sprouts, pork & apricot stuffing,roast potatoes, turkey gravy, cranberry sauce
+- Christmas pudding, brandy crème anglaise
 </div>
 </div>
 
@@ -66,13 +61,12 @@ When registering for CVMP, you will have been asked to select your choice of men
 #### Vegetarian menu
 {: .panel-heading}
 <div class="panel-body">
-- Spiced mulligatawny soup, sour cream, coriander (V)
-- Warm puy lentil & roasted heritage beetroot salad, kale & green harissa yoghurt (V)
-- Sticky toffee pudding, salted caramel, cinnamon ice cream  
+- Wild mushroom velouté, truffled croutons, tarragon (vg)
+- Spiced cauliflower steak, nut roast crumble, lemon tahini sauce (vg)
+- Vegan mess, aquafaba meringue, coconut yoghurt, mandarin, chestnuts (vg)
 </div>
 </div>
 
 {::options parse_block_html="false" /}
 
-If you have any further dietary requirements, or allergies, please contact the restaurant directly at [benugoloungeside@benugo.com](mailto:benugoloungeside@benugo.com).
--->
+
