@@ -34,7 +34,7 @@ Full conference ticket
 One-day conference ticket
 <span class="label label-info">No dinner</span>
 
-- **Dinner only – £40**  
+- **Dinner only – £50**  
 Conference dinner only at BFI Kitchen and Bar on Tuesday, 17 December 2019.
 
 The **[registration website](https://store.york.ac.uk/product-catalogue/computer-science/cvmp-2019)** is now open. 
