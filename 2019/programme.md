@@ -130,7 +130,7 @@ year: 2019
 				<td><b>Coffee Break</b><br/><i>Poster presenters put up posters</i></td>
 			</tr>	
 			<tr>
-				<td>11:15</td><td><a href="/2019/keynotes/#MD"><b>Keynote: title TBC</b></a><br/>Max Dennison, <i>DNEG</i></td>
+				<td>11:15</td><td><a href="/2019/keynotes/#MD"><b>Keynote: Behind the VFX of HBO's Emmy Award winning 'Chernobyl'</b></a><br/>Max Dennison, <i>DNEG</i></td>
 			</tr>
 			<tr>
 				<td>12:15</td>
