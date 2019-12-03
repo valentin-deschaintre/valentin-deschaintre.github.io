@@ -86,7 +86,7 @@ year: 2019
 				<td><b>Special Session on Games</b><br/>
 					<ul>
 						<li>Crossing the streams with video and games<br/><i>Oscar Clark (Fundamentally Games)</i></li>
-						<li>Digging into Monodepth<br/><i>Daniyar Turmukhambetov (Niantic)</i></li>
+						<li>Depth from single image for augmented reality<br/><i>Daniyar Turmukhambetov (Niantic Labs)</i></li>
 					</ul>
 				</td>
 			</tr>
