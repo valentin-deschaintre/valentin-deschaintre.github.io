@@ -85,8 +85,8 @@ year: 2019
 				<td>15:20</td>
 				<td><b>Special Session on Games</b><br/>
 					<ul>
-						<li>Crossing the streams with video and games</a><br/><i>Oscar Clark (Rocket Lolly Games)</i></li>
-						<li>Digging into Monodepth</a><br/><i>Daniyar Turmukhambetov (Niantic)</i></li>
+						<li>Crossing the streams with video and games<br/><i>Oscar Clark (Rocket Lolly Games)</i></li>
+						<li>Digging into Monodepth<br/><i>Daniyar Turmukhambetov (Niantic)</i></li>
 					</ul>
 				</td>
 			</tr>
