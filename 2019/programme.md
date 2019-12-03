@@ -176,8 +176,8 @@ year: 2019
 				<td>15:10</td>
 				<td><b>Industry talks 3 & 4</b><br/>
 					<ul>
-						<li>Light-field Post-production for Virtual Reality Applications</a><br/><i>Matthias Ziegler (Fraunhofer IIS), Joachim Keinert (Fraunhofer IIS)</i></li>
-						<li>Picture Lock? Hence with it! - Workflow Optimization for Layout Stage in Animation Production</a><br/><i>Martin Minsel (RnDeep GmbH)</i></li>
+						<li>Light-field Post-production for Virtual Reality Applications<br/><i>Matthias Ziegler (Fraunhofer IIS), Joachim Keinert (Fraunhofer IIS)</i></li>
+						<li>Picture Lock? Hence with it! - Workflow Optimization for Layout Stage in Animation Production<br/><i>Martin Minsel (RnDeep GmbH)</i></li>
 					</ul>
 				</td>
 			</tr>			
