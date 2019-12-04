@@ -15,6 +15,7 @@
             {% endfor %}
             <!--<center><h4 class="panel-heading">Gold</h4></center>-->
             <div class="row-xs-12 sponsors" >
+				<center><h3 style="color:#D4AF37">Gold</h3></center>
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'gold' %}
                         <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
@@ -24,6 +25,7 @@
             <div class="row-xs-12 row-sm-6 line"></div>
             <!--<center><h4 class="panel-heading">Silver</h4></center>-->
             <div class="row-xs-12 row-sm-6 sponsors">
+				<center><h3 style="color:#C0C0C0">Silver</h3></center>
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'silver' %}
                         <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
@@ -33,6 +35,7 @@
             <div class="row-xs-12 row-sm-6 line"></div>
             <!--<center><h4 class="panel-heading">Bronze</h4></center>-->
             <div class="row-xs-12 row-sm-6 sponsors">
+				<center><h3 style="color:#cd7f32">Bronze</h3></center>
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'bronze' %}
                         <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
