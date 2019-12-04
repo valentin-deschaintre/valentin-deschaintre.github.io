@@ -53,9 +53,10 @@ This talk will provide an overview of the research we have been conducting in th
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
-#### Johanna Pirker, Graz University of Technology<br>Talk Title TBC
+#### Johanna Pirker, Graz University of Technology<br>A Year of Playing the World
 
-Talk Abstract TBC. 
+Johanna always played a lot of games and knew all the new major titles out there. Eventually she recognized a major blindspot: the titles were all developed by the same studios in the same countries and told similar stories. It is then when Johanna decided to start looking for games from all over the world. By playing games based on recommendations of people living in different parts of the world, Johanna has found vast diversity among what the industry had to offer and discovered how to look at games and virtual experiences in a different way.
+In this talk, Dr. Johanna Pirker will talk about her experiences playing games from different countries, genres, backgrounds, and stories and how her journey and as a result also her research took a new turn: to virtual reality and to game live streams.
 
 *Dr. Johanna Pirker is a computer scientist focusing on game development, research, and education and an active and strong voice of the local indie dev community. She has lengthy experience in designing, developing, and evaluating games and VR experiences and believes in them as tools to support learning, collaboration, and solving real problems. Johanna has started in the industry as QA tester at EA and still consults studios in the field of games user research. In 2011/12 she started researching and developing VR experiences at Massachusetts Institute of Technology. At the moment she is Ass. Prof. for game
 development at TU Graz and researches games with a focus on AI, HCI, data analysis, and VR technologies. Johanna was listed on the Forbes 30 Under 30 list of science professionals.*

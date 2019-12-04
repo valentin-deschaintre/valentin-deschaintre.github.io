@@ -91,7 +91,7 @@ year: 2019
 				</td>
 			</tr>
 			<tr>
-				<td>16:00</td><td><a href="/2019/keynotes/#JP"><b>Keynote: Title TBC</b></a><br/>Johanna Pirker, <i>Graz University of Technology</i></td>
+				<td>16:00</td><td><a href="/2019/keynotes/#JP"><b>Keynote: A Year of Playing the World</b></a><br/>Johanna Pirker, <i>Graz University of Technology</i></td>
 			</tr>
 			<tr>
 				<td>17:00</td>
