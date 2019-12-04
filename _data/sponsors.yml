@@ -1,11 +1,10 @@
 2020:
-- name: Autodesk
-  url: https://www.autodesk.com/
-  image: img/2020/sponsors/Autodesk.png
-  image2: img/2020/sponsors/Autodesk2.png
+- name: Activision
+  url: https://www.activision.com/
+  image: img/2020/sponsors/logo-activision.png
+  image2: img/2020/sponsors/logo-activision2.png
   level: gold
-  description: <b>Autodesk</b> makes software for people who make things. If you’ve ever driven a high-performance car, admired a towering skyscraper, used a smartphone, or watched a great film, chances are you’ve experienced what millions of Autodesk customers are doing with our software.
-
+  description: For over 30 years, <b>Activision</b> has been changing the way people play. We develop, distribute, and publish deeply immersive interactive entertainment for gaming consoles, mobile and tablet platforms, and PCs, including blockbuster franchises like Call of Duty®, Skylanders® and Destiny®. We strive to make the most fun, thrilling, and engaging entertainment experiences for our players, who live in a world with many entertainment options. Operating in more than 15 countries, our success is built upon the shared dedication of great people whose sense of mutual respect and teamwork drives our performance.
   
 - name: Adobe
   url: https://www.adobe.com/
@@ -14,12 +13,12 @@
   level: gold
   description: <b>Adobe</b> is the global leader in digital media and digital marketing solutions. Our creative, marketing and document solutions empower everyone – from emerging artists to global brands – to bring digital creations to life and deliver immersive, compelling experiences to the right person at the right moment for the best results. In short, Adobe is everywhere, and we’re changing the world through digital experiences.
 
-- name: Activision
-  url: https://www.activision.com/
-  image: img/2020/sponsors/logo-activision.png
-  image2: img/2020/sponsors/logo-activision2.png
+- name: Autodesk
+  url: https://www.autodesk.com/
+  image: img/2020/sponsors/Autodesk.png
+  image2: img/2020/sponsors/Autodesk2.png
   level: gold
-  description: For over 30 years, <b>Activision</b> has been changing the way people play. We develop, distribute, and publish deeply immersive interactive entertainment for gaming consoles, mobile and tablet platforms, and PCs, including blockbuster franchises like Call of Duty®, Skylanders® and Destiny®. We strive to make the most fun, thrilling, and engaging entertainment experiences for our players, who live in a world with many entertainment options. Operating in more than 15 countries, our success is built upon the shared dedication of great people whose sense of mutual respect and teamwork drives our performance.
+  description: <b>Autodesk</b> makes software for people who make things. If you’ve ever driven a high-performance car, admired a towering skyscraper, used a smartphone, or watched a great film, chances are you’ve experienced what millions of Autodesk customers are doing with our software.
 
 - name: Facebook Reality Labs
   url: https://research.fb.com/category/augmented-reality-virtual-reality/
