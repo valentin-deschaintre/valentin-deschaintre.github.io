@@ -45,12 +45,12 @@ year: 2019
 				<td><b>Spotlight Session 1</b><br/>
 					<ul>
 						<li>L2-based Colour Correction for Light Field Arrays<br/><i>Mairead Grogan (Trinity College Dublin), Aljosa Smolic (Trinity College Dublin)</i></li>
-						<li>High-resolution BTF Capture for delicate Materials<br/><i>Gilles Rainer (University College London), Tim Weyrich (University College London)</i></li>
-						<li>Efficient and Realistic High Resolution Sky Replacement<br/><i>Tony P Polichroniadis (Anthropics)</i></li>
-						<li>Full-body Performance Capture of Sports from Multi-view Video<br/><i>Lewis N Bridgeman (University of Surrey), Jean-Yves Guillemaut (University of Surrey), Adrian Hilton (University of Surrey)</i></li>
+						<li>High-resolution BTF Capture for delicate Materials<br/><i>Gilles Rainer (University College London), Kevin Rathbone (Robotae Ltd), Tim Weyrich (University College London)</i></li>
+						<li>Efficient and Realistic High Resolution Sky Replacement<br/><i>Tony Polichroniadis (Anthropics), Sara Vicente (Anthropics)</i></li>
+						<li>Full-body Performance Capture of Sports from Multi-view Video<br/><i>Lewis Bridgeman (University of Surrey), Jean-Yves Guillemaut (University of Surrey), Adrian Hilton (University of Surrey)</i></li>
 						<li>High Quality Facial Capture using Binary Spherical Gradient Illumination<br/><i>Alexandros Lattas (Imperial College London), Yuan Zhu (Imperial College London), Abhijeet Ghosh (Imperial College London)</i></li>
-						<li>Approaching real-time Character Animation in Virtual Productions<br/><i>Jonas Trottnow (Filmakademie Baden-Württemberg GmbH)</i></li>
-						<li>Neurocreativity: Changing how we create visual content<br/><i>Georgia Dawson (Saddington Baynes)</i></li>
+						<li>Approaching real-time Character Animation in Virtual Productions<br/><i>Jonas Trottnow (Filmakademie Baden-Württemberg GmbH), Simon Spielmann (Filmakademie Baden-Württemberg GmbH), David Moreno (Universitat Pompeu Fabra), Javi Agenjo (Universitat Pompeu Fabra)</i></li>
+						<li>Neurocreativity: Changing how we create visual content<br/><i>Chris Christodoulou (Saddington Baynes), James Digby-Jones (Saddington Baynes)</i></li>
 						<li>Accelerating Handheld Object Pose Estimation on Smartphones in Unity with TensorFlow Lite<br/><i>Valentin Miu (Bournemouth University), Oleg Fryazinov (Bournemouth University)</i></li>
 						<li>A virtual reality experience combining light-field video and computer graphics content<br/><i>Matthias Ziegler (Fraunhofer IIS), Joachim Keinert (Fraunhofer IIS)</i></li>
 						<li>Interactive Storytelling Using 360-degree Video and Light Fields<br/><i>Florian Schweiger (BBC), Alia Sheikh (BBC), Andy Brown (BBC), Matthew Brooks (BBC), Paul Golds (BBC), Bruce Weir (BBC), Graham Thomas (BBC), Adam Cherbetji (Foundry), Niall Redmond (Foundry), Ana Mihut (Foundry), Louise Hastings (Foundry)</i></li>
@@ -143,7 +143,7 @@ year: 2019
 						<li>A Differentiable CGA Shape Procedural System<br/><i>Victor Ceballos Inza (University of Bath), Yongliang Yang (University of Bath), Tom Kelly (University of Leeds)</i></li>
 						<li>Joint Demosaicing and Chromatic Aberration Correction of Images Using Neural Networks<br/><i>Charles Malleson (University of Surrey), Adrian Hilton (University of Surrey)</i></li>
 						<li>Face Reflectance and Geometry Modeling via Differentiable Ray Tracing<br/><i>Abdallah Dib (InterDigital), Gaurav Bharaj (Technicolor), Junghyun Ahn (Technicolor), Cedric Thebault (InterDigital), Philippe-Henri Gosselin (InterDigital), Louis Chevallier (InterDigital)</i></li>
-						<li>Deep lens aberration correction<br/><i>Ljubomir Jovanov (UGent)</i></li>
+						<li>Deep lens aberration correction<br/><i>Ljubomir Jovanov (Ghent University), Wilfried Philips (Ghent University)</i></li>
 						<li>Scene Editing Using Synthesis of Three-Dimensional Virtual Worlds From Monocular Images of Urban Road Traffic Scenes<br/><i>Ankita Christine Victor (IIIT-Bangalore), Jaya Sreevalsan-Nair (IIIT-Bangalore)</i></li>
 						<li>Deep 4D Shape Representation: Learning 4D Volumetric Video from Skeletal Motion<br/><i>Joao Regateiro (University of Surrey), Marco Volino (University of Surrey), Adrian Hilton (University of  Surrey)</i></li>
 						<li>Learning Human Reconstruction from Synthetic Dataset<br/><i>Akin Caliskan (University of Surrey), Armin Mustafa (University of Surrey), Imre Evren (Vicon), Adrian Hilton (University of Surrey)</i></li>
