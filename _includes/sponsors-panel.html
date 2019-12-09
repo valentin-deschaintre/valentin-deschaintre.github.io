@@ -16,32 +16,63 @@
             <!--<center><h4 class="panel-heading">Gold</h4></center>-->
             <div class="row-xs-12 sponsors" >
 				<center><h3 style="color:#D4AF37">Gold</h3></center>
+				{% assign columnId = 0 %}
+				<table style="width:100%; table-layout: fixed ;">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'gold' %}
-                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+						{% if columnId == 0%}
+							<tr>
+						{% endif %}
+                        <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width: 100%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
+						{% if columnId == 1%}
+							</tr>
+						{% endif %}
+						{% assign columnId = columnId | plus: 1 | modulo: 2%}
                     {% endif %}
                 {% endfor %}
+				</table>
             </div>
             <div class="row-xs-12 row-sm-6 line"></div>
             <!--<center><h4 class="panel-heading">Silver</h4></center>-->
             <div class="row-xs-12 row-sm-6 sponsors">
 				<center><h3 style="color:#C0C0C0">Silver</h3></center>
+				{% assign columnId = 0 %}
+				<table style="width:100%; table-layout: fixed ;">				
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'silver' %}
-                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+						{% if columnId == 0%}
+							<tr>
+						{% endif %}					
+                        <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width: 100%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
+						{% if columnId == 1%}
+							</tr>
+						{% endif %}
+						{% assign columnId = columnId | plus: 1 | modulo: 2%}						
                     {% endif %}
                 {% endfor %}
+				</table>
             </div>
             <div class="row-xs-12 row-sm-6 line"></div>
             <!--<center><h4 class="panel-heading">Bronze</h4></center>-->
             <div class="row-xs-12 row-sm-6 sponsors">
 				<center><h3 style="color:#cd7f32">Bronze</h3></center>
+				{% assign columnId = 0 %}
+				<table style="width:50%; table-layout: fixed ;">				
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'bronze' %}
-                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+						{% if columnId == 0%}
+							<tr>
+						{% endif %}					
+                        <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width: 100%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
+						{% if columnId == 1%}
+							</tr>
+						{% endif %}
+						{% assign columnId = columnId | plus: 1 | modulo: 2%}						
                     {% endif %}
                 {% endfor %}
+				</table>
             </div>
+			
             <div class="row-xs-12 row-sm-6">
                 {% for sponsor in site.data.sponsors[year] %}
                     {% if sponsor.level contains 'academic' %}
