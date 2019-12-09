@@ -11,7 +11,7 @@ year: 2020
 <div class="col-4 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
-            <h4 class="panel-title">Program chairs</h4>
+            <h4 class="panel-title">Programme chairs</h4>
         </div>
         <div class="panel-body">
             <h4><a href="https://pharr.org/matt/" target="_blank">Matt Pharr</a><br><small> Nvidia Research, USA</small></h4>
