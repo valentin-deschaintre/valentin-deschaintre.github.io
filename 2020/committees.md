@@ -1,8 +1,8 @@
 ---
-permalink: /confChairs/
-redirect_from: "/2020/confChairs"
+permalink: /committees/
+redirect_from: "/2020/committees"
 layout: egsr-default
-title: Conference chairs
+title: Committees
 year: 2020
 ---
 
@@ -25,7 +25,7 @@ year: 2020
 <div class="col-4 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
-            <h4 class="panel-title">Local organisation committee</h4>
+            <h4 class="panel-title">Conference chairs</h4>
         </div>
         <div class="panel-body">
             <h4><a href="https://www.doc.ic.ac.uk/~ghosh/" target="_blank">Abhijeet Ghosh</a><br><small> Imperial College London, UK</small></h4>
