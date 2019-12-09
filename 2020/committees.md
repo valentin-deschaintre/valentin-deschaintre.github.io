@@ -1,8 +1,8 @@
 ---
-permalink: /committees/
-redirect_from: "/2020/committees"
+permalink: /committee/
+redirect_from: "/2020/committee"
 layout: egsr-default
-title: Committees
+title: Committee
 year: 2020
 ---
 
@@ -43,7 +43,7 @@ year: 2020
 <div class="col-4 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
-            <h4 class="panel-title">Website chair</h4>
+            <h4 class="panel-title">Website</h4>
         </div>
         <div class="panel-body">
             <h4><a href="http://valentin.deschaintre.fr/" target="_blank">Valentin Deschaintre</a><br><small> Imperial College London, UK</small></h4>
