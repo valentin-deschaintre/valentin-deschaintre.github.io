@@ -8,3 +8,7 @@ year: 2020
 ---
 
 Watch this space for the call for papers.
+
+<h2 id="research">Research</h2>
+
+<h2 id="industry">Industry</h2>
