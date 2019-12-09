@@ -1,8 +1,8 @@
 ---
-permalink: /committees/
-redirect_from: "/2020/committees"
+permalink: /confChairs/
+redirect_from: "/2020/confChairs"
 layout: egsr-default
-title: Committees
+title: Conference chairs
 year: 2020
 ---
 
@@ -14,7 +14,7 @@ year: 2020
             <h4 class="panel-title">Program chairs</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="https://pharr.org/matt/" target="_blank">Matt Phar</a><br><small> Nvidia Research, USA</small></h4>
+            <h4><a href="https://pharr.org/matt/" target="_blank">Matt Pharr</a><br><small> Nvidia Research, USA</small></h4>
         </div>
         <div class="panel-body">
             <h4><a href="https://cg.ivd.kit.edu/english/dachsbacher/" target="_blank">Carsten Dachsbacher</a><br><small> Karlsruhe Institute of Technology (KIT), Germany</small></h4>
@@ -25,13 +25,13 @@ year: 2020
 <div class="col-4 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
-            <h4 class="panel-title">Local organizing committee</h4>
+            <h4 class="panel-title">Local organisation committee</h4>
         </div>
         <div class="panel-body">
             <h4><a href="https://www.doc.ic.ac.uk/~ghosh/" target="_blank">Abhijeet Ghosh</a><br><small> Imperial College London, UK</small></h4>
         </div>
         <div class="panel-body">
-            <h4><a href="http://www.homepages.ucl.ac.uk/~ucactri/" target="_blank">Tobias Ritchel</a><br><small> University College London, UK</small></h4>
+            <h4><a href="http://www.homepages.ucl.ac.uk/~ucactri/" target="_blank">Tobias Ritschel</a><br><small> University College London, UK</small></h4>
         </div>
         <div class="panel-body">
             <h4><a href="http://reality.cs.ucl.ac.uk/weyrich.html" target="_blank">Tim Weyrich</a><br><small> University College London, UK</small></h4>
