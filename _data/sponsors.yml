@@ -43,10 +43,10 @@
 
 - name: Google Deepmind
   url: https://deepmind.com/
-  image: img/2020/sponsors/deepmind-logo.jpg
-  image2: img/2020/sponsors/deepmind-logo2.jpg
+  image: img/2020/sponsors/deepmind-logo.png
+  image2: img/2020/sponsors/deepmind-logo2.png
   level: silver  
-  description: Artificial intelligence could be one of humanity's most useful inventions. <b>DeepMind</b> aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems. We’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
+  description: Artificial intelligence could be one of humanity’s most useful inventions. We research and build safe AI systems that learn how to solve problems and advance scientific discovery for all. We’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority. 
   
 - name: Weta
   url: https://www.wetafx.co.nz/
