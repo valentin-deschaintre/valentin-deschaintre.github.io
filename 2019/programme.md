@@ -4,7 +4,6 @@ title: Conference Programme
 year: 2019
 ---
 
-*Please note: This conference programme is preliminary and may change.* 
 
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="Tuesday"></a>
@@ -46,11 +45,11 @@ year: 2019
 					<ul>
 						<li><a target ="_blank" href="/files/2019/short/32.pdf">L2-based Colour Correction for Light Field Arrays</a><br/><i>Mairead Grogan (Trinity College Dublin), Aljosa Smolic (Trinity College Dublin)</i></li>
 						<li><a target ="_blank" href="/files/2019/short/34.pdf">High-resolution BTF Capture for delicate Materials</a><br/><i>Gilles Rainer (University College London), Kevin Rathbone (Robotae Ltd), Tim Weyrich (University College London)</i></li>
-						<li>Efficient and Realistic High Resolution Sky Replacement<br/><i>Tony Polichroniadis (Anthropics), Sara Vicente (Anthropics)</i></li>
+						<li><a target ="_blank" href="/files/2019/short/38.pdf">Efficient and Realistic High Resolution Sky Replacement</a><br/><i>Tony Polichroniadis (Anthropics), Sara Vicente (Anthropics)</i></li>
 						<li><a target ="_blank" href="/files/2019/short/43.pdf">Full-body Performance Capture of Sports from Multi-view Video</a><br/><i>Lewis Bridgeman (University of Surrey), Jean-Yves Guillemaut (University of Surrey), Adrian Hilton (University of Surrey)</i></li>
 						<li><a target ="_blank" href="/files/2019/short/44.pdf">High Quality Facial Capture using Binary Spherical Gradient Illumination</a><br/><i>Alexandros Lattas (Imperial College London), Yuan Zhu (Imperial College London), Abhijeet Ghosh (Imperial College London)</i></li>
 						<li><a target ="_blank" href="/files/2019/short/46.pdf">Approaching real-time Character Animation in Virtual Productions</a><br/><i>Jonas Trottnow (Filmakademie Baden-Württemberg GmbH), Simon Spielmann (Filmakademie Baden-Württemberg GmbH), David Moreno (Universitat Pompeu Fabra), Javi Agenjo (Universitat Pompeu Fabra)</i></li>
-						<li>Neurocreativity: Changing how we create visual content<br/><i>Chris Christodoulou (Saddington Baynes), James Digby-Jones (Saddington Baynes)</i></li>
+						<li><a target ="_blank" href="/files/2019/short/57.pdf">Neurocreativity: Changing how we create visual content</a><br/><i>Chris Christodoulou (Saddington Baynes), James Digby-Jones (Saddington Baynes)</i></li>
 						<li><a target ="_blank" href="/files/2019/short/56.pdf">Accelerating Handheld Object Pose Estimation on Smartphones in Unity with TensorFlow Lite</a><br/><i>Valentin Miu (Bournemouth University), Oleg Fryazinov (Bournemouth University)</i></li>
 						<li>A virtual reality experience combining light-field video and computer graphics content<br/><i>Matthias Ziegler (Fraunhofer IIS), Joachim Keinert (Fraunhofer IIS)</i></li>
 						<li>Interactive Storytelling Using 360-degree Video and Light Fields<br/><i>Florian Schweiger (BBC), Alia Sheikh (BBC), Andy Brown (BBC), Matthew Brooks (BBC), Paul Golds (BBC), Bruce Weir (BBC), Graham Thomas (BBC), Adam Cherbetji (Foundry), Niall Redmond (Foundry), Ana Mihut (Foundry), Louise Hastings (Foundry)</i></li>
@@ -137,7 +136,7 @@ year: 2019
 				<td><b>Spotlight Session 2</b><br/>
 					<ul>
 						<li>Fast synthesis of atmospheric effects<br/><i>Miles Hansard (Queen Mary University of London)</i></li>
-						<li>Simulated foveated depth-of-field blur for virtual reality systems<br/><i>Razeen Hussain (University of Genova), Fabio Solari (University of Genova), Manuela Chessa (University of Genova)</i></li>
+						<li><a target ="_blank" href="/files/2019/short/24.pdf">Simulated foveated depth-of-field blur for virtual reality systems</a><br/><i>Razeen Hussain (University of Genova), Fabio Solari (University of Genova), Manuela Chessa (University of Genova)</i></li>
 						<li><a target ="_blank" href="/files/2019/short/30.pdf">Joint Estimation of Face and Camera Pose from a Collection of Images</a><br/><i>David Greenwood (UEA), Sarah Taylor (UEA), Iain Matthews (Carnegie Mellon University)</i></li>
 						<li><a target ="_blank" href="/files/2019/short/33.pdf">5D Light Field Video Capture</a><br/><i>Thorsten Herfet (Saarland Informatics Campus), Tobias Lange (Saarland Informatics Campus), Kelvin Chelli (Saarland Informatics Campus)</i></li>
 						<li><a target ="_blank" href="/files/2019/short/35.pdf">A Differentiable CGA Shape Procedural System</a><br/><i>Victor Ceballos Inza (University of Bath), Yongliang Yang (University of Bath), Tom Kelly (University of Leeds)</i></li>
