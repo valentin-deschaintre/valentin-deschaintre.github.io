@@ -121,7 +121,7 @@ year: 2019
 				</td>
 			</tr>
 			<tr>
-				<td>10:40</td>
+				<td>10:30</td>
 				<td><b>Industry Talk 2</b><br/>Academy Software Foundation: Advancing Open Source Software<br/><i>Graham Jack (DNEG), Emily Olin (The Linux Foundation)</i></td>
 			</tr>
 			<tr>
