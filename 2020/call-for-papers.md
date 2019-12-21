@@ -7,7 +7,7 @@ excerpt: "Submit your work to EGSR 2020"
 year: 2020
 ---
 
-<p>This year, EGSR features two paper submission tracks: the <a href="research">Research Track</a> and the  <a href="industry">Industry Track</a> (new as of last year).</p>
+<p>This year, EGSR features two paper submission tracks: the <a href="#research">Research Track</a> and the  <a href="#industry">Industry Track</a> (new as of last year).</p>
 
 <h1 id="research"><strong>Research Track</strong></h1>
 <p>A PDF version of Research Track call for papers is available to download from <a href="research.pdf">here</a>.</p>
