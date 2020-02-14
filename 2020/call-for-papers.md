@@ -72,13 +72,13 @@ year: 2020
 <ul><li>Industry Track papers deadline: May 26, 2020</li>
 <li>Author notification: June 2, 2020</li>
 <li>Final papers due: June 22, 2020</li></ul>
-<h3><strong>Program chairs</strong></h3>
+<!--<h3><strong>Program chairs</strong></h3>
 <ul><li><a href="https://cg.ivd.kit.edu/english/dachsbacher/">Carsten Dachsbacher</a>, Computer Graphics Group, Karlsruhe Institute of Technology</li>
 <li><a href = "https://pharr.org/matt">Matt Pharr</a>, NVIDIA</li></ul>
 <h3><strong>Local chairs</strong></h3>
 <ul><li><a href = "https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a><strong>, </strong>Imperial College London</li>
 <li><a href = "http://www.homepages.ucl.ac.uk/~ucactri/">Tobias Ritschel</a><strong>, </strong>University College London</li>
-<li><a href = "http://reality.cs.ucl.ac.uk/weyrich.html">Tim Weyrich</a>, University College London</li></ul>
+<li><a href = "http://reality.cs.ucl.ac.uk/weyrich.html">Tim Weyrich</a>, University College London</li></ul>-->
 <h3><strong>Industry Track FAQ</strong></h3>
 <p><strong>Q:</strong> Can people in academia submit?</p>
 <p><strong>A:</strong> Yes, but we are looking for ideas that have shown practical use through some kind of industrial deployment.</p>
