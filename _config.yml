@@ -1,6 +1,6 @@
 # Site settings
-title: "EGSR"
-tagline: "Eurographics Symposium on Renderings 2020"
+title: "Valentin Deschaintre"
+tagline: ""
 
 # URL - Deployment
 url: "https://valentin-deschaintre.github.io"
@@ -19,7 +19,7 @@ plugins:
   - jekyll-redirect-from
 
 # Contact
-email: "egsr2020@cs.ucl.ac.uk"
+email: "v.deschaintre@ic.ac.uk"
 
 # Social
 #facebook: egsr-4668468684?

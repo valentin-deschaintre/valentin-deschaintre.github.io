@@ -1,0 +1,242 @@
+@font-face {
+	font-family: 'Droid Sans';
+	/*src: url('fonts/DroidSans-webfont.eot');
+	src: url('fonts/DroidSans-webfont.eot?#iefix') format('embedded-opentype'),
+	url('fonts/DroidSans-webfont.woff') format('woff'),
+	url('fonts/DroidSans-webfont.ttf') format('truetype'),
+	url('fonts/DroidSans-webfont.svg#droid_sansregular') format('svg');*/
+	font-weight: normal;
+	font-style: normal; 
+}
+
+body {
+	font-family: DroidSans-webfont, DroidSans, 'Droid Sans', Arial, helvetica;
+	font-size:small;
+	color:#000000;
+	background-color:#FFF;
+	padding:5px;  
+	margin-left:20px;
+	margin-right:20px;
+}
+
+bodyB {
+	font-family: DroidSans-webfont, DroidSans, 'Droid Sans', Arial, helvetica;
+	font-size:small;
+	font-weight:600;
+	color:#D6341D;
+	background-color:#FFF;
+}
+
+h1   { 
+	font-family: DroidSans-webfont, DroidSans, 'Droid Sans', Arial, helvetica;
+	font-size:xx-large;
+	color:#1f5bdb;
+	font-weight: bold; 
+	text-align: center;
+	margin:0;
+}
+h2   { 
+	font-family: DroidSans-webfont, DroidSans, 'Droid Sans', Arial, helvetica;
+	font-size:x-large;
+	color:#1f5bdb;
+	letter-spacing:1px;
+	background: #AAA;
+	font-weight: normal; 
+	padding: 2px 0px 1px 15px;
+	text-align: left; 
+	border: 1px solid #000;
+}
+h3   { 
+	font-size:large;
+	color:#1f5bdb;
+	background: #FFF;
+	font-weight: normal; 
+	text-align: left; 
+	padding-bottom: 1px;
+	padding-top: 3px;
+	padding-left: 25px;
+	border: 1px solid #000;
+}
+h4   { 
+	font-size:small;
+	color:#1f5bdb;
+	background: #000;
+	font-weight: normal; 
+	text-align: left; 
+	padding-bottom: 1px;
+	padding-top: 3px;
+	padding-left: 25px;
+	border: 1px solid #000;
+}
+a 
+{	
+	color:#000;
+	text-decoration:none;
+	font-weight:600;
+}
+a:hover{
+	color:#D6341D;
+}
+img{
+	border-width:0px;
+}
+#banner {
+	background-color:#FFF;
+	border: 1px solid #000;
+}
+#banner a {
+	margin: 2px 3%;
+    vertical-align: super;
+	font-size:large;
+}
+#content {
+	margin:0px;
+	padding:15px;
+	background-color:#FFF;
+}
+#footer {
+    text-align: center;
+	font-size:small;
+	margin-left:40px;
+	padding:0px;
+	color: #000;
+}
+
+.search {
+	position: relative;
+	margin:30px 10%;
+	text-align: center;
+	padding-top: 8px;
+	background: #FFF;
+	color: #000;
+	border: solid #FFF 1px;
+}
+.search input {
+	margin-right:20px;
+}
+.search p {
+	padding:0px
+}
+.Publications {
+	margin: 10px 3%;
+	text-align: center;
+}
+.Publications .year {
+	position: relative;
+	color:#444;
+	letter-spacing:1px;
+	font-weight:bold;
+	background:#FFF;
+	text-align:left;
+	border: solid 1px #558;
+	padding: 3px 0px 2px 20px;
+	margin-top: 5px;
+	margin-bottom: 12px;
+}
+
+.Publications .imgMovies {
+	margin-left: 32%;
+	padding: 0;
+	text-align: center;
+}
+
+.Publications .thumb {
+	position: relative;
+	float: left;
+	padding: 0px;
+	margin: 0px;
+	width: 111px;
+	height: 88px;
+}
+.image 
+{
+	background-image: url("http://www-sop.inria.fr/reves/Basilic/images/thumbImg.png");
+}
+.movie {
+	background-image: url("http://www-sop.inria.fr/reves/Basilic/images/thumbMovie.png");
+}
+.image:hover {
+	background-image: url("http://www-sop.inria.fr/reves/Basilic/images/thumbImgHover.png");
+}
+.movie:hover {
+	background-image: url("http://www-sop.inria.fr/reves/Basilic/images/thumbMovieHover.png");
+}
+.Publications .thumb img {
+	margin: auto;
+	display: block;
+}
+
+.list .ref {
+	margin-left: 130px;
+	position: relative;
+	text-align:left;
+}
+.gallery .ref {
+	float: left;
+	position: relative;
+	text-align: left;
+	font-size: small;
+	padding: 0px;
+	margin: 0px;
+	width: 30%;
+}
+.Publications pre {
+    margin-left:20px;
+	text-align: left;
+}
+
+.Publications .interYear {
+	height: 70px;
+	clear: both;
+}
+
+.Publications hr {
+	width: 80%;
+	margin: 12px 130px;
+	padding: 0px;
+	height: 2px;
+	border: 0px;
+	background: #DDE;
+	clear: both;
+}
+.gallery hr {
+	margin: 50px 130px;
+}
+
+.title {
+	font-size: medium;
+	padding-top: 8px;
+	margin-bottom: 6px;
+}
+.doc {
+	vertical-align: middle;
+}
+.authors {
+	margin: 3px 0px;
+}
+ 
+.pageMenu {
+	margin: 4px 3%;
+}
+.pageMenu .displayAll {
+	float: left;
+	position: relative;
+}
+.pageMenu .pageIndex {
+	float: right;
+	position: relative;
+}
+.pageIndex b {
+	background-color:#DDD;
+	padding:2px 5px;
+}
+
+.noresult {
+	text-align:center;
+}
+
+.noresult h2 {
+	text-align:center;
+	color:#000;
+	background-color:#EDD;
+}
