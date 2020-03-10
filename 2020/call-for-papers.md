@@ -12,6 +12,7 @@ year: 2020
 <h1 id="research"><strong>Research Track</strong></h1>
 <p>A PDF version of Research Track call for papers is available to download from <a href="research.pdf">here</a>.</p>
 <p>The Eurographics Symposium on Rendering 2020 will take place in London, England from June 29th to July 2nd, 2020. This 31th event continues the series of highly successful Eurographics Symposia and Workshops on Rendering.</p>
+<p>In light of the developing COVID-19 situation, authors of accepted papers this year are not required to present their work in person and may elect to present remotely. We encourage authors to submit work to EGSR even if they do not think they will be able or willing to attend due to the virus situation and/or travel restrictions that may be in place at the time.</p>
 <p>All accepted research papers will be presented at EGSR 2020 and archived in the <a href="https://diglib.eg.org/">Eurographics digital library</a> (exact publication modalities pending). Furthermore, a selection of them will be published in an issue of the <a href="https://onlinelibrary.wiley.com/journal/14678659">Computer Graphics Forum</a> (CGF) journal, based on both the recommendations of the reviewers and the outcome of a second cycle of review.</p>
 <p>We are looking for work that shapes the future of rendering in computer graphics and related fields, such as virtual and augmented reality, deep learning, and computational photography.</p>
 <p>There is no fixed minimum or maximum paper length. However, submissions over 12 pages in length will be treated as exceptional cases, and length must be proportional to contribution.</p>
@@ -53,7 +54,39 @@ year: 2020
 <li><a href = "http://www.homepages.ucl.ac.uk/~ucactri/">Tobias Ritschel</a><strong>, </strong>University College London</li>
 <li><a href = "http://reality.cs.ucl.ac.uk/weyrich.html">Tim Weyrich</a>, University College London</li></ul>
 <h3><strong>Program committee</strong></h3>
-<p>    Coming soon!</p>
+<ul>
+<li>Andrea Weidlich, Weta Digital, NZ</li>
+<li>Anton Kaplanyan, Facebook, USA</li>
+<li>Christoph Peters, KIT, Germany</li>
+<li>Diego Nehab, IMPA, Brazil</li>
+<li>Elena Garces, Technicolor, France</li>
+<li>Elmar Eisemann, TU Delft, Netherlands</li>
+<li>George Drettakis, INRIA, France</li>
+<li>Holly Rushmeier, Yale University, USA</li>
+<li>Hongzhi Wu, Zhejiang University, China</li>
+<li>Iliyan Georgiev, Solid Angle, UK</li>
+<li>Jan Novak, NVIDIA, Switzerland</li>
+<li>Jeppe Revall Frisvad, Technical University of Denmark, Denmark</li>
+<li>Karthik Vaidyanathan, Intel, USA</li>
+<li>Kun Xu, Tsinghua University, China</li>
+<li>Laszlo Szirmay-Kalos, Budapest University of Technology and Economics, Hungary</li>
+<li>Li-Yi Wei, Univ. of Hong Kong, Hong Kong</li>
+<li>Lingqi Yan, UC Santa Barbara, USA</li>
+<li>Marta Ortín Obón, University of Zaragoza, Spain</li>
+<li>Matthias Zwicker, Univ. of Maryland, USA</li>
+<li>Michael Wimmer, TU Wien, Austria</li>
+<li>Miika Aittala, NVIDIA, Finland</li>
+<li>Nicolas Holzschuch, INRIA, France</li>
+<li>Pedro Sander, Hong Kong, China</li>
+<li>Peter-Pike Sloan, Activision, USA</li>
+<li>Philip Dutré, KU Leuven, Belgium</li>
+<li>Pieter Peers, College of William & Mary, USA</li>
+<li>Sung-Eui Yoon, KAIST, South Korea</li>
+<li>Toshiya Hachisuka, Univ. Tokyo, Japan</li>
+<li>Tzu-Mao Li, MIT, USA</li>
+<li>Wojciech Jarosz, Dartmouth, USA</li>
+<li>Yue Dong, MSR, China</li>
+</ul>
 
 
 <h1 id="industry"><strong>Industry Track call for papers</strong></h1>
