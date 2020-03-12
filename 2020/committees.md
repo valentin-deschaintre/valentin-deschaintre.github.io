@@ -31,8 +31,14 @@ year: 2020
             <h4>Anton Kaplanyan<br><small> Facebook, USA</small></h4>
         </div>
 		<div class="panel-body">
+            <h4>Belen Masia<br><small> U Zaragoza, Spain</small></h4>
+        </div>		
+		<div class="panel-body">
             <h4>Christoph Peters<br><small> KIT, Germany</small></h4>
         </div>
+		<div class="panel-body">
+            <h4>Derek Nowrouzezahrai<br><small> McGill, Canada</small></h4>
+        </div>		
 		<div class="panel-body">
             <h4>Elena Garces<br><small> Technicolor, France</small></h4>
         </div>
@@ -40,14 +46,26 @@ year: 2020
             <h4>Elmar Eisemann<br><small> TU Delft, Netherlands</small></h4>
         </div>
 		<div class="panel-body">
+            <h4>Eric Heitz<br><small> Unity, France</small></h4>
+        </div>
+		<div class="panel-body">
+            <h4>Fabio Pellacini<br><small> Sapienza University of Rome, Italy</small></h4>
+        </div>				
+		<div class="panel-body">
             <h4>George Drettakis<br><small> INRIA, France</small></h4>
         </div>
+		<div class="panel-body">
+            <h4>Hendrik Lensch<br><small> Tübingen University, Germany</small></h4>
+        </div>		
 		<div class="panel-body">
             <h4>Holly Rushmeier<br><small> Yale University, USA</small></h4>
         </div>
 		<div class="panel-body">
             <h4>Hongzhi Wu<br><small> Zhejiang University, China</small></h4>
         </div>
+		<div class="panel-body">
+            <h4>Jaakko Lehtinen<br><small> NVIDIA, Finland</small></h4>
+        </div>		
 		<div class="panel-body">
             <h4>Jan Novak<br><small> NVIDIA, Switzerland</small></h4>
         </div>
@@ -97,7 +115,16 @@ year: 2020
             <h4>Pieter Peers<br><small> College of William & Mary, USA</small></h4>
         </div>
 		<div class="panel-body">
+            <h4>Rachel Brown<br><small> NVIDIA, USA</small></h4>
+        </div>
+		<div class="panel-body">
+            <h4>Steve Marschner<br><small> Cornell, USA</small></h4>
+        </div>		
+		<div class="panel-body">
             <h4>Sung-Eui Yoon<br><small> KAIST, South Korea</small></h4>
+        </div>
+		<div class="panel-body">
+            <h4>Tamy Boubekeur<br><small> Adobe, France</small></h4>
         </div>
 		<div class="panel-body">
             <h4>Toshiya Hachisuka<br><small> Univ. Tokyo, Japan</small></h4>
