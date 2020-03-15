@@ -13,7 +13,7 @@ year: 2020
 
 <h1 id="research"><strong>Research Track</strong></h1>
 <p>A PDF version of Research Track call for papers is available to download from <a href="research.pdf">here</a>.</p>
-<p>The Eurographics Symposium on Rendering 2020 will take place in London, England from June 29th to July 2nd, 2020. This 31th event continues the series of highly successful Eurographics Symposia and Workshops on Rendering.</p>
+<p>The Eurographics Symposium on Rendering 2020 will take place in London, England from June 30th to July 2nd, 2020. This 31th event continues the series of highly successful Eurographics Symposia and Workshops on Rendering.</p>
 <p>All accepted research papers will be presented at EGSR 2020 and archived in the <a href="https://diglib.eg.org/">Eurographics digital library</a> (exact publication modalities pending). Furthermore, a selection of them will be published in an issue of the <a href="https://onlinelibrary.wiley.com/journal/14678659">Computer Graphics Forum</a> (CGF) journal, based on both the recommendations of the reviewers and the outcome of a second cycle of review.</p>
 <p>We are looking for work that shapes the future of rendering in computer graphics and related fields, such as virtual and augmented reality, deep learning, and computational photography.</p>
 <p>There is no fixed minimum or maximum paper length. However, submissions over 12 pages in length will be treated as exceptional cases, and length must be proportional to contribution.</p>
@@ -108,7 +108,7 @@ year: 2020
 <li>A description of a state-of-the-art rendering pipeline or rendering software system</li>
 <li>The publication of a new dataset that would facilitate research in rendering</li>
 <li>Position papers that pose interesting problems found in industry rendering applications that should be more emphasized in academic research</li></ul>
-<p>Papers accepted in this new Industry Track will be published in the Eurographics Digital Library for archival purposes and presented at EGSR 2020, which will take place in London, England from June 29th to July 2nd, 2020.</p>
+<p>Papers accepted in this new Industry Track will be published in the Eurographics Digital Library for archival purposes and presented at EGSR 2020, which will take place in London, England from June 30th to July 2nd, 2020.</p>
 <h3><strong>How to Submit Your Work</strong></h3>
 <p>Please email the program chairs at chairs-egsr2020@eg.org with a PDF of your paper submission with the subject “Industry Track Submission” by the deadline below. The chairs will then curate the industry track program from the submitted papers and provide feedback to the authors. We expect that most papers will be fairly short (around 1-4 pages) although authors can submit longer ones if necessary to describe their idea. The authors should use the “Industry Track” template available following <a href="../EGSR2020_Industry-Track_Template.zip">this link</a>.</p>
 <h3><strong>Important dates (All times are midnight, 23:59 UTC)</strong></h3>
