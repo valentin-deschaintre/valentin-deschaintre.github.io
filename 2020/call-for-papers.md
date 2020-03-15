@@ -76,6 +76,7 @@ year: 2020
 <li>Jeppe Revall Frisvad, Technical University of Denmark, Denmark</li>
 <li>Karthik Vaidyanathan, Intel, USA</li>
 <li>Kun Xu, Tsinghua University, China</li>
+<li>Kun Zhou, Zhejiang University, China</li>
 <li>Laszlo Szirmay-Kalos, Budapest University of Technology and Economics, Hungary</li>
 <li>Li-Yi Wei, Univ. of Hong Kong, Hong Kong</li>
 <li>Lingqi Yan, UC Santa Barbara, USA</li>

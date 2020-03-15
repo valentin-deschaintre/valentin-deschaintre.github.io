@@ -79,6 +79,9 @@ year: 2020
             <h4>Kun Xu<br><small> Tsinghua University, China</small></h4>
         </div>
 		<div class="panel-body">
+            <h4>Kun Zhou<br><small> Zhejiang University, China</small></h4>
+        </div>
+		<div class="panel-body">
             <h4>Laszlo Szirmay-Kalos<br><small> Budapest University of Technology and Economics, Hungary</small></h4>
         </div>
 		<div class="panel-body">
