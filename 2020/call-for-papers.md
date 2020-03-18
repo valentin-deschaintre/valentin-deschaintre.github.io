@@ -9,7 +9,7 @@ year: 2020
 
 <p>This year, EGSR features two paper submission tracks: the <a href="#research">Research Track</a> and the  <a href="#industry">Industry Track</a> (new as of last year).</p>
 
-<p><i>The developing COVID-19 situation makes it unlikely that EGSR is going to take place as usual. We are currently evaluating available options for remote attendance. At any rate, authors of accepted papers this year are not required to present their work in person and may elect to present remotely instead. We encourage authors to submit work to EGSR even if they do not think they will be able or willing to attend in person due to the virus situation and/or travel restrictions that may be in place at the time.</i></p>
+<p><i>The developing COVID-19 situation makes it unlikely that this year’s EGSR is going to take place in its usual format. We are currently evaluating available options for remote attendance. Due to these uncertainties, authors of accepted papers this year are not required to present their work in person and may elect to present remotely instead. We encourage authors to submit work to EGSR even if they do not think they will be able or willing to attend in person due to the virus situation and/or travel restrictions that may be in place at the time.</i></p>
 
 <h1 id="research"><strong>Research Track</strong></h1>
 <p>A PDF version of Research Track call for papers is available to download from <a href="research.pdf">here</a>.</p>
