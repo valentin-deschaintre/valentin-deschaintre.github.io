@@ -85,6 +85,7 @@ year: 2020
 <li>Michael Wimmer, TU Wien, Austria</li>
 <li>Miika Aittala, NVIDIA, Finland</li>
 <li>Nicolas Holzschuch, INRIA, France</li>
+<li>Nima Kalantari, Texas A&M University, USA</li>
 <li>Pedro Sander, Hong Kong, China</li>
 <li>Peter-Pike Sloan, Activision, USA</li>
 <li>Philip Dutré, KU Leuven, Belgium</li>

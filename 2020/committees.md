@@ -106,6 +106,9 @@ year: 2020
             <h4>Nicolas Holzschuch<br><small> INRIA, France</small></h4>
         </div>
 		<div class="panel-body">
+            <h4>Nima Kalantari<br><small> Texas A&M University, USA</small></h4>
+        </div>
+		<div class="panel-body">
             <h4>Pedro Sander<br><small> Hong Kong, China</small></h4>
         </div>
 		<div class="panel-body">
