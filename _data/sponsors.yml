@@ -27,8 +27,8 @@
   level: gold
   description: <b>Facebook Reality Labs</b> brings together a world-class team of researchers, developers, and engineers to create the future of virtual and augmented reality, which together will become as universal and essential as smartphones and personal computers are today – and just as personal computers have done over the past 45 years, AR and VR will ultimately change everything about how we work, play, and connect. We are developing all the technologies needed to enable breakthrough AR glasses and VR headsets, including optics and displays, computer vision, audio, graphics, brain-computer interface, haptic interaction, eye/hand/face/body tracking, perception science, and true telepresence.
   
-- name: Pixar
-  url: https://www.pixar.com/
+- name: Renderman Pixar
+  url: https://renderman.pixar.com/
   image: img/2020/sponsors/Pixar_Logo.svg
   image2: img/2020/sponsors/Pixar_Logo2.svg
   level: gold
