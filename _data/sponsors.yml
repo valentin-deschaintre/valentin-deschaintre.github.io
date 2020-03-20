@@ -54,13 +54,6 @@
   image2: img/2020/sponsors/Weta2.png
   level: silver
   description: "<b>Weta Digital</b> is one of the world’s premier visual effects companies. Led by Senior Visual Effects Supervisor Joe Letteri, Weta Digital is known for uncompromising creativity and a commitment to developing innovative technology. Groundbreaking performance-driven digital characters like Gollum, Kong, Neytiri, and Caesar are widely acknowledged as some of the best digital characters ever put on screen. Recently finished projects include Avengers: Endgame, Game of Thrones, and Alita: Battle Angel."
-
-- name: Corona
-  url: https://corona-renderer.com/
-  image: img/2020/sponsors/logo-corona.png
-  image2: img/2020/sponsors/logo-corona2.png  
-  level: bronze
-  description: <b>Corona Renderer</b> Rocks Modern advanced high performance renderer for 3ds Max, Cinema 4D, and other platforms.
   
 - name: Imperial College London
   url: https://www.imperial.ac.uk/
