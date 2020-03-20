@@ -71,7 +71,7 @@ year: 2020
 <li>Holly Rushmeier, Yale University, USA</li>
 <li>Hongzhi Wu, Zhejiang University, China</li>
 <li>Iliyan Georgiev, Solid Angle, UK</li>
-<li>Jaakko Lehtinen, NVIDIA, Finland</li>
+<li>Jaakko Lehtinen, Aalto University and NVIDIA, Finland</li>
 <li>Jan Novak, NVIDIA, Switzerland</li>
 <li>Jeppe Revall Frisvad, Technical University of Denmark, Denmark</li>
 <li>Karthik Vaidyanathan, Intel, USA</li>

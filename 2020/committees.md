@@ -64,7 +64,7 @@ year: 2020
             <h4>Hongzhi Wu<br><small> Zhejiang University, China</small></h4>
         </div>
 		<div class="panel-body">
-            <h4>Jaakko Lehtinen<br><small> NVIDIA, Finland</small></h4>
+            <h4>Jaakko Lehtinen<br><small> Aalto University and NVIDIA, Finland</small></h4>
         </div>		
 		<div class="panel-body">
             <h4>Jan Novak<br><small> NVIDIA, Switzerland</small></h4>
