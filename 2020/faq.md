@@ -13,15 +13,15 @@ year: 2020
 
 <p><i><b>Q: </b>Will the submission deadline be extended because of COVID-19?</i></p>
 
-<p>No. All deadlines remain the same as they were originally set in the EGSR 2020 CFP.</p>
+<p>Due to the developing COVID-19 situation, we have pushed back the research papers abstract deadline to Monday April 13 and the paper submission deadline to April 17.</p>
 
 <p><i><b>Q: </b>Will there be support for remote presentation of papers?</i></p>
 
-<p>All accepted papers must have at least one author registered for the conference to present the paper. In the event that the presenting author is unable or unwilling to attend in person, we will provide a mechanism for remote presentation of the talk.</p>
+<p>All accepted papers must have at least one author registered for the conference to present the paper. We will provide a mechanism for remote presentation of the talk.</p>
 
 <p><i><b>Q: </b>Will it be possible to attend the conference remotely?</i></p>
 
-<p>We hope to be able to hold a regular in-person EGSR this year, but are preparing for alternative conference formats, including both partially- and fully- virtual, depending on how the situation unfolds. We have not yet made a final decision about the conference format.</p>
+<p>This year’s EGSR will take place completely virtually. We are currently evaluating available options for remote attendance and the format and details for this are still being worked out. Authors of accepted papers this year will be asked to present their work remotely. We encourage authors to submit work to EGSR despite the altered circumstances of a virtual EGSR meeting</p>
 
 <p><i><b>Q: </b>For questions not listed above, whom should I contact?</i></p>
 

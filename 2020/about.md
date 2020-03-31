@@ -5,6 +5,8 @@ layout: egsr-default
 title: About EGSR
 year: 2020
 ---
+<p><i>Due to the developing COVID-19 situation, we have pushed back the research papers abstract deadline to Monday April 13 and the paper submission deadline to April 17.<br>
+Furthermore, this year’s EGSR will take place completely virtually. We are currently evaluating available options for remote attendance and the format and details for this are still being worked out. Authors of accepted papers this year will be asked to present their work remotely. We encourage authors to submit work to EGSR despite the altered circumstances of a virtual EGSR meeting.</i></p>
 Please see the <a href="/faq">EGSR 2020 FAQ</a> for information about COVID-19 and changes to the conference this year.
 
 ### Eurographics Symposium on Rendering

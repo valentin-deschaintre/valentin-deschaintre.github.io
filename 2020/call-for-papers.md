@@ -9,7 +9,8 @@ year: 2020
 
 <p>This year, EGSR features two paper submission tracks: the <a href="#research">Research Track</a> and the  <a href="#industry">Industry Track</a> (new as of last year).</p>
 
-<p><i>The developing COVID-19 situation makes it unlikely that this year’s EGSR is going to take place in its usual format. We are currently evaluating available options for remote attendance. Due to these uncertainties, authors of accepted papers this year are not required to present their work in person and may elect to present remotely instead. We encourage authors to submit work to EGSR even if they do not think they will be able or willing to attend in person due to the virus situation and/or travel restrictions that may be in place at the time.</i></p>
+<p><i>Due to the developing COVID-19 situation, we have pushed back the research papers abstract deadline to Monday April 13 and the paper submission deadline to April 17.<br>
+Furthermore, this year’s EGSR will take place completely virtually. We are currently evaluating available options for remote attendance and the format and details for this are still being worked out. Authors of accepted papers this year will be asked to present their work remotely. We encourage authors to submit work to EGSR despite the altered circumstances of a virtual EGSR meeting.</i></p>
 
 <h1 id="research"><strong>Research Track</strong></h1>
 <p>A PDF version of Research Track call for papers is available to download from <a href="research.pdf">here</a>.</p>
@@ -41,8 +42,8 @@ year: 2020
 <h3><strong>How to Submit Your Work</strong></h3>
 <p>Please submit your work using the <a href="https://srmv2.eg.org/COMFy/Conference/SR_2020">SRM online submission system</a>. <strong>The submission should use the EGSR 2020 LaTeX template available on SRM following </strong><a href="https://srmv2.eg.org/COMFy/Conference/SR_2020/Instruction">this link</a> (first create an account on the SRM system to download the template).</p>
 <h3><strong>Important dates (All times are midnight, 23:59 UTC)</strong></h3>
-<ul><li>Abstract deadline: April 2, 2020</li>
-<li>Papers deadline: April 7, 2020</li>
+<ul><li>Abstract deadline: <strike>April 2</strike> April 13, 2020</li>
+<li>Papers deadline: <strike>April 7</strike> April 17, 2020</li>
 <li>Reviews released to authors: May 10, 2020</li>
 <li>Rebuttals due: May 14, 2020</li>
 <li>Author notification: May 25, 2020</li>
