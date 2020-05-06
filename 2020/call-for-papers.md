@@ -14,7 +14,7 @@ Furthermore, this year’s EGSR will take place completely virtually. We are cur
 
 <h1 id="research"><strong>Research Track</strong></h1>
 <p>A PDF version of Research Track call for papers is available to download from <a href="research.pdf">here</a>.</p>
-<p>The Eurographics Symposium on Rendering 2020 will take place in London, England from June 30th to July 2nd, 2020. This 31th event continues the series of highly successful Eurographics Symposia and Workshops on Rendering.</p>
+<p> The Eurographics Symposium on Rendering 2020 will take place virtually from June 30th to July 2nd, 2020, co-hosted by Imperial College London and University College London. This 31th event continues the series of highly successful Eurographics Symposia and Workshops on Rendering.</p>
 <p>All accepted research papers will be presented at EGSR 2020 and archived in the <a href="https://diglib.eg.org/">Eurographics digital library</a> (exact publication modalities pending). Furthermore, a selection of them will be published in an issue of the <a href="https://onlinelibrary.wiley.com/journal/14678659">Computer Graphics Forum</a> (CGF) journal, based on both the recommendations of the reviewers and the outcome of a second cycle of review.</p>
 <p>We are looking for work that shapes the future of rendering in computer graphics and related fields, such as virtual and augmented reality, deep learning, and computational photography.</p>
 <p>There is no fixed minimum or maximum paper length. However, submissions over 12 pages in length will be treated as exceptional cases, and length must be proportional to contribution.</p>
