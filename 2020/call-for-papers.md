@@ -44,9 +44,9 @@ Furthermore, this year’s EGSR will take place completely virtually. We are cur
 <h3><strong>Important dates (All times are midnight, 23:59 UTC)</strong></h3>
 <ul><li>Abstract deadline: <strike>April 2</strike> April 13, 2020</li>
 <li>Papers deadline: <strike>April 7</strike> April 17, 2020</li>
-<li>Reviews released to authors: May 10, 2020</li>
-<li>Rebuttals due: May 14, 2020</li>
-<li>Author notification: May 25, 2020</li>
+<li>Reviews released to authors: <strike>May 10</strike>, May 18 2020</li>
+<li>Rebuttals due: <strike>May 14</strike>, May 21 2020</li>
+<li>Author notification:<strike> May 25</strike>, May 27 2020</li>
 <li>Final papers due: June 15, 2020</li></ul>
 <h3><strong>Program chairs</strong></h3>
 <ul><li><a href="https://cg.ivd.kit.edu/english/dachsbacher/">Carsten Dachsbacher</a>, Computer Graphics Group, Karlsruhe Institute of Technology</li>
