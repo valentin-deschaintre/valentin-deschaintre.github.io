@@ -70,3 +70,7 @@
   image: img/2020/academics/EG_logo.jpg
   level: institutional
 
+- name: NVIDIA
+  url: https://www.nvidia.com
+  image: img/2020/sponsors/logo_nvidia.png
+  level: paperAward
