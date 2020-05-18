@@ -46,6 +46,7 @@
   image: img/2020/sponsors/deepmind-logo.png
   image2: img/2020/sponsors/deepmind-logo2.png
   level: silver  
+  factorLogo: 100
   description: Artificial intelligence could be one of humanity’s most useful inventions. We research and build safe AI systems that learn how to solve problems and advance scientific discovery for all. We’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority. 
   
 - name: Weta
@@ -53,6 +54,7 @@
   image: img/2020/sponsors/Weta.png
   image2: img/2020/sponsors/Weta2.png
   level: silver
+  factorLogo: 85
   description: "<b>Weta Digital</b> is one of the world’s premier visual effects companies. Led by Senior Visual Effects Supervisor Joe Letteri, Weta Digital is known for uncompromising creativity and a commitment to developing innovative technology. Groundbreaking performance-driven digital characters like Gollum, Kong, Neytiri, and Caesar are widely acknowledged as some of the best digital characters ever put on screen. Recently finished projects include Avengers: Endgame, Game of Thrones, and Alita: Battle Angel."
   
 - name: Imperial College London
