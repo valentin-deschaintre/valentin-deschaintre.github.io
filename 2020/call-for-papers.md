@@ -47,7 +47,7 @@ Furthermore, this year’s EGSR will take place completely virtually. We are cur
 <li>Reviews released to authors: <strike>May 10</strike>, May 18 2020</li>
 <li>Rebuttals due: <strike>May 14</strike>, May 21 2020</li>
 <li>Author notification:<strike> May 25</strike>, May 27 2020</li>
-<li>Final papers due: June 9, 2020</li></ul>
+<li>Final papers due: June 8, 2020</li></ul>
 <h3><strong>Program chairs</strong></h3>
 <ul><li><a href="https://cg.ivd.kit.edu/english/dachsbacher/">Carsten Dachsbacher</a>, Computer Graphics Group, Karlsruhe Institute of Technology</li>
 <li><a href = "https://pharr.org/matt">Matt Pharr</a>, NVIDIA</li></ul>
