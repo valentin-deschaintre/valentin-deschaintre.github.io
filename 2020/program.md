@@ -35,6 +35,11 @@ year: 2020
 	
 	programStr = '\[' + String(String(xmlHttp.responseText).split("<code>")[1]).split("</code>")[0] + ']';
 	jsonProg = JSON.parse(programStr);	
+	columnHeadFormat = { weekday: 'long', month: 'numeric', day: 'numeric', omitCommas: true };
+	if (window.screen.availWidth < 800)
+	{
+	    columnHeadFormat = { weekday: 'short', month: 'numeric', day: 'numeric', omitCommas: true };
+	}
 
     document.addEventListener('DOMContentLoaded', function() {
 	var calendarEl = document.getElementById('calendar');
@@ -44,7 +49,7 @@ year: 2020
 	height: 'auto',
 	timeZone: 'local',
 	events:jsonProg,
-	columnHeaderFormat: { weekday: 'long', month: 'numeric', day: 'numeric', omitCommas: true },
+	columnHeaderFormat: columnHeadFormat,
 	slotLabelFormat: {hour: '2-digit',  minute: '2-digit', omitZeroMinute:false, meridiem: false, hour12: false, timeZoneName:'short'},
     defaultView: 'timeGridFiveDay',
 	allDaySlot: false,
@@ -136,7 +141,7 @@ year: 2020
 	}
 	
 	var elements = document.getElementsByClassName("time");
-	console.log(elements);
+
 	for(var i=0; i<elements.length; i++) {
 		elements[i].innerHTML = timeFormat(elements[i].innerHTML);
 	}
