@@ -33,3 +33,9 @@ exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
 
 
 theme: jekyll-theme-slate
+
+collections:
+  session:
+    output: true
+    permalink: /session/:path/
+    title: Session

@@ -1,0 +1,21 @@
+2020:
+- title: Title 1
+  authors: Author list 
+  abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum quam ac mi sollicitudin, in rutrum ipsum finibus. Nulla facilisi. Praesent in enim elit. Vivamus nisl urna, sodales malesuada dapibus eget, venenatis id libero. Duis eget nulla lacinia nisl euismod varius. Donec nec purus tincidunt, consectetur nulla dapibus, ullamcorper ante. Donec sed aliquet libero, vel sollicitudin velit. Nulla finibus a magna at posuere. Quisque non tempus urna, vitae tempus augue. Vivamus eu finibus nisl. 
+  session_id: 1
+  
+- title: Title 2 
+  authors: Author list
+  abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum quam ac mi sollicitudin, in rutrum ipsum finibus. Nulla facilisi. Praesent in enim elit. Vivamus nisl urna, sodales malesuada dapibus eget, venenatis id libero. Duis eget nulla lacinia nisl euismod varius. Donec nec purus tincidunt, consectetur nulla dapibus, ullamcorper ante. Donec sed aliquet libero, vel sollicitudin velit. Nulla finibus a magna at posuere. Quisque non tempus urna, vitae tempus augue. Vivamus eu finibus nisl. 
+  session_id: 1
+  
+- title: Title 3
+  authors: Author list 
+  abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum quam ac mi sollicitudin, in rutrum ipsum finibus. Nulla facilisi. Praesent in enim elit. Vivamus nisl urna, sodales malesuada dapibus eget, venenatis id libero. Duis eget nulla lacinia nisl euismod varius. Donec nec purus tincidunt, consectetur nulla dapibus, ullamcorper ante. Donec sed aliquet libero, vel sollicitudin velit. Nulla finibus a magna at posuere. Quisque non tempus urna, vitae tempus augue. Vivamus eu finibus nisl. 
+  session_id: 2
+  
+- title: Title 4
+  authors: Author list
+  abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum quam ac mi sollicitudin, in rutrum ipsum finibus. Nulla facilisi. Praesent in enim elit. Vivamus nisl urna, sodales malesuada dapibus eget, venenatis id libero. Duis eget nulla lacinia nisl euismod varius. Donec nec purus tincidunt, consectetur nulla dapibus, ullamcorper ante. Donec sed aliquet libero, vel sollicitudin velit. Nulla finibus a magna at posuere. Quisque non tempus urna, vitae tempus augue. Vivamus eu finibus nisl. 
+  session_id: 2
+  

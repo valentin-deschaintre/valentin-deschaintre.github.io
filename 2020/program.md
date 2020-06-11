@@ -1,0 +1,162 @@
+---
+permalink: /program/
+redirect_from: "/2020/program"
+layout: egsr-default
+title: Program
+year: 2020
+---
+
+{% if page.year != null %}
+	{% assign year = page.year %}
+{% else %}
+	{% assign year = site.data.egsr.current-year %}
+{% endif %}
+
+<meta charset='utf-8' />
+
+<link href='../scripts/fullCalendar/packages/core/main.css' rel='stylesheet' />
+<link href='../scripts/fullCalendar/packages/daygrid/main.css' rel='stylesheet' />
+<link href='../scripts/fullCalendar/packages/timegrid/main.css' rel='stylesheet' />
+
+<script src='../scripts/fullCalendar/packages/core/main.js'></script>
+<script src='../scripts/fullCalendar/packages/daygrid/main.js'></script>
+<script src='../scripts/fullCalendar/packages/timegrid/main.js'></script>
+<script src="../scripts/moment.min.js"></script>
+<script src="../scripts/moment-timezone-with-data.min.js"></script>
+
+<div id='intro'>For EGSR fully virtual edition, each session comes with a youtube live link alongside a Rocket Chat link, offering different possibilities to ask questions and interacts with the other attendees.</div>
+
+<script>
+	UTCminTime = 12;
+	UTCmaxTime = 20;
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", "/calendar-data/", false );
+    xmlHttp.send( null );
+	
+	programStr = '\[' + String(String(xmlHttp.responseText).split("<code>")[1]).split("</code>")[0] + ']';
+	jsonProg = JSON.parse(programStr);	
+
+    document.addEventListener('DOMContentLoaded', function() {
+	var calendarEl = document.getElementById('calendar');
+	var calendar = new FullCalendar.Calendar(calendarEl, {
+	plugins: ["timeGrid"],
+	header: false,
+	height: 'auto',
+	timeZone: 'local',
+	events:jsonProg,
+	columnHeaderFormat: { weekday: 'long', month: 'numeric', day: 'numeric', omitCommas: true },
+	slotLabelFormat: {hour: '2-digit',  minute: '2-digit', omitZeroMinute:false, meridiem: false, hour12: false, timeZoneName:'short'},
+    defaultView: 'timeGridFiveDay',
+	allDaySlot: false,
+    minTime: String(UTCminTime) + ":00:00",
+    maxTime: String(UTCmaxTime) + ":00:00",
+	slotDuration: "01:00:01",
+	nowIndicator:true,
+	validRange: {
+    start: '2020-06-29',
+    end: '2020-07-04'
+	},
+	views: {
+		timeGridFiveDay: {
+		    type: 'timeGrid',
+		    duration: { days: 5 }
+			}
+	  }
+});
+	var time = new Date();
+	var timeZoneOffset = Math.floor(time.getTimezoneOffset() / 60);
+	localMinTime = Math.max(UTCminTime - timeZoneOffset, 0);
+	localMaxTime = Math.min(UTCmaxTime - timeZoneOffset, 24);
+
+	calendar.setOption("minTime", String(localMinTime) + ":00:00");
+	calendar.setOption("maxTime", String(localMaxTime) + ":00:00");
+
+	calendar.render();
+  });
+</script>
+
+<!--
+{% for event in site.events %}
+{{event.title}} {{event.event_date}}<br/>
+{% endfor %}
+-->
+<div id="timezone"></div>
+<div id="calendar"></div>
+<script>
+    var timeZoneStr = moment.tz.guess();
+	var time = new Date();
+	var timeZoneOffset = time.getTimezoneOffset();
+	document.getElementById("timezone").innerHTML = "<h3>The program is generated for the timezone: " +timeZoneStr + " (" + moment.tz.zone(timeZoneStr).abbr(timeZoneOffset) + ")</h3>";
+</script>
+
+
+<div id="program" class="row-xs-12">
+
+{% for mySession in site.session %}
+	<div class="session-content">
+		
+		<h3 id="{{mySession.session_id}}" style="overflow: auto;"> <a href="{{mySession.permalink}}" ><span style="float: left; margin-top: 10px; margin-right: 10px;">{{mySession.title}}</span></a><a href="{{mySession.youtube_url}}" ><img src="https://i.pinimg.com/originals/2d/2b/e2/2d2be2421911037d80f9921dc29d54c2.jpg" height="40px" width="65px" style="float: left;"></a><a href="{{mySession.rocket_chat_url}}" ><img src="https://cdn.worldvectorlogo.com/logos/rocket-chat-1.svg" height="40px" width="65px" style="float: left;"></a></h3>
+		<h4 class="time">{{mySession.start}}</h4>
+		<h5>{{mySession.authors}}</h5>
+		<div class="session-talks" >
+			{% for talk in site.data.talks[year] %}
+				{% if talk.session_id == mySession.session_id%}
+					<hr width="40%">
+
+					<div>
+
+						<h4>{{talk.title}}</h4>
+						<h5>{{talk.authors}}</h5>
+						 <button type="button" class="abstract">Abstract</button>
+						<div class="abstract_content">
+						  <p>{{talk.abstract}}</p>
+						</div> 
+					</div>
+				{% endif %}
+					
+			{% endfor %}
+			<hr width="75%">
+		</div>
+	</div>
+
+{% endfor %}
+
+
+
+
+</div>
+
+<script>
+	function timeFormat(utcTime){
+		var local_date= moment.utc(utcTime).local().format('dddd DD MMMM HH:mm');
+		var timeZoneStr = moment.tz.guess();
+		var time = new Date();
+		var timeZoneOffset = time.getTimezoneOffset();
+		return local_date +" " +timeZoneStr + " (" + moment.tz.zone(timeZoneStr).abbr(timeZoneOffset) + ")";
+	}
+	
+	var elements = document.getElementsByClassName("time");
+	console.log(elements);
+	for(var i=0; i<elements.length; i++) {
+		elements[i].innerHTML = timeFormat(elements[i].innerHTML);
+	}
+</script>
+
+<script>
+	var coll = document.getElementsByClassName("abstract");
+	var i;
+
+	for (i = 0; i < coll.length; i++) {
+	  coll[i].addEventListener("click", function() {
+		this.classList.toggle("abstract_open");
+		var content = this.nextElementSibling;
+		if (content.style.display === "block") {
+		  content.style.display = "none";
+		} else {
+		  content.style.display = "block";
+		}
+	  });
+	}
+</script>
+
+	
