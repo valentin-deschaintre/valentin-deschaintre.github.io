@@ -153,7 +153,7 @@ year: 2020
 
 	for (i = 0; i < coll.length; i++) {
 	  coll[i].addEventListener("click", function() {
-		this.classList.toggle("abstract_open");
+		this.classList.toggle("open_abstract");
 		var content = this.nextElementSibling;
 		if (content.style.display === "block") {
 		  content.style.display = "none";
