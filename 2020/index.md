@@ -8,7 +8,7 @@ image:
     credit: BFI Southbank
     creditlink: http://www.bfi.org.uk/
 ---
-## VIRTUAL
+## 10 - 11 DECEMBER 2020 VIRTUAL
 
 Welcome to the ACM SIGGRAPH European Conference on Visual Media Production (CVMP). For the years, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries.
 
