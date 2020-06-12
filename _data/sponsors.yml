@@ -1,3 +1,9 @@
+2020:
+- name: ACM SIGGRAPH
+  url: https://www.siggraph.org/
+  image: img/2020/sponsors/logo-acm-siggraph-wide.png
+  level: conference
+
 2019:
 - name: ACM SIGGRAPH
   url: https://www.siggraph.org/
