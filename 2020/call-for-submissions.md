@@ -1,7 +1,7 @@
 ---
 layout: cvmp-default
 title: Call for Submissions to CVMP 2020!
-excerpt: "Submit your work to CVMP 2018"
+excerpt: "Submit your work to CVMP 2020"
 year: 2020
 ---
 
