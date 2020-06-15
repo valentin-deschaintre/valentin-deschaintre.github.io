@@ -2,7 +2,7 @@
 permalink: /session/opening_ceremony
 redirect_from: "/2020/session/opening_ceremony"
 layout: egsr-talks
-title: Opening Ceremony
+title: EGSR Opening Ceremony
 authors: "Abihjeet Ghosh, Tobias Ritschel, Tim Weyrich"
 start: "2020-06-30T13:00:00Z"
 end: "2020-06-30T13:25:00Z"
