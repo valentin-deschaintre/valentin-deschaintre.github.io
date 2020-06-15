@@ -39,3 +39,4 @@ collections:
     output: true
     permalink: /session/:path/
     title: Session
+    sort_by: session_id

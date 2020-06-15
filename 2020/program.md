@@ -28,7 +28,7 @@ year: 2020
 
 <script>
 	UTCminTime = 12;
-	UTCmaxTime = 20;
+	UTCmaxTime = 18;
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", "/calendar-data/", false );
     xmlHttp.send( null );
@@ -96,15 +96,18 @@ year: 2020
 
 
 <div id="program" class="row-xs-12">
+{% assign sessions = site.session | sort: 'start' %}
+{% assign allTalks = site.data.talks[year]  | sort: 'talk_id' %}
 
-{% for mySession in site.session %}
+{% for mySession in sessions %}
 	<div class="session-content" id="{{mySession.session_id}}" >
 		
-		<h3 style="overflow: auto;"> <a href="{{mySession.permalink}}" ><span style="float: left; margin-top: 10px; margin-right: 10px;">{{mySession.title}}</span></a><a href="{{mySession.youtube_url}}" ><img src="/img/program/yt.jpg" height="40px" width="65px" style="float: left;"></a><a href="{{mySession.rocket_chat_url}}" ><img src="/img/program/rocket-chat.svg" height="40px" width="65px" style="float: left;"></a><a href="#intro" ><img src="/img/program/back-to-top.jpg" height="40px" width="65px" style="float: right;"></a></h3>
+		<h3 style="overflow: auto;"> <a href="{{mySession.permalink}}" ><span style="float: left; margin-top: 10px; margin-right: 10px;">{{mySession.title}}</span></a>{% if mySession.youtube_url%}<a href="{{mySession.youtube_url}}" ><img src="/img/program/yt.jpg" height="40px" width="65px" style="float: left;"></a>{% endif %}{% if mySession.rocket_chat_url%}<a href="{{mySession.rocket_chat_url}}" ><img src="/img/program/rocket-chat.svg" height="40px" width="65px" style="float: left;"></a>{% endif %}<a href="#intro" ><img src="/img/program/back-to-top.jpg" height="40px" width="65px" style="float: right;"></a></h3>
 		<h4 class="time">{{mySession.start}}</h4>
 		<h5>{{mySession.authors}}</h5>
 		<div class="session-talks" >
-			{% for talk in site.data.talks[year] %}
+		
+			{% for talk in allTalks %}
 				{% if talk.session_id == mySession.session_id%}
 					<hr width="40%">
 
