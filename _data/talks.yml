@@ -30,7 +30,7 @@
   session_id: 2
   talk_id: 5
   
-- title: "Practical Product Path Guiding"
+- title: "Practical Product Path Guiding Using Linearly Transformed Cosines"
   authors: "Stavros Diolatzis, Adrien Gruson, Wenzel Jakob, Derek Nowrouzezahrai, George Drettakis"
   abstract: "Path tracing is now the standard method used to generate realistic imagery in many domains, e.g., film, special effects, architecture etc. Path guiding has recently emerged as a powerful strategy to counter the notoriously long computation times required to render such images. In this paper we present a practical path guiding algorithm that performs product sampling, i.e., samples based on the product of the bidirectional scattering distribution function (BSDF) and incoming radiance. We use a spatial-directional subdivision to represent incoming radiance as in previous work, and introduce the use of Linear Transformed Cosines (LTCs) to represent the BSDF during path guiding, thus enabling efficient product sampling. Despite the computational efficiency of LTCs, several optimizations are needed to make our method worthwhile. In particular, we show how we can use vectorization, precomputation, as well as strategies to optimize multiple importance sampling and russian roulette to improve performance. We evaluate our method on several different scenes; the results show overall gains in efficiency, especially in scenes with significant inter-reflection between glossy objects."
   session_id: 3
