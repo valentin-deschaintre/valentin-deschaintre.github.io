@@ -106,7 +106,6 @@ year: 2020
 		<h4 class="time">{{mySession.start}}</h4>
 		<!--<h5>{{mySession.authors}}</h5>-->
 		<div class="session-talks" >
-		
 			{% for talk in allTalks %}
 				{% if talk.session_id == mySession.session_id%}
 					<hr width="40%">
@@ -123,8 +122,18 @@ year: 2020
 				{% endif %}
 					
 			{% endfor %}
-			<hr width="75%">
+
 		</div>
+					
+		{% if mySession.abstract %}
+			<div style="overflow: auto; margin-bottom:10px;"><div style="float: left; width:30%;"> <img height="185" width= "185" src="{{mySession.picture}}"></div><div style="float: left; width:70%;">{{mySession.Bio}}</div></div>
+			 <button type="button" class="abstract">Abstract</button>
+			<div class="abstract_content">
+			  <p>{{mySession.abstract}}</p>
+			</div> 
+		{% endif %}
+			
+			<hr width="75%">
 	</div>
 
 {% endfor %}
