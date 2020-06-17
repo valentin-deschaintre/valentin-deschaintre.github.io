@@ -5,7 +5,7 @@
   session_id: 1
   talk_id: 0
   
-- title: "Temporal Filtering of Microfacet BSDF"
+- title: "Temporal normal distribution functions"
   authors: "Lorenzo Tessari, Johannes Hanika, Carsten Dachsbacher, Marc Droske"
   abstract: "Specular aliasing is a problem that can make seemingly simple scenes notoriously hard to render efficiently: small geometric features with high curvature and near specular reflectance properties result in tiny lighting features which are difficult to resolve at low sample counts per pixel. This is especially apparent in scenes including fluid simulation, which often feature fast moving elements such as spray particles. LEAN and LEADR mapping can be used to convert geometric surface detail to anisotropic surface roughness in a preprocess. For FX elements fine geometric detail can be represented as participating media. Both approaches are only valid in the far-field regime where the geometric detail is much smaller than a pixel and in the meso-scale the challenge of resolving highlights remains. Fast motion and the relatively long shutter intervals, commonly used in movie production, lead to strong variation of the surface normals seen under a pixel over time, thus aggravating the problem. Recently proposed specular anti aliasing approaches preintegrate geometric curvature under the pixel footprint for one specific ray to achieve noise free images at very low sample counts. To close the gap between LEADR mapping and precise ray tracing, we extend specular anti aliasing to anisotropic surface roughness and to account for the temporal surface normal variation due to motion blur."
   session_id: 1
