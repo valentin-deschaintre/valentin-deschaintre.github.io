@@ -48,7 +48,7 @@
   session_id: 3
   talk_id: 8
   
-- title: "Deep Photon Density Estimation for Fast Caustics Rendering"
+- title: "Deep Kernel Density Estimation for Photon Mapping"
   authors: "Shilin Zhu, Zexiang Xu, Henrik Wann Jensen, Hao Su, Ravi Ramamoorthi"
   abstract: "Recently, deep learning-based denoising approaches have led to dramatic improvements in low sample-count Monte Carlo rendering. These approaches are aimed at path tracing, which is not ideal for simulating challenging light transport effects like caustics, where photon mapping is the method of choice. However, photon mapping requires very large numbers of traced photons to achieve high-quality reconstructions. In this paper, we develop the first deep learning-based method for particle-based rendering, and specifically focus on photon density estimation, the core of all particle-based methods. We train a novel deep neural network to predict a kernel function to aggregate photon contributions at shading points. Our network encodes individual photons into per-photon features, aggregates them in the neighborhood of a shading point to construct a photon local context vector, and infers a kernel function from the per-photon and photon local context features. This network is easy to incorporate in previous photon mapping methods (by simply swapping the photon density estimator) and can produce high-quality reconstructions of complex global illumination effects like caustics with an order of magnitude fewer photons compared to previous photon mapping methods."
   session_id: 4
