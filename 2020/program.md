@@ -117,10 +117,14 @@ year: 2020
 
 						<h4>{{talk.title}}</h4>
 						<h5>{{talk.authors}}</h5>
+						{% if talk.abstract%}
+
 						 <button type="button" class="abstract">Abstract</button>
 						<div class="abstract_content">
 						  <p>{{talk.abstract}}</p>
 						</div> 
+						{% endif %}
+
 					</div>
 				{% endif %}
 					

@@ -119,3 +119,38 @@
   abstract: "In this paper, we propose an algorithm for fully automatic neural face swapping in images and videos. To the best of our knowledge, this is the first method capable of rendering photo-realistic and temporally coherent results at megapixel resolution. To this end, we introduce a progressively trained multi-way {comb network} and a light- and contrast-preserving blending method. We also show that while progressive training enables generation of high-resolution images, extending the architecture and training data beyond two people allows us to achieve higher fidelity in generated expressions. When compositing the generated expression onto the target face, we show how to adapt the blending strategy to preserve contrast and low-frequency lighting. Finally, we incorporate a refinement strategy into the face landmark stabilization algorithm to achieve temporal stability, which is crucial for working with high-resolution videos. We conduct an extensive ablation study to show the influence of our design choices on the quality of the swap and compare our work with popular state-of-the-art methods."
   session_id: 8
   talk_id: 20
+  
+- title: "An Adaptive Metric for BRDF Appearance Matching"
+  authors: "J. Bieron P. Peers"
+  session_id: 21
+  talk_id: 21
+  
+- title: "The Problem of Entangled Material Properties in SVBRDF Recovery"
+  authors: "S. Saryazdi , C. Murphy and S. Mudur"
+  session_id: 21
+  talk_id: 22
+  
+- title: "Improving Spectral Upsampling with Fluorescence"
+  authors: "L. König, A. Jung, C. Dachsbacher"
+  session_id: 21
+  talk_id: 23
+  
+- title: "A Genetic Algorithm Based Heterogeneous Subsurface Scattering Representation"
+  authors: "M. Kurt"
+  session_id: 22
+  talk_id: 24
+
+- title: "On the Nature of Perceptual Translucency"
+  authors: "D. Gigilashvili, J-B. Thomas, J. Yngve Hardeberg, M. Pedersen"
+  session_id: 22
+  talk_id: 25 
+
+- title: "Bonn Appearance Benchmark"
+  authors: "S. Merzbach and R. Klein"
+  session_id: 23
+  talk_id: 26  
+  
+- title: "A Taxonomy of Bidirectional Scattering Distribution Function Lobes for Rendering Engineers"
+  authors: "M. McGuire, J. Dorsey, E. Haines, J. F. Hughes, S. Marschner, M. Pharr, P. Shirley"
+  session_id: 23
+  talk_id: 27    
