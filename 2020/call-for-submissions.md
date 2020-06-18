@@ -9,17 +9,13 @@ For over a decade, CVMP has built a reputation as the prime venue for researcher
 
 ---
 
-<<<<<<< HEAD
 Virtual CVMP 2020: 10–11 December 2020
  
-In light of the unknowns associated with the current COVID-19 situation, CVMP will be fully virtual this year! The event will take place on 10–11 December 2020. Proceedings of the Full Papers will appear in the ACM Digital Library, as usual. Please keep checking our website https://cvmp-conference.org/ for updates.
+In light of the unknowns associated with the current COVID-19 situation, CVMP will be fully virtual this year! The event will take place on 10–11 December 2020. Proceedings of the Full Papers will appear in the ACM Digital Library, as usual. Please keep checking our [CVMP website](https://cvmp-conference.org/) for updates.
 
 ---
 
-We encourage participation from a diverse range of backgrounds, including scientists, engineers, artists, and producers, to contribute inspiring papers, presentations, posters, and technical abstracts. We invite submissions to the conference on any topic that demonstrates an impact on visual media production, animation, and interactive content creation and experiences. This year there is an additional focus on virtual production techniques and the impact they have across the Creative Industries. We hope contributions will convey innovative ideas, technical details, and insight or experience into theory and/or practice.
-=======
 We encourage participation from a diverse range of backgrounds including scientists, engineers, artists and producers to contribute inspiring papers, presentations, posters and technical abstracts. We invite submissions to the conference on any topic that demonstrates an impact on visual media production, animation, and interactive content creation and experiences. This year there is an additional focus on **virtual production techniques** and the impact they have across the Creative Industries. We hope contributions will convey innovative ideas, technical details and insight or experience into theory and/or practice.
->>>>>>> a54788734037df21664f861e6fc1df91402094db
 
 ---
 
@@ -44,11 +40,9 @@ We encourage participation from a diverse range of backgrounds including scienti
 
 
 #### Full Papers
-<<<<<<< HEAD
+
 We invite submissions of regular, technical papers presenting novel research or applications related to any aspect of media production, including computer vision, graphics and machine learning research with application in this area. We particularly encourage the submission of early-stage doctoral work. Submitted papers can be any length up to 10 pages and will be subject to double-blind peer review. Accepted papers will be presented in either oral or poster form, and will appear in the ACM Digital Library. Browse past CVMP papers in the [ACM Digital Library](http://bit.ly/ACM_CVMP).
-=======
-We invite submissions of regular, technical papers presenting novel research or applications related to any aspect of media production, including computer vision, graphics and machine learning research with application in this area. We particularly encourage submission of early-stage doctoral work. Submitted papers can be any length up to 10 pages and will be subject to double-blind peer review. Accepted papers will be presented in either oral or poster form, and will appear in the ACM Digital Library. Browse past CVMP papers in the [ACM Digital Library](https://bit.ly/CVMP_ACM_DL).
->>>>>>> a54788734037df21664f861e6fc1df91402094db
+
 
 
 #### Short Papers and Technical Abstracts
