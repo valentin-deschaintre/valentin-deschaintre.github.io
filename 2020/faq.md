@@ -7,7 +7,7 @@ year: 2020
 ---
 
 ## Frequently Asked Questions:
-<p><i><b>Q: </b>Will EGSR 2020 be held this year?</i></p>
+<!--<p><i><b>Q: </b>Will EGSR 2020 be held this year?</i></p>
 
 <p>Yes! We are planning on a full EGSR 2020 program, including research and industry papers as well as keynotes.</p>
 
@@ -22,8 +22,8 @@ year: 2020
 <p><i><b>Q: </b>Will it be possible to attend the conference remotely?</i></p>
 
 <p>This year’s EGSR will take place completely virtually. We are currently evaluating available options for remote attendance and the format and details for this are still being worked out. Authors of accepted papers this year will be asked to present their work remotely. We encourage authors to submit work to EGSR despite the altered circumstances of a virtual EGSR meeting.</p>
-
-<p><i><b>Q: </b>For questions not listed above, whom should I contact?</i></p>
+-->
+<p><i><b>Q: </b>For questions, whom should I contact?</i></p>
 
 <p>
 <ul>

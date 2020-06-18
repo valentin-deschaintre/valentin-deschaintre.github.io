@@ -9,8 +9,8 @@ year: 2020
 
 <p>This year, EGSR features two paper submission tracks: the <a href="#research">Research Track</a> and the  <a href="#industry">Industry Track</a> (new as of last year).</p>
 
-<p><i>Due to the developing COVID-19 situation, we have pushed back the research papers abstract deadline to Monday April 13 and the paper submission deadline to April 17.<br>
-Furthermore, this year’s EGSR will take place completely virtually. We are currently evaluating available options for remote attendance and the format and details for this are still being worked out. Authors of accepted papers this year will be asked to present their work remotely. We encourage authors to submit work to EGSR despite the altered circumstances of a virtual EGSR meeting.</i></p>
+<!--<p><i>Due to the developing COVID-19 situation, we have pushed back the research papers abstract deadline to Monday April 13 and the paper submission deadline to April 17.<br>
+Furthermore, this year’s EGSR will take place completely virtually. We are currently evaluating available options for remote attendance and the format and details for this are still being worked out. Authors of accepted papers this year will be asked to present their work remotely. We encourage authors to submit work to EGSR despite the altered circumstances of a virtual EGSR meeting.</i></p>-->
 
 <h1 id="research"><strong>Research Track</strong></h1>
 <p>A PDF version of Research Track call for papers is available to download from <a href="research.pdf">here</a>.</p>
