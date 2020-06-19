@@ -42,7 +42,7 @@ year: 2020
 <div class="col-8 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
-            <h4 class="panel-title">Industry Chairs</h4>
+            <h4 class="panel-title">Industry Chair</h4>
         </div>
         <div class="panel-body">
             <h4><a href="https://www.linkedin.com/in/volker-helzle/" target="_blank">Nigel Williams</a><br><small>Sony Interactive Entertainment, UK</small></h4>
