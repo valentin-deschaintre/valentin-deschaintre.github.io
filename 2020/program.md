@@ -102,7 +102,7 @@ year: 2020
 {% for mySession in sessions %}
 	<div class="session-content" id="{{mySession.session_id}}" >
 		
-		<h3 style="overflow: auto;"> <a href="{{mySession.permalink}}" ><span style="float: left; margin-top: 10px; margin-right: 10px;">{{mySession.title}}</span></a>{% if mySession.youtube_url%}<a href="{{mySession.youtube_url}}" ><img src="/img/program/yt.jpg" height="40px" width="65px" style="float: left;"></a>{% endif %}<a href="#intro" ><img src="/img/program/back-to-top.jpg" height="40px" width="65px" style="float: right;"></a></h3>
+		<h3 style="overflow: auto;"> <a href="{{mySession.permalink}}" ><span style="float: left; margin-top: 10px; margin-right: 10px;">{{mySession.title}}</span></a>{% if mySession.youtube_url%}<a href="{{mySession.youtube_url}}" ><img src="/img/program/yt.jpg" height="25px" width="40px" style="float: left;  margin-top: 10px;"></a>{% endif %}<a href="#intro" ><img src="/img/program/back-to-top.jpg" height="40px" width="65px" style="float: right;"></a></h3>
 		<h4 class="time">{{mySession.start}}</h4>
 		{% if mySession.abstract %}
 			<h5>{{mySession.authors}}</h5>
@@ -115,7 +115,7 @@ year: 2020
 
 					<div>
 
-						<h4  style="overflow: auto;"><span style="float: left; margin-top: 10px; margin-right: 10px;">{{talk.title}}</span> {% if talk.rc_link%}<a href="{{talk.rc_link}}" ><img src="/img/program/rocket-chat.svg" height="30px" width="49px" style="float: left;"></a>{% endif %}</h4>
+						<h4  style="overflow: auto;"><span style="float: left; margin-top: 10px; margin-right: 10px;">{{talk.title}}</span> {% if talk.rc_link%}<a href="{{talk.rc_link}}" ><img src="/img/program/rocket-chat.svg" height="20px" width="33px" style="float: left; margin-top: 10px;"></a>{% endif %}</h4>
 						<h5>{{talk.authors}}</h5>
 						{% if talk.abstract%}
 
@@ -133,7 +133,7 @@ year: 2020
 		</div>
 					
 		{% if mySession.abstract %}
-			<div style="overflow: auto; margin-bottom:10px;"><div style="float: left; width:30%;"> <img height="185" width= "185" src="{{mySession.picture}}"></div><div style="float: left; width:70%;">{{mySession.Bio}}</div></div>
+			<div style="overflow: auto; margin-bottom:10px;"><div style="float: left; width:30%;"> <img src="{{mySession.picture}}" style="max-width:80%;" ></div><div style="float: left; width:70%;">{{mySession.Bio}}</div></div>
 			 <button type="button" class="abstract">Abstract</button>
 			<div class="abstract_content">
 			  <p>{{mySession.abstract}}</p>
