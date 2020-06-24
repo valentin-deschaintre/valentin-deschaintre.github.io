@@ -28,13 +28,12 @@ figcaption {
 }
 
 .page-header div {
-  text-align: right;
+  text-align: left;
   font-size: 28px;
 }
 
 .page-header h1 {
-  text-align: right;
-  margin-top: 8px;
+  text-align: left;
   font-size: 26px;
 }
 
@@ -49,6 +48,14 @@ figcaption {
 
 #logo {
   font-size: 0px;
+  position: relative;
+}
+
+.logo-img
+{
+	margin-top: 20px;
+	width:45%;
+	float: right;
 }
 
 #introduction h2 {
