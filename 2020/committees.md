@@ -179,4 +179,24 @@ year: 2020
         </div>
 
     </div>
+	    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">Technical volunteers</h4>
+        </div>
+        <div class="panel-body">
+            <h4><a href="http://valentin.deschaintre.fr/" target="_blank">Mojtaba Bemana</a><br><small> MPI, Germany</small></h4>
+        </div>
+        <div class="panel-body">
+            <h4><a href="http://valentin.deschaintre.fr/" target="_blank">Valentin Deschaintre</a><br><small> Imperial College London, UK</small></h4>
+        </div>
+		<div class="panel-body">
+            <h4><a href="http://valentin.deschaintre.fr/" target="_blank">David Griffiths</a><br><small> UCL, UK</small></h4>
+        </div>
+		<div class="panel-body">
+            <h4><a href="http://valentin.deschaintre.fr/" target="_blank">Philipp Henzler</a><br><small> UCL, UK</small></h4>
+        </div>
+
+
+
+    </div>
 </div>
