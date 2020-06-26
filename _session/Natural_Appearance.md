@@ -7,7 +7,7 @@ authors: "Session chair: Wojciech Jarosz"
 start: "2020-06-30T14:50:00Z"
 end: "2020-06-30T15:40:00Z"
 session_id: 2
-youtube_url: "https://youtube.com"
+youtube_url: "https://youtu.be/poq8mtrnvOM"
 rocket_chat_url: "https://rocket.chat/"
 year: 2020
 ---

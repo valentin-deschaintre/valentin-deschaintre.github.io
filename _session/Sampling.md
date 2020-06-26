@@ -7,7 +7,7 @@ authors: "Session chair: Toshiya Hachisuka"
 start: "2020-07-03T13:00:00Z"
 end: "2020-07-03T14:15:00Z"
 session_id: 7
-youtube_url: "https://youtube.com"
+youtube_url: "https://youtu.be/YVvRjxWyBRo"
 rocket_chat_url: "https://rocket.chat/"
 year: 2020
 ---

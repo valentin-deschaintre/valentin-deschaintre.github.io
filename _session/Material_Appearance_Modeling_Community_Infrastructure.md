@@ -7,7 +7,7 @@ authors: ""
 start: "2020-06-29T15:00:00Z"
 end: "2020-06-29T15:40:00Z"
 session_id: 23
-youtube_url: "https://youtube.com"
+youtube_url: "https://youtu.be/6Gg8LTefAhM"
 rocket_chat_url: "https://rocket.chat/"
 year: 2020
 color: '#602f6b'
