@@ -4,8 +4,7 @@ layout: egsr-default
 title: Live
 year: 2020
 ---
-<title>EGSR2020 Live Stream (redirect)</title>
-
+You will be redirected to the current session of Youtube in a few seconds...
 
 <script type='text/javascript'>
 function redirect(){
