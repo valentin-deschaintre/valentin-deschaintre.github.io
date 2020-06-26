@@ -139,6 +139,7 @@
   session_id: 8
   talk_id: 20
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_high-resolution_neural_face_swapping_for_visual_effects"
+  live_only: 1
   
 - title: "An Adaptive Metric for BRDF Appearance Matching"
   authors: "J. Bieron P. Peers"
