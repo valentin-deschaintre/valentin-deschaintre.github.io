@@ -55,6 +55,7 @@
   session_id: 3
   talk_id: 8
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_adaptive_caustics_rendering_in_production_with_photon_guiding"
+  industry_track: 1
   
 - title: "Deep Kernel Density Estimation for Photon Mapping"
   authors: "Shilin Zhu, Zexiang Xu, Henrik Wann Jensen, Hao Su, Ravi Ramamoorthi"
