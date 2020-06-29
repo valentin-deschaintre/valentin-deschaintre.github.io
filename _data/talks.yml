@@ -179,7 +179,7 @@
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/MAM_3.1_bonn_appearance_benchmark"
 
 - title: "A Taxonomy of Bidirectional Scattering Distribution Function Lobes for Rendering Engineers"
-  authors: "M. McGuire, J. Dorsey, E. Haines, J. F. Hughes, S. Marschner, M. Pharr, P. Shirley"
+  authors: "M. McGuire, J. Dorsey, E. Haines, J. F. Hughes, S. Marschner, M. Pharr, P. Shirley" 
   session_id: 23
   talk_id: 27    
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/MAM_3.2_taxonomy_bsdf_function_lobes_for_rendering_engineers"
