@@ -11,7 +11,7 @@
   abstract: "Specular aliasing is a problem that can make seemingly simple scenes notoriously hard to render efficiently: small geometric features with high curvature and near specular reflectance properties result in tiny lighting features which are difficult to resolve at low sample counts per pixel. This is especially apparent in scenes including fluid simulation, which often feature fast moving elements such as spray particles. LEAN and LEADR mapping can be used to convert geometric surface detail to anisotropic surface roughness in a preprocess. For FX elements fine geometric detail can be represented as participating media. Both approaches are only valid in the far-field regime where the geometric detail is much smaller than a pixel and in the meso-scale the challenge of resolving highlights remains. Fast motion and the relatively long shutter intervals, commonly used in movie production, lead to strong variation of the surface normals seen under a pixel over time, thus aggravating the problem. Recently proposed specular anti aliasing approaches preintegrate geometric curvature under the pixel footprint for one specific ray to achieve noise free images at very low sample counts. To close the gap between LEADR mapping and precise ray tracing, we extend specular anti aliasing to anisotropic surface roughness and to account for the temporal surface normal variation due to motion blur."
   session_id: 1
   talk_id: 1
-  rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/sr_06.2_temporal_normal_distribution_functions"
+  rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_06.2_temporal_normal_distribution_functions"
   
 - title: "Real-time Monte Carlo Denoising with the Neural Bilateral Grid"
   authors: "Xiaoxu Meng, Quan Zheng, Amitabh Varshney, Gurprit Singh, Matthias Zwicker"
@@ -182,4 +182,4 @@
   authors: "M. McGuire, J. Dorsey, E. Haines, J. F. Hughes, S. Marschner, M. Pharr, P. Shirley"
   session_id: 23
   talk_id: 27    
-  rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/mam_3.2_taxonomy_bsdf_function_lobes_for_rendering_engineers"
+  rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/MAM_3.2_taxonomy_bsdf_function_lobes_for_rendering_engineers"
