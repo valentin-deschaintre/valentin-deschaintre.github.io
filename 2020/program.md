@@ -24,7 +24,7 @@ year: 2020
 <script src="../scripts/moment.min.js"></script>
 <script src="../scripts/moment-timezone-with-data.min.js"></script>
 
-<div id='intro'>For EGSR fully virtual edition, each session comes with a youtube live <img src="/img/program/yt.jpg" height="15px" width="25px"> link alongside a Rocket Chat <img src="/img/program/rocket-chat.svg" height="15px" width="25px">  link, offering different possibilities to ask questions and interacts with the other attendees.</div>
+<div id='intro'>For EGSR virtual edition, each session comes with a youtube live <img src="/img/program/yt.jpg" height="15px" width="25px"> link alongside a Rocket Chat <img src="/img/program/rocket-chat.svg" height="15px" width="25px">  link, offering different possibilities to ask questions and interacts with the other attendees.</div>
 
 <script>
 	UTCminTime = 12;
