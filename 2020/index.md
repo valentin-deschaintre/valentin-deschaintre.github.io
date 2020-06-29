@@ -11,7 +11,7 @@ image:
 
 <div style=" background-color: rgba(46, 204, 64, 0.1); border-style:solid; border-color: rgba(46, 204, 64, 0.5);"><p style="margin-top:20px; margin-bottom:20px; margin-left:20px; margin-right:20px;">Everybody is free to attend the paper sessions, keynotes and ceremonies of EGSR, including MAM, live via YouTube Live (YT) at <a href="/live">egsr2020.london/live</a>. All sessions are streamed but also recorded to YT, where they will be archived for free access later.<br><br>
 
-If you would like to engage in the (live) discussion you will need to register at <a href="https://forms.gle/Cg6Asr7Dwi4JvJAY8">https://forms.gle/Cg6Asr7Dwi4JvJAY8</a> so you can join us on Rocket.Chat (RC) at <a href="rc.egsr2020.london">rc.egsr2020.london</a>. RC is used for ours #announcement, #general discussion and specific exchange about an individual #paper_X. RC also enables you to ask questions to presenters. These will be posted on the channel of the respective paper and read by the session chair.<br><br>
+If you would like to engage in the (live) discussion you will need to register at <a href="https://forms.gle/Cg6Asr7Dwi4JvJAY8">https://forms.gle/Cg6Asr7Dwi4JvJAY8</a> so you can join us on Rocket.Chat (RC) at <a href="https://rc.egsr2020.london">rc.egsr2020.london</a>. RC is used for ours #announcement, #general discussion and specific exchange about an individual #paper_X. RC also enables you to ask questions to presenters. These will be posted on the channel of the respective paper and read by the session chair.<br><br>
 
 If you have previously been active at EGSR, we will have registered you already and send you an email with credentials. In this case, you do not need to register again.</p>	</div>
 
