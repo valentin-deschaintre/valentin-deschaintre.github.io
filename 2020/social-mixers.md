@@ -7,7 +7,7 @@ year: 2020
 ---
 
 To emulate the random encounters and interactions which make up the true spice of in person conferences, we offer two sessions of social mixers.
-One from 12:00 to 12:45 UTC on Wednesday 1st of July and one from 16:45 to 17:30 UTC on Wednesday 2nd of July.
+One from 12:00 to 12:45 UTC on Wednesday 1st of July and one from 16:45 to 17:30 UTC on Thursday 2nd of July.
 
 To participate you need to register on this form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_eRP4zYosko1O6WMDhRpVPkx2YLvQV7i_ogUoKMc6qh9nDg/viewform">*here*</a>.
 
