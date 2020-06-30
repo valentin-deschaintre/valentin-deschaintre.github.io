@@ -8,7 +8,7 @@ start: "2020-07-02T16:45:00Z"
 end: "2020-07-02T17:30:00Z"
 session_id: 31
 year: 2020
-color: '#FFD700'
+color: '#FFDC00'
 ---
 <script type='text/javascript'>
 
