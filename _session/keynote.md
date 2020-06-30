@@ -8,7 +8,7 @@ start: "2020-07-01T13:00:00Z"
 end: "2020-07-01T14:00:00Z"
 session_id: 10
 youtube_url: "https://youtu.be/PtqubqPh_6c"
-rocket_chat_url: "https://rocket.chat/"
+rc_link: "https://rc.egsr2020.london/channel/SR_08_keynote"
 year: 2020
 color: '#006400'
 abstract: "Recent progress in generative models and particularly generative adversarial networks (GANs) has been remarkable. They have been shown to excel at image synthesis as well as image-to-image translation problems. I will present a number of our recent methods in this space, which, for instance, can translate images from one domain (e.g., day time) to another domain (e.g., night time) in an unsupervised fashion, synthesize completely new images, and even learn to turn label masks into realistic images."
