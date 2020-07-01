@@ -28,3 +28,5 @@ While you are entirerly free to discuss anything, we provide a few topics which 
 <li> Group's research topic</li>
 <li> Research organization of the Lab/University/Company you work for.</li>
 </ul>
+
+The calls start without your names configured so please update it in the call parameters.
