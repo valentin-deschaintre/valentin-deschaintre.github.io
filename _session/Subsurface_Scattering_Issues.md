@@ -7,7 +7,7 @@ authors: "Session chair: Reinhard Klein"
 start: "2020-06-29T14:15:00Z"
 end: "2020-06-29T14:55:00Z"
 session_id: 22
-youtube_url: "https://youtu.be/UHJy1OM3AxQ"
+youtube_url: "https://youtu.be/0ppdTwPj5EI"
 rocket_chat_url: "https://rocket.chat/"
 year: 2020
 color: '#602f6b'

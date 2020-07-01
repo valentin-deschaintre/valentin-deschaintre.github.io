@@ -7,7 +7,7 @@ authors: "<b>Jan Kautz</b>"
 start: "2020-07-01T13:00:00Z"
 end: "2020-07-01T14:00:00Z"
 session_id: 10
-youtube_url: "https://youtu.be/PtqubqPh_6c"
+youtube_url: "https://youtu.be/lbZBRp6Gn20"
 rc_link: "https://rc.egsr2020.london/channel/SR_08_keynote"
 year: 2020
 color: '#006400'
