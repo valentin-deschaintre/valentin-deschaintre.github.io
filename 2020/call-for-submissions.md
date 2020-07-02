@@ -45,7 +45,7 @@ We encourage participation from a diverse range of backgrounds including scienti
 ---
 
 #### Full Papers
-We invite submissions of regular, technical papers presenting novel research or applications related to any aspect of media production, including computer vision, graphics and machine learning research with application in this area. We particularly encourage the submission of early-stage doctoral work. Submitted papers can be any length up to 10 pages and will be subject to double-blind peer review. Accepted papers will be presented in either oral or poster form, and will appear in the ACM Digital Library. Browse past CVMP papers in the [ACM Digital Library](http://bit.ly/CVMP_CVM_DL).
+We invite submissions of regular, technical papers presenting novel research or applications related to any aspect of media production, including computer vision, graphics and machine learning research with application in this area. We particularly encourage the submission of early-stage doctoral work. Submitted papers can be any length up to 10 pages and will be subject to double-blind peer review. Accepted papers will be presented in either oral or poster form, and will appear in the ACM Digital Library. Browse past CVMP papers in the [ACM Digital Library](http://bit.ly/CVMP_ACM_DL).
 
 
 #### Short Papers and Technical Abstracts
