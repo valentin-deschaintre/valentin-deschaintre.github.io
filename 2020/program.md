@@ -114,7 +114,8 @@ year: 2020
 
 					<div>
 
-						<h4  style="overflow: auto;"><span style="float: left; margin-top: 10px; margin-right: 10px;">{{talk.title}}</span> {% if talk.rc_link%}<a href="{{talk.rc_link}}" ><img src="/img/program/rocket-chat.svg" height="20px" width="33px" style="float: left; margin-top: 10px;"></a>{% endif %}</h4>
+						<h4  style="overflow: auto;"><span style="float: left; margin-top: 10px; margin-right: 10px;">{{talk.title}}</span> {% if talk.rc_link %}<a href="{{talk.rc_link}}" ><img src="/img/program/rocket-chat.svg" height="20px" width="33px" style="float: left; margin-top: 10px;"></a>{% endif %}
+						{% if talk.paper_link %}<a href="{{talk.paper_link}}" ><img src="/img/2020/pdf_icon.png" height="30px" width="24px" style="float: left; margin-top: 5px;"></a>{% endif %}</h4>
 						<h5>{{talk.authors}}</h5>
 						{% if talk.live_only%}<h6 style="color: #C1272D;">The talk will not be available as VOD after the live streaming</h6>{% endif %}
 						{% if talk.industry_track%}<h6>(EGSR Industry Track, the paper is made available by the authors, not on EG DL)</h6>{% endif %}

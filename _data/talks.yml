@@ -5,20 +5,23 @@
   session_id: 1
   talk_id: 0
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_06.1_neural_denoising_with_layer_embeddings"
-
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14049/v39i4pp001-012.pdf"
+  
 - title: "Temporal normal distribution functions"
   authors: "Lorenzo Tessari, Johannes Hanika, Carsten Dachsbacher, Marc Droske"
   abstract: "Specular aliasing is a problem that can make seemingly simple scenes notoriously hard to render efficiently: small geometric features with high curvature and near specular reflectance properties result in tiny lighting features which are difficult to resolve at low sample counts per pixel. This is especially apparent in scenes including fluid simulation, which often feature fast moving elements such as spray particles. LEAN and LEADR mapping can be used to convert geometric surface detail to anisotropic surface roughness in a preprocess. For FX elements fine geometric detail can be represented as participating media. Both approaches are only valid in the far-field regime where the geometric detail is much smaller than a pixel and in the meso-scale the challenge of resolving highlights remains. Fast motion and the relatively long shutter intervals, commonly used in movie production, lead to strong variation of the surface normals seen under a pixel over time, thus aggravating the problem. Recently proposed specular anti aliasing approaches preintegrate geometric curvature under the pixel footprint for one specific ray to achieve noise free images at very low sample counts. To close the gap between LEADR mapping and precise ray tracing, we extend specular anti aliasing to anisotropic surface roughness and to account for the temporal surface normal variation due to motion blur."
   session_id: 1
   talk_id: 1
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_06.2_temporal_normal_distribution_functions"
-  
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.2312/sr20201132/001-012.pdf"
+
 - title: "Real-time Monte Carlo Denoising with the Neural Bilateral Grid"
   authors: "Xiaoxu Meng, Quan Zheng, Amitabh Varshney, Gurprit Singh, Matthias Zwicker"
   abstract: "Real-time denoising for Monte Carlo rendering remains a critical challenge with regard to the demanding requirements of both high fidelity and low computation time. In this paper, we propose a novel and practical deep learning approach to robustly denoise Monte Carlo images rendered at sampling rates as low as a single sample per pixel (1-spp). This causes severe noise, and previous techniques strongly compromise final quality to maintain real-time denoising speed. We develop an efficient convolutional neural network architecture to learn to denoise noisy inputs in a data-dependent, bilateral space. Our neural network learns to generate a guide image for first splatting noisy data into the grid, and then slicing it to read out the denoised data. To seamlessly integrate bilateral grids into our trainable denoising pipeline, we leverage a differentiable bilateral grid, called neural bilateral grid, which enables end-to-end training. In addition, we also show how we can further improve denoising quality using a hierarchy of multi-scale bilateral grids. Our experimental results demonstrate that this approach can robustly denoise 1-spp noisy input images at real-time frame rates (a few milliseconds per frame). At such low sampling rates, our approach outperforms state-of-the-art techniques based on kernel prediction networks both in terms of quality and speed, and it leads to significantly improved quality compared to the state-of-the-art feature regression technique."
   session_id: 1
   talk_id: 3
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_06.3_real-time_monte_carlo_denoising_with_the_neural_bilateral_grid"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.2312/sr20201133/013-024.pdf"
 
 - title: "A Scalable and Production Ready Sky and Atmosphere Rendering Technique"
   authors: "Sebastien Hillaire"
@@ -26,6 +29,7 @@
   session_id: 2
   talk_id: 4
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_07.1_a_scalable_and_production_ready_sky_and_atmosphere_rendering_technique"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14050/v39i4pp013-022.pdf"
   
   
 - title: "Multi-Scale Appearance Modeling of Granular Materials with Continuously Varying Grain Properties"
@@ -34,6 +38,7 @@
   session_id: 2
   talk_id: 5
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_07.2_multi-scale_appearance_modeling_of_granular_materials_with_continuously_varying_grain_properties"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.2312/sr20201134/025-037.pdf"
   
 - title: "Practical Product Path Guiding Using Linearly Transformed Cosines"
   authors: "Stavros Diolatzis, Adrien Gruson, Wenzel Jakob, Derek Nowrouzezahrai, George Drettakis"
@@ -41,6 +46,7 @@
   session_id: 3
   talk_id: 6
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_09.1_practical_product_path_guiding"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14051/v39i4pp023-033.pdf"
   
 - title: "Temporal Sample Reuse for Next Event Estimation and Path Guiding for Real-Time Path Tracing"
   authors: "Addis Dittebrandt, Johannes Hanika, Carsten Dachsbacher"
@@ -48,6 +54,7 @@
   session_id: 3
   talk_id: 7
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_09.2_temporal_sample_reuse_for_next_event_estimation_and_path_guiding_for_real-time_path_tracing"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.2312/sr20201135/039-051.pdf"
   
 - title: "Adaptive Caustics Rendering in Production with Photon Guiding"
   authors: "Alejandro Conty, Christopher Kulla"
@@ -63,6 +70,7 @@
   session_id: 4
   talk_id: 9
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_10.1_Deep_Kernel_Density_Estimation_for_Photon_Mapping"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14052/v39i4pp035-045.pdf"
   
 - title: "Adaptive Matrix Completion for Fast Visibility Computations with Many Lights Rendering"
   authors: "Sunrise Wang, Nicolas Holzschuch"
@@ -70,6 +78,7 @@
   session_id: 4
   talk_id: 10
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_10.2_adaptive_matrix_completion_for_fast_visibility_computations_with_many_lights_rendering"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14053/v39i4pp047-058.pdf"
   
 - title: "An Adaptive BRDF Fitting Metric"
   authors: "James Bieron, Pieter Peers"
@@ -77,6 +86,7 @@
   session_id: 5
   talk_id: 11
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_11.1_an_adaptive_brdf_fitting_metric"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14054/v39i4pp059-074.pdf"
   
 - title: "Joint SVBRDF Recovery and Synthesis From a Single Image using an Unsupervised Generative Adversarial Network"
   authors: "Yezi Zhao, Beibei Wang, Yanning Xu, Zheng Zeng, Lu Wang, Nicolas Holzschuch"
@@ -84,6 +94,7 @@
   session_id: 5
   talk_id: 12
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_11.2_joint_svbrdf_recovery_and_synthesis_from_a_single_image_using_an_unsupervised_generative_adversarial_network"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.2312/sr20201136/053-066.pdf"
   
 - title: "Practical Measurement and Reconstruction of Spectral Skin Reflectance"
   authors: "Yuliya Gitlina, Giuseppe Claudio Guarnera, Daljit Singh Dhillon, Jan Hansen, Alexandros Lattas, Dinesh Pai, Abhijeet Ghosh"
@@ -91,6 +102,7 @@
   session_id: 5
   talk_id: 13
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_11.3_practical_measurement_and_reconstruction_of_spectral_skin_reflectance"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14055/v39i4pp075-089.pdf"
   
 - title: "Guided Fine-Tuning for Large-Scale Material Transfer"
   authors: "Valentin Deschaintre, George Drettakis, Adrien Bousseau"
@@ -98,6 +110,7 @@
   session_id: 6
   talk_id: 14
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_12.1_guided_fine-tuning_for_large-scale_material_transfer"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14056/v39i4pp091-105.pdf"
    
 - title: "Photorealistic Material Editing Through Direct Image Manipulation"
   authors: "Károly Zsolnai-Fehér, Peter Wonka, Michael Wimmer"
@@ -105,6 +118,7 @@
   session_id: 6
   talk_id: 15
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_12.2_photorealistic_material_editing_through_direct_image_manipulation"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14057/v39i4pp107-120.pdf"
   
 - title: "Can't Invert the CDF? The Triangle-Cut Parameterization of the Region under the Curve"
   authors: "Eric Heitz"
@@ -112,6 +126,7 @@
   session_id: 7
   talk_id: 16
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_13.1_cant_invert_the_cdf_the_triangle-cut_parameterization_of_the_region_under_the_curve"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14058/v39i4pp121-132.pdf"
   
 - title: "A Comprehensive Theory and Variational Framework for Anti-aliasing Sampling Patterns"
   authors: "Cengiz Oztireli"
@@ -119,6 +134,7 @@
   session_id: 7
   talk_id: 17
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_13.2_a_comprehensive_theory_and_variational_framework_for_anti-aliasing_sampling_patterns"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14059/v39i4pp133-148.pdf"
 
 - title: "Practical Product Sampling by Fitting and Composing Warps"
   authors: "David Hart, Matt Pharr, Thomas Müller, Ward Lopes, Morgan McGuire, Peter Shirley"
@@ -126,6 +142,7 @@
   session_id: 7
   talk_id: 18
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_13.3_practical_product_sampling_by_fitting_and_composing_warps"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14060/v39i4pp149-158.pdf"
   
 - title: "Semi-Procedural Textures Using Point Process Texture Basis Functions"
   authors: "Pascal Guehl, Remi Allegre, Jean-Michel Dischler, Bedrich Benes, Eric Galin"
@@ -133,6 +150,7 @@
   session_id: 8
   talk_id: 19
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_14.1_semi-procedural_textures_using_point_process_texture_basis_functions"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14061/v39i4pp159-171.pdf"
 
 - title: "High-Resolution Neural Face Swapping for Visual Effects"
   authors: "Jacek Naruniec, Leonhard Helminger, Christopher Schroers, Romann Weber"
@@ -140,6 +158,7 @@
   session_id: 8
   talk_id: 20
   rc_link: "https://go.rocket.chat/room?host=rc.egsr2020.london&rid=GENERAL&path=channel/SR_14.2_high-resolution_neural_face_swapping_for_visual_effects"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.1111/cgf14062/v39i4pp173-184.pdf"
   live_only: 1
   
 - title: "An Adaptive Metric for BRDF Appearance Matching"
