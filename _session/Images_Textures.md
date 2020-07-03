@@ -7,7 +7,7 @@ authors: "Session chair: Nima Kalantari"
 start: "2020-07-03T14:20:00Z"
 end: "2020-07-03T15:10:00Z"
 session_id: 8
-youtube_url: "https://youtu.be/lYs_SEhqBnk"
+youtube_url: "https://youtu.be/dxa4kcMZVJA"
 rocket_chat_url: "https://rocket.chat/"
 year: 2020
 ---
