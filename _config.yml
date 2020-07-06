@@ -17,6 +17,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 # Contact
 email: "v.deschaintre@ic.ac.uk"
@@ -30,6 +31,5 @@ email: "v.deschaintre@ic.ac.uk"
 sass:
     style: compressed
 exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
-
 
 theme: jekyll-theme-slate
