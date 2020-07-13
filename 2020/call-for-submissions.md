@@ -37,7 +37,7 @@ We encourage participation from a diverse range of backgrounds including scienti
 | __Short Papers deadline:__ |25 September 2020|
 | __Demos deadline:__ |25 September 2020|
 
-*All deadlines are 23:59 Pacific Time.*
+*All deadlines are 23:59 GMT.*
 
 </div>
 </div>
@@ -45,9 +45,7 @@ We encourage participation from a diverse range of backgrounds including scienti
 ---
 
 #### Full Papers
-
-We invite submissions of regular, technical papers presenting novel research or applications related to any aspect of media production, including computer vision, graphics and machine learning research with application in this area. We particularly encourage the submission of early-stage doctoral work. Submitted papers can be any length up to 10 pages and will be subject to double-blind peer review. Accepted papers will be presented in either oral or poster form, and will appear in the ACM Digital Library. Browse past CVMP papers in the [ACM Digital Library](http://bit.ly/CVMP_CVM_DL).
-
+We invite submissions of regular, technical papers presenting novel research or applications related to any aspect of media production, including computer vision, graphics and machine learning research with application in this area. We particularly encourage the submission of early-stage doctoral work. Submitted papers can be any length up to 10 pages and will be subject to double-blind peer review. Accepted papers will be presented in either oral or poster form, and will appear in the ACM Digital Library. Browse past CVMP papers in the [ACM Digital Library](http://bit.ly/CVMP_ACM_DL).
 
 
 #### Short Papers and Technical Abstracts
@@ -64,12 +62,12 @@ We invite submissions for industry talks showcasing innovative ideas and practic
 Papers, Demos and Talks are invited in all areas of visual media production related to film, games, and broadcast, including but not limited to:
 
 - 3D video capture and 3D-TV
-- Augmented/virtual Reality
+- Augmented/Mixed/Virtual reality (AR/MR/VR)
 - Character animation
 - Computational photography
 - Computer vision
 - Computer graphics
-- High-dynamic range (HDR) imaging
+- High-dynamic-range (HDR) imaging
 - Image and video synthesis
 - Image enhancement and restoration
 - Image/model/asset editing
@@ -79,7 +77,7 @@ Papers, Demos and Talks are invited in all areas of visual media production rela
 - Motion estimation
 - Multiple camera systems
 - Omni-directional video
-- Post production using stereo, 3D and motion
+- Post-production using stereo, 3D and motion
 - Pre-visualization
 - Real-time imaging systems
 - Real-time rendering
