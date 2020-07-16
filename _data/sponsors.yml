@@ -3,6 +3,21 @@
   url: https://www.siggraph.org/
   image: img/2020/sponsors/logo-acm-siggraph-wide.png
   level: conference
+  
+- name: NVidia
+  url: https://www.nvidia.com/
+  image: img/2020/sponsors/logo-nvidia-2x.png
+  level: gold
+
+- name: Activision
+  url: https://www.activision.com/
+  image: img/2020/sponsors/logo-activision-2x.png
+  level: bronze
+
+- name: 4Dface
+  url: https://www.4dface.io/
+  image: img/2020/sponsors/logo-4dface-2x.png
+  level: bronze
 
 2019:
 - name: ACM SIGGRAPH

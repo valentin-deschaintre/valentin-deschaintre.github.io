@@ -37,7 +37,7 @@ We encourage participation from a diverse range of backgrounds including scienti
 | __Short Papers deadline:__ |25 September 2020|
 | __Demos deadline:__ |25 September 2020|
 
-*All deadlines are 23:59 GMT.*
+*All deadlines are 23:59 BST.*
 
 </div>
 </div>
