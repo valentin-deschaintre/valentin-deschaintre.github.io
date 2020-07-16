@@ -75,7 +75,7 @@ year: 2020
 
 </div>
 
-<!-- <h2>Programme Committee</h2> 
+<h2>Programme Committee</h2> 
 <div class="col-12 col-sm-12 col-lg-12">
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -83,30 +83,26 @@ year: 2020
         </div>
         <div class="panel-body">
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Andrew Gilbert<br><small>University of Surrey</small></h4>
-                <h4>Armin Mustafa<br><small>University of Surrey</small></h4>
+                <h4>Dalijit Singh Dhillon<br><small>Clemson University</small></h4>
                 <h4>Dan Casas<br><small> Universidad Rey Juan Carlos</small></h4>
-                <h4>Dan Ring<br><small>Foundry</small></h4>
                 <h4>Marco Volino<br><small>University of Surrey</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                 <h4>Mashhuda Glencross<br><small>Pismo Software</small></h4>
-                 <h4>Nadejda Roubtsova<br><small>University of Bath</small></h4>
-                 <h4>Peter Eisert<br><small>Fraunhofer Heinrich Hertz Institute</small></h4>
+                <h4>Nadejda Roubtsova<br><small>University of Bath</small></h4>
+                <h4>Neill Campbell<br><small>University of Bath</small></h4>
                 <h4>Rafal Mantiuk<br><small>University of Cambridge</small></h4>
                 <h4>Robert  Dawes  <br><small>BBC R&D</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Tobias Ritschel<br><small>University College London</small></h4>
+                <h4>Thabo Beeler<br><small>Disney Research</small></h4>
                 <h4>Tom Haines<br><small>University of Bath</small></h4>
-                <h4>Volker Helzle<br><small>Filmakademie</small></h4>
-                <h4>Zhidong Xiao<br><small>Bournemouth University</small></h4>
+                <h4>William Smith<br><small>University of York</small></h4>
             </div>
         </div>
     </div>
 </div>
 
-<div class="col-12 col-sm-12 col-lg-12">
+<!-- <div class="col-12 col-sm-12 col-lg-12">
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">Steering Committee</h4>
