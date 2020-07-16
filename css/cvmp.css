@@ -85,6 +85,7 @@ img#venue {
 
 #sponsors .panel-body {
   padding: 0px;
+  padding-bottom: 15px;
 }
 
 .panel h4, .panel h3, .panel h2, .panel h1 {
