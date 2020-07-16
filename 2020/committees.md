@@ -91,10 +91,10 @@ year: 2020
                 <h4>Nadejda Roubtsova<br><small>University of Bath</small></h4>
                 <h4>Neill Campbell<br><small>University of Bath</small></h4>
                 <h4>Rafal Mantiuk<br><small>University of Cambridge</small></h4>
-                <h4>Robert  Dawes  <br><small>BBC R&D</small></h4>
+                <h4>Robert Dawes<br><small>BBC R&D</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Thabo Beeler<br><small>Disney Research</small></h4>
+                <h4>Thabo Beeler<br><small>Google</small></h4>
                 <h4>Tom Haines<br><small>University of Bath</small></h4>
                 <h4>William Smith<br><small>University of York</small></h4>
             </div>
