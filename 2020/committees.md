@@ -85,6 +85,7 @@ year: 2020
             <div class="col-4 col-sm-4 col-lg-4">
                 <h4>Dalijit Singh Dhillon<br><small>Clemson University</small></h4>
                 <h4>Dan Casas<br><small> Universidad Rey Juan Carlos</small></h4>
+                <h4>Hansung Kim<br><small>University Of Southampton</small></h4>
                 <h4>Marco Volino<br><small>University of Surrey</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
