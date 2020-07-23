@@ -84,17 +84,19 @@ year: 2020
         <div class="panel-body">
             <div class="col-4 col-sm-4 col-lg-4">
                 <h4>Dalijit Singh Dhillon<br><small>Clemson University</small></h4>
-                <h4>Dan Casas<br><small> Universidad Rey Juan Carlos</small></h4>
+                <h4>Dan Casas<br><small>Universidad Rey Juan Carlos</small></h4>
+                <h4>Erik Reinhard<br><small>Technicolor</small></h4>
                 <h4>Hansung Kim<br><small>University Of Southampton</small></h4>
                 <h4>Marco Volino<br><small>University of Surrey</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
                 <h4>Nadejda Roubtsova<br><small>University of Bath</small></h4>
                 <h4>Neill Campbell<br><small>University of Bath</small></h4>
+                <h4>Peter Eisert<br><small>Fraunhofer Heinrich Hertz Institute</small></h4>
                 <h4>Rafal Mantiuk<br><small>University of Cambridge</small></h4>
-                <h4>Robert Dawes<br><small>BBC R&D</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
+                <h4>Robert Dawes<br><small>BBC R&D</small></h4>
                 <h4>Thabo Beeler<br><small>Google</small></h4>
                 <h4>Tom Haines<br><small>University of Bath</small></h4>
                 <h4>William Smith<br><small>University of York</small></h4>
