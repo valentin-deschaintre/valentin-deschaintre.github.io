@@ -32,7 +32,7 @@ We encourage participation from a diverse range of backgrounds including scienti
 {: .panel-heading}
 <div class="panel-body">
 
-| __Full Papers deadline:__ |~~17 July~~ <span style="color:red">31 July 2020|
+| __Full Papers deadline:__ |~~17 July~~ ~~31 July~~ <span style="color:red">14 August 2020|
 | __Industry Talks deadline:__ |25 September 2020|
 | __Short Papers deadline:__ |25 September 2020|
 | __Demos deadline:__ |25 September 2020|
