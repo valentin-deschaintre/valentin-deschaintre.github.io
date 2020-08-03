@@ -19,6 +19,11 @@
   image: img/2020/sponsors/logo-4dface-2x.png
   level: bronze
 
+- name: CAMERA
+  url: http://camera.ac.uk/
+  image: img/2020/sponsors/logo-camera-2x.png
+  level: bronze
+
 2019:
 - name: ACM SIGGRAPH
   url: https://www.siggraph.org/
