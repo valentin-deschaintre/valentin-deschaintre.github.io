@@ -8,6 +8,11 @@
   url: https://www.nvidia.com/
   image: img/2020/sponsors/logo-nvidia-2x.png
   level: gold
+  
+- name: YouTube
+  url: https://www.youtube.com/
+  image: img/2020/sponsors/logo-youtube.png
+  level: silver
 
 - name: Activision
   url: https://www.activision.com/
