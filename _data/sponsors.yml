@@ -27,7 +27,7 @@
 - name: CAMERA
   url: https://www.camera.ac.uk/
   image: img/2020/sponsors/logo-camera-2x.png
-  level: bronze
+  level: academic
 
 2019:
 - name: ACM SIGGRAPH
