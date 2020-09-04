@@ -60,7 +60,7 @@ layout: main
 				</a> &nbsp; 
 				<a href="https://www-sop.inria.fr/reves/Basilic/2020/DDB20/guided_acquisition_svbrdf.pdf"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/pdf.png' width='19' height='19' alt='Flexible_multi_inputs_svbrdf.pdf' /></a>
 				<a href="https://drive.google.com/file/d/1t5JHcEjAEA7VDPVGRtcND4ECUEVhlyK0/view?usp=sharing"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/ppt.png' width='19' height='19' alt='01_07_20_EGSR_large_scale2.pptx' /></a>
-				<a href="https://www.youtube.com/watch?v=uzF7zdANOuk&t=42s"><img class='doc' src='img/yt.png' width='20' height='19' alt='Youtube presentation' /></a>
+				<a href="https://www.youtube.com/watch?v=uzF7zdANOuk&t=42s"><img class='doc' src='img/yt.jpg' width='20' height='19' alt='Youtube presentation' /></a>
 
 			</div>
 			<div class='authors'>
