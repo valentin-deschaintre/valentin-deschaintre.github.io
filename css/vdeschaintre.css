@@ -150,16 +150,16 @@ img{
 }
 .image 
 {
-	background-image: url("http://www-sop.inria.fr/reves/Basilic/images/thumbImg.png");
+	background-image: url("img/thumbImg.png");
 }
 .movie {
-	background-image: url("http://www-sop.inria.fr/reves/Basilic/images/thumbMovie.png");
+	background-image: url("img/thumbMovie.png");
 }
 .image:hover {
-	background-image: url("http://www-sop.inria.fr/reves/Basilic/images/thumbImgHover.png");
+	background-image: url("img/thumbImgHover.png");
 }
 .movie:hover {
-	background-image: url("http://www-sop.inria.fr/reves/Basilic/images/thumbMovieHover.png");
+	background-image: url("img/thumbMovieHover.png");
 }
 .Publications .thumb img {
 	margin: auto;
