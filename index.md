@@ -39,7 +39,7 @@ layout: main
 	<div class="Introduction">
 		I am currently Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
 		I previously did my PhD at Inria Sophia-Antipolis in the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a>.<br>
-		During my PhD, I had the pleasure to spend almost 2 months in MIT under the supervision of <a href='http://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
+		During my PhD, I had the pleasure to spend almost 2 months in MIT under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
 		My research focuses on material acquisition and representation, with a particular interest in deep learning methods. But my interests also include a wider range of topics such as environment (both indoor and outdoor) Acquisition and Reconstruction, Rendering and Computational photography. Finally, while I have not had the chance to work first hand on it since my under graduate year, I am an animation enthusiat !<br><br>
 
 		My PhD was funded by the French government (ANRT and Inria) and Optis, an Ansys affiliate using the <a href='https://www.ifsttar.fr/en/partnerships-innovation/scientific-and-technical-services/cifre-industrial-agreements-for-training-through-research/'>CIFRE</a> system of collaboration.<br><br>
@@ -50,7 +50,7 @@ layout: main
 	<div class="Publications list">
 		<div class='thumb image'>
 			<div style='padding-top:13px'><a href='https://www-sop.inria.fr/reves/Basilic/2020/DDB20'>
-				<img src='https://www-sop.inria.fr/reves/Basilic/2020/DDB20/thumbs/teaser.jpg.jpg' width='67' height='60' alt='DDB20'/></a>
+				<img src='img/teaser3.jpg' width='67' height='60' alt='DDB20'/></a>
 			</div>
 		</div>
 		<div class='ref'>
@@ -58,13 +58,13 @@ layout: main
 				<a href="https://team.inria.fr/graphdeco/projects/large-scale-materials/">
 					Guided Fine-Tuning for Large-Scale Material Transfer
 				</a> &nbsp; 
-				<a href="https://www-sop.inria.fr/reves/Basilic/2020/DDB20/guided_acquisition_svbrdf.pdf"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/pdf.png' width='19' height='19' alt='Flexible_multi_inputs_svbrdf.pdf' /></a>
-				<a href="https://drive.google.com/file/d/1t5JHcEjAEA7VDPVGRtcND4ECUEVhlyK0/view?usp=sharing"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/ppt.png' width='19' height='19' alt='01_07_20_EGSR_large_scale2.pptx' /></a>
+				<a href="https://www-sop.inria.fr/reves/Basilic/2020/DDB20/guided_acquisition_svbrdf.pdf"><img class='doc' src='img/pdf.png' width='19' height='19' alt='Flexible_multi_inputs_svbrdf.pdf' /></a>
+				<a href="https://drive.google.com/file/d/1t5JHcEjAEA7VDPVGRtcND4ECUEVhlyK0/view?usp=sharing"><img class='doc' src='img/ppt.png' width='19' height='19' alt='01_07_20_EGSR_large_scale2.pptx' /></a>
 				<a href="https://www.youtube.com/watch?v=uzF7zdANOuk&t=42s"><img class='doc' src='img/yt.jpg' width='20' height='19' alt='Youtube presentation' /></a>
 
 			</div>
 			<div class='authors'>
-				<a href='http://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
+				<a href='https://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
 				<a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a>,
 				<a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a>
 			</div>
@@ -83,10 +83,10 @@ layout: main
 				 <a href="https://www-sop.inria.fr/reves/Basilic/2019/Des19a/">
 					Lightweight material acquisition using deep learning
 				</a>
-				<a href="https://hal.archives-ouvertes.fr/tel-02418445/"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/pdf.png' width='19' height='19' alt='PhD Thesis' /></a>
+				<a href="https://hal.archives-ouvertes.fr/tel-02418445/"><img class='doc' src='img/pdf.png' width='19' height='19' alt='PhD Thesis' /></a>
 			</div>
 			<div class='authors'>
-				<a href='http://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
+				<a href='https://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
 			</div>
 			<div class='conf'>
 				Université Côté d'Azur, Inria, PhD Thesis, Nov 2019
@@ -103,12 +103,12 @@ layout: main
 				 <a href="https://www-sop.inria.fr/reves/Basilic/2019/Des19/">
 					Material acquisition using deep learning
 				</a>
-				<a href="https://www-sop.inria.fr/reves/Basilic/2019/Des19/doctoralConsortium_Deschaintre.pdf"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/pdf.png' width='19' height='19' alt='Short paper' /></a>
-				<a href="https://www-sop.inria.fr/reves/Basilic/2019/Des19/poster_sigAsia.pdf"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/pdf.png' width='19' height='19' alt='Poster' /></a>
-				<a href="https://repo-sam.inria.fr/fungraph/deep_mat_doc_consortium/19_11_17_sigAsia_DocConsortium.pptx"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/ppt.png' width='19' height='19' alt='material_acquisition_DL' /></a>
+				<a href="https://www-sop.inria.fr/reves/Basilic/2019/Des19/doctoralConsortium_Deschaintre.pdf"><img class='doc' src='img/pdf.png' width='19' height='19' alt='Short paper' /></a>
+				<a href="https://www-sop.inria.fr/reves/Basilic/2019/Des19/poster_sigAsia.pdf"><img class='doc' src='img/pdf.png' width='19' height='19' alt='Poster' /></a>
+				<a href="https://repo-sam.inria.fr/fungraph/deep_mat_doc_consortium/19_11_17_sigAsia_DocConsortium.pptx"><img class='doc' src='img/ppt.png' width='19' height='19' alt='material_acquisition_DL' /></a>
 			</div>
 			<div class='authors'>
-				<a href='http://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
+				<a href='https://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
 			</div>
 			<div class='conf'>
 				Siggraph Asia, Doctoral Consortium (Poster and Short Paper), Nov 2019
@@ -118,7 +118,7 @@ layout: main
 
 		<div class='thumb image'>
 			<div style='padding-top:13px'><a href='https://www-sop.inria.fr/reves/Basilic/2019/DADDB19'>
-				<img src='https://www-sop.inria.fr/reves/Basilic/2019/DADDB19/thumbs/teaser.jpg.jpg' width='67' height='60' alt='DADDB19'/></a>
+				<img src='img/teaser2.jpg' width='67' height='60' alt='DADDB19'/></a>
 			</div>
 		</div>
 		<div class='ref'>
@@ -126,14 +126,14 @@ layout: main
 				<a href="https://team.inria.fr/graphdeco/projects/multi-materials/">
 					Flexible SVBRDF Capture with a Multi-Image Deep Network
 				</a> &nbsp; 
-				<a href="https://www-sop.inria.fr/reves/Basilic/2019/DADDB19/Flexible_multi_inputs_svbrdf.pdf"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/pdf.png' width='19' height='19' alt='Flexible_multi_inputs_svbrdf.pdf' /></a>
-				<a href="https://repo-sam.inria.fr/fungraph/multi_image_materials/EGSR2019_Multi_Image_Final.pptx"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/ppt.png' width='19' height='19' alt='EGSR2019_Multi_Image_Final.pptx' /></a>
+				<a href="https://www-sop.inria.fr/reves/Basilic/2019/DADDB19/Flexible_multi_inputs_svbrdf.pdf"><img class='doc' src='img/pdf.png' width='19' height='19' alt='Flexible_multi_inputs_svbrdf.pdf' /></a>
+				<a href="https://repo-sam.inria.fr/fungraph/multi_image_materials/EGSR2019_Multi_Image_Final.pptx"><img class='doc' src='img/ppt.png' width='19' height='19' alt='EGSR2019_Multi_Image_Final.pptx' /></a>
 
 			</div>
 			<div class='authors'>
-				<a href='http://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
+				<a href='https://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
 				<a href='https://www.csail.mit.edu/person/miika-aittala'>Miika Aittala</a>,
-				<a href='http://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>,
+				<a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>,
 				<a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a>,
 				<a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a>
 			</div>
@@ -145,7 +145,7 @@ layout: main
 						
 		<div class='thumb image'>
 			<div style='padding-top:13px'><a href='https://www-sop.inria.fr/reves/Basilic/2018/DADDB18'>
-				<img src='https://www-sop.inria.fr/reves/Basilic/2018/DADDB18/thumbs/teaser.jpg.jpg' width='67' height='60' alt='DADDB18'/></a>
+				<img src='img/teaser.jpg' width='67' height='60' alt='DADDB18'/></a>
 			</div>
 		</div>
 		<div class='ref'>
@@ -153,14 +153,14 @@ layout: main
 				<a href="https://team.inria.fr/graphdeco/projects/deep-materials/">
 					Single-Image SVBRDF Capture with a Rendering-Aware Deep Network
 				</a> &nbsp; 
-				<a href="https://www-sop.inria.fr/reves/Basilic/2018/DADDB18/Deep Material Acquisition Authors_version.pdf"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/pdf.png' width='19' height='19' alt='Deep Material Acquisition Authors_version.pdf' /></a>
-				<a href="https://repo-sam.inria.fr/fungraph/deep-materials/18_08_15_siggraph_Deep_Materials_final.pptx"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/ppt.png' width='19' height='19' alt='18_08_15_siggraph_Deep_Materials_final.pptx' /></a>
+				<a href="https://www-sop.inria.fr/reves/Basilic/2018/DADDB18/Deep Material Acquisition Authors_version.pdf"><img class='doc' src='img/pdf.png' width='19' height='19' alt='Deep Material Acquisition Authors_version.pdf' /></a>
+				<a href="https://repo-sam.inria.fr/fungraph/deep-materials/18_08_15_siggraph_Deep_Materials_final.pptx"><img class='doc' src='img/ppt.png' width='19' height='19' alt='18_08_15_siggraph_Deep_Materials_final.pptx' /></a>
 
 			</div>
 			<div class='authors'>
-				<a href='http://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
+				<a href='https://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
 				<a href='https://www.csail.mit.edu/person/miika-aittala'>Miika Aittala</a>,
-				<a href='http://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>,
+				<a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>,
 				<a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a>,
 				<a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a>
 			</div>
@@ -176,17 +176,17 @@ layout: main
 		
 		<div class='thumb image'>
 			<div style='padding-top:13px'><a href='http://egsr2019.icube.unistra.fr/program.html'>
-				<img src='files/mamTalk/teaserTalkMam.PNG' width='67' height='60' alt='D19'/></a>
+				<img src='img/teaserTalkMam.PNG' width='67' height='60' alt='D19'/></a>
 			</div>
 		</div>
 		
 		<div class='ref'>
 			<div class='title'>
 				Discussion: Research and questions in neural methods for material acquisition
-				<a href="files/mamTalk/MAM_19_NeuralNetDiscussion.pptx"><img class='doc' src='https://www-sop.inria.fr/reves/Basilic/images/ppt.png' width='19' height='19' alt='MAM_19_NeuralNetDiscussion.pptx' /></a>
+				<a href="files/mamTalk/MAM_19_NeuralNetDiscussion.pptx"><img class='doc' src='img/ppt.png' width='19' height='19' alt='MAM_19_NeuralNetDiscussion.pptx' /></a>
 			</div>
 			<div class='authors'>
-				<a href='http://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
+				<a href='https://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
 			</div>
 			<div class='conf'>
 				Workshop on Material Appearance Modeling, jul 2019
