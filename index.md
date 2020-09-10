@@ -86,7 +86,13 @@ layout: main
 				<a href="https://hal.archives-ouvertes.fr/tel-02418445/"><img class='doc' src='img/pdf.png' width='19' height='19' alt='PhD Thesis' /></a>
 			</div>
 			<div class='authors'>
-				<a href='https://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
+				<a href='https://valentin.deschaintre.fr'>Valentin Deschaintre</a>
+			</div>
+			<div>
+			<ul>
+				<li>My thesis was awarded the <a href = 'https://gdr-igrv.icube.unistra.fr/index.php/Prix_de_th%C3%A8se_du_GdR_IG-RV'>French Computer Graphics and Geometry Thesis award 2020</a></li>
+				<li>A 5 minutes video describing my work and contributions is available here: <a href = 'https://www.youtube.com/watch?v=uNVxFNJrfEc&feature=youtu.be'>[english]</a><a href = 'https://www.youtube.com/watch?v=SEMtruiPirM&feature=youtu.be'>[french]</a></li>
+			</ul>
 			</div>
 			<div class='conf'>
 				Université Côté d'Azur, Inria, PhD Thesis, Nov 2019
