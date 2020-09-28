@@ -105,26 +105,25 @@ year: 2020
     </div>
 </div>
 
-<!-- <div class="col-12 col-sm-12 col-lg-12">
+<div class="col-12 col-sm-12 col-lg-12">
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">Steering Committee</h4>
         </div>
         <div class="panel-body">
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Jeff Clifford<br><small>Wavecrest, UK</small></h4>
+                <!-- <h4>Jeff Clifford<br><small>Wavecrest, UK</small></h4> -->
                 <h4>John Collomosse<br><small>University of Surrey, UK</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Oliver Grau<br><small>Intel, Germany</small></h4>
+                <!-- <h4>Oliver Grau<br><small>Intel, Germany</small></h4> -->
                 <h4>Peter Hall<br><small>University of Bath, UK</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Volker Helzle<br><small>Filmakademie, Germany</small></h4>
-                <h4>Anil Kokaram<br><small>Youtube/Google Inc., USA</small></h4>
+                <!-- <h4>Volker Helzle<br><small>Filmakademie, Germany</small></h4>
+                <h4>Anil Kokaram<br><small>Youtube/Google Inc., USA</small></h4> -->
             </div>
         </div>
     </div>
 </div>
--->
 

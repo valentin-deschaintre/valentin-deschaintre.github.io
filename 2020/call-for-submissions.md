@@ -33,9 +33,9 @@ We encourage participation from a diverse range of backgrounds including scienti
 <div class="panel-body">
 
 | __Full Papers deadline:__ |~~17 July~~ ~~31 July~~ <span style="color:red">14 August 2020 (final extension)|
-| __Industry Talks deadline:__ |25 September 2020|
-| __Short Papers deadline:__ |25 September 2020|
-| __Demos deadline:__ |25 September 2020|
+| __Industry Talks deadline:__ |~~25 September~~ <span style="color:red">09 October 2020 | 
+| __Short Papers deadline:__ |~~25 September~~ <span style="color:red">09 October 2020 |
+| __Demos deadline:__ |~~25 September~~ <span style="color:red">09 October 2020 |
 
 *All deadlines are 23:59 BST.*
 
