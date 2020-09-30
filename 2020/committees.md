@@ -112,7 +112,7 @@ year: 2020
         </div>
         <div class="panel-body">
             <div class="col-4 col-sm-4 col-lg-4">
-                <!-- <h4>Jeff Clifford<br><small>Wavecrest, UK</small></h4> -->
+                <h4>Jeff Clifford<br><small>Wavecrest, UK</small></h4>
                 <h4>John Collomosse<br><small>University of Surrey, UK</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">

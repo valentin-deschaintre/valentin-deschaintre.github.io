@@ -15,7 +15,7 @@ For over a decade, CVMP has built a reputation as the prime venue for researcher
 {: .panel-heading}
 <div class="panel-body">
 
-In light of the unknowns associated with the current COVID-19 situation, CVMP will be fully virtual this year! The event will take place on 10–11 December 2020. Proceedings of the Full Papers will appear in the ACM Digital Library, as usual. Please keep checking the [CVMP website](https://cvmp-conference.org/) for updates.
+In light of the unknowns associated with the current COVID-19 situation, CVMP will be fully virtual this year! The event will take place on 7-8 December 2020. Proceedings of the Full Papers will appear in the ACM Digital Library, as usual. Please keep checking the [CVMP website](https://cvmp-conference.org/) for updates.
 
 </div>
 </div>

@@ -36,11 +36,6 @@
   
 - name: CDE
   url: https://www.digital-entertainment.org/
-  image: img/2020/sponsors/logo-cde_tag_black.png
-  level: academic
-  
-- name: CDE
-  url: https://www.digital-entertainment.org/
   image: img/2020/sponsors/logo-cde_tag_green.png
   level: academic
 
