@@ -116,7 +116,7 @@ year: 2020
                 <h4>John Collomosse<br><small>University of Surrey, UK</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <!-- <h4>Oliver Grau<br><small>Intel, Germany</small></h4> -->
+                <h4>Oliver Grau<br><small>Intel, Germany</small></h4>
                 <h4>Peter Hall<br><small>University of Bath, UK</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
