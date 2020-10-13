@@ -38,6 +38,16 @@
   url: https://www.digital-entertainment.org/
   image: img/2020/sponsors/logo-cde_tag_green.png
   level: academic
+  
+- name: CVSSP
+  url: https://www.surrey.ac.uk/centre-vision-speech-signal-processing
+  image: img/2020/sponsors/logo-cvssp-2x.png
+  level: academic
+  
+- name: SURREY
+  url: https://www.surrey.ac.uk/
+  image: img/2020/sponsors/logo-surrey_green.png
+  level: academic
 
 2019:
 - name: ACM SIGGRAPH
