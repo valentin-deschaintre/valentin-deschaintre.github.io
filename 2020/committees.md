@@ -45,7 +45,7 @@ year: 2020
             <h4 class="panel-title">Industry Chair</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="https://www.linkedin.com/in/nigeljw/" target="_blank">Nigel Williams</a><br><small>Unity 3D</small></h4>
+            <h4><a href="https://www.linkedin.com/in/nigeljw/" target="_blank">Nigel Williams</a><br><small>Unity Technologies, Denmark</small></h4>
         </div>
     </div>
 </div>
