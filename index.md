@@ -170,6 +170,11 @@ layout: main
 				<a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a>,
 				<a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a>
 			</div>
+			<div>
+			<ul>
+				<li><a href = 'https://www.youtube.com/watch?v=UkWnExEFADI'>2 Minutes paper video</a></li>
+			</ul>
+			</div>
 			<div class='conf'>
 				ACM Transactions on Graphics (SIGGRAPH Conference Proceedings), Volume 37, Number 128, page 15 - aug 2018
 			</div>
@@ -203,6 +208,7 @@ layout: main
 	
 	<h3>Academic activities</h3>
 	<ul>
+		<li>Tertiary reviewer for <a href="https://conferences.eg.org/eg2021/">Eurographics 2021</a></li>
 		<li>Reviewer for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE TPAMI</a></li>
 		<li>Tertiary reviewer for <a href="https://sa2020.siggraph.org/en/">Siggraph Asia 2020</a></li>
 		<li>Program commitee member for <a href="https://www.cvcs.no/">CVCS 2020</a></li>
