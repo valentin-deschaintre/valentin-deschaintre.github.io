@@ -57,7 +57,7 @@ year: 2020
             <h4 class="panel-title">Conference Secretary</h4>
         </div>
         <div class="panel-body">
-            <h4>Melissa Green<br><small>University of York, UK</small></h4> <br/>
+            <h4>Melissa Green<br><small>University of York, UK</small></h4>
         </div>
     </div>
 </div> 
@@ -68,7 +68,7 @@ year: 2020
             <h4 class="panel-title">Public Relations Chair</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="https://arminmustafa.github.io/" target="_blank">Armin Mustafa</a><br><small>University of Surrey, UK</small></h4> <br/>
+            <h4><a href="https://arminmustafa.github.io/" target="_blank">Armin Mustafa</a><br><small>University of Surrey, UK</small></h4>
         </div>
     </div>
 </div>
