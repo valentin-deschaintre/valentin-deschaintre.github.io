@@ -208,6 +208,7 @@ layout: main
 	
 	<h3>Academic activities</h3>
 	<ul>
+		<li>Reviewer for <a href="https://www.computer.org/csdl/journal/tg">TVCG</a></li>
 		<li>Tertiary reviewer for <a href="https://conferences.eg.org/eg2021/">Eurographics 2021</a></li>
 		<li>Reviewer for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE TPAMI</a></li>
 		<li>Tertiary reviewer for <a href="https://sa2020.siggraph.org/en/">Siggraph Asia 2020</a></li>
