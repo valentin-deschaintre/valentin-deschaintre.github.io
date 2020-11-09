@@ -19,7 +19,7 @@ We are pleased to announce the following keynote speakers for CVMP 2020:
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/img/2020/keynotes/AngjooKanazawa.png" class="img-responsive img-thumbnail" alt="Angjoo Kanazawa " title="Angjoo Kanazawa">
+  <img src="{{site.url}}/img/2020/keynotes/AngjooKanazawa-800.jpg" class="img-responsive img-thumbnail" alt="Angjoo Kanazawa " title="Angjoo Kanazawa">
 </figure>
 
 </div>
@@ -38,7 +38,7 @@ Sarah Ticho is the founder of [Hatsumi](https://www.hatsumivr.com/), producer at
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/img/2020/keynotes/SarahTicho.jpg" class="img-responsive img-thumbnail" alt="Sarah Ticho" title="Sarah Ticho">
+  <img src="{{site.url}}/img/2020/keynotes/SarahTicho-800.jpg" class="img-responsive img-thumbnail" alt="Sarah Ticho" title="Sarah Ticho">
 </figure>
 
 </div>
