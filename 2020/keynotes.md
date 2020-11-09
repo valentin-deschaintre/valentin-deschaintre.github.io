@@ -38,7 +38,7 @@ Sarah Ticho is the founder of Hatsumi, producer at Deep and Healthcare Lead at I
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/img/2019/keynotes/SarahTicho.jpg" class="img-responsive img-thumbnail" alt="Sarah Ticho" title="Sarah Ticho">
+  <img src="{{site.url}}/img/2020/keynotes/SarahTicho.jpg" class="img-responsive img-thumbnail" alt="Sarah Ticho" title="Sarah Ticho">
 </figure>
 
 </div>
