@@ -41,8 +41,7 @@ year: 2020
 			</tr>
 			<tr>
 				<td>14:20</td>
-				<td><b>Short Papers and Demo Session</b><br/>
-					<!--
+				<td><b>Short Papers and Demo Session</b><!--<br/>
 					<ul>
 						<li><a target ="_blank" href="/files/2020/short/32.pdf">L2-based Colour Correction for Light Field Arrays</a><br/><i>Mairead Grogan (Trinity College Dublin), Aljosa Smolic (Trinity College Dublin)</i></li>
 						<li><a target ="_blank" href="/files/2020/short/34.pdf">High-resolution BTF Capture for delicate Materials</a><br/><i>Gilles Rainer (University College London), Kevin Rathbone (Robotae Ltd), Tim Weyrich (University College London)</i></li>
@@ -56,10 +55,10 @@ year: 2020
 			</tr>
 			<tr>
 				<td>15:00</td>
-				<td><b>Coffee Break with Q&amp;A and networking</b></td>
+				<td><b>Coffee Break with Q&amp;A and Networking</b></td>
 			</tr>
 			<tr>
-				<td>16:00</td><td><a href="/2020/keynotes/"><b>Keynote: To Be Announced</b><!--</a><br/>Sarah Ticho, <i>Founder of Hatsumi, producer at Deep and Healthcare Lead at Immerse UK</i>--></td>
+				<td>16:00</td><td><a href="/2020/keynotes/"><b>Keynote: To Be Announced</b></a><!--<br/>Sarah Ticho, <i>Founder of Hatsumi, producer at Deep and Healthcare Lead at Immerse UK</i>--></td>
 			</tr>
 			<tr>
 				<td>17:00</td>
@@ -86,7 +85,7 @@ year: 2020
 				</td>
 			</tr>
 			<tr>
-				<td>11:00</td><td><a href="/2020/keynotes/"><b>Keynote: To Be Announced</b><!--</a><br/>Sarah Ticho, <i>Founder of Hatsumi, producer at Deep and Healthcare Lead at Immerse UK</i>--></td>
+				<td>11:00</td><td><a href="/2020/keynotes/"><b>Keynote: To Be Announced</b></a><!--<br/>Sarah Ticho, <i>Founder of Hatsumi, producer at Deep and Healthcare Lead at Immerse UK</i>--></td>
 			</tr>
 			<tr>
 				<td>12:00</td>
@@ -94,11 +93,11 @@ year: 2020
 			</tr>
 			<tr>
 				<td>14:00</td>
-				<td><b>Special Session on Virtual Production</b><br/><i>to be confirmed</i></td>
+				<td><b>Special Session on Virtual Production</b><br/><i>To be confirmed.</i></td>
 			</tr>
 			<tr>
 				<td>15:00</td>
-				<td><b>Coffee Break with Q&amp;A and networking</b></td>
+				<td><b>Coffee Break with Q&amp;A and Networking</b></td>
 			</tr>
 			<tr>
 				<td>16:00</td><td><a href="/2020/keynotes/#AK"><b>Keynote: Perceiving Humans and Objects in the 3D World</b></a><br/>Angjoo Kanazawa, <i>UC Berkeley</i></td>
