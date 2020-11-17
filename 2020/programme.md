@@ -41,16 +41,22 @@ year: 2020
 			</tr>
 			<tr>
 				<td>14:20</td>
-				<td><b>Short Papers and Demo Session</b><!--<br/>
+				<td><b>Short Papers and Demo Session</b><br/>
 					<ul>
-						<li><a target ="_blank" href="/files/2020/short/32.pdf">L2-based Colour Correction for Light Field Arrays</a><br/><i>Mairead Grogan (Trinity College Dublin), Aljosa Smolic (Trinity College Dublin)</i></li>
-						<li><a target ="_blank" href="/files/2020/short/34.pdf">High-resolution BTF Capture for delicate Materials</a><br/><i>Gilles Rainer (University College London), Kevin Rathbone (Robotae Ltd), Tim Weyrich (University College London)</i></li>
-						<li><a target ="_blank" href="/files/2020/short/38.pdf">Efficient and Realistic High Resolution Sky Replacement</a><br/><i>Tony Polichroniadis (Anthropics), Sara Vicente (Anthropics)</i></li>
-						<li><a target ="_blank" href="/files/2020/short/43.pdf">Full-body Performance Capture of Sports from Multi-view Video</a><br/><i>Lewis Bridgeman (University of Surrey), Jean-Yves Guillemaut (University of Surrey), Adrian Hilton (University of Surrey)</i></li>
-						<li><a target ="_blank" href="/files/2020/short/44.pdf">High Quality Facial Capture using Binary Spherical Gradient Illumination</a><br/><i>Alexandros Lattas (Imperial College London), Yuan Zhu (Imperial College London), Abhijeet Ghosh (Imperial College London)</i></li>
-						<li><a target ="_blank" href="/files/2020/short/46.pdf">Approaching real-time Character Animation in Virtual Productions</a><br/><i>Jonas Trottnow (Filmakademie Baden-Württemberg GmbH), Simon Spielmann (Filmakademie Baden-Württemberg GmbH), David Moreno (Universitat Pompeu Fabra), Javi Agenjo (Universitat Pompeu Fabra)</i></li>
+						<li><a target ="_blank" href="/files/2020/short/6.pdf">From a Still Image to a Semantically Aware Video: A Context and Metadata-driven Automatic
+Media Production Framework</a><br/><i>
+Paula Viana (Polytechnic of Porto, INESC TEC Porto, Portugal), Pedro Carvalho (INESC TEC Porto, Portugal, Polytechnic of Porto), Maria Teresa Andrade (University of Porto, Porto, Portugal, INESC TEC Porto, Portugal), Inês N. Teixeira(Polytechnic of Porto, INESC TEC Porto, Portugal, University of Porto, Porto, Portugal), Pieter P. Jonker ( QdepQ Systems, Delft, The Netherlands), Luís Vilaça (University of Porto, Porto, Portugal, INESC TEC Porto, Portugal,Polytechnic of Porto, INESC TEC Porto, Portugal), José Pedro Pinto (INESC TEC Porto, Portugal), Tiago Costa (INESC TEC Porto, Portugal, University of Porto, Porto, Portugal) </i></li>
+						<li><a target ="_blank" href="/files/2020/short/11.pdf">Artistic Control of Defocus in Computer-Generated Holography</a><br/><i>Aaron Demolder (NCCA,Bournemouth University), Andrzej Kaczorowski (VividQ Ltd, Cambridge), Alfred Newman (VividQ Ltd, Cambridge) and  Hammadi Nait-Charif (NCCA,Bournemouth University)</i></li>
+						<li><a target ="_blank" href="/files/2020/short/12.pdf">Estimating Specular Anisotropy Angle with Polarized Photometric Stereo Setup</a><br/><i>
+						Arvin Lin (Department of Computing,Imperial College London), Yiming Lin (Department of Computing,Imperial College London), Abhijeet Ghosh (Department of Computing,Imperial College London)</i></li>
+						<li><a target ="_blank" href="/files/2020/short/13.pdf">Performance Optimization of Neural Style Transfer for Animated Characters in Real-Time
+Rendering</a><br/><i>Katsushi Suzuki (Research & Development Office, DELiGHTWORKS Inc.), Takeshi Okuya (Research & Development Office, DELiGHTWORKS Inc.) and Misumi Hata (Research & Development Office, DELiGHTWORKS Inc.)</i></li>						
+						<li><a target ="_blank" href="/files/2020/short/16.pdf">Super-Resolution Appearance Transfer for 4D Human Performance Capture</a><br/><i>Marco Pesavento (CVSSP,University of Surrey), Marco Volino (CVSSP,University of Surrey), Adrian Hilton (CVSSP,University of Surrey)</i></li>
+						<li><a target ="_blank" href="/files/2020/short/17.pdf">Real-Time Monocular 6DoF Object Pose Tracking on Smartphone GPUs</a><br/><i>Valentin Miu (Centre for Digital Entertainment, Bournemouth University Beauty Labs International Ltd., Cambridge) and Oleg Fryazinov (The National Centre for Computer Animation,Bournemouth University)</i></li>
+						<li><a target ="_blank" href="/files/2020/demo/15.pdf">OmniPhotos: Casual 360° VR Photography with Motion Parallax</a><br/><i>
+						Tobias Bertel (Department of Computer Science, University of Bath), Mingze Yuan (Department of Computer Science, University of Bath), Reuben Lindroos (Department of Computer Science, University of Bath) and Christian Richardt (Department of Computer Science, University of Bath)
+						</i></li>
 					</ul>
-					-->
 				</td>
 			</tr>
 			<tr>
