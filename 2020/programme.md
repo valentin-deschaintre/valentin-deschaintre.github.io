@@ -23,8 +23,8 @@ year: 2020
 				<td>10:10</td>
 				<td><b>Paper Session 1: Learning</b><br/>
 					<ul>
-						<li>Neural Face Models for Example-Based Visual Speech Synthesis<!--<br/><i>Matis Hudon (Trinity College Dublin), Sebastian Lutz (Trinity College Dublin), Rafael Pagés (Volograms), Aljosa Smolic (Trinity College Dublin)</i>--></li>
-						<li>Constant Velocity Constraints for Self-Supervised Monocular Depth Estimation<!--<br/><i>Yliess Hati (Pole Universitaire Leonard de Vinci), Gregor Jouet (Adaltas), Clement Duhart (MIT Media Lab), Francis Rousseaux (URCA CReSTIC)</i>--></li>
+						<li>Neural Face Models for Example-Based Visual Speech Synthesis<br/><i>Wolfgang Paier (Fraunhofer Heinrich Hertz Institute), Anna Hilsmann (Fraunhofer Heinrich Hertz Institute), Peter Eisert (Fraunhofer Heinrich Hertz Institute)</i></li>
+						<li>Constant Velocity Constraints for Self-Supervised Monocular Depth Estimation<br/><i>Hang Zhou (University of East Anglia), David Greenwood (University of East Anglia), Sarah Taylor (University of East Anglia), Han Gong (University of East Anglia)</i></li>
 					</ul>
 				</td>
 			</tr>
@@ -78,9 +78,9 @@ year: 2020
 				<td>10:00</td>
 				<td><b>Paper Session 2: Production</b><br/>
 					<ul>
-						<li>High Fidelity Interactive Video Segmentation Using Tensor Decomposition, Boundary Loss, Convolutional Tessellations, and Context-Aware Skip Connections<!--<br/><i>Matis Hudon (Trinity College Dublin), Sebastian Lutz (Trinity College Dublin), Rafael Pagés (Volograms), Aljosa Smolic (Trinity College Dublin)</i>--></li>
-						<li>Image Decomposition using Geometric Region Colour Unmixing<!--<br/><i>Yliess Hati (Pole Universitaire Leonard de Vinci), Gregor Jouet (Adaltas), Clement Duhart (MIT Media Lab), Francis Rousseaux (URCA CReSTIC)</i>--></li>
-						<li>Exploring the Use of Skeletal Tracking for Cheaper Motion Graphs and On-Set Decision Making in Free-Viewpoint Video Production<!--<br/><i>Yliess Hati (Pole Universitaire Leonard de Vinci), Gregor Jouet (Adaltas), Clement Duhart (MIT Media Lab), Francis Rousseaux (URCA CReSTIC)</i>--></li>
+						<li>High Fidelity Interactive Video Segmentation Using Tensor Decomposition, Boundary Loss, Convolutional Tessellations, and Context-Aware Skip Connections<br/><i>Anthony D. Rhodes (Intel Corporation), Manan Goel (Intel Corporation)</i></li>
+						<li>Image Decomposition using Geometric Region Colour Unmixing<br/><i>Mairead Grogan (Trinity College Dublin), Aljosa Smolic (Trinity College Dublin)</i></li>
+						<li>Exploring the Use of Skeletal Tracking for Cheaper Motion Graphs and On-Set Decision Making in Free-Viewpoint Video Production<br/><i>Andrew D. MacQuarrie (University College London), Anthony Steed (University College London)</i></li>
 					</ul>
 				</td>
 			</tr>
