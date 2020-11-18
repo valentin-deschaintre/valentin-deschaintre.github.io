@@ -10,13 +10,15 @@ image:
 ---
 ## 7–8 December 2020, Virtual Conference
 
-Welcome to the ACM SIGGRAPH European Conference on Visual Media Production (CVMP). For the years, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries.
+Welcome to the ACM SIGGRAPH European Conference on Visual Media Production (CVMP). For years, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries.
 
 CVMP brings together production and post-production specialists from the worlds of film, broadcast and games with imaging and graphics researchers; it brings together expertise in video processing, computer vision, computer graphics, animation and physical simulation.
 
 CVMP provides a European forum for presentation of the latest research and application advances, combined with keynote and invited talks on state-of-the-art industry practice.
 
-In this 17th edition of the conference, we are proud to be officially affiliated to and sponsored by [ACM SIGGRAPH](https://www.siggraph.org).
+In this 17<sup>th</sup> edition of the conference, CVMP will be fully virtual and free to attend.
+
+<!--In this 17th edition of the conference, we are proud to be officially affiliated to and sponsored by [ACM SIGGRAPH](https://www.siggraph.org).-->
 
 
 <!-- featured images -->
