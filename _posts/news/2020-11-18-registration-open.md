@@ -1,8 +1,8 @@
 ---
 layout: cvmp-default
 categories: news
-title: Registration open
-excerpt: Registration for CVMP 2020 is free
+title: Registration Open
+excerpt: Registration for CVMP 2020 is now open and free.
 year: 2020
 ---
 
