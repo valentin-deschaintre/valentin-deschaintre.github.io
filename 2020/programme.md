@@ -23,8 +23,8 @@ year: 2020
 				<td>10:10</td>
 				<td><b>Paper Session 1: Learning</b><br/>
 					<ul>
-						<li>Neural Face Models for Example-Based Visual Speech Synthesis<br/><i>Wolfgang Paier (Fraunhofer Heinrich Hertz Institute), Anna Hilsmann (Fraunhofer Heinrich Hertz Institute), Peter Eisert (Fraunhofer Heinrich Hertz Institute)</i></li>
-						<li>Constant Velocity Constraints for Self-Supervised Monocular Depth Estimation<br/><i>Hang Zhou (University of East Anglia), David Greenwood (University of East Anglia), Sarah Taylor (University of East Anglia), Han Gong (University of East Anglia)</i></li>
+						<li>Neural Face Models for Example-Based Visual Speech Synthesis<br/><i>Wolfgang Paier, Anna Hilsmann and Peter Eisert (Fraunhofer Heinrich Hertz Institute)</i></li>
+						<li>Constant Velocity Constraints for Self-Supervised Monocular Depth Estimation<br/><i>Hang Zhou, David Greenwood, Sarah Taylor and Han Gong (University of East Anglia)</i></li>
 					</ul>
 				</td>
 			</tr>
@@ -43,19 +43,13 @@ year: 2020
 				<td>14:20</td>
 				<td><b>Short Papers and Demo Session</b><br/>
 					<ul>
-						<li><a target ="_blank" href="/files/2020/short/6.pdf">From a Still Image to a Semantically Aware Video: A Context and Metadata-driven Automatic
-Media Production Framework</a><br/><i>
-Paula Viana (Polytechnic of Porto, INESC TEC Porto, Portugal), Pedro Carvalho (INESC TEC Porto, Portugal, Polytechnic of Porto), Maria Teresa Andrade (University of Porto, Porto, Portugal, INESC TEC Porto, Portugal), Inês N. Teixeira(Polytechnic of Porto, INESC TEC Porto, Portugal, University of Porto, Porto, Portugal), Pieter P. Jonker ( QdepQ Systems, Delft, The Netherlands), Luís Vilaça (University of Porto, Porto, Portugal, INESC TEC Porto, Portugal,Polytechnic of Porto, INESC TEC Porto, Portugal), José Pedro Pinto (INESC TEC Porto, Portugal), Tiago Costa (INESC TEC Porto, Portugal, University of Porto, Porto, Portugal) </i></li>
-						<li><a target ="_blank" href="/files/2020/short/11.pdf">Artistic Control of Defocus in Computer-Generated Holography</a><br/><i>Aaron Demolder (NCCA,Bournemouth University), Andrzej Kaczorowski (VividQ Ltd, Cambridge), Alfred Newman (VividQ Ltd, Cambridge) and  Hammadi Nait-Charif (NCCA,Bournemouth University)</i></li>
-						<li><a target ="_blank" href="/files/2020/short/12.pdf">Estimating Specular Anisotropy Angle with Polarized Photometric Stereo Setup</a><br/><i>
-						Arvin Lin (Department of Computing,Imperial College London), Yiming Lin (Department of Computing,Imperial College London), Abhijeet Ghosh (Department of Computing,Imperial College London)</i></li>
-						<li><a target ="_blank" href="/files/2020/short/13.pdf">Performance Optimization of Neural Style Transfer for Animated Characters in Real-Time
-Rendering</a><br/><i>Katsushi Suzuki (Research & Development Office, DELiGHTWORKS Inc.), Takeshi Okuya (Research & Development Office, DELiGHTWORKS Inc.) and Misumi Hata (Research & Development Office, DELiGHTWORKS Inc.)</i></li>						
-						<li><a target ="_blank" href="/files/2020/short/16.pdf">Super-Resolution Appearance Transfer for 4D Human Performance Capture</a><br/><i>Marco Pesavento (CVSSP,University of Surrey), Marco Volino (CVSSP,University of Surrey), Adrian Hilton (CVSSP,University of Surrey)</i></li>
-						<li><a target ="_blank" href="/files/2020/short/17.pdf">Real-Time Monocular 6DoF Object Pose Tracking on Smartphone GPUs</a><br/><i>Valentin Miu (Centre for Digital Entertainment, Bournemouth University Beauty Labs International Ltd., Cambridge) and Oleg Fryazinov (The National Centre for Computer Animation,Bournemouth University)</i></li>
-						<li><a target ="_blank" href="/files/2020/demo/15.pdf">OmniPhotos: Casual 360° VR Photography with Motion Parallax</a><br/><i>
-						Tobias Bertel (Department of Computer Science, University of Bath), Mingze Yuan (Department of Computer Science, University of Bath), Reuben Lindroos (Department of Computer Science, University of Bath) and Christian Richardt (Department of Computer Science, University of Bath)
-						</i></li>
+						<li><a target ="_blank" href="/files/2020/short/6.pdf">From a Still Image to a Semantically Aware Video: A Context and Metadata-driven Automatic Media Production Framework</a><br/><i>Paula Viana (Polytechnic of Porto, INESC TEC Porto), Pedro Carvalho (INESC TEC Porto, Polytechnic of Porto), Maria Teresa Andrade (University of Porto, INESC TEC Porto), Inês N. Teixeira (Polytechnic of Porto, INESC TEC Porto, University of Porto), Pieter P. Jonker (QdepQ Systems), Luís Vilaça (University of Porto, INESC TEC Porto, Polytechnic of Porto), José Pedro Pinto (INESC TEC Porto) and Tiago Costa (INESC TEC Porto, University of Porto) </i></li>
+						<li><a target ="_blank" href="/files/2020/short/11.pdf">Artistic Control of Defocus in Computer-Generated Holography</a><br/><i>Aaron Demolder (National Centre for Computer Animation, Bournemouth University), Andrzej Kaczorowski (VividQ Ltd), Alfred Newman (VividQ Ltd) and Hammadi Nait-Charif (National Centre for Computer Animation, Bournemouth University)</i></li>
+						<li><a target ="_blank" href="/files/2020/short/12.pdf">Estimating Specular Anisotropy Angle with Polarized Photometric Stereo Setup</a><br/><i>Arvin Lin, Yiming Lin and Abhijeet Ghosh (Imperial College London)</i></li>
+						<li><a target ="_blank" href="/files/2020/short/13.pdf">Performance Optimization of Neural Style Transfer for Animated Characters in Real-Time Rendering</a><br/><i>Katsushi Suzuki, Takeshi Okuya and Misumi Hata (Research & Development Office, DELiGHTWORKS Inc.)</i></li>						
+						<li><a target ="_blank" href="/files/2020/short/16.pdf">Super-Resolution Appearance Transfer for 4D Human Performance Capture</a><br/><i>Marco Pesavento, Marco Volino and Adrian Hilton (CVSSP, University of Surrey)</i></li>
+						<li><a target ="_blank" href="/files/2020/short/17.pdf">Real-Time Monocular 6DoF Object Pose Tracking on Smartphone GPUs</a><br/><i>Valentin Miu (Centre for Digital Entertainment, Bournemouth University, Beauty Labs International Ltd) and Oleg Fryazinov (National Centre for Computer Animation, Bournemouth University)</i></li>
+						<li><a target ="_blank" href="/files/2020/demo/15.pdf">OmniPhotos: Casual 360° VR Photography with Motion Parallax</a><br/><i>Tobias Bertel, Mingze Yuan, Reuben Lindroos and Christian Richardt (University of Bath)</i></li>
 					</ul>
 				</td>
 			</tr>
@@ -84,9 +78,9 @@ Rendering</a><br/><i>Katsushi Suzuki (Research & Development Office, DELiGHTWORK
 				<td>10:00</td>
 				<td><b>Paper Session 2: Production</b><br/>
 					<ul>
-						<li>High Fidelity Interactive Video Segmentation Using Tensor Decomposition, Boundary Loss, Convolutional Tessellations, and Context-Aware Skip Connections<br/><i>Anthony D. Rhodes (Intel Corporation), Manan Goel (Intel Corporation)</i></li>
-						<li>Image Decomposition using Geometric Region Colour Unmixing<br/><i>Mairead Grogan (Trinity College Dublin), Aljosa Smolic (Trinity College Dublin)</i></li>
-						<li>Exploring the Use of Skeletal Tracking for Cheaper Motion Graphs and On-Set Decision Making in Free-Viewpoint Video Production<br/><i>Andrew D. MacQuarrie (University College London), Anthony Steed (University College London)</i></li>
+						<li>High Fidelity Interactive Video Segmentation Using Tensor Decomposition, Boundary Loss, Convolutional Tessellations, and Context-Aware Skip Connections<br/><i>Anthony D. Rhodes and Manan Goel (Intel Corporation)</i></li>
+						<li>Image Decomposition using Geometric Region Colour Unmixing<br/><i>Mairead Grogan and Aljosa Smolic (Trinity College Dublin)</i></li>
+						<li>Exploring the Use of Skeletal Tracking for Cheaper Motion Graphs and On-Set Decision Making in Free-Viewpoint Video Production<br/><i>Andrew D. MacQuarrie and Anthony Steed (University College London)</i></li>
 					</ul>
 				</td>
 			</tr>
