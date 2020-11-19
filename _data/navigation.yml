@@ -15,10 +15,6 @@
   url: committees
 - title: News
   url: news
-- title: CVMP 2019
-  url: /2019
-- title: CVMP 2018
-  url: /2018
 
 2019:
 - title: About
@@ -35,8 +31,6 @@
   url: committees
 - title: News
   url: news
-- title: CVMP 2018
-  url: /2018
 
 2018:
 - title: About
@@ -53,5 +47,3 @@
   url: committees
 - title: News
   url: news
-- title: CVMP 2019
-  url: /2019
