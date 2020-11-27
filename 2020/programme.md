@@ -104,7 +104,7 @@ year: 2020
 			</tr>
 			<tr>
 				<td>17:00</td>
-				<td><b>Prizes, Announcements and Closing Remarks</b><br/><i>To be confirmed.</i></td>
+				<td><b>Prizes, Announcements and Closing Remarks</b></td>
 			</tr>
 		</table>
 	</div>
