@@ -4,7 +4,7 @@ title: Conference Programme
 year: 2020
 ---
 <span class="label label-info"><b>Please note:</b></span>
-<em>This programme is preliminary and subject to change.</em>
+<em>All times are given in <a href="https://time.is/GMT">GMT (UTC+0)</a>. This programme is preliminary and subject to change.</em>
 
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="Monday"></a>
