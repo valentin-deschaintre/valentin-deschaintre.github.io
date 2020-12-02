@@ -39,7 +39,7 @@ year: 2020
 				<td>14:00</td>
 				<td><b>Industry Talk</b><br/>
 					The Future of Immersive Filmmaking, Behind the Scenes at Intel Studios<br>
-					<i>Philip Krejov (Software Architect, Intel Studios)</i>
+					<i>Philip Krejov (Software Architect)</i>
 				</td>
 			</tr>
 			<tr>
