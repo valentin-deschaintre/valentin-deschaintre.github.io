@@ -37,7 +37,10 @@ year: 2020
 			</tr>
 			<tr>
 				<td>14:00</td>
-				<td><b>Industry Talk</b><br/><i>to be confirmed</i></td>
+				<td><b>Industry Talk</b><br/>
+					Philip Krejov, Software Architect</br>
+					<i>The Future of Immersive Filmmaking, Behind the Scenes at Intel Studios</i>
+				</td>
 			</tr>
 			<tr>
 				<td>14:20</td>
@@ -85,7 +88,7 @@ year: 2020
 				</td>
 			</tr>
 			<tr>
-				<td>11:00</td><td><a href="/2020/keynotes/"><b>Keynote: To Be Announced</b></a><!--<br/>Sarah Ticho, <i>Founder of Hatsumi, producer at Deep and Healthcare Lead at Immerse UK</i>--></td>
+				<td>11:00</td><td><a href="/2020/keynotes/"><b>Keynote: To Be Announced</b></a><br/>Ben Radcliffe, <i>Media & Entertainment Solutions Engineer, Unity Technologies</i></td>
 			</tr>
 			<tr>
 				<td>12:00</td>
@@ -93,7 +96,13 @@ year: 2020
 			</tr>
 			<tr>
 				<td>14:00</td>
-				<td><b>Special Session on Virtual Production</b><br/><i>To be confirmed.</i></td>
+				<td><b>Special Session on Virtual Production</b><br/>
+					<ul>
+						<li>Callum Macmillan, Technical Director and Co-Founder/CTO, Dimension Studio<br/><i>Realtime-engine driven virtual production: An exploration of LED stages and volumetric extras.</i></li>
+						<li>Hasraf Dulull, Director/Producer and Co-Founder, HaZ Films<br/><i>Pivoting my filmmaking career into Animation with Unreal Engine</i></li>
+						<li>Jamie Allen, Media, Entertainment & Broadcast Industry Lead, NVIDIA<br/><i>To be Announced</i></li>
+					</ul>
+				</td>
 			</tr>
 			<tr>
 				<td>15:00</td>
