@@ -38,8 +38,8 @@ year: 2020
 			<tr>
 				<td>14:00</td>
 				<td><b>Industry Talk</b><br/>
-					Philip Krejov, Software Architect</br>
-					<i>The Future of Immersive Filmmaking, Behind the Scenes at Intel Studios</i>
+					The Future of Immersive Filmmaking, Behind the Scenes at Intel Studios<br>
+					<i>Philip Krejov (Software Architect, Intel Studios)</i>
 				</td>
 			</tr>
 			<tr>
@@ -98,9 +98,9 @@ year: 2020
 				<td>14:00</td>
 				<td><b>Special Session on Virtual Production</b><br/>
 					<ul>
-						<li>Callum Macmillan, Technical Director and Co-Founder/CTO, Dimension Studio<br/><i>Realtime-engine driven virtual production: An exploration of LED stages and volumetric extras.</i></li>
-						<li>Hasraf Dulull, Director/Producer and Co-Founder, HaZ Films<br/><i>Pivoting my filmmaking career into Animation with Unreal Engine</i></li>
-						<li>Jamie Allen, Media, Entertainment & Broadcast Industry Lead, NVIDIA<br/><i>To be Announced</i></li>
+						<li>Realtime-engine driven virtual production: An exploration of LED stages and volumetric extras<br><i>Callum Macmillan (Technical Director and Co-Founder/CTO, Dimension Studio)</i></li>
+						<li>Pivoting my filmmaking career into Animation with Unreal Engine<br><i>Hasraf Dulull (Director/Producer and Co-Founder, HaZ Films)</i></li>
+						<li>To Be Announced<br><i>Jamie Allen (Media, Entertainment & Broadcast Industry Lead, NVIDIA)</i></li>
 					</ul>
 				</td>
 			</tr>
