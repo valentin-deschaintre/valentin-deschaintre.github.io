@@ -61,7 +61,7 @@ year: 2020
 				<td><b>Coffee Break with Q&amp;A and Networking</b></td>
 			</tr>
 			<tr>
-				<td>16:00</td><td><a href="/2020/keynotes/#PD"><b>Keynote: Light Stages, and the Future of Virtual Production</b></a><br/>Paul Debevec, <i>Senior Staff Scientist, Google Research</i></td>
+				<td>16:00</td><td><a href="/2020/keynotes/#PD"><b>Keynote: Light Fields, Light Stages, and the Future of Virtual Production</b></a><br/>Paul Debevec, <i>Senior Staff Scientist, Google Research</i></td>
 			</tr>
 			<tr>
 				<td>17:00</td>

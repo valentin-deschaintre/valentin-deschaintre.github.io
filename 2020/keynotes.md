@@ -29,7 +29,7 @@ We are pleased to announce the following keynote speakers for CVMP 2020:
 <div class="row">
 <div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
 
-#### Paul Debevec, Senior Staff Scientist, Google Research <br> Light Stages, and the Future of Virtual Production
+#### Paul Debevec, Senior Staff Scientist, Google Research <br> Light Fields, Light Stages, and the Future of Virtual Production
 
 In this talk I'll describe the latest work we've done at Google and the USC Institute for Creative Technologies to bridge the real and virtual worlds through photography, lighting, and machine learning.  I'll begin by describing our new DeepView solution for Light Field Video: Immersive Motion Pictures that you can move around in after they have been recorded.  Our latest light field video techniques record six-degrees-of-freedom virtual reality where subjects can come close enough to be within arm's reach.  I'll also present how Google's new Light Stage system paired with Machine Learning techniques is enabling new techniques for lighting estimation from faces for AR and interactive portrait relighting on mobile phone hardware.  I will finally talk about how both of these techniques may enable the next advances in virtual production filmmaking, infusing both light fields and relighting into the real-time image-based lighting techniques now revolutionizing how movies and television are made.
 
