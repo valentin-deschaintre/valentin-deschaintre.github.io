@@ -4,12 +4,12 @@ title: Conference Programme
 year: 2020
 ---
 <span class="label label-info"><b>Please note:</b></span>
-<em>All times are given in <a href="https://time.is/GMT">GMT (UTC+0)</a>. This programme is preliminary and subject to change.</em>
+All times are given in <a href="https://time.is/GMT">GMT (UTC+0)</a>.
 
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="Monday"></a>
 	<div class="panel panel-default">
-		<div class="panel-heading"><b>Monday, 7th December 2020</b></div>
+		<div class="panel-heading"><h3>Monday, 7 December 2020</h3></div>
 		<table class="table table-striped">
 			<tr>
 				<td>09:00</td>
@@ -33,7 +33,17 @@ year: 2020
 			</tr>
 			<tr>
 				<td>12:00</td>
-				<td><b>Networking Lunch</b></td>
+				<td><b>Networking Lunch Break</b></td>
+			</tr>
+			<tr>
+				<td>13:00</td>
+				<td><b>Themed Networking Sessions</b><br>
+					<ul>
+						<li>Interactive Media – Games, Interaction, Real-time rendering, Level of detail (LOD)</li>
+						<li>AR/MR/VR/XR – Motion estimation, Video and camera tracking, Segmentation and matting, Applications</li>
+						<li>Scene Capture – 3D video capture and 3D-TV, Multiple camera systems, Omni-directional video, Real-time imaging systems, Scene modelling</li>
+					</ul>
+				</td>
 			</tr>
 			<tr>
 				<td>14:00</td>
@@ -65,13 +75,13 @@ year: 2020
 			</tr>
 			<tr>
 				<td>17:00</td>
-				<td><b>CDE Networking Reception</b><br/><i>To be confirmed.</i></td>
+				<td><b>CDE Networking Reception</b><br/><i>To be held in Gather Town (announced in Discord).</i></td>
 			</tr>
 		</table>
 	</div>
 	<a name="Tuesday"></a>
 	<div class="panel panel-default">
-		<div class="panel-heading"><b>Tuesday, 8th December 2020</b></div>
+		<div class="panel-heading"><h3>Tuesday, 8 December 2020</h3></div>
 		<table class="table table-striped">
 			<tr>
 				<td>09:00</td>
@@ -92,7 +102,17 @@ year: 2020
 			</tr>
 			<tr>
 				<td>12:00</td>
-				<td><b>Networking Lunch</b></td>
+				<td><b>Networking Lunch Break</b></td>
+			</tr>
+			<tr>
+				<td>13:00</td>
+				<td><b>Themed Networking Sessions</b><br>
+					<ul>
+						<li>Digital Humans – Character animation, Video-based animation, Video-based human motion capture</li>
+						<li>Computational Photography – High-dynamic-range (HDR) imaging, Image and video synthesis, Image enhancement and restoration, Relighting images and video</li>
+						<li>Production Tools – Image/model/asset editing, Pre-visualization, Post-production using stereo, 3D and motion, Virtual production, Visual asset management</li>
+					</ul>
+				</td>
 			</tr>
 			<tr>
 				<td>14:00</td>
