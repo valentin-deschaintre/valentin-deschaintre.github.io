@@ -19,7 +19,26 @@ We are pleased to announce the following keynote speakers for CVMP 2020:
 </div>
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
-  <img src="{{site.url}}/img/2020/keynotes/AngjooKanazawa-800.jpg" class="img-responsive img-thumbnail" alt="Angjoo Kanazawa " title="Angjoo Kanazawa">
+  <img src="{{site.url}}/img/2020/keynotes/AngjooKanazawa-800.jpg" class="img-responsive img-thumbnail" alt="Angjoo Kanazawa" title="Angjoo Kanazawa">
+</figure>
+
+</div>
+
+
+<a name="BR" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Ben Radcliffe, Unity Technologies <br> The Road to Realtime
+
+The real-time revolution has arrived in CG animation, previs, VFX, and more, empowering directors and artists to complete storytelling projects that look closer to their creative vision. What is Realtime? It’s shorthand for a related set of new technologies that  re changing the way we interact with the world and with each other. To understand real-time, you need to understand the technologies that enable it. If you understand the available technologies, how they are used, and what their future holds, you’ll be well equipped to deal with how the way we create, distribute, and consume stories is rapidly evolving and converging.
+
+*Ben is a media and entertainment technical specialist at Unity Technologies with 20 years of experience in VFX, CG feature, and TV animation. He’s worked for a variety of top studios, including Dreamworks Animation, Sony Pictures Imageworks, Disney Feature Animation, MPC, and Industrial Light and Magic, and he’s worked as a digital artist supervisor on major franchises including Avengers and Transformers. In his role at Unity, Ben works with technical decision-makers and influencers at key studios to advance the art and science of visual effects and animation through the use of real-time technology.*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2020/keynotes/BenRadcliffe-859.jpg" class="img-responsive img-thumbnail" alt="Ben Radcliffe" title="Ben Radcliffe">
 </figure>
 
 </div>
