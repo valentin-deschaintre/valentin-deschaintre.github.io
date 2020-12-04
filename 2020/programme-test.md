@@ -6,8 +6,8 @@ year: 2020
 Each session below is linked to:
 <ul>
 	<li>a YouTube video stream 
-<a href="https://www.youtube.com/playlist?list=PLUfvp3vAkZzmaWTz2rB47WKTcsISYdg-f" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Watch CVMP 2020 on YouTube"></a> (free without registration) and/or</li>
-	<li>a link to a Discord channel <a href="https://discord.com/channels/782666630676742165/782992829226942484" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join discussion and networking on Discord"></a> for discussion and networking (requires free [registration]({{site.baseurl}}/2020/registration/)).</li>
+<a href="https://www.youtube.com/playlist?list=PLUfvp3vAkZzmaWTz2rB47WKTcsISYdg-f" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Watch CVMP 2020 on YouTube"></a> (free without registration), and/or</li>
+	<li>a link to a Discord channel <a href="https://discord.com/channels/782666630676742165/782992829226942484" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join discussion and networking on Discord"></a> for discussion and networking (requires free <a href="/2020/registration/">registration</a>).</li>
 </ul>
 
 <span class="label label-info"><b>Please note:</b></span> All times are given in <a href="https://time.is/GMT">GMT (UTC+0)</a>.
