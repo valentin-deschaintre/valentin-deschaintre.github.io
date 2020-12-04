@@ -3,8 +3,10 @@ layout: cvmp-default
 title: Conference Programme
 year: 2020
 ---
-<span class="label label-info"><b>Please note:</b></span>
-All times are given in <a href="https://time.is/GMT">GMT (UTC+0)</a>.
+Each session below is linked to a YouTube video stream 
+<a href="https://youtu.be/DTlQuvTlNTU" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Watch CVMP 2020 on YouTube"></a> (free for all) and/or a link to a Discord channel <a href="https://discord.com/channels/782666630676742165/782992829226942484" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join discussion and networking on Discord"></a> for discussion and networking (requires free [registration]({{site.baseurl}}/2020/registration/)).
+
+<span class="label label-info"><b>Please note:</b></span> All times are given in <a href="https://time.is/GMT">GMT (UTC+0)</a>.
 
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="Monday"></a>
@@ -56,11 +58,12 @@ All times are given in <a href="https://time.is/GMT">GMT (UTC+0)</a>.
 			</tr>
 			<tr>
 				<td>13:00</td>
-				<td><b>Themed Networking Sessions</b><br>
+				<td><b>Themed Networking Sessions</b>
+					<a href="https://discord.com/channels/782666630676742165/782972647616938015" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join networking on Discord"></a><br>
 					<ul>
-						<li><a href="https://discord.com/channels/782666630676742165/782972555652104234" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join session on Discord"></a>AR/MR/VR/XR – Motion estimation, Video and camera tracking, Segmentation and matting, Applications</li>
-						<li><a href="https://discord.com/channels/782666630676742165/782972799664652350" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join session on Discord"></a>Interactive Media – Games, Interaction, Real-time rendering, Level of detail (LOD)</li>
-						<li><a href="https://discord.com/channels/782666630676742165/782972621645414431" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join session on Discord"></a>Scene Capture – 3D video capture and 3D-TV, Multiple camera systems, Omni-directional video, Real-time imaging systems, Scene modelling</li>
+						<li>AR/MR/VR/XR – Motion estimation, Video and camera tracking, Segmentation and matting, Applications</li>
+						<li>Interactive Media – Games, Interaction, Real-time rendering, Level of detail (LOD)</li>
+						<li>Scene Capture – 3D video capture and 3D-TV, Multiple camera systems, Omni-directional video, Real-time imaging systems, Scene modelling</li>
 					</ul>
 				</td>
 			</tr>
@@ -169,11 +172,12 @@ All times are given in <a href="https://time.is/GMT">GMT (UTC+0)</a>.
 			</tr>
 			<tr>
 				<td>13:00</td>
-				<td><b>Themed Networking Sessions</b><br>
+				<td><b>Themed Networking Sessions</b>
+					<a href="https://discord.com/channels/782666630676742165/782972647616938015" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join networking on Discord"></a><br>
 					<ul>
-						<li><a href="https://discord.com/channels/782666630676742165/782972733112844313" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join session on Discord"></a>Computational Photography – High-dynamic-range (HDR) imaging, Image and video synthesis, Image enhancement and restoration, Relighting images and video</li>
-						<li><a href="https://discord.com/channels/782666630676742165/782972693800419338" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join session on Discord"></a>Digital Humans – Character animation, Video-based animation, Video-based human motion capture</li>
-						<li><a href="https://discord.com/channels/782666630676742165/782972766202626048" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join session on Discord"></a>Production Tools – Image/model/asset editing, Pre-visualization, Post-production using stereo, 3D and motion, Virtual production, Visual asset management</li>
+						<li>Computational Photography – High-dynamic-range (HDR) imaging, Image and video synthesis, Image enhancement and restoration, Relighting images and video</li>
+						<li>Digital Humans – Character animation, Video-based animation, Video-based human motion capture</li>
+						<li>Production Tools – Image/model/asset editing, Pre-visualization, Post-production using stereo, 3D and motion, Virtual production, Visual asset management</li>
 					</ul>
 				</td>
 			</tr>
