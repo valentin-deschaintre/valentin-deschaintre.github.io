@@ -66,8 +66,11 @@ Each session below is linked to:
 					<a href="https://discord.com/channels/782666630676742165/782972647616938015" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join networking on Discord"></a><br>
 					<ul>
 						<li>AR/MR/VR/XR – Motion estimation, Video and camera tracking, Segmentation and matting, Applications</li>
+						<i>Chaired by: Stuart James (IIT) </i>
 						<li>Interactive Media – Games, Interaction, Real-time rendering, Level of detail (LOD)</li>
+						<i>Chaired by: Nigel Williams (Unity) </i>
 						<li>Scene Capture – 3D video capture and 3D-TV, Multiple camera systems, Omni-directional video, Real-time imaging systems, Scene modelling</li>
+						<i>Chaired by: Aljosa Smolic (Trinity College Dublin)</i>
 					</ul>
 				</td>
 			</tr>
@@ -180,8 +183,11 @@ Each session below is linked to:
 					<a href="https://discord.com/channels/782666630676742165/782972647616938015" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join networking on Discord"></a><br>
 					<ul>
 						<li>Computational Photography – High-dynamic-range (HDR) imaging, Image and video synthesis, Image enhancement and restoration, Relighting images and video</li>
+						<i>Chaired by: Rafal Mantiuk (University of Cambridge) </i>
 						<li>Digital Humans – Character animation, Video-based animation, Video-based human motion capture</li>
+						<i>Chaired by: Darren Cosker (University of Bath) </i>
 						<li>Production Tools – Image/model/asset editing, Pre-visualization, Post-production using stereo, 3D and motion, Virtual production, Visual asset management</li>
+						<i>Chaired by: Neill Campbell (University of Bath) </i>
 					</ul>
 				</td>
 			</tr>
