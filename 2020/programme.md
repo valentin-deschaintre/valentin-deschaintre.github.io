@@ -213,7 +213,7 @@ Each session below is linked to:
 			<tr>
 				<td>16:00</td>
 				<td>
-					<a href="/2020/keynotes/#AK"><b>Keynote: Perceiving Humans and Objects in the 3D World</b></a>
+					<a href="/2020/keynotes/#AK"><b>Keynote: Perceiving Humans, Animals and Objects in the 3D World</b></a>
 					<a href="https://youtu.be/w3LFjNSWO8k" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin-left:0.5em;" title="Watch session on YouTube"></a>
 					<a href="https://discord.com/channels/782666630676742165/783662758692519937" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Ask questions on Discord"></a><br/>
 					Angjoo Kanazawa, <i>UC Berkeley</i>
