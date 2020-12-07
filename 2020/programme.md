@@ -77,7 +77,7 @@ Each session below is linked to:
 			<tr>
 				<td>14:00</td>
 				<td><b>Industry Talk</b>
-					<a href="https://www.youtube.com/watch?v=PXjiSIZo7o0&feature=youtu.be&ab_channel=CVMPConference" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin-left:0.5em;" title="Watch session on YouTube"></a>
+					<a href="https://youtu.be/PXjiSIZo7o0" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin-left:0.5em;" title="Watch session on YouTube"></a>
 					<a href="https://discord.com/channels/782666630676742165/784112873047719958" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Ask questions on Discord"></a><br/>
 					The Future of Immersive Filmmaking, Behind the Scenes at Intel Studios<br>
 					<i>Philip Krejov (Software Architect)</i>
@@ -86,7 +86,7 @@ Each session below is linked to:
 			<tr>
 				<td>14:20</td>
 				<td><b>Short Papers and Demo Session</b>
-					<a href="https://www.youtube.com/watch?v=xk0gjvL9IAY&feature=youtu.be&ab_channel=CVMPConference" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin-left:0.5em;" title="Watch session on YouTube"></a><br/>
+					<a href="https://youtu.be/xk0gjvL9IAY" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin-left:0.5em;" title="Watch session on YouTube"></a><br/>
 					<ul>
 						<li><a target ="_blank" href="/files/2020/short/6.pdf">From a Still Image to a Semantically Aware Video: A Context and Metadata-driven Automatic Media Production Framework</a>
 							<a href="https://discord.com/channels/782666630676742165/783013099077763122" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Ask questions on Discord"></a><br/>
@@ -122,7 +122,7 @@ Each session below is linked to:
 			<tr>
 				<td>16:00</td><td>
 					<a href="/2020/keynotes/#PD"><b>Keynote: Light Fields, Light Stages, and the Future of Virtual Production</b></a>
-					<a href="https://youtu.be/bAe2dUJxe3w" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin-left:0.5em;" title="Watch session on YouTube"></a>
+					<!--<a href="https://youtu.be/bAe2dUJxe3w" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin-left:0.5em;" title="Watch session on YouTube"></a>-->
 					<a href="https://discord.com/channels/782666630676742165/783662722726232085" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Ask questions on Discord"></a><br/>
 					Paul Debevec, <i>Senior Staff Scientist, Google Research</i>
 				</td>
