@@ -199,7 +199,7 @@ Each session below is linked to:
 					<ul>
 						<li>Realtime-engine driven virtual production: An exploration of LED stages and volumetric extras<br><i>Callum Macmillan (Technical Director and Co-Founder/CTO, Dimension Studio)</i></li>
 						<li>Pivoting my filmmaking career into Animation with Unreal Engine<br><i>Hasraf Dulull (Director/Producer and Co-Founder, HaZ Films)</i></li>
-						<li>To Be Announced<br><i>Jamie Allen (Media, Entertainment & Broadcast Industry Lead, NVIDIA)</i></li>
+						<li>Omniverse<br><i>Jeff Kember (NVIDIA)</i></li>
 					</ul>
 				</td>
 			</tr>
