@@ -44,7 +44,8 @@ layout: main
 
 		My PhD was funded by the French government (ANRT and Inria) and Optis, an Ansys affiliate using the <a href='https://www.ifsttar.fr/en/partnerships-innovation/scientific-and-technical-services/cifre-industrial-agreements-for-training-through-research/'>CIFRE</a> system of collaboration.<br><br>
 		
-		<img src='img/new.gif' alt='new'/> I am happy to share that my  <a href="#thesis">thesis</a> was awarded the <a href = 'https://gdr-igrv.icube.unistra.fr/index.php/Prix_de_th%C3%A8se_du_GdR_IG-RV'>French Computer Graphics and Geometry Thesis award</a>! This award is delivered by the <a href="https://gdr-igrv.icube.unistra.fr/index.php/Accueil">GDR IG-RV</a> in collaboration with AFIG, AFRV and EG French chapter.
+		<img src='img/new.gif' alt='new'/> I am happy to share that my  <a href="#thesis">thesis</a> was awarded the <a href = 'https://gdr-igrv.icube.unistra.fr/index.php/Prix_de_th%C3%A8se_du_GdR_IG-RV'>French Computer Graphics and Geometry Thesis award</a>! This award is delivered by the <a href="https://gdr-igrv.icube.unistra.fr/index.php/Accueil">GDR IG-RV</a> in collaboration with AFIG, AFRV and EG French chapter.<br>
+		<img src='img/new.gif' alt='new'/> My <a href="#thesis">thesis</a> was also awarded the <a href = 'https://fondation-uca.org/projets/bourses-excellence-academique-theses/'>UCA foundation Academic excellence thesis award 2020</a>! This award is delivered to 6 thesis defended in 2020 (or late 2019) at Université Côte d'Azur (University gathering all labs in the region of Nice) accross all disciplines.
 	</div>
 		<h3>Publications</h3>
 	<div class="Publications list">
@@ -91,6 +92,7 @@ layout: main
 			<div>
 			<ul>
 				<li>My thesis was awarded the <a href = 'https://gdr-igrv.icube.unistra.fr/index.php/Prix_de_th%C3%A8se_du_GdR_IG-RV'>French Computer Graphics and Geometry Thesis award 2020</a></li>
+				<li>My thesis was awarded the <a href = 'https://fondation-uca.org/projets/bourses-excellence-academique-theses/'>UCA foundation Academic excellence thesis award 2020</a></li>
 				<li>A 5 minutes video describing my work and contributions is available here: <a href = 'https://www.youtube.com/watch?v=uNVxFNJrfEc&feature=youtu.be'>[english]</a><a href = 'https://www.youtube.com/watch?v=SEMtruiPirM&feature=youtu.be'>[french]</a></li>
 			</ul>
 			</div>
@@ -208,6 +210,7 @@ layout: main
 	
 	<h3>Academic activities</h3>
 	<ul>
+		<li>Reviewer for <a href="https://dl.acm.org/journal/tog">Transactions On Graphics</a></li>
 		<li>Reviewer for <a href="https://www.computer.org/csdl/journal/tg">TVCG</a></li>
 		<li>Tertiary reviewer for <a href="https://conferences.eg.org/eg2021/">Eurographics 2021</a></li>
 		<li>Reviewer for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE TPAMI</a></li>
