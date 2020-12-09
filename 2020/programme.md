@@ -66,11 +66,11 @@ Each session below is linked to:
 					<a href="https://discord.com/channels/782666630676742165/782972647616938015" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join networking on Discord"></a><br>
 					<ul>
 						<li>AR/MR/VR/XR – Motion estimation, Video and camera tracking, Segmentation and matting, Applications</li>
-						<i>Chaired by: Stuart James (IIT) </i>
+						<i>Chaired by: Stuart James (IIT Genova) </i>
 						<li>Interactive Media – Games, Interaction, Real-time rendering, Level of detail (LOD)</li>
-						<i>Chaired by: Nigel Williams (Unity) </i>
+						<i>Chaired by: Nigel Williams (Unity Technologies) </i>
 						<li>Scene Capture – 3D video capture and 3D-TV, Multiple camera systems, Omni-directional video, Real-time imaging systems, Scene modelling</li>
-						<i>Chaired by: Aljosa Smolic (Trinity College Dublin)</i>
+						<i>Chaired by: Christian Richardt (University of Bath)</i>
 					</ul>
 				</td>
 			</tr>
@@ -122,14 +122,14 @@ Each session below is linked to:
 			<tr>
 				<td>16:00</td><td>
 					<a href="/2020/keynotes/#PD"><b>Keynote: Light Fields, Light Stages, and the Future of Virtual Production</b></a>
-					<!--<a href="https://youtu.be/bAe2dUJxe3w" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin-left:0.5em;" title="Watch session on YouTube"></a>-->
+					<a href="https://youtu.be/bAe2dUJxe3w" target="_blank"><img src="/img/2020/youtube.png" style="vertical-align:middle; height:1.4em; margin-left:0.5em;" title="Watch session on YouTube"></a>
 					<a href="https://discord.com/channels/782666630676742165/783662722726232085" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Ask questions on Discord"></a><br/>
 					Paul Debevec, <i>Senior Staff Scientist, Google Research</i>
 				</td>
 			</tr>
 			<tr>
 				<td>17:00</td>
-				<td><b>CDE Networking Reception</b><br/><i>To be held in Gather Town (announced in Discord).</i></td>
+				<td><b>CDE Networking Reception</b><br/><i>Held in Gather Town (announced in Discord).</i></td>
 			</tr>
 		</table>
 	</div>
@@ -183,7 +183,7 @@ Each session below is linked to:
 					<a href="https://discord.com/channels/782666630676742165/782972647616938015" target="_blank"><img src="/img/2020/discord.png" style="vertical-align:middle; height:1.4em; margin:0 0.5em;" title="Join networking on Discord"></a><br>
 					<ul>
 						<li>Computational Photography – High-dynamic-range (HDR) imaging, Image and video synthesis, Image enhancement and restoration, Relighting images and video</li>
-						<i>Chaired by: Rafal Mantiuk (University of Cambridge) </i>
+						<i>Chaired by: Rafał Mantiuk (University of Cambridge) </i>
 						<li>Digital Humans – Character animation, Video-based animation, Video-based human motion capture</li>
 						<i>Chaired by: Darren Cosker (University of Bath) </i>
 						<li>Production Tools – Image/model/asset editing, Pre-visualization, Post-production using stereo, 3D and motion, Virtual production, Visual asset management</li>

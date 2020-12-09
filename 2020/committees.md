@@ -6,7 +6,7 @@ year: 2020
 
 <div class="col-12 col-sm-12 col-lg-12">
 
-<div class="col-4 col-sm-6 col-lg-4">
+<div class="col-8 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">Conference Chair</h4>
@@ -50,7 +50,6 @@ year: 2020
     </div>
 </div>
 
-
 <div class="col-8 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -69,6 +68,28 @@ year: 2020
         </div>
         <div class="panel-body">
             <h4><a href="https://arminmustafa.github.io/" target="_blank">Armin Mustafa</a><br><small>University of Surrey, UK</small></h4>
+        </div>
+    </div>
+</div>
+
+<div class="col-8 col-sm-6 col-lg-4">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">Streaming Chair</h4>
+        </div>
+        <div class="panel-body">
+            <h4>Joanna Tarko<br><small>University of Bath, UK</small></h4>
+        </div>
+    </div>
+</div>
+
+<div class="col-8 col-sm-6 col-lg-4">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">Discord Chair</h4>
+        </div>
+        <div class="panel-body">
+            <h4>Manuel Rey-Area<br><small>University of Bath, UK</small></h4>
         </div>
     </div>
 </div>
@@ -120,10 +141,9 @@ year: 2020
                 <h4>Peter Hall<br><small>University of Bath, UK</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <!-- <h4>Volker Helzle<br><small>Filmakademie, Germany</small></h4>
-                <h4>Anil Kokaram<br><small>Youtube/Google Inc., USA</small></h4> -->
+                <h4>Volker Helzle<br><small>Filmakademie, Germany</small></h4>
+                <h4>Anil Kokaram<br><small>Youtube/Google Inc., USA</small></h4>
             </div>
         </div>
     </div>
 </div>
-
