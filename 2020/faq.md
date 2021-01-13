@@ -1,6 +1,6 @@
 ---
-permalink: /faq
-redirect_from: "/2020/faq"
+# permalink: /faq
+permalink: "/2020/faq"
 layout: egsr-default
 title: "FAQ"
 year: 2020

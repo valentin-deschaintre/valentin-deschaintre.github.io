@@ -1,4 +1,7 @@
-current-year: 2020
+current-year: 2021
+
+previous-years:
+    - 2020
 
 2020:
     title: "The 31<sup>st</sup> <b>Eurographics Symposium on Rendering</b>"
@@ -6,3 +9,9 @@ current-year: 2020
     location: "London, UK"
     logo: "img/2020/logo-pure-outlines.svg"
     #EGSR-logo2020.png
+
+2021:
+    title: "The 32<sup>nd</sup> <b>Eurographics Symposium on Rendering</b>"
+    date: ""
+    location: "virtual"
+    logo: ""

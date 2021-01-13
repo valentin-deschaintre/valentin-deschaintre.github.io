@@ -1,5 +1,4 @@
 ---
-permalink: /live/
 layout: egsr-default
 title: Live
 year: 2020

@@ -1,6 +1,6 @@
 ---
-permalink: /sponsors/
-redirect_from: "/2020/sponsors"
+# permalink: /sponsors/
+permalink: "/2020/sponsors"
 layout: egsr-default
 title: Sponsors
 year: 2020
@@ -42,7 +42,7 @@ We thank all our Sponsors very much for their support to the Computer Graphics c
 		{% if sponsor.level contains 'paperAward' %}
 			<div class="individualSponsor">
 				<a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="sponsorImagePageBestPaper img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
-				<span><b>Best paper award sponsor</b></span> 
+				<span><b>Best paper award sponsor</b></span>
 				<!--<span>{{sponsor.description}}</span>-->
 			</div>
 		{% endif %}

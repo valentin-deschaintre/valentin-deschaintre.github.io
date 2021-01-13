@@ -1,6 +1,6 @@
 ---
-permalink: /news/
-redirect_from: "/2020/news"
+# permalink: /news/
+permalink: "/2020/news"
 layout: egsr-twitter
 title: News
 year: 2020

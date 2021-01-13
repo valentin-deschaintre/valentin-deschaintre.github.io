@@ -1,6 +1,6 @@
 ---
-permalink: /call-for-papers/
-redirect_from: "/2020/call-for-papers"
+# permalink: /call-for-papers/
+permalink: "/2020/call-for-papers"
 layout: egsr-default
 title: Call for Papers to EGSR 2020
 excerpt: "Submit your work to EGSR 2020"
@@ -13,7 +13,7 @@ year: 2020
 Furthermore, this year’s EGSR will take place completely virtually. We are currently evaluating available options for remote attendance and the format and details for this are still being worked out. Authors of accepted papers this year will be asked to present their work remotely. We encourage authors to submit work to EGSR despite the altered circumstances of a virtual EGSR meeting.</i></p>-->
 
 <h1 id="research"><strong>Research Track</strong></h1>
-<p>A PDF version of Research Track call for papers is available to download from <a href="research.pdf">here</a>.</p>
+<p>A PDF version of Research Track call for papers is available to download from <a href="call-for-papers/research.pdf">here</a>.</p>
 <p> The Eurographics Symposium on Rendering 2020 will take place virtually from June 30th to July 3rd, 2020, co-hosted by Imperial College London and University College London. This 31th event continues the series of highly successful Eurographics Symposia and Workshops on Rendering.</p>
 <p>All accepted research papers will be presented at EGSR 2020 and archived in the <a href="https://diglib.eg.org/">Eurographics digital library</a> (exact publication modalities pending). Furthermore, a selection of them will be published in an issue of the <a href="https://onlinelibrary.wiley.com/journal/14678659">Computer Graphics Forum</a> (CGF) journal, based on both the recommendations of the reviewers and the outcome of a second cycle of review.</p>
 <p>We are looking for work that shapes the future of rendering in computer graphics and related fields, such as virtual and augmented reality, deep learning, and computational photography.</p>
@@ -103,7 +103,7 @@ Furthermore, this year’s EGSR will take place completely virtually. We are cur
 
 
 <h1 id="industry"><strong>Industry Track call for papers</strong></h1>
-<p>A PDF version of Industry Track call for paper is available to download from <a href="industry.pdf">here</a>.</p>
+<p>A PDF version of Industry Track call for paper is available to download from <a href="call-for-papers/industry.pdf">here</a>.</p>
 <p>The Eurographics Symposium on Rendering (EGSR) 2020 includes an Industry Track that includes invited papers from our colleagues in industry that are on topics of interest to the general rendering community. The goal of this track is to provide an accessible venue for getting out ideas that have found practical use in industry and could impact the future of rendering research, but that do not meet the standards of scientific evaluation expected in formal research papers. These papers will be curated by the papers co-chairs and will be presented in the conference along with the traditional research papers.</p>
 <p>We are looking for papers that present ideas and applications of rendering (both high-end and real-time), as well as other aspects of image synthesis (e.g., image-based rendering, rendering for AR/VR, machine learning for rendering, etc.). Topics for possible Industry Track papers could include, but are not limited to:</p>
 <ul><li>Novel rendering ideas that are interesting but might not be developed to the point of a formal research paper but are already successfully used in practice</li>
@@ -113,7 +113,7 @@ Furthermore, this year’s EGSR will take place completely virtually. We are cur
 <li>Position papers that pose interesting problems found in industry rendering applications that should be more emphasized in academic research</li></ul>
 <p>Papers accepted in this new Industry Track will be published in the Eurographics Digital Library for archival purposes and presented at EGSR 2020, which will take place in London, England from June 30th to July 3rd, 2020.</p>
 <h3><strong>How to Submit Your Work</strong></h3>
-<p>Please email the program chairs at chairs-egsr2020@eg.org with a PDF of your paper submission with the subject “Industry Track Submission” by the deadline below. The chairs will then curate the industry track program from the submitted papers and provide feedback to the authors. We expect that most papers will be fairly short (around 1-4 pages) although authors can submit longer ones if necessary to describe their idea. The authors should use the “Industry Track” template available following <a href="../EGSR2020_Industry-Track_Template.zip">this link</a>.</p>
+<p>Please email the program chairs at chairs-egsr2020@eg.org with a PDF of your paper submission with the subject “Industry Track Submission” by the deadline below. The chairs will then curate the industry track program from the submitted papers and provide feedback to the authors. We expect that most papers will be fairly short (around 1-4 pages) although authors can submit longer ones if necessary to describe their idea. The authors should use the “Industry Track” template available following <a href="call-for-papers/EGSR2020_Industry-Track_Template.zip">this link</a>.</p>
 <h3><strong>Important dates (All times are midnight, 23:59 UTC)</strong></h3>
 <ul><li>Industry Track papers deadline: May 26, 2020</li>
 <li>Author notification: June 2, 2020</li>

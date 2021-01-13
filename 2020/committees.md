@@ -1,6 +1,6 @@
 ---
-permalink: /committee/
-redirect_from: "/2020/committee"
+# permalink: /committee/
+permalink: "/2020/committee"
 layout: egsr-default
 title: Committee
 year: 2020
@@ -32,16 +32,16 @@ year: 2020
         </div>
 		<div class="panel-body">
             <h4>Belen Masia<br><small> U Zaragoza, Spain</small></h4>
-        </div>		
+        </div>
 		<div class="panel-body">
             <h4>Christoph Peters<br><small> KIT, Germany</small></h4>
         </div>
 		<div class="panel-body">
             <h4>Derek Nowrouzezahrai<br><small> McGill, Canada</small></h4>
-        </div>	
+        </div>
 		<div class="panel-body">
             <h4>Diego Nehab<br><small> IMPA, Brazil</small></h4>
-        </div>				
+        </div>
 		<div class="panel-body">
             <h4>Elena Garces<br><small> Technicolor, France</small></h4>
         </div>
@@ -53,13 +53,13 @@ year: 2020
         </div>
 		<div class="panel-body">
             <h4>Fabio Pellacini<br><small> Sapienza University of Rome, Italy</small></h4>
-        </div>				
+        </div>
 		<div class="panel-body">
             <h4>George Drettakis<br><small> INRIA, France</small></h4>
         </div>
 		<div class="panel-body">
             <h4>Hendrik Lensch<br><small> Tübingen University, Germany</small></h4>
-        </div>		
+        </div>
 		<div class="panel-body">
             <h4>Holly Rushmeier<br><small> Yale University, USA</small></h4>
         </div>
@@ -68,10 +68,10 @@ year: 2020
         </div>
 		<div class="panel-body">
             <h4>Iliyan Georgiev<br><small> Solid Angle, UK</small></h4>
-        </div>		
+        </div>
 		<div class="panel-body">
             <h4>Jaakko Lehtinen<br><small> Aalto University and NVIDIA, Finland</small></h4>
-        </div>		
+        </div>
 		<div class="panel-body">
             <h4>Jan Novak<br><small> NVIDIA, Switzerland</small></h4>
         </div>
@@ -131,7 +131,7 @@ year: 2020
         </div>
 		<div class="panel-body">
             <h4>Steve Marschner<br><small> Cornell, USA</small></h4>
-        </div>		
+        </div>
 		<div class="panel-body">
             <h4>Sung-Eui Yoon<br><small> KAIST, South Korea</small></h4>
         </div>

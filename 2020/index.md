@@ -1,11 +1,9 @@
 ---
-permalink: /
-redirect_from: "/2020"
 layout: egsr-plain
 title: "EGSR 2020"
 year: 2020
 image:
-    feature: img/teaser/egsr_2020_teaser.png
+    feature: img/2020/teaser/egsr_2020_teaser.png
     credit: <a href =https://www.imperial.ac.uk> Imperial College London</a> and <a href =https://www.ucl.ac.uk> University College London</a>
 ---
 

@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-redirect_from: "/2020/about"
+# permalink: /about/
+permalink: "/2020/about"
 layout: egsr-default
 title: About EGSR
 year: 2020

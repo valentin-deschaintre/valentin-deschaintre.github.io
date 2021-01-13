@@ -1,6 +1,6 @@
 ---
-permalink: /social-mixers/
-redirect_from: "/2020/social-mixers"
+# permalink: /social-mixers/
+permalink: "/2020/social-mixers"
 layout: egsr-default
 title: Social Mixers
 year: 2020
@@ -11,7 +11,7 @@ One from 12:00 to 12:45 UTC on Wednesday 1st of July and one from 16:45 to 17:30
 
 To participate you need to register on this form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_eRP4zYosko1O6WMDhRpVPkx2YLvQV7i_ogUoKMc6qh9nDg/viewform">*here*</a>.
 
-Each session will consist in the creation of small random groups of registered people with a mix of senior and junior people in each group. 
+Each session will consist in the creation of small random groups of registered people with a mix of senior and junior people in each group.
 You will be invited at the beginning of this event in a private chat on Rocket Chat alongside the other people of your group. From there you can call the group using the call button on the top of the window!
 
 

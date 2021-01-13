@@ -2,16 +2,32 @@
 
 2020:
 - title: Program
-  url: program
+  url: 2020/program
 - title: Call for Papers
-  url: call-for-papers
+  url: 2020/call-for-papers
 - title: Committee
-  url: committee
+  url: 2020/committee
 - title: Sponsors
-  url: sponsors
+  url: 2020/sponsors
 - title: MAM
-  url: mam
+  url: 2020/mam
 - title: Social Mixers
-  url: social-mixers
+  url: 2020/social-mixers
 - title: Live
-  url: live
+  url: 2020/live
+
+2021:
+- title: Program
+  url: 2021/program
+- title: Call for Papers
+  url: 2021/call-for-papers
+- title: Committee
+  url: 2021/committee
+- title: Sponsors
+  url: 2021/sponsors
+- title: MAM
+  url: 2021/mam
+# - title: Social Mixers
+#   url: 2021/social-mixers
+# - title: Live
+#   url: 2021/live

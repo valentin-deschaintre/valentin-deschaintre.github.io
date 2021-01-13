@@ -1,6 +1,6 @@
 ---
-permalink: /mam/
-redirect_from: "/2020/mam"
+# permalink: /mam/
+permalink: "/2020/mam"
 layout: egsr-default
 title: MAM 2020
 year: 2020
@@ -29,5 +29,5 @@ year: 2020
 <h3>Fabricating material appearance</h3>
 <p>3D printing systems are becoming available for reproducing color and gloss. Papers on fabrication issues are welcome.</p>
 <h2>Submission</h2>
-<p>All submissions should be four pages or less in length, using the Style Guide given <a href="../egPublStyle-MAM2020.zip">egPublStyle-MAM2020.zip</a>. The deadline for submissions is JUNE 15, 2020. Submissions and any questions should be sent via email to the workshop organizers: Holly Rushmeier (<a href="mailto:holly@acm.org">holly@acm.org</a>), Reinhard Klein (<a href="mailto:rk@cs.uni-bonn.de">rk@cs.uni-bonn.de</a>) </p>
+<p>All submissions should be four pages or less in length, using the Style Guide given <a href="call-for-papers/egPublStyle-MAM2020.zip">egPublStyle-MAM2020.zip</a>. The deadline for submissions is JUNE 15, 2020. Submissions and any questions should be sent via email to the workshop organizers: Holly Rushmeier (<a href="mailto:holly@acm.org">holly@acm.org</a>), Reinhard Klein (<a href="mailto:rk@cs.uni-bonn.de">rk@cs.uni-bonn.de</a>) </p>
 

@@ -1,6 +1,6 @@
 ---
-permalink: /program/
-redirect_from: "/2020/program"
+# permalink: /program/
+permalink: "/2020/program"
 layout: egsr-default
 title: Program
 year: 2020
@@ -32,9 +32,9 @@ year: 2020
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", "/calendar-data/", false );
     xmlHttp.send( null );
-	
+
 	programStr = '\[' + String(String(xmlHttp.responseText).split("<code>")[1]).split("</code>")[0] + ']';
-	jsonProg = JSON.parse(programStr);	
+	jsonProg = JSON.parse(programStr);
 	columnHeadFormat = { weekday: 'long', month: 'numeric', day: 'numeric', omitCommas: true };
 	if (window.screen.availWidth < 800)
 	{
@@ -102,7 +102,7 @@ year: 2020
 
 {% for mySession in sessions %}
 	<div class="session-content" id="{{mySession.session_id}}" >
-		
+
 		<h3 style="overflow: auto;"> <a href="{{mySession.permalink}}" {% if mySession.workshopId == 1%}style="color: #602f6b;"{% endif %}><span style="float: left; margin-top: 10px; margin-right: 10px;">{{mySession.title}}</span></a>{% if mySession.youtube_url%}<a href="{{mySession.youtube_url}}" target="_blank"><img src="/img/program/yt.jpg" height="25px" width="40px" style="float: left;  margin-top: 10px;"></a>{% endif %} {% if mySession.abstract %}<a href="{{mySession.rc_link}}" ><img src="/img/program/rocket-chat.svg" height="25px" width="40px" style="float: left; margin-top: 10px;"></a>{% endif %}<a href="#intro" ><img src="/img/program/back-to-top.jpg" height="40px" width="65px" style="float: right;"></a></h3>
 		<h4 class="time">{{mySession.start}}</h4>
 		<h5>{{mySession.authors}}</h5>
@@ -125,24 +125,24 @@ year: 2020
 						 <button type="button" class="abstract">Abstract</button>
 						<div class="abstract_content">
 						  <p>{{talk.abstract}}</p>
-						</div> 
+						</div>
 						{% endif %}
 
 					</div>
 				{% endif %}
-					
+
 			{% endfor %}
 
 		</div>
-					
+
 		{% if mySession.abstract %}
 			<div style="overflow: auto; margin-bottom:10px;"><div style="float: left; width:30%;"> <img src="{{mySession.picture}}" style="max-width:80%;" ></div><div style="float: left; width:70%;">{{mySession.Bio}}</div></div>
 			 <button type="button" class="abstract">Abstract</button>
 			<div class="abstract_content">
 			  <p>{{mySession.abstract}}</p>
-			</div> 
+			</div>
 		{% endif %}
-			
+
 			<hr width="75%">
 	</div>
 
@@ -161,7 +161,7 @@ year: 2020
 		var timeZoneOffset = time.getTimezoneOffset();
 		return local_date +" " +timeZoneStr + " (" + moment.tz.zone(timeZoneStr).abbr(timeZoneOffset) + ")";
 	}
-	
+
 	var elements = document.getElementsByClassName("time");
 
 	for(var i=0; i<elements.length; i++) {
@@ -186,4 +186,3 @@ year: 2020
 	}
 </script>
 
-	
