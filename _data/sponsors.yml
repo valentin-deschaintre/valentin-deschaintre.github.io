@@ -1,5 +1,21 @@
 2021:
+- name: Saarland University
+  url: https://www.uni-saarland.de/en/home.html
+  image:
+  level: institutional
 
+- name: DFKI
+  url:
+  level: institutional
+
+- name: MPII
+  url:
+  level: institutional
+
+- name: Eurographics
+  url: https://www.eg.org/
+  image: img/2020/academics/EG_logo.jpg
+  level: institutional
 
 2020:
 - name: Activision
