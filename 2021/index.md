@@ -1,5 +1,4 @@
 ---
-permalink: /
 layout: egsr-plain
 title: "EGSR 2021"
 year: 2021
