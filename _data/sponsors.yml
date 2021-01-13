@@ -1,15 +1,7 @@
 2021:
-- name: Saarland University
-  url: https://www.uni-saarland.de/en/home.html
+- name: Saarland Informatics Campus
+  url: https://saarland-informatics-campus.de/
   image:
-  level: institutional
-
-- name: DFKI
-  url:
-  level: institutional
-
-- name: MPII
-  url:
   level: institutional
 
 - name: Eurographics
