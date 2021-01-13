@@ -17,16 +17,16 @@
   url: 2020/live
 
 2021:
-- title: Program
-  url: 2021/program
+# - title: Program
+#   url: 2021/program
 - title: Call for Papers
   url: 2021/call-for-papers
-- title: Committee
-  url: 2021/committee
-- title: Sponsors
-  url: 2021/sponsors
-- title: MAM
-  url: 2021/mam
+# - title: Committee
+#   url: 2021/committee
+# - title: Sponsors
+#   url: 2021/sponsors
+# - title: MAM
+#   url: 2021/mam
 # - title: Social Mixers
 #   url: 2021/social-mixers
 # - title: Live
