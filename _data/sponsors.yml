@@ -1,7 +1,7 @@
 2021:
 - name: Saarland Informatics Campus
   url: https://saarland-informatics-campus.de/
-  image:
+  image: img/2021/SIC_RZ.png
   level: institutional
 
 - name: Eurographics
