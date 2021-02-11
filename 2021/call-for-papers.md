@@ -1,5 +1,5 @@
 ---
-layout: egsr-default
+layout: 2021/egsr-default
 title: Call for Papers to EGSR 2021
 excerpt: "Submit your work to EGSR 2021"
 year: 2021

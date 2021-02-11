@@ -1,5 +1,5 @@
 ---
-layout: egsr-default
+layout: 2021/egsr-default
 title: Committee
 year: 2021
 ---

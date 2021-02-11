@@ -1,5 +1,5 @@
 ---
-layout: egsr-plain
+layout: 2021/egsr-default
 title: "EGSR 2021"
 year: 2021
 image:
@@ -10,4 +10,12 @@ image:
 ## Eurographics Symposium on Rendering
 
 The 32nd edition of the Eurographics Symposium on Rendering will be held from June 29th to July 2nd, 2021.
-We plan a 4 day event that will be compatible with fully remote participation, but hope to have at least some days of physical attendance if conditions are favorable at that time.
+We plan a 4 day event that will be compatible with fully remote participation.
+
+We hope to also have an optional physical event, if conditions are favorable at that time.
+
+[Submit your great work now!](https://srmv2.eg.org/COMFy/Conference/SR_2021/GetConferenceFile?fileID=12114)
+
+**Abstract submission deadline:** April 9th
+
+**Paper submission deadline:** April 16th
