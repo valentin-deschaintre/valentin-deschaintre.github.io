@@ -142,7 +142,7 @@ We invite original contributions that advance the state-of-the-art in topics rel
 
 ### How to Submit Your Work
 
-Please submit your work using the SRM online submission system. The submission should use the EGSR 2021 LaTeX template available on SRM following [this link](https://srmv2.eg.org/COMFy/Conference/SR_2021/GetConferenceFile?fileID=12114) (first create an account on the SRM system to download the template).
+Please submit your work using the [SRM online submission system](https://srmv2.eg.org/COMFy/Conference/SR_2021). The submission should use the EGSR 2021 LaTeX template available on SRM following [this link](https://srmv2.eg.org/COMFy/Conference/SR_2021/GetConferenceFile?fileID=12114) (first create an account on the SRM system to download the template).
 
 ### Important dates (All times are midnight, 23:59 UTC)
 

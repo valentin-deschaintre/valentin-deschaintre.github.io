@@ -14,7 +14,7 @@ We plan a 4 day event that will be compatible with fully remote participation.
 
 We hope to also have an optional physical event, if conditions are favorable at that time.
 
-[Submit your great work now!](https://srmv2.eg.org/COMFy/Conference/SR_2021/GetConferenceFile?fileID=12114)
+[Submit your great work now!](https://srmv2.eg.org/COMFy/Conference/SR_2021)
 
 **Abstract submission deadline:** April 9th
 
