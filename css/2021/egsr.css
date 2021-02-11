@@ -100,6 +100,11 @@ display: inline-block;
   background-color: #C3525B;
 }
 
+.conference-dates {
+  color: rgb(28, 74, 114);
+  font-family: Saar Pro;
+}
+
 footer li.sponsor img {
   max-height: 32px;
   padding: 0 0 0px 0.5ex;
