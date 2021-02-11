@@ -2,10 +2,6 @@
 title: "EGSR"
 tagline: "Eurographics Symposium on Rendering 2021"
 
-# URL - Deployment
-# url: "https://egsr.eu"
-#url: "localhost:4000"
-
 # Handling Reading
 safe: true
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"

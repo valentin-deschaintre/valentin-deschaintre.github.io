@@ -34,25 +34,111 @@ We invite original contributions that advance the state-of-the-art in topics rel
 - Rendering software systems
 - Specialized rendering hardware
 
+<div style="padding-left: 30px; padding-bottom: 10px;" >
+<a href="http://cg.ivd.kit.edu/uplifting.php" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/fluorescence.png" height="100">
+</a>
+<a href="https://eheitzresearch.wordpress.com/792-2/" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/trianglecut.png" height="100">
+</a>
+<a href="https://cs.dartmouth.edu/~wjarosz/publications/marco19progressive.html" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/photon_beams.jpg" height="100">
+</a>
+<a href="http://cim.mcgill.ca/~derek/publication.html?id=87" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/Impulse-Volume-Baking.png" height="100">
+</a>
+<a href="https://casual-effects.com/research/Hart2020Sampling/index.html" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/dragon_sampling.png" height="100">
+</a>
+</div>
+
 - Inverse and differentiable rendering
 - Machine learning for rendering, rendering for machine learning
 - Neural rendering, generative models of images
 
+
+<div style="padding-left: 30px; padding-bottom: 10px;">
+<a href="https://users.cg.tuwien.ac.at/zsolnai/gfx/photorealistic-material-editing/" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/learning_image_manip.jpg" height="100">
+</a>
+<a href="https://github.com/viscom-ulm/GINN" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/learning_transport.jpg" height="100">
+</a>
+<a href="https://team.inria.fr/graphdeco/fr/projects/large-scale-materials/" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/learning_svbrdf.png" height="100">
+</a>
+</div>
+
 - Image processing for rendering and compositing, such as denoising, matting, deblurring, colorization
 - Image manipulation, such as warping, inpainting, relighting
-- Computational photography, optics & displays
+- Computational photography, optics &amp; displays
 - Image-based rendering (IBR), lightfields
 - Expressive/Non-Photorealistic rendering (NPR), vector graphics
+
+
+<div style="padding-left: 30px; padding-bottom: 10px;">
+<a href="http://wp.doc.ic.ac.uk/rgi/project/single-shot-layered-reflectance-separation-using-a-polarized-light-field-camera/" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/lightfield_camera.jpg" height="100">
+</a>
+<a href="http://hhoppe.com/proj/videomorph/" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/videomorph.jpg" height="100">
+</a>
+<a href="https://dcgi.fel.cvut.cz/home/sykorad/cmn.html" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/color_me_noisy.png" height="100">
+</a>
+<a href="https://github.com/luanfujun/deep-painterly-harmonization" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/deep_painterly.png" height="100">
+</a>
+<a href="https://github.com/chufengxiao/Example-based-Colorization-via-Dense-Encoding-Pyramids" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/colorization.png" height="100">
+</a>
+</div>
+
 
 - Material and scattering models
 - Acquisition and modeling of geometry and appearance
 - Procedural modelling, texture synthesis, geometry, and simulation
 - Face and human rendering
 
+<div style="padding-left: 30px; padding-bottom: 10px;">
+<a href="https://pure.york.ac.uk/portal/en/publications/practical-measurement-and-reconstruction-of-spectral-skin-reflectance(74f105b8-c195-45da-b1fa-b55e3b0129b6).html">
+    <img src="../banner/skin.png" height="100">
+</a>
+<a href="https://www.cs.cornell.edu/projects/ctcloth/#proc-egsr17" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/fibers.jpg" height="100">
+</a>
+<a href="https://cg.cs.uni-bonn.de/en/publications/paper-details/kneiphof-2019-iridescence/" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/iridescence.png" height="100">
+</a>
+<a href="https://shuangz.com/projects/stocmed-egsr20/" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/granular.png" height="100">
+</a>
+<a href="http://www.cs.wm.edu/~ppeers/showPublication.php?id=Bieron:2020:ABF" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/brdf.png" height="100">
+</a>
+</div>
+
 - Augmented/virtual reality, including rendering, input, and output technologies
 - Human perception of rendered images
 - Scientific visualization, e.g. large-scale data visualization and volume rendering
 - Audio/sound rendering
+
+<div style="padding-left: 30px; padding-bottom: 10px;">
+<a href="https://www.lgdv.tf.fau.de/publicationen/adaptive-temporal-sampling-for-volumetric-path-tracing-of-medical-data/" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/medical.png" height="100">
+</a>
+<a href="https://research.nvidia.com/publication/filtering-environment-illumination-interactive-physically-based-rendering-mixed-reality" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/augmented_reality.png" height="100">
+</a>
+<a href="https://graphics.tudelft.nl/Publications-new/2015/KRMES15/" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/perception.png" height="100">
+</a>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13152" target="_blank" rel="noopener noreferrer">
+    <img src="../banner/solar_exposure.png" height="100">
+</a>
+</div>
+
+
 
 ### How to Submit Your Work
 
@@ -95,16 +181,6 @@ Please email the program chairs at chairs-egsr2021@eg.org with a PDF of your pap
 - Author notification: June 4th
 - Final papers due: July 2nd
 
-## Committee
-
 ### Program chairs
 - Adrien Bousseau, Inria - Université Côte d’Azur
 - Morgan McGuire, NVIDIA
-
-### Conference chairs
-- Pascal Grittmann, Saarland University
-- Gurprit Singh, Max Planck Institute for informatics
-- Philipp Slusallek, DFKI - Saarland University
-
-### Program committee
--
