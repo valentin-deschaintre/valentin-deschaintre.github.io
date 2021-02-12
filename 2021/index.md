@@ -3,7 +3,7 @@ layout: 2021/egsr-default
 title: "EGSR 2021"
 year: 2021
 image:
-    feature: img/2021/csm_UdS_Campus_49566_b580332c77.jpg
+    feature: img/2021/UdsCampus.jpg
     credit: <a href="https://www.uni-saarland.de">Saarland University</a>
 ---
 
