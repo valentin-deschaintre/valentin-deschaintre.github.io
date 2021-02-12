@@ -4,11 +4,12 @@
     {% assign year = site.data.egsr.current-year %}
 {% endif %}
 
+{% if site.data.sponsors[year].show %}
 <div class="panel panel-default" id="sponsors">
     <h4 class="panel-heading">Sponsors</h4>
     <div class="panel-body">
         <div class="dense-gutter">
-            {% for sponsor in site.data.sponsors[year] %}
+            {% for sponsor in site.data.sponsors[year].list %}
                 {% if sponsor.level contains 'conference' %}
                     <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
                 {% endif %}
@@ -18,7 +19,7 @@
 				<center><h3 style="color:#D4AF37">Gold</h3></center>
 				{% assign columnId = 0 %}
 				<table style="width:100%; table-layout: fixed ;">
-                {% for sponsor in site.data.sponsors[year] %}
+                {% for sponsor in site.data.sponsors[year].list %}
                     {% if sponsor.level contains 'gold' %}
 						{% if columnId == 0%}
 							<tr>
@@ -37,17 +38,17 @@
             <div class="row-xs-12 row-sm-6 sponsors">
 				<center><h3 style="color:#C0C0C0">Silver</h3></center>
 				{% assign columnId = 0 %}
-				<table style="width:100%; table-layout: fixed ;">				
-                {% for sponsor in site.data.sponsors[year] %}
+				<table style="width:100%; table-layout: fixed ;">
+                {% for sponsor in site.data.sponsors[year].list %}
                     {% if sponsor.level contains 'silver' %}
 						{% if columnId == 0%}
 							<tr>
-						{% endif %}					
+						{% endif %}
                         <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width:{{sponsor.factorLogo}}%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
 						{% if columnId == 1%}
 							</tr>
 						{% endif %}
-						{% assign columnId = columnId | plus: 1 | modulo: 2%}						
+						{% assign columnId = columnId | plus: 1 | modulo: 2%}
                     {% endif %}
                 {% endfor %}
 				</table>
@@ -57,17 +58,17 @@
             <div class="row-xs-12 row-sm-6 sponsors">
 				<!--<center><h4>Best paper award</h4></center>-->
 				{% assign columnId = 0 %}
-				<table style="width:100%; table-layout: fixed ;">				
-                {% for sponsor in site.data.sponsors[year] %}
+				<table style="width:100%; table-layout: fixed ;">
+                {% for sponsor in site.data.sponsors[year].list %}
                     {% if sponsor.level contains 'paperAward' %}
 						{% if columnId == 0%}
 							<tr>
-						{% endif %}					
+						{% endif %}
                         <td><center><h4>Best paper award</h4></center></td><td><center><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width: 65%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></center></td>
 						{% if columnId == 1%}
 							</tr>
 						{% endif %}
-						{% assign columnId = columnId | plus: 1 | modulo: 2%}						
+						{% assign columnId = columnId | plus: 1 | modulo: 2%}
                     {% endif %}
                 {% endfor %}
 				</table>
@@ -76,24 +77,24 @@
             <div class="row-xs-12 row-sm-6 sponsors">
 				<center><h3 style="color:#cd7f32">Bronze</h3></center>
 				{% assign columnId = 0 %}
-				<table style="width:50%; table-layout: fixed ;">				
-                {% for sponsor in site.data.sponsors[year] %}
+				<table style="width:50%; table-layout: fixed ;">
+                {% for sponsor in site.data.sponsors[year].list %}
                     {% if sponsor.level contains 'bronze' %}
 						{% if columnId == 0%}
 							<tr>
-						{% endif %}					
+						{% endif %}
                         <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width: 100%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
 						{% if columnId == 1%}
 							</tr>
 						{% endif %}
-						{% assign columnId = columnId | plus: 1 | modulo: 2%}						
+						{% assign columnId = columnId | plus: 1 | modulo: 2%}
                     {% endif %}
                 {% endfor %}
 				</table>
             </div>-->
-			
+
             <div class="row-xs-12 row-sm-6">
-                {% for sponsor in site.data.sponsors[year] %}
+                {% for sponsor in site.data.sponsors[year].list %}
                     {% if sponsor.level contains 'academic' %}
                         <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="col-xs-12 img-responsive-50" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
                     {% endif %}
@@ -102,11 +103,4 @@
         </div>
     </div>
 </div>
-
-
-
-
-
-
-
-
+{% endif %}

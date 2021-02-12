@@ -6,7 +6,7 @@
 <!-- footer -->
 <div class="panel" id="social"><center>
   <div class="row-xs-12">
-    {% for sponsor in site.data.sponsors[year] %}
+    {% for sponsor in site.data.sponsors[year].list %}
         {% if sponsor.level contains 'institutional' %}
             <a href="{{sponsor.url}}" target="_blank">
               <img src="{{site.url}}/{{sponsor.image}}" height="40px"

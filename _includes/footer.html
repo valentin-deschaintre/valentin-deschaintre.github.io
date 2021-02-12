@@ -6,11 +6,11 @@
 <!-- footer -->
 <div class="panel" id="social"><center>
   <div class="row-xs-12">
-                {% for sponsor in site.data.sponsors[year] %}
-                    {% if sponsor.level contains 'institutional' %}
-                        <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="img-responsive-20" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
-                    {% endif %}
-                {% endfor %}
+    {% for sponsor in site.data.sponsors[year].list %}
+        {% if sponsor.level contains 'institutional' %}
+            <a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="img-responsive-20" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
+        {% endif %}
+    {% endfor %}
 	</div>
   <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.{% if site.email %} Contact: <a href="mailto:{{site.email}}" target="_top">{{site.email}}</a>{% endif %}</span></center>
   <div class="social-icons pull-right">

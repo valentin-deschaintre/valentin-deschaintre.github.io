@@ -1,90 +1,96 @@
 2021:
-- name: Saarland Informatics Campus
-  url: https://saarland-informatics-campus.de/
-  image: img/2021/SIC_RZ.png
-  level: institutional
+  show: false
 
-- name: Eurographics
-  url: https://www.eg.org/
-  image: img/2020/academics/EG_logo.jpg
-  level: institutional
+  list:
+  - name: Saarland Informatics Campus
+    url: https://saarland-informatics-campus.de/
+    image: img/2021/SIC_RZ.png
+    level: institutional
+
+  - name: Eurographics
+    url: https://www.eg.org/
+    image: img/2020/academics/EG_logo.jpg
+    level: institutional
 
 2020:
-- name: Activision
-  url: https://www.activision.com/
-  image: img/2020/sponsors/logo-activision.png
-  image2: img/2020/sponsors/logo-activision2.png
-  level: gold
-  description: For over 30 years, <b>Activision</b> has been changing the way people play. We develop, distribute, and publish deeply immersive interactive entertainment for gaming consoles, mobile and tablet platforms, and PCs, including blockbuster franchises like Call of Duty®, Skylanders® and Destiny®. We strive to make the most fun, thrilling, and engaging entertainment experiences for our players, who live in a world with many entertainment options. Operating in more than 15 countries, our success is built upon the shared dedication of great people whose sense of mutual respect and teamwork drives our performance.
+  show: true
 
-- name: Adobe
-  url: https://www.adobe.com/
-  image: img/2020/sponsors/logo-adobe-classic.png
-  image2: img/2020/sponsors/logo-adobe-classic2.png
-  level: gold
-  description: <b>Adobe</b> is the global leader in digital media and digital marketing solutions. Our creative, marketing and document solutions empower everyone – from emerging artists to global brands – to bring digital creations to life and deliver immersive, compelling experiences to the right person at the right moment for the best results. In short, Adobe is everywhere, and we’re changing the world through digital experiences.
+  list:
+  - name: Activision
+    url: https://www.activision.com/
+    image: img/2020/sponsors/logo-activision.png
+    image2: img/2020/sponsors/logo-activision2.png
+    level: gold
+    description: For over 30 years, <b>Activision</b> has been changing the way people play. We develop, distribute, and publish deeply immersive interactive entertainment for gaming consoles, mobile and tablet platforms, and PCs, including blockbuster franchises like Call of Duty®, Skylanders® and Destiny®. We strive to make the most fun, thrilling, and engaging entertainment experiences for our players, who live in a world with many entertainment options. Operating in more than 15 countries, our success is built upon the shared dedication of great people whose sense of mutual respect and teamwork drives our performance.
 
-- name: Autodesk
-  url: https://www.autodesk.com/
-  image: img/2020/sponsors/Autodesk.png
-  image2: img/2020/sponsors/Autodesk2.png
-  level: gold
-  description: <b>Autodesk</b> makes software for people who make things. If you’ve ever driven a high-performance car, admired a towering skyscraper, used a smartphone, or watched a great film, chances are you’ve experienced what millions of Autodesk customers are doing with our software.
+  - name: Adobe
+    url: https://www.adobe.com/
+    image: img/2020/sponsors/logo-adobe-classic.png
+    image2: img/2020/sponsors/logo-adobe-classic2.png
+    level: gold
+    description: <b>Adobe</b> is the global leader in digital media and digital marketing solutions. Our creative, marketing and document solutions empower everyone – from emerging artists to global brands – to bring digital creations to life and deliver immersive, compelling experiences to the right person at the right moment for the best results. In short, Adobe is everywhere, and we’re changing the world through digital experiences.
 
-- name: Facebook Reality Labs
-  url: https://research.fb.com/category/augmented-reality-virtual-reality/
-  image: img/2020/sponsors/logo-FRL-2019.png
-  image2: img/2020/sponsors/logo-FRL-20192.png
-  level: gold
-  description: <b>Facebook Reality Labs</b> brings together a world-class team of researchers, developers, and engineers to create the future of virtual and augmented reality, which together will become as universal and essential as smartphones and personal computers are today – and just as personal computers have done over the past 45 years, AR and VR will ultimately change everything about how we work, play, and connect. We are developing all the technologies needed to enable breakthrough AR glasses and VR headsets, including optics and displays, computer vision, audio, graphics, brain-computer interface, haptic interaction, eye/hand/face/body tracking, perception science, and true telepresence.
+  - name: Autodesk
+    url: https://www.autodesk.com/
+    image: img/2020/sponsors/Autodesk.png
+    image2: img/2020/sponsors/Autodesk2.png
+    level: gold
+    description: <b>Autodesk</b> makes software for people who make things. If you’ve ever driven a high-performance car, admired a towering skyscraper, used a smartphone, or watched a great film, chances are you’ve experienced what millions of Autodesk customers are doing with our software.
 
-- name: Renderman Pixar
-  url: https://renderman.pixar.com/
-  image: img/2020/sponsors/Pixar_Logo.svg
-  image2: img/2020/sponsors/Pixar_Logo2.svg
-  level: gold
-  description: <b>Pixar Animation Studios</b> is an Academy Award®-winning film studio with world-renowned technical, creative and production capabilities in the art of computer animation. The Northern California studio has created some of the most successful and beloved animated films of all time, including “Toy Story,” “Monsters, Inc.,” “Cars,” “The Incredibles,” “Ratatouille,” “WALL•E,” “Up,” “Toy Story 3,” “Brave,” “Inside Out,” and “Coco.” Its movies have won 35 Academy Awards® and have grossed more than $14 billion at the worldwide box office. "Onward,"​ Pixar's 22nd feature, opens in theaters on March 6, 2020. Pixar's objective is to combine groundbreaking technology and world-class creative talent to develop computer-animated feature films with memorable characters and heartwarming stories that appeal to audiences of all ages.
+  - name: Facebook Reality Labs
+    url: https://research.fb.com/category/augmented-reality-virtual-reality/
+    image: img/2020/sponsors/logo-FRL-2019.png
+    image2: img/2020/sponsors/logo-FRL-20192.png
+    level: gold
+    description: <b>Facebook Reality Labs</b> brings together a world-class team of researchers, developers, and engineers to create the future of virtual and augmented reality, which together will become as universal and essential as smartphones and personal computers are today – and just as personal computers have done over the past 45 years, AR and VR will ultimately change everything about how we work, play, and connect. We are developing all the technologies needed to enable breakthrough AR glasses and VR headsets, including optics and displays, computer vision, audio, graphics, brain-computer interface, haptic interaction, eye/hand/face/body tracking, perception science, and true telepresence.
 
-- name: Unity
-  url: https://unity.com/
-  image: img/2020/sponsors/logo-unity-2018.png
-  image2: img/2020/sponsors/logo-unity-20182.png
-  level: gold
-  description: <b>Unity</b> democratizes game development and enables success by solving many of the hard technical and business-related problems for you. More game developers use Unity than any other engine. A community of millions – from hobbyists and students to indie and AAA studios – have used Unity to create 2D, 3D, and VR/AR games and experiences. In fact, Unity creators have distributed their content to over one-billion devices reaching over 700 million gamers
+  - name: Renderman Pixar
+    url: https://renderman.pixar.com/
+    image: img/2020/sponsors/Pixar_Logo.svg
+    image2: img/2020/sponsors/Pixar_Logo2.svg
+    level: gold
+    description: <b>Pixar Animation Studios</b> is an Academy Award®-winning film studio with world-renowned technical, creative and production capabilities in the art of computer animation. The Northern California studio has created some of the most successful and beloved animated films of all time, including “Toy Story,” “Monsters, Inc.,” “Cars,” “The Incredibles,” “Ratatouille,” “WALL•E,” “Up,” “Toy Story 3,” “Brave,” “Inside Out,” and “Coco.” Its movies have won 35 Academy Awards® and have grossed more than $14 billion at the worldwide box office. "Onward,"​ Pixar's 22nd feature, opens in theaters on March 6, 2020. Pixar's objective is to combine groundbreaking technology and world-class creative talent to develop computer-animated feature films with memorable characters and heartwarming stories that appeal to audiences of all ages.
 
-- name: Google Deepmind
-  url: https://deepmind.com/
-  image: img/2020/sponsors/deepmind-logo.png
-  image2: img/2020/sponsors/deepmind-logo2.png
-  level: silver
-  factorLogo: 100
-  description: Artificial intelligence could be one of humanity’s most useful inventions. We research and build safe AI systems that learn how to solve problems and advance scientific discovery for all. We’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
+  - name: Unity
+    url: https://unity.com/
+    image: img/2020/sponsors/logo-unity-2018.png
+    image2: img/2020/sponsors/logo-unity-20182.png
+    level: gold
+    description: <b>Unity</b> democratizes game development and enables success by solving many of the hard technical and business-related problems for you. More game developers use Unity than any other engine. A community of millions – from hobbyists and students to indie and AAA studios – have used Unity to create 2D, 3D, and VR/AR games and experiences. In fact, Unity creators have distributed their content to over one-billion devices reaching over 700 million gamers
 
-- name: Weta
-  url: https://www.wetafx.co.nz/
-  image: img/2020/sponsors/Weta.png
-  image2: img/2020/sponsors/Weta2.png
-  level: silver
-  factorLogo: 85
-  description: "<b>Weta Digital</b> is one of the world’s premier visual effects companies. Led by Senior Visual Effects Supervisor Joe Letteri, Weta Digital is known for uncompromising creativity and a commitment to developing innovative technology. Groundbreaking performance-driven digital characters like Gollum, Kong, Neytiri, and Caesar are widely acknowledged as some of the best digital characters ever put on screen. Recently finished projects include Avengers: Endgame, Game of Thrones, and Alita: Battle Angel."
+  - name: Google Deepmind
+    url: https://deepmind.com/
+    image: img/2020/sponsors/deepmind-logo.png
+    image2: img/2020/sponsors/deepmind-logo2.png
+    level: silver
+    factorLogo: 100
+    description: Artificial intelligence could be one of humanity’s most useful inventions. We research and build safe AI systems that learn how to solve problems and advance scientific discovery for all. We’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
 
-- name: Imperial College London
-  url: https://www.imperial.ac.uk/
-  image: img/2020/academics/logo_imperial.png
-  level: institutional
+  - name: Weta
+    url: https://www.wetafx.co.nz/
+    image: img/2020/sponsors/Weta.png
+    image2: img/2020/sponsors/Weta2.png
+    level: silver
+    factorLogo: 85
+    description: "<b>Weta Digital</b> is one of the world’s premier visual effects companies. Led by Senior Visual Effects Supervisor Joe Letteri, Weta Digital is known for uncompromising creativity and a commitment to developing innovative technology. Groundbreaking performance-driven digital characters like Gollum, Kong, Neytiri, and Caesar are widely acknowledged as some of the best digital characters ever put on screen. Recently finished projects include Avengers: Endgame, Game of Thrones, and Alita: Battle Angel."
 
-- name: University College London
-  url: https://www.ucl.ac.uk/
-  image: img/2020/academics/UCL_logo.png
-  level: institutional
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/
+    image: img/2020/academics/logo_imperial.png
+    level: institutional
 
-- name: Eurographics
-  url: https://www.eg.org/
-  image: img/2020/academics/EG_logo.jpg
-  level: institutional
+  - name: University College London
+    url: https://www.ucl.ac.uk/
+    image: img/2020/academics/UCL_logo.png
+    level: institutional
 
-- name: NVIDIA
-  url: https://www.nvidia.com
-  image: img/2020/sponsors/logo_nvidia.png
-  level: paperAward
+  - name: Eurographics
+    url: https://www.eg.org/
+    image: img/2020/academics/EG_logo.jpg
+    level: institutional
+
+  - name: NVIDIA
+    url: https://www.nvidia.com
+    image: img/2020/sponsors/logo_nvidia.png
+    level: paperAward
 
