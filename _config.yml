@@ -22,10 +22,15 @@ plugins:
 # Contact
 email: "v.deschaintre@ic.ac.uk"
 
-# Social
-#facebook: egsr-4668468684?
-twitter: vdeschaintre
-
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: 'img/profilePic2.png'
+author:
+  twitter: vdeschaintre
+  picture: 'img/profilePic2.png'
+  
 description: 'I am currently Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>'
 
 
