@@ -2,6 +2,9 @@
 permalink: /
 title: 'Valentin Deschaintre'
 layout: main
+author:
+   twitter: vdeschaintre
+   picture: img/profilePic2.png
 ---
 
 <div id='content'>
