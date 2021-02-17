@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 'Home'
+title: 'Valentin Deschaintre'
 layout: main
 ---
 
@@ -208,8 +208,10 @@ layout: main
 		<div class="interYear">&nbsp;</div>
 	</div>
 	
-	<h3>Academic activities</h3>
+	<h3>Community activities</h3>
 	<ul>
+		<li>Program commitee member for <a href="https://egsr.eu/2021/">EGSR 2021</a></li>
+		<li>Tertiary reviewer for <a href="https://s2021.siggraph.org/">Siggraph 2021</a></li>
 		<li>Reviewer for <a href="https://dl.acm.org/journal/tog">Transactions On Graphics</a></li>
 		<li>Reviewer for <a href="https://www.computer.org/csdl/journal/tg">TVCG</a></li>
 		<li>Tertiary reviewer for <a href="https://conferences.eg.org/eg2021/">Eurographics 2021</a></li>
