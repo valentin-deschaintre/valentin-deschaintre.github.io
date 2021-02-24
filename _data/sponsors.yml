@@ -7,6 +7,11 @@
     image: img/2021/SIC_RZ.png
     level: institutional
 
+  - name: Max-Planck-Institut für Informatik
+    url: https://www.mpi-inf.mpg.de/home/
+    image: img/2021/logo-mpii.png
+    level: institutional
+
   - name: Eurographics
     url: https://www.eg.org/
     image: img/2020/academics/EG_logo.jpg
