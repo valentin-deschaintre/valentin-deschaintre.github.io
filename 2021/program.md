@@ -1,5 +1,4 @@
 ---
-permalink: "/2021/program"
 layout: 2021/egsr-default
 title: Program
 year: 2021
