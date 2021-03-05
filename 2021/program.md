@@ -9,7 +9,7 @@ year: 2021
 ### [Roland Fleming](https://www.allpsych.uni-giessen.de/roland/)
 
 <a href="https://www.allpsych.uni-giessen.de/roland/">
-<img src="../img/2021/fleming_roland.png" style="float:left; margin-right: 10px" width="150" />
+<img src="{{site.url}}/img/2021/fleming_roland.png" style="float:left; margin-right: 10px" width="150" />
 </a>
 
 Roland Fleming is an interdisciplinary researcher specializing in the visual perception of materials, illumination and 3D shape. He did his undergraduate degree in Psychology, Philosophy and Physiology at Oxford University, graduating with First Class Honours in 1999, and completed his PhD in the Department of Brain and Cognitive Sciences at MIT in 2004. He then served as a project leader at the Max Planck Institute for Biological Cybernetics in Tübingen. In 2010 he joined Giessen University as a junior professor. Since 2016, has been the Kurt Koffka Professor of Experimental Psychology.
@@ -20,7 +20,7 @@ His research combines psychophysics, neural modelling, computer graphics and ima
 ### [Jon Barron](https://jonbarron.info/)
 
 <a href="https://jonbarron.info/">
-<img src="../img/2021/JonBarron.jpg" style="float:left; margin-right: 10px" width="150" />
+<img src="{{site.url}}/img/2021/JonBarron.jpg" style="float:left; margin-right: 10px" width="150" />
 </a>
 
 Jon Barron is a staff research scientist at Google, where he works on
