@@ -2,6 +2,11 @@
   show: true
 
   list:
+  - name: Saarland University
+    url: https://www.uni-saarland.de/en/home.html
+    image: img/2021/uds.png
+    level: institutional
+
   - name: Saarland Informatics Campus
     url: https://saarland-informatics-campus.de/
     image: img/2021/SIC_RZ.png
