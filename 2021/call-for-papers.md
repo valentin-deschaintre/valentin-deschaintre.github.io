@@ -7,12 +7,11 @@ year: 2021
 
 
 This year, EGSR features two paper submission tracks: the <a href="#research">Research Track</a> and the <a href="#industry">Industry Track</a>.
+A PDF version of the call for papers is available to download from [here](../call-for-papers.pdf).
 
 <a id="research"></a>
 
 ## Research Track
-
-A PDF version of Research Track call for papers is available to download from here.
 
 The Eurographics Symposium on Rendering 2021 will take place virtually and/or in-person from June 29th to July 2nd, 2021, hosted by Saarland University. This 32nd event continues the series of highly successful Eurographics Symposia and Workshops on Rendering.
 
@@ -198,7 +197,6 @@ Authors may mention their submission(s) as under review at EGSR as part of the w
 
 ## Industry Track
 
-A PDF version of Industry Track call for paper is available to download from here.
 The Eurographics Symposium on Rendering (EGSR) 2021 includes an Industry Track that includes invited papers from our colleagues in industry that are on topics of interest to the general rendering community. The goal of this track is to provide an accessible venue for getting out ideas that have found practical use in industry and could impact the future of rendering research, but that do not meet the standards of scientific evaluation expected in formal research papers. These papers will be curated by the papers co-chairs and will be presented in the conference along with the traditional research papers.
 
 We are looking for papers that present ideas and applications of rendering (both high-end and real-time), as well as other aspects of image synthesis (e.g., image-based rendering, rendering for AR/VR, machine learning for rendering, etc.). Topics for possible Industry Track papers could include, but are not limited to:
