@@ -19,6 +19,9 @@ layout: main
 						<td align="center"><h1>Valentin Deschaintre</h1></td>
 					</tr>
 					<tr>
+						<td align="center">Research Scientist - Adobe Research</td>
+					</tr>
+					<tr>
 						<td align="center"><div class="email" cellpadding="10">e-mail: <a href="mailto:deschain@adobe.com">deschain[at]a***e.com</a></div>
 						</td>
 					</tr>
@@ -28,7 +31,7 @@ layout: main
 	</table>
 	<br/>
 	<div class="Introduction">
-		I am a Research Scientist at Adobe, based in the London lab. I previously was an Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
+		I am currently a Research Scientist at Adobe Research in the London lab. I previously was an Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
 		I did my PhD at Inria Sophia-Antipolis in the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a>.<br>
 		During my PhD, I had the pleasure to spend 2 months in MIT under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
 		My research focuses on material and shape acquisition, creation, edition and representation, leveraging deep learning methods. <br>
