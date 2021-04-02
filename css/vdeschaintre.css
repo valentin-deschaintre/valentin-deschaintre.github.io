@@ -30,7 +30,7 @@ bodyB {
 h1   { 
 	font-family: DroidSans-webfont, DroidSans, 'Droid Sans', Arial, helvetica;
 	font-size:xx-large;
-	color:#1f5bdb;
+	color:#ff0000;
 	font-weight: bold; 
 	text-align: center;
 	margin:0;
@@ -38,7 +38,7 @@ h1   {
 h2   { 
 	font-family: DroidSans-webfont, DroidSans, 'Droid Sans', Arial, helvetica;
 	font-size:x-large;
-	color:#1f5bdb;
+	color:#ff0000;
 	letter-spacing:1px;
 	background: #AAA;
 	font-weight: normal; 
@@ -48,7 +48,7 @@ h2   {
 }
 h3   { 
 	font-size:large;
-	color:#1f5bdb;
+	color:#ff0000;
 	background: #FFF;
 	font-weight: normal; 
 	text-align: left; 
@@ -59,7 +59,7 @@ h3   {
 }
 h4   { 
 	font-size:small;
-	color:#1f5bdb;
+	color:#ff0000;
 	background: #000;
 	font-weight: normal; 
 	text-align: left; 

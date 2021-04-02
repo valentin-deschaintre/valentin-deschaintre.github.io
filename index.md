@@ -19,16 +19,7 @@ layout: main
 						<td align="center"><h1>Valentin Deschaintre</h1></td>
 					</tr>
 					<tr>
-						<td align="center"><div class="email">e-mail: <a href="mailto:v.deschaintre@imperial.ac.uk">v[dot]deschaintre[at]imperial.ac.uk</a></div>
-							<table border="0" cellpadding="4" background-color="rgb(255, 255, 255)">
-								<tr>
-									<td>Realistic Graphics and Imaging<br>
-										Imperial College London<br>
-										Department of Computing<br>
-										South Kensington, London, UK
-									</td>
-								</tr>
-							</table>
+						<td align="center"><div class="email" cellpadding="10">e-mail: <a href="mailto:deschain@adobe.com">deschain[at]a***e.com</a></div>
 						</td>
 					</tr>
 				</table> 
@@ -37,10 +28,11 @@ layout: main
 	</table>
 	<br/>
 	<div class="Introduction">
-		I am currently Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
-		I previously did my PhD at Inria Sophia-Antipolis in the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a>.<br>
-		During my PhD, I had the pleasure to spend almost 2 months in MIT under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
-		My research focuses on material acquisition and representation, with a particular interest in deep learning methods. But my interests also include a wider range of topics such as environment (both indoor and outdoor) Acquisition and Reconstruction, Rendering and Computational photography. Finally, while I have not had the chance to work first hand on it since my under graduate year, I am an animation enthusiat !<br><br>
+		I am a Research Scientist at Adobe, based in the London lab. I previously was an Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
+		I did my PhD at Inria Sophia-Antipolis in the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a>.<br>
+		During my PhD, I had the pleasure to spend 2 months in MIT under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
+		My research focuses on material and shape acquisition, creation, edition and representation, leveraging deep learning methods. <br>
+		<b>Adobe Internship:</b>I will be looking for strong students to collaborate with for the 2022 Adobe internship program. If you are interested in interning at Adobe with me, send me an email (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. <br><br>
 
 		My PhD was funded by the French government (ANRT and Inria) and Optis, an Ansys affiliate using the <a href='https://www.ifsttar.fr/en/partnerships-innovation/scientific-and-technical-services/cifre-industrial-agreements-for-training-through-research/'>CIFRE</a> system of collaboration.<br><br>
 		
@@ -210,6 +202,8 @@ layout: main
 	
 	<h3>Community activities</h3>
 	<ul>
+		<li>Member of the SIGGRAPH Research Career Development Committee</li>
+		<li>Tertiary reviewer for <a href="http://iccv2021.thecvf.com/home">ICCV 2021</a></li>
 		<li>Program commitee member for <a href="https://egsr.eu/2021/">EGSR 2021</a></li>
 		<li>Tertiary reviewer for <a href="https://s2021.siggraph.org/">Siggraph 2021</a></li>
 		<li>Reviewer for <a href="https://dl.acm.org/journal/tog">Transactions On Graphics</a></li>
