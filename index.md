@@ -34,8 +34,8 @@ layout: main
 		I am currently a Research Scientist at Adobe Research in the London lab. I previously was an Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
 		I did my PhD at Inria Sophia-Antipolis in the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a>.<br>
 		During my PhD, I had the pleasure to spend 2 months in MIT under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
-		My research focuses on material and shape acquisition, creation, edition and representation, leveraging deep learning methods. <br>
-		<b>Adobe Internship:</b>I will be looking for strong students to collaborate with for the 2022 Adobe internship program. If you are interested in interning at Adobe with me, send me an email (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. <br><br>
+		My research focuses on material and shape acquisition, creation, edition and representation, leveraging deep learning methods. <br><br>
+		<b>Adobe Internship:</b> I will be looking for strong students to collaborate with for the 2022 Adobe internship program. If you are interested in interning at Adobe with me, send me an email (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. <br><br>
 
 		My PhD was funded by the French government (ANRT and Inria) and Optis, an Ansys affiliate using the <a href='https://www.ifsttar.fr/en/partnerships-innovation/scientific-and-technical-services/cifre-industrial-agreements-for-training-through-research/'>CIFRE</a> system of collaboration.<br><br>
 		
