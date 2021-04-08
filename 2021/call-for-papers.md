@@ -221,4 +221,4 @@ Please email the program chairs at chairs-egsr2021@eg.org with a PDF of your pap
 
 ### Program chairs
 - Adrien Bousseau, Inria - Université Côte d’Azur
-- Morgan McGuire, NVIDIA
+- Morgan McGuire, Roblox
