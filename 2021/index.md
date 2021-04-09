@@ -14,8 +14,14 @@ We plan a 4 day event that will be compatible with fully remote participation.
 
 We hope to also have an optional physical event, if conditions are favorable at that time.
 
-[Submit your great work now!](https://srmv2.eg.org/COMFy/Conference/SR_2021)
+[Submit your great work now!](call-for-papers)
 
 **Abstract submission deadline:** April 9th
 
 **Paper submission deadline:** April 16th
+
+## Workshop on Material Appearance Modeling
+
+[MAM 2021, the 9th annual Workshop on Material Appearance Modeling](mam), will be held virtually (i.e. via electronic platforms rather than physically) on June 28th, 2021 just prior to EGSR 2021.
+
+**MAM submission deadline:** June 14th
