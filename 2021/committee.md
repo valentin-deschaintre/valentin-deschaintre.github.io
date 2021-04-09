@@ -47,4 +47,16 @@ year: 2021
         </div>
         {% endfor %}
     </div>
+
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">Award chair</h4>
+        </div>
+        {% for chair in site.data.egsr2021.chairs.awards %}
+        <div class="panel-body">
+            <h4><a href="{{ chair.url }}" target="_blank">{{ chair.name }}</a><br>
+            <small> {{ chair.affiliation }} </small></h4>
+        </div>
+        {% endfor %}
+    </div>
 </div>

@@ -7,6 +7,11 @@ papers:
     url: https://casual-effects.com/morgan/index.html
     affiliation: Roblox
 
+awards:
+  - name: Elmar Eisemann
+    url: https://graphics.tudelft.nl/~eisemann/
+    affiliation: TU Delft
+
 conference:
   - name: Pascal Grittmann
     url: https://graphics.cg.uni-saarland.de/people/grittmann.html
