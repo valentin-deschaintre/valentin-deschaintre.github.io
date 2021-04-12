@@ -148,8 +148,8 @@ Please submit your work using the [SRM online submission system](https://srmv2.e
 - Abstract deadline: April 9th
 - Papers deadline: April 16th
 - Reviews released to authors: May 18th
-- Rebuttals due: May 21st
-- Author notification: June 4th
+- Rebuttals due: May 25th
+- Author notification: June 7th
 - Final papers due: June 16th
 - Conference: June 29th - July 2nd
 
