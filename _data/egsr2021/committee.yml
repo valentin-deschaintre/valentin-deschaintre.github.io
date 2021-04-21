@@ -19,9 +19,6 @@
 - name: Dong, Yue
   affiliation: Microsoft Research Asia
 
-- name: Herholz, Sebastian
-  affiliation: Intel
-
 - name: Frisvad, Jeppe Revall
   affiliation: Technical University of Denmark
 
@@ -45,6 +42,9 @@
 
 - name: Heitz, Eric
   affiliation: Unity Technologies
+
+- name: Herholz, Sebastian
+  affiliation: Intel
 
 - name: Holzschuch, Nicolas
   affiliation: Inria
@@ -114,6 +114,9 @@
 
 - name: Vangorp, Peter
   affiliation: Edge Hill University
+
+- name: Vining, Nicholas
+  affiliation: UBC and NVIDIA
 
 - name: Walter, Bruce
   affiliation: Cornell University
