@@ -40,7 +40,9 @@ layout: main
 		My PhD was funded by the French government (ANRT and Inria) and Optis, an Ansys affiliate using the <a href='https://www.ifsttar.fr/en/partnerships-innovation/scientific-and-technical-services/cifre-industrial-agreements-for-training-through-research/'>CIFRE</a> system of collaboration.<br><br>
 		
 		<img src='img/new.gif' alt='new'/> I am happy to share that my  <a href="#thesis">thesis</a> was awarded the <a href = 'https://gdr-igrv.icube.unistra.fr/index.php/Prix_de_th%C3%A8se_du_GdR_IG-RV'>French Computer Graphics and Geometry Thesis award</a>! This award is delivered by the <a href="https://gdr-igrv.icube.unistra.fr/index.php/Accueil">GDR IG-RV</a> in collaboration with AFIG, AFRV and EG French chapter.<br>
-		<img src='img/new.gif' alt='new'/> My <a href="#thesis">thesis</a> was also awarded the <a href = 'https://fondation-uca.org/projets/bourses-excellence-academique-theses/'>UCA foundation Academic excellence thesis award 2020</a>! This award is delivered to 6 thesis defended in 2020 (or late 2019) at Université Côte d'Azur (University gathering all labs in the region of Nice) accross all disciplines.
+		<img src='img/new.gif' alt='new'/> My <a href="#thesis">thesis</a> was also awarded the <a href = 'https://fondation-uca.org/projets/bourses-excellence-academique-theses/'>UCA foundation Academic excellence thesis award 2020</a>! This award is delivered to 6 thesis defended in 2020 (or late 2019) at Université Côte d'Azur (University gathering all labs in the region of Nice) accross all disciplines.<br><br>
+		
+		<a href="https://scholar.google.com/citations?user=UnO0Ap8AAAAJ&hl=en">Google scholar</a>
 	</div>
 		<h3>Publications</h3>
 	<div class="Publications list">
