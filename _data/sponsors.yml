@@ -1,3 +1,9 @@
+2021:
+#- name: Activision
+#  url: https://www.activision.com/
+#  image: img/2021/sponsors/logo-activision-2x.png
+#  level: bronze
+
 2020:
 - name: ACM SIGGRAPH
   url: https://www.siggraph.org/
