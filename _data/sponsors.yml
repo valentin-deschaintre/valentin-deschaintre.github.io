@@ -1,4 +1,9 @@
 2021:
+- name: Vicon
+  url: https://www.vicon.com/
+  image: img/2021/sponsors/logo-vicon-2x.png
+  level: silver
+
 - name: Activision
   url: https://www.activision.com/
   image: img/2021/sponsors/logo-activision-2x.png
