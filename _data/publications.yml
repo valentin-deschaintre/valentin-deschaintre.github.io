@@ -1,0 +1,109 @@
+papers:
+
+- title: "Generative Modelling of BRDF Textures from Flash Images"
+  authors: 
+    - "Philipp Henzler"
+    - "Valentin Deschaintre"
+    - "Niloy Mitra"
+    - "Tobias Ritschel"
+  abstract: "We present a novel method for efficient acquisition of shape and spatially varying reflectance of 3D objects using polarization cues. Unlike previous works that have exploited polarization to estimate material or object appearance under certain constraints (known shape or multiview acquisition), we lift such restrictions by coupling polarization imaging with deep learning to achieve high quality estimate of 3D object shape (surface normals and depth) and SVBRDF using single-view polarization imaging under frontal flash illumination. In addition to acquired polarization images, we provide our deep network with strong novel cues related to shape and reflectance, in the form of a normalized Stokes map and an estimate of diffuse color. We additionally describe modifications to network architecture and training loss which provide further qualitative improvements. We demonstrate our approach to achieve superior results compared to recent works employing deep learning in conjunction with flash illumination."
+  full_teaser: "https://henzler.github.io/publication/neuralmaterial/teaser_hu9eace00155e79f3ae79d8bc641f24132_667245_720x0_resize_q90_lanczos.jpg"
+  square_teaser: "img/teaser5.png"
+  date: "2021"
+  paper_link: "https://arxiv.org/pdf/2102.11861.pdf"
+  website_link: "https://henzler.github.io/publication/neuralmaterial/"
+  citation: "Generative Modelling of BRDF Textures from Flash Images. Philipp Henzler, Valentin Deschaintre, Niloy J. Mitra, Tobias Ritschel, Arxiv 2021"
+
+- title: "Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition"
+  authors: 
+    - "Valentin Deschaintre"
+    - "Yiming Lin"
+    - "Abhijeet Ghosh"
+  abstract: "We present a novel method for efficient acquisition of shape and spatially varying reflectance of 3D objects using polarization cues. Unlike previous works that have exploited polarization to estimate material or object appearance under certain constraints (known shape or multiview acquisition), we lift such restrictions by coupling polarization imaging with deep learning to achieve high quality estimate of 3D object shape (surface normals and depth) and SVBRDF using single-view polarization imaging under frontal flash illumination. In addition to acquired polarization images, we provide our deep network with strong novel cues related to shape and reflectance, in the form of a normalized Stokes map and an estimate of diffuse color. We additionally describe modifications to network architecture and training loss which provide further qualitative improvements. We demonstrate our approach to achieve superior results compared to recent works employing deep learning in conjunction with flash illumination."
+  full_teaser: "http://wp.doc.ic.ac.uk/rgi/wp-content/uploads/sites/74/2021/03/teaser1-scaled.jpg"
+  square_teaser: "img/teaser4.jpg"
+  date: "2021-06"
+  paper_link: "http://wp.doc.ic.ac.uk/rgi/wp-content/uploads/sites/74/2021/05/deep_polar_cvpr_author_version.pdf"
+  youtube_link: "https://www.youtube.com/watch?v=QUTDlgF5ih0"
+  website_link: "https://wp.doc.ic.ac.uk/rgi/project/deep-polarization-3d-imaging/"
+  citation: "Deep polarization imaging for 3D shape and SVBRDF acquisition. Valentin Deschaintre, Yiming Lin, and Abhijeet Ghosh. Proc. of CVPR, June 2021. <b>(Patents Pending)</b>"
+
+
+- title: "Guided Fine-Tuning for Large-Scale Material Transfer"
+  authors: 
+    - "Valentin Deschaintre"
+    - "George Drettakis"
+    - "Adrien Bousseau"
+  abstract: "We present a method to transfer the appearance of one or a few exemplar SVBRDFs to a target image representing similar materials. Our solution is extremely simple: we fine-tune a deep appearance-capture network on the provided exemplars, such that it learns to extract similar SVBRDF values from the target image. We introduce two novel material capture and design workflows that demonstrate the strength of this simple approach. Our first workflow allows to produce plausible SVBRDFs of large-scale objects from only a few pictures. Specifically, users only need take a single picture of a large surface and a few close-up flash pictures of some of its details. We use existing methods to extract SVBRDF parameters from the close-ups, and our method to transfer these parameters to the entire surface, enabling the lightweight capture of surfaces several meters wide such as murals, floors and furniture. In our second workflow, we provide a powerful way for users to create large SVBRDFs from internet pictures by transferring the appearance of existing, pre-designed SVBRDFs. By selecting different exemplars, users can control the materials assigned to the target image, greatly enhancing the creative possibilities offered by deep appearance capture."
+  full_teaser: "https://team.inria.fr/graphdeco/files/2020/06/teaser_full.png"
+  square_teaser: "img/teaser3.jpg"
+  date: "2020-07"
+  paper_link: "https://www-sop.inria.fr/reves/Basilic/2020/DDB20/guided_acquisition_svbrdf.pdf"
+  presentation_link: "https://drive.google.com/file/d/1t5JHcEjAEA7VDPVGRtcND4ECUEVhlyK0/view?usp=sharing"
+  youtube_link: "https://www.youtube.com/watch?v=uzF7zdANOuk&t=42s"
+  website_link: "https://team.inria.fr/graphdeco/projects/large-scale-materials/"
+  citation: "Computer Graphics Forum (Eurographics Symposium on Rendering Conference Proceedings), Volume 39, Number 4 - jul 2020"
+ 
+ 
+- title: "Lightweight material acquisition using deep learning"
+  authors: 
+    - "Valentin Deschaintre"
+  abstract: "Whether it is used for entertainment or industrial design, computer graphics is ever more present in our everyday life. Yet, reproducing a real scene appearance in a virtual environment remains a challenging task, requiring long hours from trained artists. A good solution is the acquisition of geometries and materials directly from real world examples, but this often comes at the cost of complex hardware and calibration processes. In this thesis, we focus on lightweight material appearance capture to simplify and accelerate the acquisition process and solve industrial challenges such as result image resolution or calibration. Texture, highlights, and shading are some of many visual cues that allow humans to perceive material appearance in pictures. Designing algorithms able to leverage these cues to recover spatially-varying bi-directional reflectance distribution functions (SVBRDFs) from a few images has challenged computer graphics researchers for decades. We explore the use of deep learning to tackle lightweight appearance capture and make sense of these visual cues. Once trained, our networks are capable of recovering per-pixel normals, diffuse albedo, specular albedo and specular roughness from as little as one picture of a flat surface lit by the environment or a hand-held flash. We show how our method improves its prediction with the number of input pictures to reach high quality reconstructions with up to 10 images --- a sweet spot between existing single-image and complex multi-image approaches --- and allows to capture large scale, HD materials. We achieve this goal by introducing several innovations on training data acquisition and network design, bringing clear improvement over the state of the art for lightweight material capture. "
+  square_teaser: "img/ucaLogo.jpg"
+  date: "2019-11"
+  paper_link: "https://hal.archives-ouvertes.fr/tel-02418445/"
+  website_link: "https://hal.archives-ouvertes.fr/tel-02418445/"
+  citation: "Université Côté d'Azur, Inria, PhD Thesis, Nov 2019"
+  miscs:
+    - "My thesis was awarded the <a href = 'https://gdr-igrv.icube.unistra.fr/index.php/Prix_de_th%C3%A8se_du_GdR_IG-RV'>French Computer Graphics and Geometry Thesis award 2020</a>"
+    - "My thesis was awarded the <a href = 'https://fondation-uca.org/projets/bourses-excellence-academique-theses/'>UCA foundation Academic excellence thesis award 2020</a>"
+    - "A 5 minutes video describing my work and contributions is available here: <a href = 'https://www.youtube.com/watch?v=uNVxFNJrfEc&feature=youtu.be'>[english]</a><a href = 'https://www.youtube.com/watch?v=SEMtruiPirM&feature=youtu.be'>[french]</a>"
+
+- title: "Material acquisition using deep learning"
+  authors: 
+    - "Valentin Deschaintre"
+  abstract: " Texture, highlights, and shading are some of many visual cues that allow humans to perceive material appearance in pictures. Designing algorithms able to leverage these cues to recover spatiallyvarying bi-directional reflectance distribution functions (SVBRDFs) from a few images has challenged computer graphics researchers for decades. I explore the use of deep learning to tackle lightweight appearance capture and make sense of these visual cues. Our networks are capable of recovering per-pixel normals, diffuse albedo, specular albedo and specular roughness from as little as one picture of a flat surface lit by a hand-held flash. We propose a method which improves its prediction with the number of input pictures, and reaches high quality reconstructions with up to 10 images â€“ a sweet spot between existing single-image and complex multi-image approaches. We introduce several innovations on training data acquisition and network design, bringing clear improvement over the state of the art for lightweight material capture. "
+  square_teaser: "files/sigasia/resultOnlyMatrixLR.jpg"
+  date: "2019-11"
+  paper_link: "https://www-sop.inria.fr/reves/Basilic/2019/Des19/doctoralConsortium_Deschaintre.pdf"
+  presentation_link: "https://repo-sam.inria.fr/fungraph/deep_mat_doc_consortium/19_11_17_sigAsia_DocConsortium.pptx"
+  poster_link: "https://www-sop.inria.fr/reves/Basilic/2019/Des19/poster_sigAsia.pdf"
+  website_link: "https://www-sop.inria.fr/reves/Basilic/2019/Des19/"
+  citation: "Asia, Doctoral Consortium (Poster and Short Paper), Nov 2019"
+  
+- title: "Flexible SVBRDF Capture with a Multi-Image Deep Network"
+  authors: 
+    - "Valentin Deschaintre"
+    - "Miika Aittala"
+    - "Fredo Durand"
+    - "George Drettakis"
+    - "Adrien Bousseau"
+  abstract: " Empowered by deep learning, recent methods for material capture can estimate a spatially-varying reflectance from a single photograph. Such lightweight capture is in stark contrast with the tens or hundreds of pictures required by traditional optimization-based approaches. However, a single image is often simply not enough to observe the rich appearance of real-world materials. We present a deep-learning method capable of estimating material appearance from a variable number of uncalibrated and unordered pictures captured with a handheld camera and flash. Thanks to an order-independent fusing layer, this architecture extracts the most useful information from each picture, while benefiting from strong priors learned from data. The method can handle both view and light direction variation without calibration. We show how our method improves its prediction with the number of input pictures, and reaches high quality reconstructions with as little as 1 to 10 images -- a sweet spot between existing single-image and complex multi-image approaches "
+  full_teaser: "http://www-sop.inria.fr/reves/Basilic/2019/DADDB19/teaser_full.jpg"
+  square_teaser: "img/teaser2.jpg"
+  date: "2019-07"
+  paper_link: "https://www-sop.inria.fr/reves/Basilic/2019/DADDB19/Flexible_multi_inputs_svbrdf.pdf"
+  presentation_link: "https://repo-sam.inria.fr/fungraph/multi_image_materials/EGSR2019_Multi_Image_Final.pptx"
+  citation: "Computer Graphics Forum (Eurographics Symposium on Rendering Conference Proceedings), Volume 38, Number 4, page 13 - jul 2019"
+  
+- title: "Single-Image SVBRDF Capture with a Rendering-Aware Deep Network"
+  authors: 
+    - "Valentin Deschaintre"
+    - "Miika Aittala"
+    - "Fredo Durand"
+    - "George Drettakis"
+    - "Adrien Bousseau"
+  abstract: "Texture, highlights, and shading are some of many visual cues that allow humans to perceive material appearance in single pictures. Yet, recovering spatially-varying bi-directional reflectance distribution functions (SVBRDFs) from a single image based on such cues has challenged researchers in computer graphics for decades.
+We tackle lightweight appearance capture by training a deep neural network to automatically extract and make sense of these visual cues. Once trained, our network is capable of recovering per-pixel normal, diffuse albedo, specular albedo and specular roughness from a single picture of a flat surface lit by a hand-held flash. We achieve this goal by introducing several innovations on training data acquisition and network design.
+For training, we leverage a large dataset of artist-created, procedural SVBRDFs which we sample and render under multiple lighting directions. We further amplify the data by material mixing to cover a wide diversity of shading effects, which allows our network to work across many material classes. Motivated by the observation that distant regions of a material sample often offer complementary visual cues, we design a network that combines an encoder-decoder convolutional track for local feature extraction with a fully-connected track for global feature extraction and propagation.
+Many important material effects are view-dependent, and as such ambiguous when observed in a single image. We tackle this challenge by defining the loss as a differentiable SVBRDF similarity metric that compares the renderings of the predicted maps against renderings of the ground truth from several lighting and viewing directions. Combined together, these novel ingredients bring clear improvement over state of the art methods for single-shot capture of spatially varying BRDFs."
+  full_teaser: "https://team.inria.fr/graphdeco/files/2018/08/teaser_v0.png"
+  square_teaser: "https://valentin.deschaintre.fr/img/teaser.jpg"
+  date: "2018-07"
+  paper_link: "https://www-sop.inria.fr/reves/Basilic/2018/DADDB18/Deep%20Material%20Acquisition%20Authors_version.pdf"
+  presentation_link: "https://repo-sam.inria.fr/fungraph/deep-materials/18_08_15_siggraph_Deep_Materials_final.pptx"
+  website_link: "https://team.inria.fr/graphdeco/projects/deep-materials/"
+  citation: "ACM Transactions on Graphics (SIGGRAPH Conference Proceedings), Volume 37, Number 128, page 15 - aug 2018"
+  miscs:
+    - "<a href = 'https://www.youtube.com/watch?v=UkWnExEFADI'>2 Minutes paper video</a>"
+ 
