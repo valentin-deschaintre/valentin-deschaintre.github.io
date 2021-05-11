@@ -140,24 +140,35 @@ img#venue {
 }
 
 .sponsorImagePageGold {
-  max-height: 100px;
-  padding-bottom:10px
+  /* max-height: 100px; */
+  max-width: 200px;
+  max-height: 200px;
+  display: block;
+  float: left;
+  margin-right: 15px;
 }
 .sponsorImagePageSilver {
-  max-height: 60px;
-  padding-bottom:10px
+  /* max-height: 60px; */
+  max-width: 200px;
+  display: block;
+  float: left;
 }
 .sponsorImagePageBestPaper {
-  max-height: 80px;
-  padding-bottom:10px
+  /* max-height: 80px; */
+  max-width: 200px;
+  display: block;
+  float: left;
 }
 .sponsorImagePageBronze {
-  max-height: 40px;
-  padding-bottom:5px
-
+  /* max-height: 40px; */
+  max-width: 200px;
+  display: block;
+  float: left;
+  margin-right: 15px;
 }
 .individualSponsor{
   padding: 2em 0em;
+  clear: both;
 }
 .panel h4, .panel h3, .panel h2, .panel h1 {
   margin-top: 0px;

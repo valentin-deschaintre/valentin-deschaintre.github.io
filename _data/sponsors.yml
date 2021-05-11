@@ -1,5 +1,6 @@
 2021:
   show: true
+  num_columns: 1
 
   list:
   - name: Saarland University
@@ -22,8 +23,44 @@
     image: img/2020/academics/EG_logo.jpg
     level: institutional
 
+  - name: Unity
+    url: http://unity3d.com/
+    image: img/2021/sponsors/unity-masterbrand-black.png
+    image2: img/2021/sponsors/unity-masterbrand-black.png
+    level: gold
+    description: |
+      <b>Unity</b> is the creator of the world’s leading real-time 3D development platform, giving users the most powerful and accessible tools to create, operate, and monetize experiences for the real-time world.
+      Unity empowers anyone, regardless of skill level and industry, to create 3D visual content using world-class technology, operate using resources that maximize ease-of-use, and monetize, so that they can find success with their creations.
+      Made with Unity experiences reach nearly 3 billion devices worldwide and have been installed more than 29 billion times in the last 12 months.
+
+  - name: Huawei
+    url: http://www.huawei.com/
+    image: img/2021/sponsors/HW_POS_CMYK_Horizontal-300ppi.jpg
+    image2: img/2021/sponsors/HW_POS_CMYK_Horizontal-300ppi.jpg
+    level: gold
+    description: Founded in 1987, <b>Huawei</b> is a leading global provider of information and communications technology (ICT) infrastructure and smart devices. In Europe, Huawei has operated since 20 years and now employs over 13,000 people thereof approximately 2400 researchers. We have worked hard to deeply integrate into local communities to jointly promote academic research and industry development. Our vision and mission is to bring digital to every person, home and organization for a fully connected, intelligent world.
+
+  - name: Disney Research|Studios
+    url:
+    image: img/2021/sponsors/DRS_Logo.jpg
+    image2: img/2021/sponsors/DRS_Logo.jpg
+    level: bronze
+    description: >
+      <b>DisneyResearch|Studios</b> in Zurich, Switzerland, focuses on exploring the scientific frontiers in a variety of domains in service to the technical and creative filmmaking process. Our world-class research talent in visual computing, machine learning, and artificial intelligence shapes early-stage ideas into technological innovations that revolutionize the way we produce movies and create media content.
+      Our inventions are used in almost every Disney feature film production and have dazzled hundreds of millions of people in audiences worldwide. DisneyResearch|Studios is part of a wider innovation ecosystem operating in close partnership with our technology units at the Walt Disney Animation Studios, Pixar Animation Studios, Lucasfilm/ILM, Marvel Studios, and Walt Disney Pictures.
+      To complement our considerable research talent, DisneyResearch|Studios maintains a close academic partnership with ETH Zürich and collaborates with the best of academia and industry from all over the world. With such a strong academic and creative grounding, DisneyResearch|Studios is a lab like no other—with the unique mission of bringing the magic to life.
+
+  - name: Facebook Reality Labs Research
+    url: https://about.fb.com/realitylabs/
+    image: img/2021/sponsors/FRL_Research_Black_RGB.jpg
+    image2: img/2021/sponsors/FRL_Research_Black_RGB.jpg
+    level: gold
+    description: <b>Facebook Reality Labs Research</b> brings together a world-class team of researchers, developers, and engineers to build the future of connection within virtual and augmented reality. From AR glasses and VR headsets to brain computer interface and haptic interaction, we’re creating the next wave of technology just as previous generations have done for us with the potential of changing the world.
+
+
 2020:
   show: true
+  num_columns: 2
 
   list:
   - name: Activision

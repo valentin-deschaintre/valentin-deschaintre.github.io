@@ -16,6 +16,8 @@
 	{% endif %}
 {% endfor %}
 
+{% assign numColumns = site.data.sponsors[year].num_columns %}
+
 {% if hasConference==true or hasGold==true or hasSilver==true or hasBronze==true  %}{%assign displayPanel=true%}{% endif %}
 
 {% if displayPanel and site.data.sponsors[year].show %}
@@ -40,10 +42,10 @@
 							<tr>
 						{% endif %}
                         <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width: 100%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
-						{% if columnId == 1%}
+						{% if columnId == numColumns | minus: 1%}
 							</tr>
 						{% endif %}
-						{% assign columnId = columnId | plus: 1 | modulo: 2%}
+						{% assign columnId = columnId | plus: 1 | modulo: numColumns%}
                     {% endif %}
                 {% endfor %}
 				</table>
@@ -61,7 +63,7 @@
 						{% if columnId == 0%}
 							<tr>
 						{% endif %}
-                        <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width:{{sponsor.factorLogo}}%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
+                        <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width:100%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
 						{% if columnId == 1%}
 							</tr>
 						{% endif %}
@@ -82,7 +84,7 @@
 						{% if columnId == 0%}
 							<tr>
 						{% endif %}
-                        <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width:{{sponsor.factorLogo}}%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
+                        <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width:100%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
 						{% if columnId == 1%}
 							</tr>
 						{% endif %}
