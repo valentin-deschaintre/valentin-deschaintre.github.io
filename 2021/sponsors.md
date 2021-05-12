@@ -36,7 +36,7 @@ We thank all our Sponsors very much for their support to the Computer Graphics c
 	{% endfor %}
 </div>
 -->
-
+<!--
 <div class="row-xs-12 row-sm-6 line"></div>
 
 <div class="row-xs-12 sponsors" >
@@ -45,11 +45,12 @@ We thank all our Sponsors very much for their support to the Computer Graphics c
 			<div class="individualSponsor">
 				<a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" class="sponsorImagePageBestPaper" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a>
 				<span><b>Best paper award sponsor</b></span>
-				<!--<span>{{sponsor.description}}</span>-->
+				<span>{{sponsor.description}}</span>
 			</div>
 		{% endif %}
 	{% endfor %}
 </div>
+-->
 
 <div class="row-xs-12 row-sm-6 line"></div>
 
