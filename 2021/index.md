@@ -10,15 +10,8 @@ image:
 ## Eurographics Symposium on Rendering
 
 The 32nd edition of the Eurographics Symposium on Rendering will be held from June 29th to July 2nd, 2021.
-We plan a 4 day event that will be compatible with fully remote participation.
-
-We hope to also have an optional physical event, if conditions are favorable at that time.
-
-[Submit your great work now!](call-for-papers)
-
-**Abstract submission deadline:** April 9th
-
-**Paper submission deadline:** April 16th
+It will be a fully virtual event. Participation will be free of charge, thanks to our [generous sponsors](sponsors).
+Details on the program and format will be announced shortly.
 
 ## Workshop on Material Appearance Modeling
 
