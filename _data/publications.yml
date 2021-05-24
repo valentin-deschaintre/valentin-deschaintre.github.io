@@ -27,6 +27,8 @@ papers:
   youtube_link: "https://www.youtube.com/watch?v=QUTDlgF5ih0"
   website_link: "https://wp.doc.ic.ac.uk/rgi/project/deep-polarization-3d-imaging/"
   citation: "Deep polarization imaging for 3D shape and SVBRDF acquisition. Valentin Deschaintre, Yiming Lin, and Abhijeet Ghosh. Proc. of CVPR, June 2021. <b>(Patents Pending)</b>"
+  miscs:
+  - "Our paper was accepted as CVPR Oral."
 
 
 - title: "Guided Fine-Tuning for Large-Scale Material Transfer"
