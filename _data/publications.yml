@@ -83,6 +83,7 @@ papers:
   square_teaser: "img/teaser2.jpg"
   date: "2019-07"
   paper_link: "https://www-sop.inria.fr/reves/Basilic/2019/DADDB19/Flexible_multi_inputs_svbrdf.pdf"
+  website_link: "https://team.inria.fr/graphdeco/projects/multi-materials/"
   presentation_link: "https://repo-sam.inria.fr/fungraph/multi_image_materials/EGSR2019_Multi_Image_Final.pptx"
   citation: "Computer Graphics Forum (Eurographics Symposium on Rendering Conference Proceedings), Volume 38, Number 4, page 13 - jul 2019"
   
