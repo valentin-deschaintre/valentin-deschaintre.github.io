@@ -1,6 +1,6 @@
 2021:
   show: true
-  num_columns: 1
+  num_columns: 2
 
   list:
   - name: Saarland University
@@ -32,6 +32,14 @@
       <b>Unity</b> is the creator of the world’s leading real-time 3D development platform, giving users the most powerful and accessible tools to create, operate, and monetize experiences for the real-time world.
       Unity empowers anyone, regardless of skill level and industry, to create 3D visual content using world-class technology, operate using resources that maximize ease-of-use, and monetize, so that they can find success with their creations.
       Made with Unity experiences reach nearly 3 billion devices worldwide and have been installed more than 29 billion times in the last 12 months.
+
+  - name: Adobe Research
+    url: https://research.adobe.com/
+    image: img/2021/sponsors/Adobe_Corporate_Vertical_Lockup_Red_RGB.png
+    image2: img/2021/sponsors/Adobe_2.png
+    level: gold
+    description: |
+      <b>Adobe Research</b> is a team of world-class research scientists, engineers, artists, and designers that combines academic discovery with industry impact. Our collaborative projects advance the state of the art across a range of 12 research areas. Our scientists and engineers work with Adobe product teams to transform many of their early state technologies into features for Adobe products, reaching millions of screens across the globe.
 
   - name: Huawei
     url: http://www.huawei.com/
