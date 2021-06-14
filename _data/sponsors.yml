@@ -1,4 +1,9 @@
 2021:
+- name: Foundry
+  url: https://www.foundry.com/
+  image: img/2021/sponsors/logo-foundry-2x.png
+  level: silver
+
 - name: Vicon
   url: https://www.vicon.com/
   image: img/2021/sponsors/logo-vicon-2x.png
