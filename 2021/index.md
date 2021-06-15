@@ -13,8 +13,6 @@ The 32nd edition of the Eurographics Symposium on Rendering will be held from Ju
 It will be a fully virtual event. Participation will be free of charge, thanks to our [generous sponsors](sponsors).
 Details on the program and format will be announced shortly.
 
-## Workshop on Material Appearance Modeling -- [**Register now!**](https://tickets.kwt-uni-saarland.de/EGSR2021/)
+## Workshop on Material Appearance Modeling
 
-[MAM 2021, the 9th annual Workshop on Material Appearance Modeling](mam), will be held virtually (i.e. via electronic platforms rather than physically) on June 28th, 2021 just prior to EGSR 2021.
-
-**MAM submission deadline:** June 14th
+Due to the low number of submissions we are cancelling MAM 2021, which was to be held virtually. Meeting together in person for spontaneous discussions is the strength of the workshop, so this is not surprising as the end of online-only events is in sight. We will reassess holding the workshop next year when in-person meetings will be possible again.
