@@ -65,6 +65,12 @@
     level: gold
     description: <b>Facebook Reality Labs Research</b> brings together a world-class team of researchers, developers, and engineers to build the future of connection within virtual and augmented reality. From AR glasses and VR headsets to brain computer interface and haptic interaction, we’re creating the next wave of technology just as previous generations have done for us with the potential of changing the world.
 
+  - name: Autodesk
+    url: https://www.autodesk.com/
+    image: img/2020/sponsors/Autodesk.png
+    image2: img/2020/sponsors/Autodesk2.png
+    level: gold
+    description: <b>Autodesk</b> makes software for people who make things. If you’ve ever driven a high-performance car, admired a towering skyscraper, used a smartphone, or watched a great film, chances are you’ve experienced what millions of Autodesk customers are doing with our software.
 
 2020:
   show: true
