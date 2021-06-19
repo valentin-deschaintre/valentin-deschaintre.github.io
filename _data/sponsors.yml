@@ -19,6 +19,11 @@
   image: img/2021/sponsors/logo-camera-2x.png
   level: academic
 
+- name: CVSSP
+  url: https://www.surrey.ac.uk/centre-vision-speech-signal-processing
+  image: img/2021/sponsors/logo-cvssp.png
+  level: academic
+
 2020:
 - name: ACM SIGGRAPH
   url: https://www.siggraph.org/
