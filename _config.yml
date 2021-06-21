@@ -10,6 +10,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /:categories/:title/
 markdown: kramdown
 
+timezone: Europe/Berlin
+
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
@@ -33,6 +35,4 @@ theme: jekyll-theme-slate
 collections:
   session:
     output: true
-    permalink: /session/:path/
-    title: Session
     sort_by: session_id

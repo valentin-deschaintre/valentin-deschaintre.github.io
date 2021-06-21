@@ -35,23 +35,36 @@
 			<div class="session-content">
 
 				<h3 id="{{page.session_id}}" style="overflow: auto;"> <a href="{{page.permalink}}" ></a>{% if page.youtube_url%}<a href="{{page.youtube_url}}" ><img src="https://i.pinimg.com/originals/2d/2b/e2/2d2be2421911037d80f9921dc29d54c2.jpg" height="40px" width="65px" style="float: left;"></a>{% endif %}</h3>
-				<h4 class="time">{{page.start}}</h4>
+				<h4>{{ page.start | date: "%A, %d %B - %H:%M" }} Europe/Berlin (CEST)</h4>
 				<!--<h5>{{page.authors}}</h5>-->
 				<div class="session-talks" >
 					{% for talk in allTalks %}
 						{% if talk.session_id == page.session_id%}
 							<hr width="40%">
 							<div>
-								<h4 style="overflow: auto;"><span style="float: left; margin-top: 10px; margin-right: 10px;">{{talk.title}}</span> {% if page.rocket_chat_url%}<a href="{{page.rocket_chat_url}}" ><img src="https://cdn.worldvectorlogo.com/logos/rocket-chat-1.svg" height="20px" width="33px" style="float: left; margin-top: 10px;"></a>{% endif %}</h4>
+								<h4>{{talk.title}}</h4>
 								<h5>{{talk.authors}}</h5>
+								{% if talk.picture%}
+									<img src="{{talk.picture}}" style="float:left; margin-right: 10px" width="150" />
+								{% endif %}
+								{% if talk.bio%}
+									<div>
+										<h5>Bio</h5>
+										<p>{{talk.bio}}</p>
+									</div>
+								{% endif %}
 								{% if talk.abstract%}
-
-								 <button type="button" class="abstract">Abstract</button>
-								<div class="abstract_content">
-								  <p>{{talk.abstract}}</p>
-								</div>
+									<div>
+										<h5>Abstract</h5>
+										<p>{{talk.abstract}}</p>
+									</div>
 								{% endif %}
 							</div>
+
+							{% if page.picture != null %}
+							{% endif %}
+
+
 						{% endif %}
 
 					{% endfor %}

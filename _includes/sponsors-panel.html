@@ -64,7 +64,7 @@
 							<tr>
 						{% endif %}
                         <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width:100%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
-						{% if columnId == 1%}
+						{% if columnId == numColumns | minus: 1%}
 							</tr>
 						{% endif %}
 						{% assign columnId = columnId | plus: 1 | modulo: 2%}
@@ -85,7 +85,7 @@
 							<tr>
 						{% endif %}
                         <td><a href="{{sponsor.url}}" target="_blank"><img src="{{site.url}}/{{sponsor.image}}" style="width:100%; display:block;" alt="{{sponsor.name}} logo" title="{{sponsor.name}}"></a></td>
-						{% if columnId == 1%}
+						{% if columnId == numColumns | minus: 1%}
 							</tr>
 						{% endif %}
 						{% assign columnId = columnId | plus: 1 | modulo: 2%}
