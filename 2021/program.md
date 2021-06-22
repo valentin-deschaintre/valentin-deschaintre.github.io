@@ -20,7 +20,7 @@ If you are a registered participant, you can join the ohyay workspace via [this 
     @media screen and (min-width: 768px) {
         .schedule {
             display: grid;
-            grid-template-rows: repeat(51, 1fr); /* 1 row = 5min slot between 15:00 and 19:00 plus header*/
+            grid-template-rows: repeat(57, 1fr); /* 1 row = 5min slot between 15:00 and 19:00 plus header*/
             grid-template-columns: repeat(4, 1fr); /* 1 col for each of 4 days */
         }
         .session {
