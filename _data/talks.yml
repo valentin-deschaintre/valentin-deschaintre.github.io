@@ -186,7 +186,7 @@ We conduct three perceptual studies, using 13 distinct panorama videos and two V
   picture: /img/2021/papers/1026.jpg
   session_id: 14
 
-- title: Fireflies removing in Monte Carlo rendering with adaptive Median of means
+- title: Firefly removal in Monte Carlo rendering with adaptive Median of meaNs
   authors: Buisine, Jérôme; Delepoulle, Samuel; Renaud, Christophe
   abstract: "Estimating the rendering equation using Monte Carlo methods produces photorealistic images by evaluating a large number of samples of the rendering equation per pixel. The final value for each pixel is then calculated as the average of the contribution of each sample. The mean is a good estimator but not necessarily robust which explains the appearance of some visual artifacts such as fireflies, due to an overestimation of the value of the mean. The MoN (Median of meaNs) is a more robust estimator than the mean which allows to reduce the impact of outliers which are the cause of these fireflies. However, this method converges more slowly than the mean, which reduces its interest for pixels whose distribution does not contain outliers. To overcome this problem we propose an extension of the MoN based on the Gini coefficient in order to exploit the best of the two estimators during the computation. This approach is simple to implement whatever the integrator and does not require complex parameterization. Finally, it presents a reduced computational overhead and leads to the disappearance of fireflies."
   picture: /img/2021/papers/1046.jpg
