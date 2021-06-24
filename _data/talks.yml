@@ -163,7 +163,7 @@ We conduct three perceptual studies, using 13 distinct panorama videos and two V
   session_id: 12
 
 - title: Moving Basis Decomposition for Precomputed Light Transport
-  authors: Silvennoinen, Ari
+  authors: Silvennoinen, Ari; Sloan, Peter-Pike
   abstract: "We study the problem of efficient representation of potentially high-dimensional, spatially coherent signals in the context of precomputed light transport. We present a basis decomposition framework, Moving Basis Decomposition (MBD), that generalizes many existing basis expansion methods and enables high-performance, seamless reconstruction of compressed data. We develop an algorithm for solving large-scale MBD problems. We evaluate MBD against state-of-the-art in a series of controlled experiments and describe a real-world application, where MBD serves as the backbone of a scalable global illumination system powering multiple, current and upcoming 60Hz AAA-titles running on a wide range of hardware platforms. "
   picture: /img/2021/papers/1040.jpg
   session_id: 12
