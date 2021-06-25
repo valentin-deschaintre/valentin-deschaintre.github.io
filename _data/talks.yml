@@ -138,9 +138,9 @@ We conduct three perceptual studies, using 13 distinct panorama videos and two V
   picture: /img/2021/papers/1020.jpg
   session_id: 9
 
-- title: Analytic Sampling of Sky Models
+- title: Sampling Clear Sky Models using Truncated Gaussian Mixtures
   authors: Vitsas, Nick; Vardis, Konstantinos; Papaioannou, Georgios
-  abstract: "Parametric sky models hold the property of a simple formula that can rapidly and efficiently generate plausible, natural radiance maps of the sky by taking into account expensive and hard to simulate atmospheric phenomena. In this work, we show how such models can be complemented by an equally simple and elegant analytic continuous probability density function (PDF) that provides a very good approximation to the radiance-based distribution of the sky. We describe a fitting process that is used to properly parameterise truncated Gaussian mixture models, that allow for exact, constant-time and minimal-memory sampling and evaluation of this PDF, without rejection sampling, which is very important for practical applications in offline and real-time rendering. We present experiments in a standard importance sampling framework that showcase variance reduction approaching that of an expensive inversion sampling method using Summed Area Tables."
+  abstract: "Parametric clear sky models are often represented by simple analytic expressions that can efficiently generate plausible, natural radiance maps of the sky, taking into account expensive and hard to simulate atmospheric phenomena. In this work, we show how such models can be complemented by an equally simple, elegant and generic analytic continuous probability density function (PDF) that provides a very good approximation to the radiance-based distribution of the sky. We describe a fitting process that is used to properly parameterise a truncated Gaussian mixture model, which allows for exact, constant-time and minimal-memory sampling and evaluation of this PDF, without rejection sampling, an important property for practical applications in offline and real-time rendering. We present experiments in a standard importance sampling framework that showcase variance reduction approaching that of a more expensive inversion sampling method using Summed Area Tables."
   picture: /img/2021/papers/1003.jpg
   session_id: 10
 
