@@ -80,7 +80,7 @@ All times are in your local time zone.
                 grid-row: {{ startMins | divided_by: 5 | plus: 4 }} / span {{ durationMins | divided_by: 5 }};
                 grid-column: {{startDays | plus: 1}};"
             onClick="window.location = '{{ session.url }}';">
-            <span class="time-slot">{{ session.start | date: "%Y-%m-%dT%H:%M" }}</span>
+            <span class="time-slot">{{ session.start | date: "%Y-%m-%dT%H:%M+02:00" }}</span>
             <h4 class="session-title">{{ session.title }}</h4>
             {% if session.is_special %}
             {% else %}
