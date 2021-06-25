@@ -12,6 +12,8 @@ year: 2021
 
 The conference takes place on ohyay, where participants can watch the talks and ask questions either in writing or via video chat. The main event will also be live streamed and recorded on YouTube for those who cannot attend the presentations live.
 
+All times are in your local time zone.
+
 <!-- If you are a registered participant, you can join the ohyay workspace via [this link](https://ohyay.co/s/egsr2021).
 **Note: not everyone has been granted access yet. If the link does not work for you, please be patient.**
 **Important:** Make sure that you use the **same email address** on ohyay that you used during registration. -->
@@ -78,7 +80,7 @@ The conference takes place on ohyay, where participants can watch the talks and 
                 grid-row: {{ startMins | divided_by: 5 | plus: 4 }} / span {{ durationMins | divided_by: 5 }};
                 grid-column: {{startDays | plus: 1}};"
             onClick="window.location = '{{ session.url }}';">
-            <span class="time-slot">{{ session.start | date: "%H:%M" }} Europe/Berlin (CEST)</span>
+            <span class="time-slot">{{ session.start | date: "%Y-%m-%dT%H:%M" }}</span>
             <h4 class="session-title">{{ session.title }}</h4>
             {% if session.is_special %}
             {% else %}
@@ -88,3 +90,11 @@ The conference takes place on ohyay, where participants can watch the talks and 
     {% endif %}
 {% endfor %}
 </div>
+
+<script>
+    var times = document.getElementsByClassName("time-slot");
+    for (var i = 0, len = times.length | 0; i < len; i++) {
+        var date = new Date(times[i].innerHTML);
+        times[i].innerHTML = date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', timeZoneName: 'short' });
+    }
+</script>
