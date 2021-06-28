@@ -35,7 +35,8 @@
 			<div class="session-content">
 
 				<h3 id="{{page.session_id}}" style="overflow: auto;"> <a href="{{page.permalink}}" ></a>{% if page.youtube_url%}<a href="{{page.youtube_url}}" ><img src="https://i.pinimg.com/originals/2d/2b/e2/2d2be2421911037d80f9921dc29d54c2.jpg" height="40px" width="65px" style="float: left;"></a>{% endif %}</h3>
-				<h4 class="time-slot">{{ page.start | date: "%Y-%m-%dT%H:%M+02:00" }}</h4>
+				<h4>Starts: <span class="time-slot">{{ page.start | date: "%Y-%m-%dT%H:%M+02:00" }}</span></h4>
+				<h4>Ends: <span class="time-slot">{{ page.end | date: "%Y-%m-%dT%H:%M+02:00" }}</span></h4>
 				<!--<h5>{{page.authors}}</h5>-->
 				<div class="session-talks" >
 					{% for talk in allTalks %}
