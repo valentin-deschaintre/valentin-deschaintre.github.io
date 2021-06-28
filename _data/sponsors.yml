@@ -72,6 +72,11 @@
     level: gold
     description: <b>Autodesk</b> makes software for people who make things. If you’ve ever driven a high-performance car, admired a towering skyscraper, used a smartphone, or watched a great film, chances are you’ve experienced what millions of Autodesk customers are doing with our software.
 
+  - name: NVIDIA
+    url: https://www.nvidia.com
+    image: img/2020/sponsors/logo_nvidia.png
+    level: paperAward
+
 2020:
   show: true
   num_columns: 2
