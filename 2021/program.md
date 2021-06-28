@@ -12,6 +12,14 @@ year: 2021
 
 The conference takes place on ohyay, where participants can watch the talks and ask questions either in writing or via video chat. The main event will also be live streamed and recorded on YouTube for those who cannot attend the presentations live.
 
+Registered participants can access the ohyay space: [https://ohyay.co/s/egsr2021](https://ohyay.co/s/egsr2021)
+
+Live streams of each day are available via the following YouTube links:
+1. [https://youtu.be/u9HqKGqvJhQ](https://youtu.be/u9HqKGqvJhQ)
+2. [https://youtu.be/TvWkwDYtBP4](https://youtu.be/TvWkwDYtBP4)
+3. [https://youtu.be/eIvTXdTN2MQ](https://youtu.be/eIvTXdTN2MQ)
+4. [https://youtu.be/WUBf30dzk3Q](https://youtu.be/WUBf30dzk3Q)
+
 All times are in your local time zone.
 
 <!-- If you are a registered participant, you can join the ohyay workspace via [this link](https://ohyay.co/s/egsr2021).
@@ -82,10 +90,7 @@ All times are in your local time zone.
             onClick="window.location = '{{ session.url }}';">
             <span class="time-slot">{{ session.start | date: "%Y-%m-%dT%H:%M+02:00" }}</span>
             <h4 class="session-title">{{ session.title }}</h4>
-            {% if session.is_special %}
-            {% else %}
-                <span class="session-chair">Session Chair: {{ session.chair }}</span>
-            {% endif %}
+            <span class="session-chair">{{ session.authors }}</span>
         </div>
     {% endif %}
 {% endfor %}

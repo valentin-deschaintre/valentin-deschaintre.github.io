@@ -1,7 +1,7 @@
 ---
 layout: 2021/egsr-talks
 title: "Keynote: Learning to See Stuff"
-authors: "<a href='https://www.allpsych.uni-giessen.de/roland/'>Roland Fleming</a>"
+authors: "Roland Fleming"
 start: "2021-07-01 16:00:00 CEST"
 end: "2021-07-01 17:00:00 CEST"
 session_id: 11
