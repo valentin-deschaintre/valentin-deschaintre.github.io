@@ -22,6 +22,8 @@ Live streams of each day are available via the following YouTube links:
 
 All times are in your local time zone.
 
+The papers are available in the EG digital library: [CGF Track](https://diglib.eg.org/handle/10.2312/2633074), [Symposium Track](https://diglib.eg.org/handle/10.2312/2633075).
+
 <!-- If you are a registered participant, you can join the ohyay workspace via [this link](https://ohyay.co/s/egsr2021).
 **Note: not everyone has been granted access yet. If the link does not work for you, please be patient.**
 **Important:** Make sure that you use the **same email address** on ohyay that you used during registration. -->
