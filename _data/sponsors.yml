@@ -1,4 +1,9 @@
 2021:
+- name: Autodesk
+  url: https://www.autodesk.com/
+  image: img/2021/sponsors/logo-autodesk-2x.png
+  level: gold
+
 - name: NVIDIA
   url: https://www.nvidia.com/
   image: img/2021/sponsors/logo-nvidia-2x.png
