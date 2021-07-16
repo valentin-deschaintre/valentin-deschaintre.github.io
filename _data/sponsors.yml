@@ -1,4 +1,9 @@
 2021:
+- name: YouTube
+  url: https://www.youtube.com/
+  image: img/2021/sponsors/logo-youtube.png
+  level: gold
+
 - name: Autodesk
   url: https://www.autodesk.com/
   image: img/2021/sponsors/logo-autodesk-2x.png
