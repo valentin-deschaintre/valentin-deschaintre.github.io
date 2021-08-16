@@ -82,7 +82,7 @@ year: 2021
             <h4 class="panel-title">Conference Secretary</h4>
         </div>
         <div class="panel-body">
-            <h4>Melissa Green<br><small>University of York, UK</small></h4>
+            <h4>Alex King<br><small>University of York, UK</small></h4>
         </div>
     </div>
 </div> 
