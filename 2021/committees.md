@@ -60,7 +60,7 @@ year: 2021
             <h4 class="panel-title">Sponsorship Chair</h4>
         </div>
         <div class="panel-body">
-            <h4><a href="https://eggerbernhard.ch/" target="_blank">Bernhard Egger</a><br><small>MIT, USA</small></h4>
+            <h4><a href="https://eggerbernhard.ch/" target="_blank">Bernhard Egger</a><br><small>University of Erlangen-Nürnberg, Germany</small></h4>
         </div>
     </div>
 </div>
@@ -108,25 +108,48 @@ year: 2021
         </div>
         <div class="panel-body">
             <div class="col-4 col-sm-4 col-lg-4">
-				<h4>To be announced</h4>
-<!--                <h4>Dalijit Singh Dhillon<br><small>Clemson University</small></h4>
-                <h4>Dan Casas<br><small>Universidad Rey Juan Carlos</small></h4>
-                <h4>Erik Reinhard<br><small>Technicolor</small></h4>
-                <h4>Hansung Kim<br><small>University Of Southampton</small></h4>
-                <h4>Marco Volino<br><small>University of Surrey</small></h4>-->
-            </div>
-<!--            <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Nadejda Roubtsova<br><small>University of Bath</small></h4>
+                <h4>Thabo Beeler<br><small>Disney Research | Studios</small></h4>
+                <h4>Akin Caliskan<br><small>University of Surrey</small></h4>
                 <h4>Neill Campbell<br><small>University of Bath</small></h4>
+                <h4>Dan Casas<br><small>Universidad Rey Juan Carlos</small></h4>
+                <h4>Robert Dawes<br><small>BBC Research</small></h4>
+                <h4>Daljit Singh Dhillon<br><small>Clemson University</small></h4>
                 <h4>Peter Eisert<br><small>Fraunhofer Heinrich Hertz Institute</small></h4>
-                <h4>Rafal Mantiuk<br><small>University of Cambridge</small></h4>
+                <h4>Graham Fyffe<br><small>Apple</small></h4>
+                <h4>Andrew Gibb<br><small>BBC</small></h4>
+                <h4>Andrew Gilbert<br><small>University of Surrey</small></h4>
+                <h4>Mashhuda Glencross<br><small>Pismo Software</small></h4>
+                <h4>Giuseppe Guarnera<br><small>University of York</small></h4>
+                <h4>Tom Haines<br><small>University of Bath</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Robert Dawes<br><small>BBC R&D</small></h4>
-                <h4>Thabo Beeler<br><small>Google</small></h4>
-                <h4>Tom Haines<br><small>University of Bath</small></h4>
+                <h4>Oliver James<br><small>Double Negative</small></h4>
+                <h4>Andrew Jones<br><small>USC Institute for Creative Technologies</small></h4>
+                <h4>Hansung Kim<br><small>University of Southampton</small></h4>
+                <h4>Taku Komura<br><small>University of Edinburgh</small></h4>
+                <h4>Jean-Francois Lalonde<br><small>Université Laval</small></h4>
+                <h4>Celine Loscos<br><small>URCA</small></h4>
+                <h4>Wan-Chun Ma<br><small>Google VR</small></h4>
+                <h4>Rafal Mantiuk<br><small>University of Cambridge</small></h4>
+                <h4>Koki Nagano<br><small>NVIDIA</small></h4>
+                <h4>Alexandros Neophytou<br><small>Microsoft</small></h4>
+                <h4>Matthias Niessner<br><small>Technical University of Munich</small></h4>
+                <h4>Marco Pesavento<br><small>University of Surrey</small></h4>
+            </div>
+            <div class="col-4 col-sm-4 col-lg-4">
+                <h4>Erik Reinhard<br><small>Technicolor</small></h4>
+                <h4>Taehyun Rhee<br><small>Victoria University of Wellington</small></h4>
+                <h4>Dan Ring<br><small>Foundry</small></h4>
+                <h4>Tobias Ritschel<br><small>UCL</small></h4>
+                <h4>Jeremy Riviere<br><small>Disney Research</small></h4>
+                <h4>Nadejda Roubtsova<br><small>University of Bath</small></h4>
+                <h4>Florian Schweiger<br><small>BBC</small></h4>
                 <h4>William Smith<br><small>University of York</small></h4>
-            </div>-->
+                <h4>Kartic Subr<br><small>University of Edinburgh</small></h4>
+                <h4>Graham Thomas<br><small>BBC</small></h4>
+                <h4>Zhidong Xiao<br><small>Bournemouth University</small></h4>
+                <h4>Michael Zollhoefer<br><small>Facebook</small></h4>
+            </div>
         </div>
     </div>
 </div>
