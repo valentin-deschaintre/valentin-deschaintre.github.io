@@ -5,7 +5,7 @@ excerpt: "Submit your work to CVMP 2021"
 year: 2021
 ---
 
-For over a decade, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries: film, broadcast and games. The conference brings together expertise in video processing, computer vision, computer graphics, animation and physical simulation<!-- sponsored by ACM SIGGRAPH-->. It provides a forum for presentation of the latest research and application advances, combined with keynote and invited talks on state-of-the-art industry practice. CVMP regularly attracts around 140 attendees approximately 50:50 from academia and the creative industries.
+For over a decade, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries: film, broadcast and games. The conference brings together expertise in video processing, computer vision, computer graphics, animation and physical simulation sponsored by ACM SIGGRAPH. It provides a forum for presentation of the latest research and application advances, combined with keynote and invited talks on state-of-the-art industry practice. CVMP regularly attracts around 140 attendees approximately 50:50 from academia and the creative industries.
 
 ---
 
@@ -34,7 +34,7 @@ We encourage participation from a diverse range of backgrounds including scienti
 
 
 #### Full Papers
-We invite submissions of regular, technical papers presenting novel research or applications related to any aspect of media production, including computer vision, graphics and machine learning research with application in this area. We particularly encourage submission of early-stage doctoral work. Submitted papers can be any length up to 10 pages and will be subject to double-blind peer review. Accepted papers will be presented in either oral or poster form<!--, and will appear in the ACM Digital Library-->. Browse past CVMP papers in the [ACM Digital Library](https://dl.acm.org/conference/cvmp).
+We invite submissions of regular, technical papers presenting novel research or applications related to any aspect of media production, including computer vision, graphics and machine learning research with application in this area. We particularly encourage submission of early-stage doctoral work. Submitted papers can be any length up to 10 pages and will be subject to double-blind peer review. Accepted papers will be presented in either oral or poster form, and will appear in the ACM Digital Library. Browse past CVMP papers in the [ACM Digital Library](https://dl.acm.org/conference/cvmp).
 
 
 #### Short Papers and Technical Abstracts

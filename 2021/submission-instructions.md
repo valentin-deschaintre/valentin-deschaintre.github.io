@@ -26,7 +26,7 @@ To set up the LaTeX template for anonymous submission, assign the “**sigconf**
 \documentclass[sigconf,review,anonymous]{acmart}
 ```
 
-<!--Additionally, please set the conference details in the template as follows:
+Additionally, please set the conference details in the template as follows:
 
 ```
 %Conference
@@ -35,7 +35,7 @@ Visual Media Production}{Dec.\ 6--7}{London, UK}
 \acmYear{2021}
 \copyrightyear{2021}
 \setcopyright{none}
-```-->
+```
 
 Full papers should be of no more than 10 pages.
 
@@ -48,3 +48,7 @@ Authors of short papers should prepare their **one-page paper** using the LaTeX 
 Authors of demos should use the same format as short papers, describing their demo and its novelty.
 
 Submissions for both short papers and demos are single-blind and do not need to be anonymised.
+
+### Publications Policies
+
+As a published ACM author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies), including ACM's new [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).
