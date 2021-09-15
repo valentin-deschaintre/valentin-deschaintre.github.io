@@ -1,5 +1,22 @@
 papers:
 
+
+- title: "An Inverse Procedural Modeling Pipeline for SVBRDF Maps"
+  authors: 
+    - "Yiwei Hu"
+    - "Chengan He"
+    - "Valentin Deschaintre"
+    - "Julie Dorsey"
+    - "Holly Rushmeier"
+  abstract: "Procedural modeling is now the de facto standard of material modeling in industry. Procedural models can be edited and are easily extended, unlike pixel-based representations of captured materials. In this paper, we present a semi-automatic pipeline for general material proceduralization. Given Spatially-Varying Bidirectional Reflectance Distribution Functions (SVBRDFs) represented as sets of pixel maps, our pipeline decomposes them into a tree of sub-materials whose spatial distributions are encoded by their associated mask maps. This semi-automatic decomposition of material maps progresses hierarchically, driven by our new spectrum-aware material matting and instance-based decomposition methods. Each decomposed sub-material is proceduralized by a novel multi-layer noise model to capture local variations at different scales. Spatial distributions of these sub-materials are modeled either by a by-example inverse synthesis method recovering Point Process Texture Basis Functions (PPTBF) or via random sampling. To reconstruct procedural material maps, we propose a differentiable rendering-based optimization that recomposes all generated procedures together to maximize the similarity between our procedural models and the input material pixel maps. We evaluate our pipeline on a variety of synthetic and real materials. We demonstrate our method's capacity to process a wide range of material types, eliminating the need for artist designed material graphs required in previous work. As fully procedural models, our results expand to arbitrary resolution and enable high level user control of appearance."
+  full_teaser: "img/teaser_proc_21.png"
+  square_teaser: "img/teaser_proc_21.png"
+  date: "2021-09"
+  paper_link: "https://arxiv.org/pdf/2109.06395.pdf"
+  website_link: "https://arxiv.org/abs/2109.06395/"
+  citation: "An Inverse Procedural Modeling Pipeline for SVBRDF Maps. Yiwei Hu, Chengan He, Valentin Deschaintre, Julie Dorsey, Holly Rushmeier, Arxiv"
+
+
 - title: "Generative Modelling of BRDF Textures from Flash Images"
   authors: 
     - "Philipp Henzler"
@@ -9,7 +26,7 @@ papers:
   abstract: "We present a novel method for efficient acquisition of shape and spatially varying reflectance of 3D objects using polarization cues. Unlike previous works that have exploited polarization to estimate material or object appearance under certain constraints (known shape or multiview acquisition), we lift such restrictions by coupling polarization imaging with deep learning to achieve high quality estimate of 3D object shape (surface normals and depth) and SVBRDF using single-view polarization imaging under frontal flash illumination. In addition to acquired polarization images, we provide our deep network with strong novel cues related to shape and reflectance, in the form of a normalized Stokes map and an estimate of diffuse color. We additionally describe modifications to network architecture and training loss which provide further qualitative improvements. We demonstrate our approach to achieve superior results compared to recent works employing deep learning in conjunction with flash illumination."
   full_teaser: "https://henzler.github.io/publication/neuralmaterial/teaser_hub0e1185201b4ddcc4191db33e82aca2a_3252553_720x0_resize_q90_lanczos.jpg"
   square_teaser: "img/teaser_stoch_brdf.png"
-  date: "2021"
+  date: "2021-08"
   paper_link: "https://arxiv.org/pdf/2102.11861.pdf"
   website_link: "https://henzler.github.io/publication/neuralmaterial/"
   citation: "Generative Modelling of BRDF Textures from Flash Images. Philipp Henzler, Valentin Deschaintre, Niloy J. Mitra, Tobias Ritschel, ACM Trans Graph (Proc. SIGGRAPH Asia 2021)"
