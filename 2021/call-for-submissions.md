@@ -20,9 +20,9 @@ We encourage participation from a diverse range of backgrounds including scienti
 <div class="panel-body">
 
 | __Full Papers deadline:__ | ~~16 July 2021~~ ~~30 July 2021~~ <span style="color:red">13 August 2021 (final extension)</span> |
-| __Industry Talks deadline:__ | 17 September 2021 |
-| __Short Papers deadline:__ | 17 September 2021 |
-| __Demos deadline:__ | 17 September 2021 |
+| __Industry Talks deadline:__ | ~~17 September 2021~~ <span style="color:red">01 October 2021</span> |
+| __Short Papers deadline:__ | ~~17 September 2021~~ <span style="color:red">01 October 2021</span> |
+| __Demos deadline:__ | ~~17 September 2021~~ <span style="color:red">01 October 2021</span> |
 
 *All deadlines are 23:59 Pacific Time.*
 
