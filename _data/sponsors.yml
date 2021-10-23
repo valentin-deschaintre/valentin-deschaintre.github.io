@@ -19,6 +19,11 @@
   image: img/2021/sponsors/logo-nvidia-2x.png
   level: gold
 
+- name: Adobe
+  url: https://www.adobe.com/
+  image: img/2021/sponsors/logo-adobe.png
+  level: silver
+
 - name: Foundry
   url: https://www.foundry.com/
   image: img/2021/sponsors/logo-foundry-2x.png
