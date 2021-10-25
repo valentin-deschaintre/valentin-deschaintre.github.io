@@ -108,11 +108,11 @@ In previous years, CVMP has led to further collaborative work such as Funded Pro
 
 ##### Accessible
 
-The BFI provides an accessible forum for the European Media Industry and is a great place to meet your peers and to strengthen current partnerships. We bring the high calibre speakers from around the world, to the centre of London.
+The Knowledge Centre at the British Library provides an accessible forum for the European Media Industry and is a great place to meet your peers and to strengthen current partnerships. We bring the high calibre speakers from around the world, to the centre of London.
 
 
 ##### Friendly
 
 The drinks evening held on the first day is attended by both speakers and attendees and is an ideal opportunity to discuss topics raised in the conference and to brainstorm with like-minded people.
 
-<img src="{{site.url}}/{{site.baseurl}}/img/cvmp/cvmp-theatre.jpg" class="img-thumbnail">
+<img src="{{site.url}}/{{site.baseurl}}/img/cvmp/cvmp-knowledge-centre-theatre.jpg" class="img-thumbnail">
