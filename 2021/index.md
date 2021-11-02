@@ -18,13 +18,7 @@ CVMP provides a European forum for presentation of the latest research and appli
 
 In this 18<sup>th</sup> edition of the conference, we are proud to be officially affiliated to and sponsored by [ACM SIGGRAPH](https://www.siggraph.org).
 
-### COVID-19 ###
-
-We plan to organise CVMP as an in-person conference in London. We will introduce a range of safety measures that all attendees will be required to follow to minimise the risk of COVID-19 transmission. Those measures will be announced nearer the date of the conference.
-
-We encourage all speakers and presenters to attend in-person, but we will make special arrangements for those speakers who cannot travel because of COVID-19 risks or restrictions.
-
-In case it becomes impossible to organize a physical conference, the conference may need to move to a virtual platform.
+{% include_relative covid-19.md %}
 
 <!-- featured images -->
 <figure class="top3" >
