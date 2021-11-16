@@ -1,5 +1,5 @@
 ---
-layout: 2021/egsr-default
+layout: egsr-default
 title: "EGSR 2022"
 year: 2022
 image:
