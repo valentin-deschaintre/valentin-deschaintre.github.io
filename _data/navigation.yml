@@ -31,3 +31,7 @@
 #   url: 2021/mam
 - title: Registration
   url: 2021/register
+
+2022:
+  - title: Program
+  url: 2022/program
