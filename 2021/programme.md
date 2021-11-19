@@ -64,7 +64,7 @@ year: 2021
 				<td>14:30</td>
 				<td><b>Industry Special Session on Digital Humans</b><br/>
 					<ul>
-						<li>Volumetric video at the intersection of visual effects and virtual production<br/><i>Juraj Tomori (Dimension Studios), Charles Dupont (Dimension Studios), George Ash (Dimension Studios), Mike Pelton (Dimension Studios)</i></li>
+						<li>Volumetric video at the intersection of visual effects and virtual production<br/><i>Juraj Tomori (dimension), Charles Dupont (dimension), George Ash (dimension), Mike Pelton (dimension)</i></li>
 						<li>High-Performance Multi-Camera Systems for Volumetric Capture and 4D Face/Body Scanning<br/><i>Andrew Searle (IO Industries Inc)</i></li>
 						<li>To Be Announced<br/><i>Lukas Lamprecht (Renderpeople)</i></li>						
 					</ul>
