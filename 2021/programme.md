@@ -28,7 +28,7 @@ year: 2021
 						<li>Semantic-driven Colorization<br/><i>Man M. Ho (Hosei University), Lu Zhang (INSA Rennes), Alexander Raake (TU Ilmenau), Jinjia Zhou (Hosei University)</i></li>
 						<li>Arnold 7 update<br/><i>Frederic Servant (Autodesk)</i></li>
 						<li>Photometric Stereo with Area Lights for Lambertian Surfaces<br/><i>Jiangbin Gan (University of Marburg), Thorsten Thormählen (University of Marburg)</i></li>
-						<li>Material acquisition and editing<br/><i>Valentin Deschaintre (Adobe)</i></li>
+						<li>Material acquisition and editing<br/><i>Valentin Deschaintre (Adobe Research)</i></li>
 					</ul>
 				</td>
 			</tr>
