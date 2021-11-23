@@ -48,8 +48,8 @@ year: 2021
             <h4 class="panel-title">Industry Chairs</h4>
         </div>
         <div class="panel-body">
+            <h4><a href="https://www.duygu-ceylan.com/" target="_blank">Duygu Ceylan</a><br><small>Adobe Research, UK</small></h4>
             <h4><a href="https://ilkedemir.weebly.com/" target="_blank">Ilke Demir</a><br><small>Intel Corporation, USA</small></h4>
-            <h4><a href="https://www.duygu-ceylan.com/" target="_blank">Duygu Ceylan</a><br><small>Adobe Research, USA</small></h4>
         </div>
     </div>
 </div>
@@ -124,7 +124,7 @@ year: 2021
                 <h4>Marco Pesavento<br><small>University of Surrey</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Erik Reinhard<br><small>Technicolor</small></h4>
+                <h4>Erik Reinhard<br><small>InterDigital</small></h4>
                 <h4>Nadejda Roubtsova<br><small>University of Bath</small></h4>
                 <h4>William Smith<br><small>University of York</small></h4>
                 <h4>Kartic Subr<br><small>University of Edinburgh</small></h4>
@@ -142,16 +142,19 @@ year: 2021
         </div>
         <div class="panel-body">
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Jeff Clifford<br><small>Wavecrest, UK</small></h4>
-                <h4>John Collomosse<br><small>University of Surrey, UK</small></h4>
+                <h4>Neill Campbell<br><small>University of Bath</small></h4>
+                <h4>Jeff Clifford<br><small>Wavecrest</small></h4>
+                <h4>John Collomosse<br><small>University of Surrey</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Oliver Grau<br><small>Intel, Germany</small></h4>
-                <h4>Peter Hall<br><small>University of Bath, UK</small></h4>
+                <h4>Abhijeet Ghosh<br><small>Imperial College London</small></h4>
+                <h4>Oliver Grau<br><small>Intel</small></h4>
+                <h4>Peter Hall<br><small>University of Bath</small></h4>
             </div>
             <div class="col-4 col-sm-4 col-lg-4">
-                <h4>Volker Helzle<br><small>Filmakademie, Germany</small></h4>
-                <h4>Anil Kokaram<br><small>Youtube/Google Inc., USA</small></h4>
+                <h4>Volker Helzle<br><small>Filmakademie</small></h4>
+                <h4>Anil Kokaram<br><small>Trinity College Dublin</small></h4>
+                <h4>Will Smith<br><small>University of York</small></h4>
             </div>
         </div>
     </div>
