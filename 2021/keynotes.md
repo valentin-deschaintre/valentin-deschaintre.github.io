@@ -13,7 +13,7 @@ We are pleased to announce the following keynote speakers for CVMP 2021:
 
 #### Tobias Ritschel, University College London <br> Perceptually-inspired VR Image Synthesis
 
-Images shown on future near-eye displays will be perceived differently. In this talk I will argue that, hence, all image synthesis itself will need to change. I will mostly discuss means to reduce bandwidth and/or latency. This can be achieved by rendering images that are perceived like other images directly (Ventral Metamers), by changing how the deepest internals of graphics hardware work (Peceptual Rasterization) or by switching to a domain different from pixels (Laplacian).
+Images shown on future near-eye displays will be perceived differently. In this talk I will argue that, hence, all image synthesis itself will need to change. I will mostly discuss means to reduce bandwidth and/or latency. This can be achieved by rendering images that are perceived like other images directly (Ventral Metamers), by changing how the deepest internals of graphics hardware work (Perceptual Rasterization) or by switching to a domain different from pixels (Laplacian).
 
 *Professor Tobias Ritschel has received his PhD from Saarland University (MPI) in 2009. He was a post-doctoral researcher at Telecom ParisTech / CNRS 2009-10 and a Senior Researcher at MPI 2010-15. Tobias was appointed Senior Lecturer at University College London in 2015 where he was named Full Professor of Computer Graphics in 2019. His work has received the EG Dissertation (2010) and Young Researcher Award (2014). His interests include Image Synthesis and Human Visual Perception, now frequently including applied AI.*
 
@@ -21,6 +21,25 @@ Images shown on future near-eye displays will be perceived differently. In this 
 
 <figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
   <img src="{{site.url}}/img/2021/keynotes/TobiasRitschel.jpg" class="img-responsive img-thumbnail" alt="Tobias Ritschel" title="Tobias Ritschel">
+</figure>
+
+</div>
+
+
+<a name="DC" />
+<div class="row">
+<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9" markdown="1" style="text-align: justify">
+
+#### Darren Cosker, Microsoft <br> Creating Presence in Mixed Reality and the Metaverse
+
+Imagine being able to have a conversation with someone who is hundreds of miles away, but it feels like they are actually there. Technology which can achieve this would change society - bringing distant family and friends closer together, transforming the way we work and reducing carbon footprints. However, creating compelling interactive experiences involving other people in mixed reality and the metaverse is a challenging task combining expertise in computer vision, graphics, AI and engineering. In this talk I will examine some of the technologies required to make this a reality and the challenges ahead.
+
+*Darren Cosker is a Scientist at Microsoft's Mixed Reality and AI laboratory (Cambridge), and holds a part time full Professor position at the University of Bath. He was previously the founding Director of CAMERA (2015-2021) - a multi-disciplinary research centre based dedicated to understanding and modeling human motion and appearance. At Microsoft Darren is helping realise the vision of 'presence' in mixed reality and the metaverse through products such as Microsoft Mesh. Prior to joining Microsoft Darren held personal research fellowships from the Royal Society (2012-2016) and the Royal Academy of Engineering (2007-2012).*
+
+</div>
+
+<figure class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
+  <img src="{{site.url}}/img/2021/keynotes/DarrenCosker.jpg" class="img-responsive img-thumbnail" alt="Darren Cosker" title="Darren Cosker">
 </figure>
 
 </div>
