@@ -28,7 +28,7 @@ year: 2021
 						<li>Semantic-driven Colorization<br/><i>Man M. Ho (Hosei University), Lu Zhang (INSA Rennes), Alexander Raake (TU Ilmenau), Jinjia Zhou (Hosei University)</i></li>
 						<li>Arnold 7 update<br/><i>Frederic Servant (Autodesk)</i></li>
 						<li>Photometric Stereo with Area Lights for Lambertian Surfaces<br/><i>Jiangbin Gan (University of Marburg), Thorsten Thormählen (University of Marburg)</i></li>
-						<li>Material Capture<br/><i>Valentin Deschaintre (Adobe)</i></li>
+						<li>Material acquisition and editing<br/><i>Valentin Deschaintre (Adobe Research)</i></li>
 					</ul>
 				</td>
 			</tr>
@@ -66,7 +66,7 @@ year: 2021
 					<ul>
 						<li>Volumetric video at the intersection of visual effects and virtual production<br/><i>Juraj Tomori (dimension), Charles Dupont (dimension), George Ash (dimension), Mike Pelton (dimension)</i></li>
 						<li>High-Performance Multi-Camera Systems for Volumetric Capture and 4D Face/Body Scanning<br/><i>Andrew Searle (IO Industries Inc)</i></li>
-						<li>To Be Announced<br/><i>Lukas Lamprecht (Renderpeople)</i></li>						
+						<li>The Creation of 3D Human Datasets for CV Research<br/><i>Lukas Lamprecht (Renderpeople)</i></li>						
 					</ul>
 				</td>
 			</tr>		
@@ -96,9 +96,9 @@ year: 2021
 				<td><b>Papers and Industry Talks Session 2: And action!</b><br/>
 					<ul>
 						<li>Automatic Camera Control and Directing with an Ultra-High-Definition Collaborative Recording System<br/><i>Bram Vanherle (Hasselt University), Tim Vervoort (Hasselt University), Nick Michiels (Hasselt University), Philippe Bekaert (Hasselt University)</i></li>
-						<li>Omniverse platform for real-time simulation and graphics rendering<br/><i>Jamie Allan (NVIDIA)</i></li>
+						<li>Contact-rich simulation in NVIDIA Omniverse<br/><i>Kier Storey and Michelle Lu (NVIDIA)</i></li>
 						<li>FacialFilmroll: High-resolution multi-shot video editing<br/><i>Bharath Bhushan Damodaran (InterDigital R&D), Emmanuel Jolly (InterDigital R&D France), Gilles Puy (In his own name), Philippe-Henri Gosselin (InterDigital), Cédric Thébault (InterDigital), Junghyun Ahn (InterDigital), Tim Christensen (In his own name), Paul Ghezzo (In his own name), Pierre Hellier (InterDigital (Technicolor))</i></li>
-						<li>To Be Announced<br/><i>Joyce Parukanil (Foundry)</i></li>
+						<li>Foundry and Machine Learning<br/><i>Ben Kent (Foundry)</i></li>
 					</ul>
 				</td>
 			</tr>
