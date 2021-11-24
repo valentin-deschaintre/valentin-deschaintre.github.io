@@ -37,7 +37,7 @@ year: 2021
 				<td><b>Coffee Break</b><br/><i>Poster presenters put up posters</i></td>
 			</tr>	
 			<tr>
-				<td>11:30</td><td><a><b>Keynote: To Be Announced</b></a><br/></td>
+				<td>11:30</td><td><a href="/2021/keynotes/#TR"><b>Keynote: Perceptually-inspired VR Image Synthesis</b></a><br/>Tobias Ritschel, <i>University College London</i></td>
 			</tr>
 			<tr>
 				<td>12:30</td>
@@ -75,7 +75,7 @@ year: 2021
 				<td><b>Posters Session (coffee served)</b></td>
 			</tr>	
 			<tr>
-				<td>16:00</td><td><a><b>Keynote: To Be Announced</b></a><br/></td>
+				<td>16:00</td><td><a href="/2021/keynotes/#DC"><b>Keynote: Creating Presence in Mixed Reality and the Metaverse</b></a><br/>Darren Cosker, <i>Microsoft</i></td>
 			</tr>
 			<tr>
 				<td>17:00</td>
@@ -107,7 +107,7 @@ year: 2021
 				<td><b>Coffee Break</b><br/><i>Poster presenters put up posters</i></td>
 			</tr>	
 			<tr>
-				<td>11:20</td><td><a><b>Keynote: To Be Announced</b></a><br/></td>
+				<td>11:20</td><td><a href="/2021/keynotes/#ST"><b>Keynote: Learning to Capture and Synthesise 3D Humans in 3D Scene</b></a><br/>Siyu Tang, <i>ETH Zürich</i></td>
 			</tr>
 			<tr>
 				<td>12:20</td>
