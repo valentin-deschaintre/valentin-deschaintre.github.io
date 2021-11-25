@@ -38,7 +38,7 @@ year: 2021
 			</tr>	
 			<tr>
 				<td>11:30</td>
-				<td><a href="/2021/keynotes/#CO"><b>Keynote: 3D Digital Reality – Modeling for Perception</b></a><br/>Cengiz Öztireli, <i>University of Cambridge</td>
+				<td><a href="/2021/keynotes/#CO"><b>Keynote: 3D Digital Reality – Modeling for Perception</b></a><br/>Cengiz Öztireli, <i>University of Cambridge</i></td>
 			</tr>
 			<tr>
 				<td>12:30</td>
