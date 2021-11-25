@@ -65,7 +65,7 @@ year: 2021
     </div>
 </div>
 
-<div class="col-8 col-sm-6 col-lg-4">
+<!-- <div class="col-8 col-sm-6 col-lg-4">
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">Local Arrangements</h4>
@@ -74,7 +74,7 @@ year: 2021
             <h4><a href="https://www.patrikhuber.ch/" target="_blank">Patrik Huber</a><br><small>University of York, UK</small></h4>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class="col-8 col-sm-6 col-lg-4">
     <div class="panel panel-default">
