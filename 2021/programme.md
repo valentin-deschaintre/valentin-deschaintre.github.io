@@ -1,6 +1,6 @@
 ---
 layout: cvmp-default
-title: Tentative Conference Programme
+title: Conference Programme
 year: 2021
 ---
 
@@ -11,7 +11,7 @@ year: 2021
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="monday"></a>
 	<div class="panel panel-default">
-		<div class="panel-heading"><b>Monday 6th December</b></div>
+		<div class="panel-heading"><b>Monday 6th December 2021</b></div>
 		<table class="table table-striped">
 			<tr>
 				<td>09:00</td>
@@ -19,7 +19,7 @@ year: 2021
 			</tr>
 			<tr>
 				<td>09:30</td>
-				<td><b>Chairs’ Welcome</b><br/>Rafal Mantiuk, <i>University of Cambridge</i> and Christian Richardt, <i>University of Bath</i> (Conference Chairs)</td>
+				<td><b>Chairs’ Welcome</b><br/>Rafał Mantiuk, <i>University of Cambridge</i> and Christian Richardt, <i>University of Bath</i> (Conference Chairs)</td>
 			</tr>
 			<tr>
 				<td>09:40</td>
@@ -37,7 +37,8 @@ year: 2021
 				<td><b>Coffee Break</b><br/><i>Poster presenters put up posters</i></td>
 			</tr>	
 			<tr>
-				<td>11:30</td><td><a href="/2021/keynotes/#TR"><b>Keynote: Perceptually-inspired VR Image Synthesis</b></a><br/>Tobias Ritschel, <i>University College London</i></td>
+				<td>11:30</td>
+				<td><a href="/2021/keynotes/#CO"><b>Keynote: 3D Digital Reality – Modeling for Perception</b></a><br/>Cengiz Öztireli, <i>University of Cambridge</td>
 			</tr>
 			<tr>
 				<td>12:30</td>
@@ -75,7 +76,8 @@ year: 2021
 				<td><b>Posters Session (coffee served)</b></td>
 			</tr>	
 			<tr>
-				<td>16:00</td><td><a href="/2021/keynotes/#DC"><b>Keynote: Creating Presence in Mixed Reality and the Metaverse</b></a><br/>Darren Cosker, <i>Microsoft</i></td>
+				<td>16:00</td>
+				<td><a href="/2021/keynotes/#DC"><b>Keynote: Creating Presence in Mixed Reality and the Metaverse</b></a><br/>Darren Cosker, <i>Microsoft</i></td>
 			</tr>
 			<tr>
 				<td>17:00</td>
@@ -85,7 +87,7 @@ year: 2021
 	</div>
 	<a name="tuesday"></a>
 	<div class="panel panel-default">
-		<div class="panel-heading"><b>Tuesday 7th December</b></div>
+		<div class="panel-heading"><b>Tuesday 7th December 2021</b></div>
 		<table class="table table-striped">
 			<tr>
 				<td>09:00</td>
@@ -130,7 +132,7 @@ year: 2021
 			</tr>
 			<tr>
 				<td>15:50</td>
-				<td><a><b>Keynote: To Be Announced</b></a><br/></td>
+				<td><a href="/2021/keynotes/#TR"><b>Keynote: Perceptually-inspired VR Image Synthesis</b></a><br/>Tobias Ritschel, <i>University College London</i></td>
 			</tr>
 			<tr>
 				<td>16:50</td>
