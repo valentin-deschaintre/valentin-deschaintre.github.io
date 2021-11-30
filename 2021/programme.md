@@ -6,7 +6,10 @@ year: 2021
 
 {% include_relative covid-19.md %}
 
-### Tentative Programme ###
+### Programme ###
+
+<strong>Programme booklet:</strong>
+[CVMP 2021 Programme (5.8 MB)]({{ site.url }}/files/2021/CVMP2021-programme.pdf)
 
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="monday"></a>
@@ -19,11 +22,11 @@ year: 2021
 			</tr>
 			<tr>
 				<td>09:30</td>
-				<td><b>Chairs’ Welcome</b><br/>Rafał Mantiuk, <i>University of Cambridge</i> and Christian Richardt, <i>University of Bath</i> (Conference Chairs)</td>
+				<td><b>Chairs’ Welcome</b><br/>Christian Richardt, <i>University of Bath</i> (Conference Co-Chair)</td>
 			</tr>
 			<tr>
 				<td>09:40</td>
-				<td><b>Papers and Industry Talks Session 1: Bring on the colours!</b><br/><!--<i>To be confirmed (Chair)</i><br/>-->
+				<td><b>Papers and Industry Talks Session 1: Bring on the colours!</b><br/>
 					<ul>
 						<li>Semantic-driven Colorization<br/><i>Man M. Ho (Hosei University), Lu Zhang (INSA Rennes), Alexander Raake (TU Ilmenau), Jinjia Zhou (Hosei University)</i></li>
 						<li>Arnold 7 update<br/><i>Frederic Servant (Autodesk)</i></li>
@@ -46,13 +49,13 @@ year: 2021
 					<ul>
 						<li>One-shot SVBRDF Estimation Including Anisotropic Material<br/><i>Nozomu Terada (Tokyo University of Agriculture and Technology), Ikuko Shimizu (Tokyo University of Agriculture and Technology)</i></li>
 						<li>AURealnessGAN - An Architecture that Enables Manipulation of FACS Action Units in Face Image Generation<br/><i>Koyo Ishihara (Tokyo University of Agriculture and Technology), Ikuko Shimizu (Tokyo University of Agriculture and Technology), Akio Sashima (National Institute of Advanced Industrial Science and Technology), Koichi Kurumatani (National Institute of Advanced Industrial Science and Technology)</i></li>
-						<li>Learning semantic object segmentation for video post-production<br/><i>Flavien Jourdren (InterDigital), Emmanuel Jolly (InterDigital R&D France), Claire-Helene Demarty (Technicolor), Frederic Lefebvre (InterDigital), Pierre Hellier (InterDigital (Technicolor))</i></li>
-						<li>A Deep Learning Based Approach for Camera Switching in Amateur Ice Hockey Game Broadcasting<br/><i>Hamid Reza Tohidypour (University of British Columbia), Yixiao Wang (University of British Columbia), Mohsen Gholami (University of British Columbia), Megha Kalia (University of British Columbia), Kexin Wen (University of British Columbia), Lawrence Li (University of British Columbia), Panos Nasiopoulos (University of British Columbia), Mahsa Pourazad (TELUS Communications Inc.)</i></li>
 						<li>A Step Towards Automating the Synthesis of a Scene Script<br/><i>Américo Pereira (INESC TEC), Ricardo Carvalho (FEUP), Pedro Carvalho (INESC TEC and Universidade do Porto), Luís Corte-Real (FEUP)</i></li>
-						<li>Look-Up-Table Mystified<br/><i>Jurgen Stauder (InterDigital), Patrick Morvan (InterDigital), Angelo Mazzante (InterDigital), Anita Orhand (InterDigital), John Frith (MPC)</i></li>
 						<li>Spatio-temporal algorithm for 3D sequences noise reduction<br/><i>Ljubomir Jovanov (UGent)</i></li>
+						<li>Learning semantic object segmentation for video post-production<br/><i>Flavien Jourdren (InterDigital), Emmanuel Jolly (InterDigital R&D France), Claire-Helene Demarty (Technicolor), Frederic Lefebvre (InterDigital), Pierre Hellier (InterDigital (Technicolor))</i></li>
+						<li>Look-Up-Table Mystified<br/><i>Jurgen Stauder (InterDigital), Patrick Morvan (InterDigital), Angelo Mazzante (InterDigital), Anita Orhand (InterDigital), John Frith (MPC)</i></li>
 						<li>Image Super-Resolution via Hierarchical Attention-Based Multi-References Sampling<br/><i>Marco Pesavento (University of Surrey), Marco Volino (University of Surrey), Adrian Hilton (University of Surrey)</i></li>
 						<li>Human Point Cloud Generation using Deep Learning<br/><i>Ryan Spick (University of York)</i></li>
+						<li>A Deep Learning Based Approach for Camera Switching in Amateur Ice Hockey Game Broadcasting<br/><i>Hamid Reza Tohidypour (University of British Columbia), Yixiao Wang (University of British Columbia), Mohsen Gholami (University of British Columbia), Megha Kalia (University of British Columbia), Kexin Wen (University of British Columbia), Lawrence Li (University of British Columbia), Panos Nasiopoulos (University of British Columbia), Mahsa Pourazad (TELUS Communications Inc.)</i></li>
 						<li>Demo: Video Provenance Network for Robust Content Attribution<br/><i>Alexander Black (University of Surrey), Tu Bui (University of Surrey), Simon Jenni (Adobe Research), Viswanathan (Vishy) Swaminathan (Adobe), John Collomosse (Adobe Research)</i></li>
 					</ul>
 				</td>
@@ -73,7 +76,7 @@ year: 2021
 			</tr>		
 			<tr>
 				<td>15:30</td>
-				<td><b>Posters Session (coffee served)</b></td>
+				<td><b>Coffee Break</b></td>
 			</tr>	
 			<tr>
 				<td>16:00</td>
@@ -106,14 +109,14 @@ year: 2021
 			</tr>
 			<tr>
 				<td>10:50</td>
-				<td><b>Coffee Break</b><br/><i>Poster presenters put up posters</i></td>
+				<td><b>Coffee Break</b></td>
 			</tr>	
 			<tr>
 				<td>11:20</td><td><a href="/2021/keynotes/#ST"><b>Keynote: Learning to Capture and Synthesise 3D Humans in 3D Scene</b></a><br/>Siyu Tang, <i>ETH Zürich</i></td>
 			</tr>
 			<tr>
 				<td>12:20</td>
-				<td><b>Lunch, Demo and Short Papers</b></td>
+				<td><b>Lunch and Short Papers</b></td>
 			</tr>
 			<tr>
 				<td>14:00</td>
@@ -128,7 +131,7 @@ year: 2021
 			</tr>
 			<tr>
 				<td>15:20</td>
-				<td><b>Posters Session (coffee served)</b></td>
+				<td><b>Coffee Break</b></td>
 			</tr>
 			<tr>
 				<td>15:50</td>
@@ -136,7 +139,7 @@ year: 2021
 			</tr>
 			<tr>
 				<td>16:50</td>
-				<td><b>Prizes, Announcements and Close</b></td>
+				<td><b>Prizes, Announcements and Closing</b><br/>Rafał Mantiuk, <i>University of Cambridge</i> (Conference Co-Chair)</td>
 			</tr>
 		</table>
 	</div>
