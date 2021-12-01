@@ -14,7 +14,7 @@ papers:
   date: "2021-09"
   paper_link: "https://arxiv.org/pdf/2109.06395.pdf"
   website_link: "https://arxiv.org/abs/2109.06395/"
-  citation: "An Inverse Procedural Modeling Pipeline for SVBRDF Maps. Yiwei Hu, Chengan He, Valentin Deschaintre, Julie Dorsey, Holly Rushmeier, Arxiv"
+  citation: "An Inverse Procedural Modeling Pipeline for SVBRDF Maps. Yiwei Hu, Chengan He, Valentin Deschaintre, Julie Dorsey, Holly Rushmeier, ACM Transactions on Graphics"
 
 
 - title: "Generative Modelling of BRDF Textures from Flash Images"
