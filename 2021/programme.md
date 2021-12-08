@@ -11,6 +11,9 @@ year: 2021
 <strong>Programme booklet:</strong>
 [CVMP 2021 Programme (5.8 MB)]({{ site.url }}/files/2021/CVMP2021-programme.pdf)
 
+<strong>Conference proceedings:</strong>
+[ACM Digital Library](https://doi.org/10.1145/3485441){:target="_blank"}
+
 <div class="col-12 col-sm-12 col-lg-12">
 	<a name="monday"></a>
 	<div class="panel panel-default">
