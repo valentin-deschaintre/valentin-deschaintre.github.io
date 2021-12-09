@@ -12,10 +12,10 @@ image:
 ## Eurographics Symposium on Rendering
 
 The 33nd edition of the Eurographics Symposium on Rendering will be held in Prague.
-The event will take place 4.-6. July 2022
+The event will take place July 4th - July 6th, 2022
 Details of the program will be announced shortly.
 
 ## Workshop on Material Appearance
 
-3. July 2022
+July 3rd, 2022
 
