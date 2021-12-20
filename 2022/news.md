@@ -6,6 +6,7 @@ title: News
 year: 2022
 ---
 
+
 <div class="col-12 col-sm-12 col-lg-12 news">
 
   {% assign news = site.categories.news | sort:"date" %}
