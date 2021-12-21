@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3787"
-   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square"
    xml:space="preserve"
    version="1.1"
    viewBox="0 0 1080 339"
-   height="100%"
-   width="100%"
+   height="320"
+   width="475"
    sodipodi:docname="egsr_2022_header_desktop.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><sodipodi:namedview
    pagecolor="#ffffff"
@@ -34,7 +34,8 @@
    inkscape:window-x="72"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Page-1" /><metadata
+   inkscape:current-layer="Page-1"
+   units="px" /><metadata
    id="metadata3793"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -43,13 +44,16 @@
    id="Page-1">
         <g
    id="CCC"
-   transform="matrix(0.43981481,0,0,1.0423453,0,19)">
+   transform="matrix(0.99288263,0,0,2.3530962,4.5473684,-191.69012)"
+   style="fill:#611083;fill-opacity:1">
             <g
-   id="stacs_2021_header_desktop">
+   id="stacs_2021_header_desktop"
+   style="fill:#611083;fill-opacity:1">
                 <g
-   id="Group">
+   id="Group"
+   style="fill:#611083;fill-opacity:1">
                     <rect
-   style="fill:#1c7259;fill-opacity:1"
+   style="fill:#611083;fill-opacity:1"
    height="307"
    width="1080"
    y="0"
@@ -59,14 +63,16 @@
                     
                     <g
    transform="translate(-0.2348,0.1072)"
-   id="EGSR2021">
+   id="EGSR2021"
+   style="fill:#611083;fill-opacity:1">
                         
                     </g>
                     
                 </g>
                 <g
    transform="translate(-1.764,0.166)"
-   id="THE32NDEUROGRAPHICSSYMPOSIUMONRENDERING">
+   id="THE32NDEUROGRAPHICSSYMPOSIUMONRENDERING"
+   style="fill:#611083;fill-opacity:1">
                     
                 </g>
             </g>
@@ -75,7 +81,7 @@
    id="text4606"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
    aria-label="EGSR 2022"
-   transform="matrix(1.0000642,0,0,0.99946666,-65.034662,7.4817584)"><path
+   transform="matrix(2.2576465,0,0,2.2562976,-142.26849,-217.69257)"><path
      id="path4725"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.66666412px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1"
      d="M 83.302874,253.52633 H 121.18308 V 264.1357 H 97.339332 v 10.13542 h 22.421878 v 10.60937 H 97.339332 v 12.46875 h 24.645828 v 10.60938 H 83.302874 Z"
@@ -111,7 +117,7 @@
    id="text4612"
    style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
    aria-label="PRAGUE"
-   transform="matrix(1.0000642,0,0,0.99946666,-65.034662,7.4817584)"><path
+   transform="matrix(2.2576465,0,0,2.2562976,-142.26849,-217.69257)"><path
      id="path4742"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Laksaman;-inkscape-font-specification:Laksaman;fill:#ffffff;fill-opacity:1"
      d="m 91.143803,200.38989 q 4.44,0 7.52,2.28 3.079997,2.24 3.079997,6.08 0,4.32 -3.239997,6.72 -3.24,2.36 -8.2,2.36 -1.88,0 -3.68,-0.36 v 12.04 h -2.4 v -28.48 q 3.84,-0.64 6.92,-0.64 z m 8.2,8.52 q 0,-6.52 -8.24,-6.52 -3.08,0 -4.48,0.28 v 12.72 q 1.68,0.44 4.16,0.44 4.04,0 6.28,-1.84 2.28,-1.88 2.28,-5.08 z"
@@ -136,64 +142,64 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Laksaman;-inkscape-font-specification:Laksaman;fill:#ffffff;fill-opacity:1"
      d="m 222.94369,229.50989 h -15.6 v -28.64 h 15.6 v 2 h -13.2 v 10.52 h 11.76 v 2 h -11.76 v 12.12 h 13.2 z"
      inkscape:connector-curvature="0" /></g><ellipse
-   style="fill:#ffffff;fill-opacity:1;stroke-width:0.26350406"
+   style="fill:#ffffff;fill-opacity:1;stroke-width:0.59486085"
    id="path884"
-   cx="322.04504"
-   cy="54.724274"
-   rx="13.994802"
-   ry="12.902219" /><ellipse
-   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.53234857;stroke-linecap:square"
+   cx="731.56451"
+   cy="-111.04252"
+   rx="31.593288"
+   ry="29.12678" /><ellipse
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.2017777;stroke-linecap:square"
    id="path884-3"
-   cx="397.49799"
-   cy="154.83607"
-   rx="28.273233"
-   ry="26.065926" /><ellipse
-   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.92721391;stroke-linecap:square"
+   cx="901.89972"
+   cy="114.96004"
+   rx="63.826866"
+   ry="58.843868" /><ellipse
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2.09318686;stroke-linecap:square"
    id="path884-3-6"
-   cx="298.60391"
-   cy="119.86996"
-   rx="49.244678"
-   ry="45.40012" /><ellipse
-   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.45673603;stroke-linecap:square"
+   cx="678.64618"
+   cy="36.023975"
+   rx="111.16994"
+   ry="102.49084" /><ellipse
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.03108239;stroke-linecap:square"
    id="path884-3-6-7"
-   cx="369.62341"
-   cy="75.500328"
-   rx="24.257423"
-   ry="22.363632" /><ellipse
-   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.24748281;stroke-linecap:square"
+   cx="838.97284"
+   cy="-64.140533"
+   rx="54.761173"
+   ry="50.485931" /><ellipse
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.55869281;stroke-linecap:square"
    id="path884-3-6-7-5"
-   cx="368.55719"
-   cy="115.79457"
-   rx="13.143906"
-   ry="12.117754" /><ellipse
-   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.24748281;stroke-linecap:square"
+   cx="836.5658"
+   cy="26.82379"
+   rx="29.672388"
+   ry="27.355848" /><ellipse
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.55869281;stroke-linecap:square"
    id="path884-3-6-7-5-3"
-   cx="344.27209"
-   cy="167.17703"
-   rx="13.143906"
-   ry="12.117754" /><ellipse
-   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.24748281;stroke-linecap:square"
+   cx="781.74213"
+   cy="142.81976"
+   rx="29.672388"
+   ry="27.355848" /><ellipse
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.55869281;stroke-linecap:square"
    id="path884-3-6-7-5-3-5"
-   cx="407.66031"
-   cy="163.88611"
-   rx="13.143906"
-   ry="12.117754" /><ellipse
-   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.26350406;stroke-linecap:square"
+   cx="924.84113"
+   cy="135.3905"
+   rx="29.672388"
+   ry="27.355848" /><ellipse
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.59486085;stroke-linecap:square"
    id="path884-6"
-   cx="424.94803"
-   cy="205.02269"
-   rx="13.994802"
-   ry="12.902219" /><ellipse
-   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.38509631;stroke-linecap:square"
+   cx="963.86823"
+   cy="228.25638"
+   rx="31.593288"
+   ry="29.12678" /><ellipse
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.8693555;stroke-linecap:square"
    id="path884-3-2"
-   cx="371.85007"
-   cy="212.62181"
-   rx="20.45261"
-   ry="18.855862" /><ellipse
-   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.26350406;stroke-linecap:square"
+   cx="843.99951"
+   cy="245.41141"
+   rx="46.171799"
+   ry="42.567135" /><ellipse
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.59486085;stroke-linecap:square"
    id="path884-6-9"
-   cx="439.76605"
-   cy="74.208336"
-   rx="13.994802"
-   ry="12.902219" /></g>
+   cx="997.31995"
+   cy="-67.057213"
+   rx="31.593288"
+   ry="29.12678" /></g>
 </svg>
