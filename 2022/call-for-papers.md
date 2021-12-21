@@ -30,7 +30,8 @@ For each submitted paper, a minimum of 3 reviews will be provided to the authors
 We invite original contributions that advance the state-of-the-art in topics related, but not limited, to:
 
     
-- Physically-based rendering and global illumination    Monte Carlo sampling, reconstruction, and integration
+- Physically-based rendering and global illumination
+- Monte Carlo sampling, reconstruction, and integration
 - Real-time rendering, including ray tracing, acceleration structures, and GPU algorithms
 - Rendering software systems
 - Specialized rendering hardware systems
