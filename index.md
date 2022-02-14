@@ -47,7 +47,7 @@ function choosePic() {
 	<br/>
 	<div class="Introduction">
 		I am currently a Research Scientist at Adobe Research in the London lab. I previously was an Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
-		I received my PhD at Inria Sophia-Antipolis from the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a> in collaboration with Optis, an Ansys affiliate. My Thesis received the French Computer Graphics Thesis award 2020 and UCA Academic Excellence Thesis Award 2020<br>
+		I received my PhD at Inria Sophia-Antipolis from the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a> in collaboration with Optis, an Ansys affiliate. My Thesis received the French Computer Graphics Thesis Award 2020 and UCA Academic Excellence Thesis Award 2020<br>
 		During my PhD, I spent 2 great months in MIT under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
 		<b>My research focuses on material and shape (appearance) acquisition, creation, editing and representation, leveraging deep learning methods for virtual environments.</b> <br><br>
 
