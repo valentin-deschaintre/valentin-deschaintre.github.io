@@ -7,6 +7,9 @@
 - name: Bénard, Pierre
   affiliation: Bordeaux University, Inria Bordeaux-Sud-Ouest 
 
+- name: Bickel, Bernd
+  affiliation: IST Austria
+
 - name: BONNEEL, NICOLAS
   affiliation: CNRS / UNIV. LYON 
 
@@ -20,7 +23,7 @@
   affiliation: NVIDIA 
 
 - name: Davis, Abe  
-  affiliation: 
+  affiliation: Cornell University
 
 - name: Deschaintre, Valentin
   affiliation: Adobe Research 
@@ -83,7 +86,7 @@
   affiliation: Universidad de Zaragoza 
 
 - name: Meyer, Mark   
-  affiliation: 
+  affiliation: Pixar
 
 - name: Myszkowski, Karol
   affiliation: MPI Informatik 
@@ -116,16 +119,16 @@
   affiliation: Max-Planck Institute for Informatics, Saarbrucken 
 
 - name: Snyder, John  
-  affiliation: 
+  affiliation: Microsoft Research
 
 - name: Sun, Qi   
-  affiliation: 
+  affiliation: New York University
 
 - name: Sýkora, Daniel
   affiliation: CTU in Prague, FEE 
 
 - name: Tong, Xin   
-  affiliation: 
+  affiliation: Microsoft Research Asia
 
 - name: Vining, Nicholas
   affiliation: NVIDIA 
