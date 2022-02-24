@@ -18,8 +18,6 @@ CVMP provides a European forum for presentation of the latest research and appli
 
 <!--In this 19<sup>th</sup> edition of the conference, we are proud to be officially affiliated to and sponsored by [ACM SIGGRAPH](https://www.siggraph.org).-->
 
-<!--{% include_relative covid-19.md %}-->
-
 <!-- featured images -->
 <figure class="top3" >
     <img class="col-xs-12 col-sm-4" src="{{site.url}}/img/cvmp/cvmp-audience.jpg" alt="Audience">
