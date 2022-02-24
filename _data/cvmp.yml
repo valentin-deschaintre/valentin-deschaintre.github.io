@@ -1,9 +1,16 @@
-current-year: 2021
+current-year: 2022
 previous-years:
+    - 2022
     - 2021
     - 2020
     - 2019
     - 2018
+
+2022:
+    title: "The 19<sup>th</sup> <b>European Conference on Visual Media Production</b>"
+    date: "1–2 December 2022"
+    location: "London, UK"
+    logo: img/2022/CVMP-logo-1200w.png
 
 2021:
     title: "The 18<sup>th</sup> <b>ACM SIGGRAPH European Conference on Visual Media Production</b>"
