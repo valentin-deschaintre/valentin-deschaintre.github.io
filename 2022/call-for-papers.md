@@ -42,7 +42,7 @@ We invite original contributions that advance the state-of-the-art in topics rel
 - Deep generative models of image synthesis
 - Neural representation for rendering
 - Material and scattering models
-- Acquisition and modeling of geometry, appearance and illumination
+- Acquisition, modeling, and fabrication of geometry, appearance, and illumination
 - Color science, spectral modeling and rendering
 - Face and human capture and rendering    
 - Computational photography, optics, and displays
