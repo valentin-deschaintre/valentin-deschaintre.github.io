@@ -67,7 +67,7 @@ Please submit your work using the SRM online submission system. The submission s
 - Papers deadline: April 15th
 - Reviews released to authors: May 18th
 - Rebuttals due: May 24th
-- Author notification: June 3rd
+- Author notification: June 7rd
 - Final papers due: June 20th
 - Conference: July 4th - July 6th
 
