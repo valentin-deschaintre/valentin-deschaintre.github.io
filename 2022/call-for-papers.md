@@ -133,7 +133,7 @@ Please email the program chairs at chairs-egsr2022@eg.org with a PDF of your pap
 ### Important dates (All times are midnight, 23:59 UTC)
 
 - Industry Track papers deadline: May 23rd
-- Author notification: June 6th
+- Author notification: June 7th
 - Final papers due: July 4th
 
 ### Program chairs
