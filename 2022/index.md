@@ -4,9 +4,9 @@ layout: cvmp-plain
 title: "CVMP 2022"
 year: 2022
 image:
-    feature: img/teaser/London-teaser.jpg
-    credit: "Image credit: Ilya Grigorik"
-    creditlink: https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg
+    feature: img/teaser/British-Library-teaser.jpg
+    credit: "Image credit: Joy of Museums"
+    creditlink: https://commons.wikimedia.org/wiki/File:British_Library_-_Joy_of_Museums_-_2.jpg
 ---
 ## 1–2 December 2022, <!-- location TBA --> London, UK
 
@@ -22,5 +22,5 @@ CVMP provides a European forum for presentation of the latest research and appli
 <figure class="top3" >
     <img class="col-xs-12 col-sm-4" src="{{site.url}}/img/cvmp/cvmp-audience.jpg" alt="Audience">
     <img class="col-xs-12 col-sm-4" src="{{site.url}}/img/cvmp/cvmp-keynote.jpg" alt="Keynote">
-    <img class="col-xs-12 col-sm-4" src="{{site.url}}/img/cvmp/cvmp-theatre.jpg" alt="Theatre">
+    <img class="col-xs-12 col-sm-4" src="{{site.url}}/img/cvmp/cvmp-knowledge-centre-theatre.jpg" alt="Theatre">
 </figure>
