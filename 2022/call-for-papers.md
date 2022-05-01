@@ -67,7 +67,7 @@ Please submit your work using the SRM online submission system. The submission s
 - Papers deadline: April 15th
 - Reviews released to authors: May 18th
 - Rebuttals due: May 24th
-- Author notification: June 3rd
+- Author notification: June 7rd
 - Final papers due: June 20th
 - Conference: July 4th - July 6th
 
@@ -133,7 +133,7 @@ Please email the program chairs at chairs-egsr2022@eg.org with a PDF of your pap
 ### Important dates (All times are midnight, 23:59 UTC)
 
 - Industry Track papers deadline: May 23rd
-- Author notification: June 6th
+- Author notification: June 7th
 - Final papers due: July 4th
 
 ### Program chairs
