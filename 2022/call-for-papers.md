@@ -14,7 +14,7 @@ A PDF version of the call for papers is available to download from [here](../EGS
 ## Research Track
 The Eurographics Symposium on Rendering 2022 will take place from July 4th to July 6th, 2022, hosted by Charles University in Prague. This 33nd event continues the series of highly successful Eurographics Symposia and Workshops on Rendering.
 
-The current plan is for a 4 day hybrid event with EGSR being preceded by the MAM workshop on July 3rd, with in-person conference attendance that will be compatible with fully remote/virtual participation for those who cannot attend in-person for health/logistic reasons.
+The current plan is for a 4 day hybrid event, with in-person conference attendance that will be compatible with fully remote/virtual participation for those who cannot attend in-person for health/logistic reasons.
 
 All accepted research papers will be presented at EGSR 2022 and archived in the Eurographics digital library. Furthermore, a selection of them will be published in an issue of the Computer Graphics Forum (CGF) journal, based on both the recommendations of the reviewers and the outcome of a second cycle of review.
 
