@@ -359,3 +359,8 @@ div.progress-bar-none {
 .open_abstract:after {
   content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
+
+table { table-layout:fixed; border-collapse:collapse; }
+th, td {
+  padding-right: 15px;
+}
