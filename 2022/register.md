@@ -5,7 +5,7 @@ excerpt: "Register for EGSR 2022"
 year: 2022
 ---
 
-We ask all participants to fill the <a href="http://www.conforg.cz/en/event/?event_id=20" target="_blank">Registration/Payment Form</a> in and pay their fee immediately together with registration by one of the two methods indicated below. Without payment the registration isn’t accepted. All payments must be realized before the conference to guarantee all conference services. Please notice that one has to agree with the conditions. Without this consent, the registration won’t be completed.  Confirmation (invoice) of your payment will be sent by e-mail within three days after receiving the payment to our account. For invoices, please also check your spam folder for messages from info@conforg.cz . EG/SIGGRAPH Members are asked to fill in their Membership Number. Students are required to prove their status.  Payment Methods and Instructions  – see in the bottom
+We ask all participants to fill the <a href="http://www.conforg.cz/en/event/?event_id=20" target="_blank">Registration/Payment Form</a> in and pay their fee immediately together with registration by one of the two methods indicated below. Without payment the registration isn’t accepted. All payments must be realized before the conference to guarantee all conference services. Please notice that one has to agree with the conditions. Without this consent, the registration won’t be completed.  Confirmation (invoice) of your payment will be sent by e-mail within three days after receiving the payment to our account. For invoices, please also check your spam folder for messages from info@conforg.cz . EG Members are asked to fill in their Membership Number. Students are required to prove their status.  Payment Methods and Instructions  – see in the bottom
 
 
 ---
@@ -13,7 +13,7 @@ We ask all participants to fill the <a href="http://www.conforg.cz/en/event/?eve
 |Category          |Price                     |
 |------------------|--------------------------|
 |Full fee		   |12000 CZK / ~490 EUR      |
-|Full fee EG       |500 CZK / ~388 EUR        |
+|Full fee EG       |9500 CZK / ~388 EUR        |
 |Student fee       |8000 CZK / ~327 EUR       |
 |Student fee EG    |6000 CZK / ~245 EUR       |
 |Accompanying Person|2500 CZK / ~100 EUR      |
