@@ -43,3 +43,17 @@ In case of bank transfer, please make sure it is made net of all bank charges an
 ## Cancellation Policy
 
 75 % of the registration fee will be refunded for all written cancellations postmarked no later than July 15, 2022. After that date no refund of registration fee will be provided. 
+
+## Hotel recommendations
+
+There are some ideas for your accommodation nearby the conference venue.
+
+||Category||
+|[Residence Bene](https://www.residence-bene.cz/en/)|\*\*\*|Dlouhá 48, Prague 1|
+|[Pushkin APARTMENTS](https://pushkin-apartments.hotel.cz/)|\*\*\*|Husova 14, Prague 1|
+|[Hotel Salvator](https://www.salvator.cz/)|\*\*\*|Truhlářská 10, Prague 1|
+|[Royal Road Residence](https://royal-road-residence.hotel.cz/)|\*\*\*|Karlova 10, Prague 1|
+|[Hotel Černý slon](https://www.hotelcernyslon.cz/en/)|\*\*\*\*|Týnská 1, Prague 1|
+|[Tyn Yard Residence](https://www.tynyardresidence.com/en/)|\*\*\*\*|Týn 7, Prague 1|
+|[Hotel Metamorphis](https://www.hotelmetamorphis.cz/en)|\*\*\*\*|Týn 10, Prague 1|
+|[Hotel Liliova](https://www.hotelliliova.com/)|\*\*\*\*|Liliová 18, Prague 1|
