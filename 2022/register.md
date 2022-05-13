@@ -46,7 +46,7 @@ In case of bank transfer, please make sure it is made net of all bank charges an
 
 ## Hotel recommendations
 
-There are some ideas for your accommodation nearby the conference venue.
+There are some ideas for your accommodation nearby the [conference venue](https://www.google.com/maps/place/50°05'13.6"N+14°25'27.1"E/@50.0883759,14.4235657,18z) on Celetná 20, Prague 1, 1st floor, Modrá posluchárna ("Blue Hall")
 
 ||Category||
 |[Residence Bene](https://www.residence-bene.cz/en/)|\*\*\*|Dlouhá 48, Prague 1|
