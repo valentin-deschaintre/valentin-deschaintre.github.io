@@ -8,7 +8,7 @@ image:
     credit: "Image credit: Joy of Museums"
     creditlink: https://commons.wikimedia.org/wiki/File:British_Library_-_Joy_of_Museums_-_2.jpg
 ---
-## 1–2 December 2022, <!-- location TBA --> London, UK
+## 1–2 December 2022, Knowledge Centre, British Library, London, UK
 
 Welcome to the <!--ACM SIGGRAPH--> European Conference on Visual Media Production (CVMP). For years, CVMP has built a reputation as the prime venue for researchers to meet with practitioners in the Creative Industries.
 

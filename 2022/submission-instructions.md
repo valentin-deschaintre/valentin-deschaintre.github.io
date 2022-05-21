@@ -11,7 +11,7 @@ year: 2022
 CVMP 2022 offers the opportunity to showcase your work through submission of Full (up to 10 pages) and Short (1 page) papers.
 
 All submissions should be made via the CVMP 2022 submission site:\\
-**TBA** <!--<https://cmt3.research.microsoft.com/CVMP2022>-->
+<https://cmt3.research.microsoft.com/CVMP2022>
 
 Authors should upload a PDF file of no more than 20 MB containing their paper for review. Full papers submissions may optionally include supplementary materials in a single ZIP file of no more than 100 MB (for example, videos or PDFs of additional results).
 
@@ -50,6 +50,6 @@ Authors of demos should use the same format as short papers, describing their de
 
 Submissions for both short papers and demos are single-blind and do not need to be anonymised.
 
-<!--### Publications Policies
+### Publications Policies
 
-As a published ACM author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies), including ACM's new [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).-->
+As a published <!--ACM--> CVMP author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies), including ACM's [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).
