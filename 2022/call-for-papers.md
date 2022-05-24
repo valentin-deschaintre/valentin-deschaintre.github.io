@@ -86,6 +86,7 @@ We are looking for papers that present ideas and applications of rendering (both
 
 Papers accepted in this Industry Track will be published in the Eurographics Digital Library for archival purposes and presented at EGSR 2022, which will take place from July 4th to July 6th, 2022, hosted by Charles University. Note that all papers will be presented either in-person or virtually. An in-person conference is planned, but in-person attendance by authors won’t be mandatory.
 
+Industry track paper submissions can be directly sent to the program chairs via email to chairs-egsr2022@eg.org
 
 ### Submission Policy
 
@@ -132,7 +133,7 @@ Please email the program chairs at chairs-egsr2022@eg.org with a PDF of your pap
 
 ### Important dates (All times are midnight, 23:59 UTC)
 
-- Industry Track papers deadline: May 23rd
+- Industry Track papers deadline: May 31th
 - Author notification: June 7th
 - Final papers due: July 4th
 
