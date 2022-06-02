@@ -13,6 +13,10 @@
     image: img/2022/chaos.png
     level: silver
 
+  - name: Intel
+    url: https://www.intel.com
+    image: img/2022/intel.png
+    level: silver
 2021:
   show: true
   num_columns: 2
