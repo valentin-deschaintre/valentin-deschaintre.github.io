@@ -17,6 +17,12 @@
     url: https://www.intel.com
     image: img/2022/intel.png
     level: silver
+
+  - name: Huawei
+    url: https://www.huawei.com
+    image: img/2022/huawei.png
+    level: silver
+    
 2021:
   show: true
   num_columns: 2
