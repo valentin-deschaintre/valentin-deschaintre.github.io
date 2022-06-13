@@ -1,6 +1,6 @@
 2022:
   show: true
-  num_columns: 2
+  num_columns: 1
 
   list:
   - name: Adobe
@@ -22,7 +22,7 @@
     url: https://www.huawei.com
     image: img/2022/huawei.png
     level: silver
-    
+
 2021:
   show: true
   num_columns: 2
