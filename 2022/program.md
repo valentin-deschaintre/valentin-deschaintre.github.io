@@ -10,7 +10,14 @@ year: 2022
 	{% assign year = site.data.egsr.current-year %}
 {% endif %}
 
-
+<style>
+	.entry-content p {
+	    margin: 0 0 10px 20px;
+	}
+	h2, .h2 {
+	    margin-top: 50px;
+	}
+</style>
 
 ## Day 1 (July 4th 2022)
 Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
