@@ -45,7 +45,7 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 **Double Scattering Next Event Estimation**  
 *Johannes Hanika, Andrea Weidlich, Marc Droske*
 
-**Temporally sliced photon primitives for transient rendering**  
+**Temporally sliced photon primitives for time-of-flight rendering**  
 *Yang Liu, Shaojie Jiao, Wojciech Jarosz*
 
 **Lunch break** 90 min
@@ -81,9 +81,9 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 
 ### Keynote by Katie Bouman (5 pm to 6 pm) 
 
-Break
+**Break**
 
-Reception 
+**Reception**
 
 <a name="day2" />
 
