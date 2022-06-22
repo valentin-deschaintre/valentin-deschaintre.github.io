@@ -8,9 +8,8 @@
     image: img/2022/adobe.png
     level: gold
 
-  - name: Meta
-    url: https://meta.com
-    image: img/2022/meta.png
+  - name: Reality Labs Research
+    image: img/2022/realitylabs.png
     level: gold
 
   - name: Chaos
