@@ -12,7 +12,8 @@
   picture: /img/2022/gordon_wetzstein.jpg
   keynote_id: 2
 - speaker: "Jules Urbach"
-  title: "TBD"
+  title: "Rendering the Open Metaverse"
+  abstract: "In the coming decade, rendering technologies will be at the forefront of a revolution in informatics. As we move from hypertext and hypermedia to a fully immersive metaverse built on complex interactive 3D scenes, the next generation of the web will be driven by rendering intensive applications. This talk will discuss how a decentralized and open global rendering system is foundational for disruptive services and platforms to evolve from the post-mobile world of immersive computing. It will examine the use of rendering in web3 applications such as NFTs (non-fungible tokens) and explore how OTOY's Render Network is working to achieve the aims of an open, decentralized metaverse."
   bio: "CEO and founder of RNDR — a decentralized rendering software that uses the Ethereum blockchain for distributed cloud rendering of digital graphics and special effects — is a pioneer in computer graphics, streaming, and 3D rendering, with more than 25 years of industry experience. His company is building the foundation for next-level metaverse graphics, allowing individuals to create renders and other works at the same level as Hollywood studios."
   picture: /img/2022/jules_urbach.jpg
   keynote_id: 3

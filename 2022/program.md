@@ -188,7 +188,7 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 
 ### Patterns and Noises (3:30 pm to 4:15 pm)
 
-**By-Example Point Pattern Synthesis using Gabor Features**  
+**Point-Pattern Synthesis using Gabor and Random Filters**  
 *Xingchang Huang, Pooran Memari,  Hans-Peter Seidel, Gurprit Singh*
 
 **Spatiotemporal Blue Noise Masks**  
@@ -201,4 +201,3 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 ### Closing remarks (5:30 pm to 5:45 pm)
 
 
-### 
