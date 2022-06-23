@@ -42,7 +42,7 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 **Path Guiding with Vertex Triplet Distributions**  
 *Vincent Schüßler, Johannes Hanika, Alisa Jung, Carsten Dachsbacher*
 
-**Double Scattering Next Event Estimation**  
+**Once-more scattered next event estimation for volume rendering**  
 *Johannes Hanika, Andrea Weidlich, Marc Droske*
 
 **Temporally sliced photon primitives for time-of-flight rendering**  
