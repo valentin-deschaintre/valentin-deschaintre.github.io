@@ -27,8 +27,8 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 ### Lighting (9:30 am to 10:15 am)
 
 **Spectral Upsampling Approaches for RGB Illumination**  
-*Guiseppe Claudio Gaurnera, Yuliya Gitlina, Valentin Deschaintre, Abhijeet Ghosh*
-
+*Giuseppe Claudio Guarnera, Yuliya Gitlina, Valentin Deschaintre, Abhijeet Ghosh*
+ 
 **SkyGAN: Towards realistic cloud imagery for image based lighting**  
 *Martin Mirbauer, Tobias Rittig, Tomáš Iser, Jaroslav Křivánek, Elena Sikudova*
 
