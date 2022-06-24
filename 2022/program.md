@@ -29,8 +29,8 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 ### Lighting (9:30 am to 10:15 am)
 
 **Spectral Upsampling Approaches for RGB Illumination**  
-*Guiseppe Claudio Gaurnera, Yuliya Gitlina, Valentin Deschaintre, Abhijeet Ghosh*
-
+*Giuseppe Claudio Guarnera, Yuliya Gitlina, Valentin Deschaintre, Abhijeet Ghosh*
+ 
 **SkyGAN: Towards realistic cloud imagery for image based lighting**  
 *Martin Mirbauer, Tobias Rittig, Tomáš Iser, Jaroslav Křivánek, Elena Sikudova*
 
@@ -44,7 +44,7 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 **Path Guiding with Vertex Triplet Distributions**  
 *Vincent Schüßler, Johannes Hanika, Alisa Jung, Carsten Dachsbacher*
 
-**Double Scattering Next Event Estimation**  
+**Once-more scattered next event estimation for volume rendering**  
 *Johannes Hanika, Andrea Weidlich, Marc Droske*
 
 **Temporally sliced photon primitives for time-of-flight rendering**  
@@ -192,7 +192,7 @@ Jump to <a href="#day1">Day 1</a> <a href="#day2">Day 2</a>
 
 ### Patterns and Noises (3:30 pm to 4:15 pm)
 
-**By-Example Point Pattern Synthesis using Gabor Features**  
+**Point-Pattern Synthesis using Gabor and Random Filters**  
 *Xingchang Huang, Pooran Memari,  Hans-Peter Seidel, Gurprit Singh*
 
 **Spatiotemporal Blue Noise Masks**  
@@ -205,4 +205,3 @@ Jump to <a href="#day1">Day 1</a> <a href="#day2">Day 2</a>
 ### Closing remarks (5:30 pm to 5:45 pm)
 
 
-### 
