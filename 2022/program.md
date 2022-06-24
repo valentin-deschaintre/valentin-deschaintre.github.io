@@ -85,7 +85,7 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 
 **Break** to change venue
 
-### Reception
+### Get together with wine and cheese (7pm)
 
 <a name="day2" />
 
@@ -142,6 +142,10 @@ Jump to <a href="#day1">Day 1</a> <a href="#day3">Day 3</a>
 **Break** 30 min
 
 ### Keynote  by Jules Urbach (5 pm to 6 pm)
+
+**Break to change venue**  
+
+### Reception in Strahov Monastery Brewery (7:30 pm)
 
 <a name="day3" />
 
