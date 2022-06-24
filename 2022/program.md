@@ -19,6 +19,8 @@ year: 2022
 	}
 </style>
 
+<a name="day1" />
+
 ## Day 1 (July 4th 2022)
 Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 
@@ -81,13 +83,14 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 
 ### Keynote by Katie Bouman (5 pm to 6 pm) 
 
-**Break**
+**Break** to change venue
 
-**Reception**
+### Reception
 
 <a name="day2" />
 
 ## Day 2 (July 5th 2022)
+Jump to <a href="#day1">Day 1</a> <a href="#day3">Day 3</a>
 
 ### Industry track (9 am to 10 am)
 
@@ -143,6 +146,7 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 <a name="day3" />
 
 ## Day 3 (July 6th 2022)
+Jump to <a href="#day1">Day 1</a> <a href="#day2">Day 2</a>
 
 ### Neural Rendering (9 am to 10 am)
 
