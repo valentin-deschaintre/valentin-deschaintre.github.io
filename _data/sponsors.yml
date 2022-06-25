@@ -27,6 +27,11 @@
     image: img/2022/huawei.png
     level: silver
 
+  - name: Unity
+    url: https://unity.com
+    image: img/2022/unity.png
+    level: silver
+
 2021:
   show: true
   num_columns: 2
