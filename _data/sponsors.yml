@@ -32,6 +32,11 @@
     image: img/2022/unity.png
     level: silver
 
+  - name: Autodesk
+    url: https://www.autodesk.com
+    image: img/2022/autodesk.png
+    level: silver
+
 2021:
   show: true
   num_columns: 2
