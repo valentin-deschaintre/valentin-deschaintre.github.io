@@ -22,7 +22,12 @@ year: 2022
 <a name="day1" />
 
 ## Day 1 (July 4th 2022)
-Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
+
+<ul class="pagination">
+    <li class="active"><a href="#day1">Day 1</a></li>
+    <li class=""><a href="#day2">Day 2</a></li>
+    <li class=""><a href="#day3">Day 3</a></li>
+</ul>
 
 ### Opening statement (9 am to 9:20 am)
 
@@ -86,11 +91,21 @@ Jump to <a href="#day2">Day 2</a> <a href="#day3">Day 3</a>
 **Break** to change venue
 
 ### Get together with wine and cheese (7pm)
+Location: Ceremonial hall in the building of the Computer Science section at Malostranské náměstí 25. First floor.<br>
+If you arrive by tram and you look across the square towards the big dome, then the entrance is on the bottom right (northeast corner of the building).
+
+<div class="alert alert-info">
+Take tram 15 from Náměstí Republiky tram station to Malostranské náměstí (see <a href="/2022/local-information#map">map</a>)
+</div>
 
 <a name="day2" />
 
 ## Day 2 (July 5th 2022)
-Jump to <a href="#day1">Day 1</a> <a href="#day3">Day 3</a>
+<ul class="pagination">
+    <li class=""><a href="#day1">Day 1</a></li>
+    <li class="active"><a href="#day2">Day 2</a></li>
+    <li class=""><a href="#day3">Day 3</a></li>
+</ul>
 
 ### Industry track (9 am to 10 am)
 
@@ -143,14 +158,23 @@ Jump to <a href="#day1">Day 1</a> <a href="#day3">Day 3</a>
 
 ### Keynote  by Jules Urbach (5 pm to 6 pm)
 
-**Break to change venue**  
+### Historic Tram Ride (6:20 pm)
+Meeting time 18:20, tram leaves 18:30 sharp! We cannot hold up the local traffic.
+<div class="alert alert-info">
+Please be on time at the meeting spot Náměstí Republiky tram station (see <a href="/2022/local-information#map">map</a>)
+</div>
 
 ### Reception in Strahov Monastery Brewery (7:30 pm)
 
 <a name="day3" />
 
 ## Day 3 (July 6th 2022)
-Jump to <a href="#day1">Day 1</a> <a href="#day2">Day 2</a>
+<ul class="pagination">
+    <li class=""><a href="#day1">Day 1</a></li>
+    <li class=""><a href="#day2">Day 2</a></li>
+    <li class="active"><a href="#day3">Day 3</a></li>
+</ul>
+
 
 ### Neural Rendering (9 am to 10 am)
 
