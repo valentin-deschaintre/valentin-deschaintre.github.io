@@ -37,6 +37,11 @@
     image: img/2022/autodesk.png
     level: silver
 
+  - name: NVIDIA
+    url: https://www.nvidia.com
+    image: img/2020/sponsors/logo_nvidia.png
+    level: paperAward
+
 2021:
   show: true
   num_columns: 2
