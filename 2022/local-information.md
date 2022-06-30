@@ -106,12 +106,20 @@ If you're looking for current cultural events visit [goout.net](https://goout.ne
 | No                   | Ne                  |                      |
 | Goodbye              | Nashledanou         | Naskledanou (Naskle) |
 
+### Good behaviour
+ - Escalators: Stand on the right, walk on the left.
+ - Trams, Metro: Let people out, before you enter.
+ - Free up seats (marked, close to the door) for elderly and pregnant women in public transport.
+ - Help lifting strollers into the tram.
+ - Trams have absolute priority in traffic. Beware when crossing the tracks - especially in front of a standing tram - **they will run you over** (or at least ring at you).
+ - Tips are not included. Common tips are 10-15% or rounding up (5-10 CZK).
+
 ### Bars and Restaurants
 We have collected a number of recommendations for restaurants, bars and pubs in this interactive map below. There are some for the touristy city center, but most of them are further outside to give you an impression of the real Prague. We encourage you to explore the city beyond the tourist attractions - hop on a tram and make use of your ticket!
 
 <div class="alert alert-info">
 <i class="fa-solid fa-circle-info"></i>
-Use the menu on the top-right of the map to enable the category you are interested in.
+Use the menu on the top-right of the map to enable the category you are interested in.<br>Click on points, lines and areas for a popup.
 </div>
 <div id="map" class="leaflet-container" />
 <script src="/2022/map.js"></script>
