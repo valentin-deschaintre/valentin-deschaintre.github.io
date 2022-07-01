@@ -116,7 +116,7 @@ Or take a beautiful <a href="https://en.mapy.cz/s/panujemada">30 minute walk acr
 *Atsushi Yoshimura, Yusuke Tokuyoshi, Takahiro Harada*
 
 **Generalized Decoupled and Object Space Shading System**  
-*Mark Jarzynski, Dan Baker*
+*Dan Baker, Mark Jarzynski*
 
 **GAN-based Defect Image Generation for Imbalanced Defect Classification of OLED panels**  
 *Yongmoon Jeon, Haneol Kim, Hyeona Lee, Seonghoon Jo, Jaewon Kim*
@@ -233,6 +233,6 @@ Please be on time at the meeting spot Náměstí Republiky tram station (see <a 
 
 ### Keynote by Gordon Wetzstein (4:30 pm to 5:30 pm)
 
-### Closing remarks (5:30 pm to 5:45 pm)
+### Closing and Best Paper Award (5:30 pm to 5:45 pm)
 
 
