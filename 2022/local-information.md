@@ -112,7 +112,10 @@ If you're looking for current cultural events visit [goout.net](https://goout.ne
  - Free up seats (marked, close to the door) for elderly and pregnant women in public transport.
  - Help lifting strollers into the tram.
  - Trams have absolute priority in traffic. Beware when crossing the tracks - especially in front of a standing tram - **they will run you over** (or at least ring at you).
- - Tips are not included. Common tips are 10-15% or rounding up (5-10 CZK).
+ - Tips are not included but also not compulsory. Common tips are 10-15% or rounding up (5-10 CZK).
+ - Don't enter parks on rented scooters ("No Segway" signage). This is a plague.
+ - Be a real local: If you spot the [orange maintenance tram](https://www.dpp.cz/en/entertainment-and-experience/events-and-attractions/lubricating-tram) take a picture. PRG ❤️ its oiling tram - to the point where it has a live webcam on the back.
+ - Keep quiet after 10pm.
 
 ### Bars and Restaurants
 We have collected a number of recommendations for restaurants, bars and pubs in this interactive map below. There are some for the touristy city center, but most of them are further outside to give you an impression of the real Prague. We encourage you to explore the city beyond the tourist attractions - hop on a tram and make use of your ticket!
