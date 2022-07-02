@@ -74,7 +74,7 @@ The conference takes place at the Philosophical Faculty of Charles University at
     <div class="thumbnail">
       <img src="/2022/img/Celetna20_entry-3.jpg">
       <div class="caption">
-        <span class="lead"><span class="label label-primary">3</span></span> and take the glass door at the end.
+        <span class="lead"><span class="label label-primary">3</span></span> and take the glass door at the end. In the small courtyard go through the arch on the right.
       </div>
     </div>
   </div>
@@ -83,7 +83,7 @@ The conference takes place at the Philosophical Faculty of Charles University at
     <div class="thumbnail">
       <img src="/2022/img/Celetna20_entry-4.jpg">
       <div class="caption">
-        <span class="lead"><span class="label label-primary">4</span></span>  Turn right and pass the gate.
+        <span class="lead"><span class="label label-primary">4</span></span> Go through the short passage behind it, to the next courtyard.
       </div>
     </div>
   </div>
@@ -92,7 +92,7 @@ The conference takes place at the Philosophical Faculty of Charles University at
     <div class="thumbnail">
       <img src="/2022/img/Celetna20_entry-5.jpg">
       <div class="caption">
-        <span class="lead"><span class="label label-primary">5</span></span> Pass the courtyard straight ...
+        <span class="lead"><span class="label label-primary">5</span></span> Walk to the other end of this courtyard ...
       </div>
     </div>
   </div>
