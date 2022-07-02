@@ -45,7 +45,7 @@ Collect your badge at the registration desk in the [conference venue](/2022/loca
 
 **Break** 15 min
 
-### Global Illumination (10:30 am to 12 noon)
+### Global Illumination (10:30 am to noon)
 
 **Dynamic Diffuse Global Illumination Resampling (CGF paper presentation)**  
 *Zander Majercik, Thomas Müller, Alexander Keller, Derek Nowrouzezahrai, Morgan McGuire*
