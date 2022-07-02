@@ -141,7 +141,7 @@ We recommend you **get the 3-day / 72 hours ticket** for 330 CZK / 13 €, which
 Buy an (at least) 90 minute ticket at one of the two DPP (Prague transport) information centers, or at the yellow vending machine on the bus stop. You can already use your 72hours ticket for that too. There is an Airport Express (AE) bus line to the main train station, but for an extra fee. We (and the [Honest Guide](https://www.youtube.com/watch?v=57WeRN0Nrb4)) recommend the following route:
 
 <div class="alert alert-info">
-Take bus 119 (every 2-5 minutes) to Nádraží Veleslavín (final stop), transfer to green Metro <span class="label label-success">A</span> in the direction Hostivař (right side when you come down) to get to the city center (Staroměstská, Můstek (connection to <span class="label label-warning">B</span>), Muzeum (connection to <span class="label label-danger">C</span>)).
+Take bus 119 (every 2-5 minutes) to Nádraží Veleslavín (final stop), transfer to green Metro <span class="label label-success">A</span> in the direction Skalka/Hostivař (right side when you come down) to get to the city center (Staroměstská, Můstek (connection to <span class="label label-warning">B</span>), Muzeum (connection to <span class="label label-danger">C</span>)).
 </div>
 
 ### Taxis

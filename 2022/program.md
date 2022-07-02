@@ -101,7 +101,7 @@ Location: Ceremonial hall in the building of the Computer Science section at Mal
 If you arrive by tram and you look across the square towards the big dome, then the entrance is on the bottom right (northeast corner of the building).
 
 <div class="alert alert-info">
-Take tram 15 from Náměstí Republiky tram station to Malostranské náměstí (see <a href="/2022/local-information#map">map</a>). The tram leaves :00, :15, :30, :45 or check the <a href="https://www.dpp.cz/en/current-departures?cis=47133&ds=N%C3%A1m%C4%9Bst%C3%AD%20Republiky">live departures</a> for 15 (on platform B). <br>
+Take tram 15 from Náměstí Republiky tram station to Malostranské náměstí (see <a href="/2022/local-information#map">map</a>). The tram leaves :01, :11, :21, :31, :41, :51 or check the <a href="https://www.dpp.cz/en/current-departures?cis=47133&ds=N%C3%A1m%C4%9Bst%C3%AD%20Republiky">live departures</a> for 15 (on platform B). <br>
 Or take a beautiful <a href="https://en.mapy.cz/s/panujemada">30 minute walk across Charles Bridge</a>: Walk west-wards towards the castle and you can't miss it.
 </div>
 
