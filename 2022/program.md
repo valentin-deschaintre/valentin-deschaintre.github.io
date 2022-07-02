@@ -21,13 +21,17 @@ year: 2022
 
 <a name="day1" />
 
-## Day 1 (July 4th 2022)
+## Monday (July 4th 2022)
 
 <ul class="pagination">
-    <li class="active"><a href="#day1">Day 1</a></li>
-    <li class=""><a href="#day2">Day 2</a></li>
-    <li class=""><a href="#day3">Day 3</a></li>
+    <li class="active"><a href="#day1">Monday</a></li>
+    <li class=""><a href="#day2">Tuesday</a></li>
+    <li class=""><a href="#day3">Wednesday</a></li>
 </ul>
+
+### Registration opens (8 am)
+
+Collect your badge at the registration desk in the [conference venue](/2022/local-information#conference-venue). If possible, plan for an arrival till 8:30.
 
 ### Opening statement (9 am to 9:20 am)
 
@@ -103,11 +107,11 @@ Or take a beautiful <a href="https://en.mapy.cz/s/panujemada">30 minute walk acr
 
 <a name="day2" />
 
-## Day 2 (July 5th 2022)
+## Tuesday (July 5th 2022)
 <ul class="pagination">
-    <li class=""><a href="#day1">Day 1</a></li>
-    <li class="active"><a href="#day2">Day 2</a></li>
-    <li class=""><a href="#day3">Day 3</a></li>
+    <li class=""><a href="#day1">Monday</a></li>
+    <li class="active"><a href="#day2">Tuesday</a></li>
+    <li class=""><a href="#day3">Wednesday</a></li>
 </ul>
 
 ### Industry track (9 am to 10 am)
@@ -171,11 +175,11 @@ Please be on time at the meeting spot Náměstí Republiky tram station (see <a 
 
 <a name="day3" />
 
-## Day 3 (July 6th 2022)
+## Wednesday (July 6th 2022)
 <ul class="pagination">
-    <li class=""><a href="#day1">Day 1</a></li>
-    <li class=""><a href="#day2">Day 2</a></li>
-    <li class="active"><a href="#day3">Day 3</a></li>
+    <li class=""><a href="#day1">Monday</a></li>
+    <li class=""><a href="#day2">Tuesday</a></li>
+    <li class="active"><a href="#day3">Wednesday</a></li>
 </ul>
 
 
