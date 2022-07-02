@@ -51,6 +51,65 @@ year: 2022
 
 ## Conference Venue
 
+The conference takes place at the Philosophical Faculty of Charles University at <code>Celetná 20</code> right in the city center of old town Prague 1 (see [map](#map) below). This building is known for its kafkaesque labyrinth structure, so we assembled you a guide to find the registration and the <span class="lead"><span class="label label-primary">blue lecture hall</span></span> (modrá posluchárna).
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="/2022/img/Celetna20_entry-1.jpg">
+      <div class="caption">
+        <span class="lead"><span class="label label-primary">1</span></span> Take the big wooden double door at house number 20.
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="/2022/img/Celetna20_entry-2.jpg">
+      <div class="caption">
+        <span class="lead"><span class="label label-primary">2</span></span> Cross the hallway straight ...
+      </div>
+    </div>
+  </div>
+  <div class="clearfix visible-sm hidden-md hidden-lg"></div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="/2022/img/Celetna20_entry-3.jpg">
+      <div class="caption">
+        <span class="lead"><span class="label label-primary">3</span></span> and take the glass door at the end.
+      </div>
+    </div>
+  </div>
+  <div class="clearfix hidden-sm visible-md visible-lg"></div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="/2022/img/Celetna20_entry-4.jpg">
+      <div class="caption">
+        <span class="lead"><span class="label label-primary">4</span></span>  Turn right and pass the gate.
+      </div>
+    </div>
+  </div>
+  <div class="clearfix visible-sm hidden-md hidden-lg"></div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="/2022/img/Celetna20_entry-5.jpg">
+      <div class="caption">
+        <span class="lead"><span class="label label-primary">5</span></span> Pass the courtyard straight ...
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="/2022/img/Celetna20_entry-6.jpg">
+      <div class="caption">
+        <span class="lead"><span class="label label-primary">6</span></span> until you arrive at the EGSR 2022 venue.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="alert alert-info" role="alert">
+<i class="fa-solid fa-circle-info"></i>This is also where <a href="http://egsr2011.mff.cuni.cz/">EGSR 2011</a> took place if any of you remember.
+</div>
+
 ## Payments
 Czech Republic uses it's own currency, the Czech Krown (CZK, Kč). The exchange rate is about 1€ <=> 25 CZK, so as a quick conversion help, you can multiply by four to get the amount in Euro cents. Here is a handy conversion table:
 
