@@ -90,7 +90,7 @@ Collect your badge at the registration desk in the [conference venue](/2022/loca
 
 **Break** 30 min
 
-### Keynote by Katie Bouman (5 pm to 6 pm) 
+### [Keynote by Katie Bouman](/2022/keynotes#katie) (5 pm to 6 pm) 
 
 **Break** to change venue
 
@@ -163,7 +163,7 @@ Or take a beautiful <a href="https://en.mapy.cz/s/panujemada">30 minute walk acr
 
 **Break** 30 min
 
-### Keynote  by Jules Urbach (5 pm to 6 pm)
+### [Keynote by Jules Urbach](/2022/keynotes#jules) (5 pm to 6 pm)
 
 ### Historic Tram Ride (6:20 pm)
 Meeting time 18:20, tram leaves 18:30 sharp! We cannot hold up the local traffic.
@@ -235,7 +235,7 @@ Please be on time at the meeting spot Náměstí Republiky tram station (see <a 
 
 **Break** 15 min
 
-### Keynote by Gordon Wetzstein (4:30 pm to 5:30 pm)
+### [Keynote by Gordon Wetzstein](/2022/keynotes#gordon) (4:30 pm to 5:30 pm)
 
 ### Closing and Best Paper Award (5:30 pm to 5:45 pm)
 

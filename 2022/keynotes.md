@@ -16,7 +16,7 @@ year: 2022
 <div id="program" class="row-xs-12">
 {% assign allKeynotes = site.data.keynotes[year]  | sort: 'keynote_id' %}
 
-	<div class="session-content" id="{{keynote.keynote_id}}" >
+	<div class="session-content">
 
 		<div class="session-talks" >
 				{% for keynote in allKeynotes %}
@@ -24,7 +24,7 @@ year: 2022
 
 					<div>
 
-						<h3  style="overflow: auto;"><span style="float: left; margin-top: 10px; margin-right: 10px;">{{keynote.title}}</span> 
+						<h3 id="{{keynote.speaker | truncatewords: 1, "" | downcase}}" style="overflow: auto;"><span style="float: left; margin-top: 10px; margin-right: 10px;">{{keynote.title}}</span> 
 						</h3>
 						<h4>{{keynote.speaker}}</h4>
 
