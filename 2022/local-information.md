@@ -131,7 +131,7 @@ Or take a beautiful <a href="https://en.mapy.cz/s/panujemada">30 minute walk acr
 </div>
 
 ## Payments
-Czech Republic uses it's own currency, the Czech Krown (CZK, Kč). The exchange rate is about 1€ <=> 25 CZK, so as a quick conversion help, you can multiply by four to get the amount in Euro cents. Here is a handy conversion table:
+Czech Republic uses it's own currency, the Czech Krown (CZK, Kč). The exchange rate is about 1€ ≈ 25 CZK, so as a quick conversion help, you can multiply by four to get the amount in Euro cents. Here is a handy conversion table:
 
 | CZK  | Euro |
 |------|------|
