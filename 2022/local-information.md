@@ -107,7 +107,27 @@ The conference takes place at the Philosophical Faculty of Charles University at
 </div>
 
 <div class="alert alert-info" role="alert">
-<i class="fa-solid fa-circle-info"></i>This is also where <a href="http://egsr2011.mff.cuni.cz/">EGSR 2011</a> took place if any of you remember.
+<i class="fa-solid fa-circle-info"></i> This is also where <a href="http://egsr2011.mff.cuni.cz/">EGSR 2011</a> took place if any of you remember.
+</div>
+
+## Reception Venue
+The conference reception takes place in the *Refectory* - a ceremonial hall -  at <code>Malostranské náměstí 25</code> (see [map](#map) below) on Monday 7pm. The building is an old monastery from the 17th century and now home to the computer science section of Charles University.
+
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="/img/2022/MalostranskeNam25_entry.jpg">
+      <div class="caption">
+        Take the door on the right, when you look across the square. The entrance is at the north-east corner of the building.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="alert alert-info">
+<i class="fa-solid fa-compass"></i> 
+Take tram 15 from Náměstí Republiky tram station to Malostranské náměstí (see <a href="/2022/local-information#map">map</a>). The tram leaves 18:21, 18:31, 18:41, 18:51, 19:01, 19:11 or check the <a href="https://www.dpp.cz/en/current-departures?cis=47133&ds=N%C3%A1m%C4%9Bst%C3%AD%20Republiky">live departures</a> for 15 (on platform B). <br>
+Or take a beautiful <a href="https://en.mapy.cz/s/panujemada">30 minute walk across Charles Bridge</a>: Walk west-wards towards the castle and you can't miss it.
 </div>
 
 ## Payments
