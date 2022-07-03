@@ -55,7 +55,7 @@ The conference takes place at the Philosophical Faculty of Charles University at
 <div class="row">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="/2022/img/Celetna20_entry-1.jpg">
+      <img src="/img/2022/Celetna20_entry-1.jpg">
       <div class="caption">
         <span class="lead"><span class="label label-primary">1</span></span> Take the big wooden double door at house number 20.
       </div>
@@ -63,7 +63,7 @@ The conference takes place at the Philosophical Faculty of Charles University at
   </div>
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="/2022/img/Celetna20_entry-2.jpg">
+      <img src="/img/2022/Celetna20_entry-2.jpg">
       <div class="caption">
         <span class="lead"><span class="label label-primary">2</span></span> Cross the hallway straight ...
       </div>
@@ -72,7 +72,7 @@ The conference takes place at the Philosophical Faculty of Charles University at
   <div class="clearfix visible-sm hidden-md hidden-lg"></div>
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="/2022/img/Celetna20_entry-3.jpg">
+      <img src="/img/2022/Celetna20_entry-3.jpg">
       <div class="caption">
         <span class="lead"><span class="label label-primary">3</span></span> and take the glass door at the end. In the small courtyard go through the arch on the right.
       </div>
@@ -81,7 +81,7 @@ The conference takes place at the Philosophical Faculty of Charles University at
   <div class="clearfix hidden-sm visible-md visible-lg"></div>
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="/2022/img/Celetna20_entry-4.jpg">
+      <img src="/img/2022/Celetna20_entry-4.jpg">
       <div class="caption">
         <span class="lead"><span class="label label-primary">4</span></span> Go through the short passage behind it, to the next courtyard.
       </div>
@@ -90,7 +90,7 @@ The conference takes place at the Philosophical Faculty of Charles University at
   <div class="clearfix visible-sm hidden-md hidden-lg"></div>
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="/2022/img/Celetna20_entry-5.jpg">
+      <img src="/img/2022/Celetna20_entry-5.jpg">
       <div class="caption">
         <span class="lead"><span class="label label-primary">5</span></span> Walk to the other end of this courtyard ...
       </div>
@@ -98,7 +98,7 @@ The conference takes place at the Philosophical Faculty of Charles University at
   </div>
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
-      <img src="/2022/img/Celetna20_entry-6.jpg">
+      <img src="/img/2022/Celetna20_entry-6.jpg">
       <div class="caption">
         <span class="lead"><span class="label label-primary">6</span></span> until you arrive at the EGSR 2022 venue.
       </div>
