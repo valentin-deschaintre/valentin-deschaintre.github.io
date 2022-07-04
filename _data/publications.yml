@@ -1,5 +1,66 @@
 papers:
 
+- title: "TileGen: Tileable, Controllable Material Generation and Capture"
+  authors: 
+    - "Xilong Zhou"
+    - "Milos Hasan"
+    - "Valentin Deschaintre"
+    - "Paul Guerrero"
+    - "Kalyan Sunkavalli"
+    - "Nima Kalantari"
+  abstract: "Recent methods (e.g. MaterialGAN) have used unconditional GANs to generate per-pixel material maps, or as a prior to reconstruct materials from input photographs. These models can generate varied random material appearance, but do not have any mechanism to constrain the generated material to a specific category or to control the coarse structure of the generated material, such as the exact brick layout on a brick wall. Furthermore, materials reconstructed from a single input photo commonly have artifacts and are generally not tileable, which limits their use in practical content creation pipelines. We propose TileGen, a generative model for SVBRDFs that is specific to a material category, always tileable, and optionally conditional on a provided input structure pattern.  TileGen is a variant of StyleGAN whose architecture is modified to always produce tileable (periodic) material maps. In addition to the standard 'style' latent code, TileGen can optionally take a condition image, giving a user direct control over the dominant spatial (and optionally color) features of the material. For example, in brick materials, the user can specify a brick layout and the brick color, or in leather materials, the locations of wrinkles and folds. Our inverse rendering approach can find a material perceptually matching a single target photograph by optimization. This reconstruction can also be conditional on a user-provided pattern. The resulting materials are tileable, can be larger than the target image, and are editable by varying the condition."
+  full_teaser: "img/tileGen.jpg"
+  square_teaser: "img/tileGen.jpg"
+  date: "2022-06"
+  paper_link: "https://arxiv.org/pdf/2206.05649"
+  website_link: "https://arxiv.org/abs/2206.05649"
+  citation: "TileGen: Tileable, Controllable Material Generation and Capture. Xilong Zhou, Miloš Hašan, Valentin Deschaintre, Paul Guerrero, Kalyan Sunkavalli, Nima Kalantari, Arxiv, Jun 2022"
+
+
+- title: "Node Graph Optimization Using Differentiable Proxies"
+  authors: 
+    - "Yiwei Hu"
+    - "Paul Guerrero"
+    - "Milos Hasan"
+    - "Holly Rushmeier"
+    - "Valentin Deschaintre"
+  abstract: "Graph-based procedural materials are ubiquitous in content production industries. Procedural models allow the creation of photorealistic materials with parametric control for flexible editing of appearance. However, designing a specific material is a time-consuming process in terms of building a model and fine-tuning parameters. Previous work [Hu et al. 2022; Shi et al. 2020] introduced material graph optimization frameworks for matching target material samples. However, these previous methods were limited to optimizing differentiable functions in the graphs. In this paper, we propose a fully differentiable framework which enables end-to-end gradient based optimization of material graphs, even if some functions of the graph are non-differentiable. We leverage the Differentiable Proxy, a differentiable approximator of a non-differentiable black-box function. We use our framework to match structure and appearance of an output material to a target material, through a multi-stage differentiable optimization. Differentiable Proxies offer a more general optimization solution to material appearance matching than previous work."
+  full_teaser: "img/siggraph22.jpg"
+  square_teaser: "img/siggraph22.jpg"
+  date: "2022-08"
+  paper_link: "https://yiweihu.netlify.app/publication/node-graph-optimization-using-differentiable-proxies/"
+  website_link: "https://yiweihu.netlify.app/publication/node-graph-optimization-using-differentiable-proxies/"
+  citation: "Node Graph Optimization Using Differentiable Proxies. Yiwei Hu, Paul Guerrero, Miloš Hašan, Holly Rushmeier, Valentin Deschaintre, Siggraph, August 2022"
+
+- title: "Controlling Material Appearance by Examples"
+  authors: 
+    - "Yiwei Hu"
+    - "Milos Hasan"
+    - "Paul Guerrero"
+    - "Holly Rushmeier"
+    - "Valentin Deschaintre"
+  abstract: "Despite the ubiquitousness of materials maps in modern rendering pipelines, their editing and control remains a challenge. In this paper, we present an example-based material control method to augment input material maps based on user-provided material photos. We train a tileable version of MaterialGAN and leverage its material prior to guide the appearance transfer, optimizing its latent space using differentiable rendering. Our method transfers the micro and meso-structure textures of user provided target(s) photographs, while preserving the structure of the input and quality of the input material. We show our methods can control existing material maps, increasing realism or generating new, visually appealing materials."
+  full_teaser: "img/egsr22.jpg"
+  square_teaser: "img/egsr22.jpg"
+  date: "2022-07"
+  paper_link: "https://graphics.cs.yale.edu/sites/default/files/controlling_material_appearance_by_examples_preprint.pdf"
+  website_link: "https://yiweihu.netlify.app/publication/controlling-material-appearance-by-examples/"
+  citation: "Controlling Material Appearance by Examples. Yiwei Hu, Miloš Hašan, Paul Guerrero, Holly Rushmeier, Valentin Deschaintre, Computer Graphics Forum (Eurographics Symposium on Rendering Conference Proceedings), July 2022"
+
+- title: "Spectral Upsampling Approaches for RGB Illumination"
+  authors: 
+    - "Claudio Guarnera"
+    - "Yuliya Gitlina"
+    - "Valentin Deschaintre"
+    - "Abhijeet Ghosh"
+  abstract: "We present two practical approaches for high fidelity spectral upsampling of previously recorded RGB illumination in the form of an image-based representation such as an RGB light probe. Unlike previous approaches that require multiple measurements with a spectrometer or a reference color chart under a target illumination environment, our method requires no additional information for the spectral upsampling step. Instead, we construct a data-driven basis of spectral distributions for incident illumination from a set of six RGBW LEDs (three narrowband and three broadband) that we employ to represent a given RGB color using a convex combination of the six basis spectra. We propose two different approaches for estimating the weights of the convex combination using – (a) genetic algorithm, and (b) neural networks. We additionally propose a theoretical basis consisting of a set of narrow and broad Gaussians as a generalization of the approach, and also evaluate an alternate LED basis for spectral upsampling. We achieve good qualitative matches of the predicted illumination spectrum using our spectral upsampling approach to ground truth illumination spectrum while achieving near perfect matching of the RGB color of the given illumination in the vast majority of cases. We demonstrate that the spectrally upsampled RGB illumination can be employed for various applications including improved lighting reproduction as well as more accurate spectral rendering."
+  full_teaser: "img/egsr_claudio.jpg"
+  square_teaser: "img/egsr_claudio.jpg"
+  date: "2022-06"
+  paper_link: "https://diglib.eg.org/bitstream/handle/10.2312/sr20221150/001-012.pdf?sequence=1&isAllowed=y"
+  website_link: "https://diglib.eg.org/handle/10.2312/sr20221150"
+  citation: "Spectral Upsampling Approaches for RGB Illumination. Claudio Giuseppe Guarnera, Yuliya Gitlina, Valentin Deschaintre, Abhijeet Ghosh, Eurographics Symposium on Rendering - Symposium Track, July 2022"
+
 
 - title: "An Inverse Procedural Modeling Pipeline for SVBRDF Maps"
   authors: 
@@ -11,9 +72,9 @@ papers:
   abstract: "Procedural modeling is now the de facto standard of material modeling in industry. Procedural models can be edited and are easily extended, unlike pixel-based representations of captured materials. In this paper, we present a semi-automatic pipeline for general material proceduralization. Given Spatially-Varying Bidirectional Reflectance Distribution Functions (SVBRDFs) represented as sets of pixel maps, our pipeline decomposes them into a tree of sub-materials whose spatial distributions are encoded by their associated mask maps. This semi-automatic decomposition of material maps progresses hierarchically, driven by our new spectrum-aware material matting and instance-based decomposition methods. Each decomposed sub-material is proceduralized by a novel multi-layer noise model to capture local variations at different scales. Spatial distributions of these sub-materials are modeled either by a by-example inverse synthesis method recovering Point Process Texture Basis Functions (PPTBF) or via random sampling. To reconstruct procedural material maps, we propose a differentiable rendering-based optimization that recomposes all generated procedures together to maximize the similarity between our procedural models and the input material pixel maps. We evaluate our pipeline on a variety of synthetic and real materials. We demonstrate our method's capacity to process a wide range of material types, eliminating the need for artist designed material graphs required in previous work. As fully procedural models, our results expand to arbitrary resolution and enable high level user control of appearance."
   full_teaser: "img/teaser_proc_21.png"
   square_teaser: "img/teaser_proc_21.png"
-  date: "2021-09"
+  date: "2022-01"
   paper_link: "https://arxiv.org/pdf/2109.06395.pdf"
-  website_link: "https://arxiv.org/abs/2109.06395/"
+  website_link: "https://yiweihu.netlify.app/publication/an-inverse-procedural-modeling-pipeline-for-svbrdf-maps/"
   citation: "An Inverse Procedural Modeling Pipeline for SVBRDF Maps. Yiwei Hu, Chengan He, Valentin Deschaintre, Julie Dorsey, Holly Rushmeier, ACM Trans Graph, April 2022 (Proc. SIGGRAPH 2022)"
 
 
