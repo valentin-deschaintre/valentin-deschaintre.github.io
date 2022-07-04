@@ -183,20 +183,9 @@ Please be on time at the meeting spot Náměstí Republiky tram station (see <a 
 </ul>
 
 
-### Neural Rendering (9 am to 10 am)
+<div class="alert alert-danger" role="alert">Schedule has changed: first two sessions swapped.</div>
 
-**A Learned Radiance-Field Representation for Complex Luminaires**  
-*Jorge Condor, Adrián Jarabo*
-
-**Deep Flow Rendering: View Synthesis via Layer-aware Reflection Flow**  
-*Pinxuan Dai, Xie Ning*
-
-**NeuLF: Efficient Novel View Synthesis with Neural 4D Light Field**  
-*Zhong Li, Liangchen Song, Celong Liu, Junsong Yuan, Yi Xu*
-
-**Break** 30 min
-
-### High Performance Rendering (10:30 am to noon)
+### High Performance Rendering (9 am to 10 am)
 
 **A Real-Time Adaptive Ray Marching Method for Particle-Based Fluid Surface Reconstruction**  
 *Tong Wu, ZhiQiang Zhou, Anlan Wang, Yuning Gong, Yanci Zhang*
@@ -206,6 +195,19 @@ Please be on time at the meeting spot Náměstí Republiky tram station (see <a 
 
 **Efficient Rendering of Ocular Wavefront Aberrations using Tiled Point-Spread Function Splatting** (CGF paper presentation)  
 *István Csoba, Roland Kunkli*
+
+**Break** 30 min
+
+### Neural Rendering (10:30 am to noon)
+
+**A Learned Radiance-Field Representation for Complex Luminaires**  
+*Jorge Condor, Adrián Jarabo*
+
+**Deep Flow Rendering: View Synthesis via Layer-aware Reflection Flow**  
+*Pinxuan Dai, Xie Ning*
+
+**NeuLF: Efficient Novel View Synthesis with Neural 4D Light Field**  
+*Zhong Li, Liangchen Song, Celong Liu, Junsong Yuan, Yi Xu*
 
 **Lunch** 90 min
 
