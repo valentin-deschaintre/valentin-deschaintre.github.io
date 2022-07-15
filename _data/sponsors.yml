@@ -1,4 +1,18 @@
 2022:
+- name: Foundry
+  url: https://www.foundry.com/
+  image: img/2022/sponsors/logo-foundry-2x.png
+  level: silver
+
+- name: CAMERA
+  url: https://www.camera.ac.uk/
+  image: img/2022/sponsors/logo-camera-2x.png
+  level: academic
+
+- name: CVSSP
+  url: https://www.surrey.ac.uk/centre-vision-speech-signal-processing
+  image: img/2022/sponsors/logo-cvssp.png
+  level: academic
 
 2021:
 - name: ACM SIGGRAPH
