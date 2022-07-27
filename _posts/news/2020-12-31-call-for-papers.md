@@ -1,5 +1,5 @@
 ---
-layout: egsr-default
+layout: 2021/egsr-default
 categories: news
 title: Call for Papers Announced
 excerpt: EGSR 2021 Call for Papers is live

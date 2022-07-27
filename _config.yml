@@ -36,3 +36,11 @@ collections:
   session:
     output: true
     sort_by: session_id
+
+defaults:
+  # Sort News into years
+  - scope:
+      path: "_posts/news"
+      type: posts
+    values:
+      permalink: /:year/news/:title

@@ -1,9 +1,9 @@
 ---
 # permalink: /news/
-permalink: "/2022/news"
-layout: egsr-twitter
+permalink: "/2021/news"
+layout: 2021/egsr-default
 title: News
-year: 2022
+year: 2021
 ---
 
 
