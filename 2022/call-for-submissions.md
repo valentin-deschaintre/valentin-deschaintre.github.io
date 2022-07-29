@@ -19,7 +19,7 @@ We encourage participation from a diverse range of backgrounds including scienti
 {: .panel-heading}
 <div class="panel-body">
 
-| __Full Papers deadline:__ | ~~15 July 2022~~ <span style="color:red">29 July 2022 (extension)</span> |
+| __Full Papers deadline:__ | ~~15 July 2022~~ ~~29 July 2022~~ <span style="color:red">12 August 2022 (final extension)</span> |
 | __Industry Talks deadline:__ | 16 September 2022 |
 | __Short Papers deadline:__ | 16 September 2022 |
 | __Demos deadline:__ | 16 September 2022 |
