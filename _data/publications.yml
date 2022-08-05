@@ -14,7 +14,7 @@ papers:
   date: "2022-06"
   paper_link: "https://arxiv.org/pdf/2206.05649"
   website_link: "https://arxiv.org/abs/2206.05649"
-  citation: "TileGen: Tileable, Controllable Material Generation and Capture. Xilong Zhou, Miloš Hašan, Valentin Deschaintre, Paul Guerrero, Kalyan Sunkavalli, Nima Kalantari, Arxiv, Jun 2022"
+  citation: "TileGen: Tileable, Controllable Material Generation and Capture. Xilong Zhou, Miloš Hašan, Valentin Deschaintre, Paul Guerrero, Kalyan Sunkavalli, Nima Kalantari, Conditional accept at Siggraph Asia 2022"
 
 
 - title: "Node Graph Optimization Using Differentiable Proxies"
@@ -75,7 +75,7 @@ papers:
   date: "2022-01"
   paper_link: "https://arxiv.org/pdf/2109.06395.pdf"
   website_link: "https://yiweihu.netlify.app/publication/an-inverse-procedural-modeling-pipeline-for-svbrdf-maps/"
-  citation: "An Inverse Procedural Modeling Pipeline for SVBRDF Maps. Yiwei Hu, Chengan He, Valentin Deschaintre, Julie Dorsey, Holly Rushmeier, ACM Trans Graph, April 2022 (Proc. SIGGRAPH 2022)"
+  citation: "An Inverse Procedural Modeling Pipeline for SVBRDF Maps. Yiwei Hu, Chengan He, Valentin Deschaintre, Julie Dorsey, Holly Rushmeier, ACM Trans Graph, April 2022 (Presented at SIGGRAPH 2022)"
 
 
 - title: "Generative Modelling of BRDF Textures from Flash Images"

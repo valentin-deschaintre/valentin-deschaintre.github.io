@@ -49,9 +49,9 @@ function choosePic() {
 		I am currently a Research Scientist at Adobe Research in the London lab. I previously was an Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
 		I received my PhD at Inria Sophia-Antipolis from the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a> in collaboration with Optis, an Ansys affiliate. My Thesis received the French Computer Graphics Thesis Award 2020 and UCA Academic Excellence Thesis Award 2020<br>
 		During my PhD, I spent 2 great months in MIT under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
-		<b>My research focuses on material and shape (appearance) acquisition, creation, editing and representation, leveraging deep learning methods for virtual environments.</b> <br><br>
+		<b>My research focuses on inverse rendering, with a special focus on appearance acquisition, creation, editing and representation for virtual environments.</b> <br><br>
 
-		<img src='img/new.gif' alt='new'/> I will be attending Eurographics and Siggraph 2022, don't hesitate to reach out if you would like to meet there.
+		<img src='img/new.gif' alt='new'/> I will be attending Siggraph 2022, don't hesitate to reach out if you would like to meet there.
 
 		
 		
@@ -152,9 +152,9 @@ function choosePic() {
 	<h3>Community activities</h3>
 	<ul>
 		<li>Committee member: <a href="https://research.siggraph.org/">SIGGRAPH Research Career Development Committee, Siggraph Thesis Fast Forward Steering Committee</a>, <a href="https://www.cvmp-conference.org/2022/">Industry Chair CVMP 2022</a> </li>
-		<li>Program commitee member: <a href="https://www.cvcs.no/">CVCS 2020</a>, <a href="https://egsr.eu/2021/">EGSR 2021</a>, <a href="https://egsr.eu/2022/">EGSR 2022</a></li>
-		<li>Journal Reviewer: <a href="https://dl.acm.org/journal/tog">Transactions On Graphics</a>, <a href="https://www.computer.org/csdl/journal/tg">TVCG</a>, <a href="https://onlinelibrary.wiley.com/journal/14678659">CGF</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE TPAMI</a></li>
-		<li>Tertiary Reviewer: <a href="https://sa2020.siggraph.org/">Siggraph Asia 2019, 2020, 2021</a>, <a href="https://s2021.siggraph.org/">Siggraph 2020, 2021, 2022</a>, <a href="https://conferences.eg.org/eg2021/">Eurographics 2020, 2021, 2022</a>, <a href="http://iccv2021.thecvf.com/home">ICCV 2021</a>, <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a></li>
+		<li>Program commitee member: <a href="https://www.cvcs.no/">CVCS 2020</a>, <a href="https://egsr.eu/2021/">EGSR 2021</a>, <a href="https://egsr.eu/2022/">EGSR 2022</a>, <a href="https://eg2023.saarland-informatics-campus.de/">Eurographics 2023</a><</li>
+		<li>Journal Reviewer: <a href="https://dl.acm.org/journal/tog">Transactions On Graphics</a>, <a href="https://www.computer.org/csdl/journal/tg">TVCG</a>, <a href="https://onlinelibrary.wiley.com/journal/14678659">CGF</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE TPAMI</a>, <a href="https://www.journals.elsevier.com/graphics-and-visual-computing">Graphics and Visual Computing</a></li>
+		<li>Tertiary Reviewer: <a href="https://sa2020.siggraph.org/">Siggraph Asia 2019, 2020, 2021</a>, <a href="https://s2022.siggraph.org/">Siggraph 2020, 2021, 2022</a>, <a href="https://conferences.eg.org/eg2021/">Eurographics 2020, 2021, 2022</a>, <a href="http://iccv2021.thecvf.com/home">ICCV 2021</a>, <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a></li>
 		<li>Website administrator and volunteer <a href="https://egsr2020.london/">EGSR 2020</a></li>
 	</ul>
 
