@@ -20,6 +20,9 @@ We encourage participation from a diverse range of backgrounds including scienti
 <div class="panel-body">
 
 | __Full Papers deadline:__ | ~~15 July 2022~~ ~~29 July 2022~~ <span style="color:red">12 August 2022 (final extension)</span> |
+| - Review deadline: | 22 September 2022 |
+| - Author notification: | 26 September 2022 |
+| - Camera-ready submission deadline: | 7 October 2022 |
 | __Industry Talks deadline:__ | 16 September 2022 |
 | __Short Papers deadline:__ | 16 September 2022 |
 | __Demos deadline:__ | 16 September 2022 |
