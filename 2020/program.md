@@ -97,7 +97,7 @@ year: 2020
 
 
 <div id="program" class="row-xs-12">
-{% assign sessions = site.session | sort: 'start' %}
+{% assign sessions = site.session |  where: "year", "2020" | sort: 'start' %}
 {% assign allTalks = site.data.talks[year]  | sort: 'talk_id' %}
 
 {% for mySession in sessions %}
