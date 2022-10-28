@@ -51,8 +51,6 @@ function choosePic() {
 		During my PhD, I spent 2 great months in MIT under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
 		<b>My research focuses on inverse rendering, with a special focus on appearance acquisition, creation, editing and representation for virtual environments.</b> <br><br>
 
-		<img src='img/new.gif' alt='new'/> I will be attending Siggraph 2022, don't hesitate to reach out if you would like to meet there.
-
 		
 		
 	</div>
