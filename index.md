@@ -160,9 +160,9 @@ function choosePic() {
 	<h3>Community activities</h3>
 	<ul>
 		<li>Committee member: <a href="https://research.siggraph.org/">SIGGRAPH Research Career Development Committee, Siggraph Thesis Fast Forward Steering Committee</a>, <a href="https://www.cvmp-conference.org/2022/">Industry Chair CVMP 2022</a> </li>
-		<li>Program commitee member: <a href="https://www.cvcs.no/">CVCS 2020</a>, <a href="https://egsr.eu/2021/">EGSR 2021</a>, <a href="https://egsr.eu/2022/">EGSR 2022</a>, <a href="https://eg2023.saarland-informatics-campus.de/">Eurographics 2023</a></li>
+		<li>Program commitee member: <a href="https://www.cvcs.no/">CVCS 2020</a>, <a href="https://egsr.eu/2021/">EGSR 2021</a>, <a href="https://egsr.eu/2022/">EGSR 2022</a>, <a href="https://conferences.eg.org/egsr2023/">EGSR 2023</a>, <a href="https://eg2023.saarland-informatics-campus.de/">Eurographics 2023</a></li>
 		<li>Journal Reviewer: <a href="https://dl.acm.org/journal/tog">Transactions On Graphics</a>, <a href="https://www.computer.org/csdl/journal/tg">TVCG</a>, <a href="https://onlinelibrary.wiley.com/journal/14678659">CGF</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE TPAMI</a>, <a href="https://www.journals.elsevier.com/graphics-and-visual-computing">Graphics and Visual Computing</a></li>
-		<li>Tertiary Reviewer: <a href="https://sa2020.siggraph.org/">Siggraph Asia 2019, 2020, 2021</a>, <a href="https://s2022.siggraph.org/">Siggraph 2020, 2021, 2022</a>, <a href="https://conferences.eg.org/eg2021/">Eurographics 2020, 2021, 2022</a>, <a href="http://iccv2021.thecvf.com/home">ICCV 2021</a>, <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a></li>
+		<li>Tertiary Reviewer: <a href="https://sa2020.siggraph.org/">Siggraph Asia 2019, 2020, 2021, 2022</a>, <a href="https://s2022.siggraph.org/">Siggraph 2020, 2021, 2022, 2023</a>, <a href="https://conferences.eg.org/eg2021/">Eurographics 2020, 2021, 2022</a>, <a href="http://iccv2021.thecvf.com/home">ICCV 2021</a>, <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a></li>
 		<li>Website administrator and volunteer <a href="https://egsr2020.london/">EGSR 2020</a></li>
 	</ul>
 
