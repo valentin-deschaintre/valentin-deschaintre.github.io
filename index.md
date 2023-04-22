@@ -57,15 +57,17 @@ function choosePic() {
 	<h3>Internships and Collaborations</h3>
 	<div class="Introduction">
 		<b>Collaborations: </b>If you are interesting in working with me on materials and virtual environments, don't hesitate to reach out!<br><br>
-		<b>Adobe Research Internship:</b> I will be looking for strong PhD students to collaborate with for the 2023 Adobe internship program. If you are interested in interning at Adobe with me (see my research interests above), don't hesitate to reach out (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. <br><br>	
+		<b>Adobe Research Internship:</b> I will be looking for strong PhD students to collaborate with for the 204 Adobe internship program. If you are interested in interning at Adobe with me (see my research interests above), don't hesitate to reach out (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. <br><br>	
 	</div>
 	<h3>Past Interns</h3>
 
 	<div class="Introduction">
 		In recent years, I was happy to collaborate with great students in the context of Adobe's PhD Internship program!
 		<ul>
-			<li><a href='https://yiweihu.netlify.app/'>Yiwei Hu (Yale University): 2021, 2022</a></li>
+			<li><a href='http://webdiis.unizar.es/~juliagv/'>Julia Guerrero-Viu (Universidad de Zaragoza): 2023</a></li>
+			<li><a href='https://rubenwiersma.nl//'>Ruben Wiersma (Delft University): 2023</a></li>
 			<li><a href='https://prafullsharma.net/'>Prafull Sharma (MIT): 2022</a></li>
+			<li><a href='https://yiweihu.netlify.app/'>Yiwei Hu (Yale University): 2021, 2022</a> (Now at Adobe)</li>
 		</ul>
 	</div>
 	<h3>Publications</h3>

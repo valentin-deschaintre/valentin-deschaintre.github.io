@@ -1,5 +1,23 @@
 papers:
 
+
+- title: "A Semi‐Procedural Convolutional Material Prior"
+  authors: 
+    - "Xilong Zhou"
+    - "Milos Hasan"
+    - "Valentin Deschaintre"
+    - "Paul Guerrero"
+    - "Kalyan Sunkavalli"
+    - "Nima Kalantari"
+  abstract: "Lightweight material capture methods require a material prior, defining the subspace of plausible textures within the large space of unconstrained texel grids. Previous work has either used deep neural networks (trained on large synthetic material datasets) or procedural node graphs (constructed by expert artists) as such priors. In this paper, we propose a semi-procedural differentiable material prior that represents materials as a set of (typically procedural) grayscale noises and patterns that are processed by a sequence of lightweight learnable convolutional filter operations. We demonstrate that the restricted structure of this architecture acts as an inductive bias on the space of material appearances, allowing us to optimize the weights of the convolutions per-material, with no need for pre-training on a large dataset. Combined with a differentiable rendering step and a perceptual loss, we enable single-image tileable material capture comparable with state of the art. Our approach does not target the pixel-perfect recovery of the material, but rather uses noises and patterns as input to match the target appearance. To achieve this, it does not require complex procedural graphs, and has a much lower complexity, computational cost and storage cost. We also enable control over the results, through changing the provided patterns and using guide maps to push the material properties towards a user-driven objective."
+  full_teaser: "img/semi_proc.png"
+  square_teaser: "img/semi_proc.png"
+  date: "2023-03"
+  paper_link: "https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14781"
+  website_link: "https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14781"
+  citation: "A Semi‐Procedural Convolutional Material Prior. Xilong Zhou, Miloš Hašan, Valentin Deschaintre, Paul Guerrero, Kalyan Sunkavalli, Nima Kalantari, CGF, 2023"
+
+
 - title: "TileGen: Tileable, Controllable Material Generation and Capture"
   authors: 
     - "Xilong Zhou"
@@ -14,7 +32,7 @@ papers:
   date: "2022-06"
   paper_link: "https://arxiv.org/pdf/2206.05649"
   website_link: "https://arxiv.org/abs/2206.05649"
-  citation: "TileGen: Tileable, Controllable Material Generation and Capture. Xilong Zhou, Miloš Hašan, Valentin Deschaintre, Paul Guerrero, Kalyan Sunkavalli, Nima Kalantari, Conditional accept at Siggraph Asia 2022"
+  citation: "TileGen: Tileable, Controllable Material Generation and Capture. Xilong Zhou, Miloš Hašan, Valentin Deschaintre, Paul Guerrero, Kalyan Sunkavalli, Nima Kalantari, Siggraph Asia 2022"
 
 
 - title: "Node Graph Optimization Using Differentiable Proxies"
@@ -179,7 +197,7 @@ We tackle lightweight appearance capture by training a deep neural network to au
 For training, we leverage a large dataset of artist-created, procedural SVBRDFs which we sample and render under multiple lighting directions. We further amplify the data by material mixing to cover a wide diversity of shading effects, which allows our network to work across many material classes. Motivated by the observation that distant regions of a material sample often offer complementary visual cues, we design a network that combines an encoder-decoder convolutional track for local feature extraction with a fully-connected track for global feature extraction and propagation.
 Many important material effects are view-dependent, and as such ambiguous when observed in a single image. We tackle this challenge by defining the loss as a differentiable SVBRDF similarity metric that compares the renderings of the predicted maps against renderings of the ground truth from several lighting and viewing directions. Combined together, these novel ingredients bring clear improvement over state of the art methods for single-shot capture of spatially varying BRDFs."
   full_teaser: "https://team.inria.fr/graphdeco/files/2018/08/teaser_v0.png"
-  square_teaser: "https://valentin.deschaintre.fr/img/teaser.jpg"
+  square_teaser: "img/teaser.jpg"
   date: "2018-07"
   paper_link: "https://www-sop.inria.fr/reves/Basilic/2018/DADDB18/Deep%20Material%20Acquisition%20Authors_version.pdf"
   presentation_link: "https://repo-sam.inria.fr/fungraph/deep-materials/18_08_15_siggraph_Deep_Materials_final.pptx"

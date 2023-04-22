@@ -1,0 +1,20 @@
+
+#paper{
+	width:60%;
+}
+.CodeMirror {
+    font-size: .8em;
+    height: 10px;
+}
+
+#bibtex {
+    overflow-y: hidden;
+    overflow-x: auto;
+    height:auto;
+    float: left; 
+}
+
+#header_img {
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
