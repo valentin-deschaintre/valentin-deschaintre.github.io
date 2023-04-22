@@ -1,7 +1,7 @@
 ---
 permalink: /nlp4mat
 title: 'The Visual Language of Fabrics'
-layout: main
+layout: paper
 ---
 
 <div id='content'>
