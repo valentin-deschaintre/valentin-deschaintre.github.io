@@ -1,5 +1,5 @@
 ---
-permalink: /nlp4mat
+permalink: /text2fabric
 title: 'The Visual Language of Fabrics'
 layout: paper
 ---
