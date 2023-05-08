@@ -24,7 +24,7 @@ layout: paper
                     </li>
                     <li>
                         <a href="http://webdiis.unizar.es/~juliagv/">
-                            Julia Guererro-Viu*
+                            Julia Guerrero-Viu*
                         </a>
                         <br/>Universidad de Zaragoza
                     </li>
