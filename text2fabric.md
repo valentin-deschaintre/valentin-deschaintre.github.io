@@ -1,5 +1,5 @@
 ---
-permalink: /nlp4mat
+permalink: /text2fabric
 title: 'The Visual Language of Fabrics'
 layout: paper
 ---
@@ -20,31 +20,31 @@ layout: paper
                         <a href="https://valentin.deschaintre.fr">
                             Valentin Deschaintre*
                         </a>
-                        <br/>Adobe
+                        <br/>Adobe Research
                     </li>
                     <li>
                         <a href="http://webdiis.unizar.es/~juliagv/">
                             Julia Guerrero-Viu*
                         </a>
-                        <br/>Universidad de Zaragoza
+                        <br/>Universidad de Zaragoza - I3A
                     </li>
                     <li>
                         <a href="http://giga.cps.unizar.es/~diegog/">
                             Diego Gutierrez
                         </a>
-                        <br/>Universidad de Zaragoza
+                        <br/>Universidad de Zaragoza - I3A
                     </li>
                     <li>
                         <a href="https://perso.telecom-paristech.fr/boubek/">
                             Tamy Boubekeur
                         </a>
-                        <br/>Adobe
+                        <br/>Adobe Research
                     </li>
                     <li>
                         <a href="http://webdiis.unizar.es/~bmasia/">
                             Belen Masia
                         </a>
-                        <br/>Universidad de Zaragoza
+                        <br/>Universidad de Zaragoza - I3A
                     </li>
                 </ul>
             </div>
@@ -125,7 +125,7 @@ We also show that our dataset enables specializing large vision-language models 
                     Acknowledgements
                 </h3>
                 <p class="text-justify">
-                  All the great people.
+                  All the great people. We borrow this Template from Michaël Gharbi.
                 </p>
             </div>
         </div>
