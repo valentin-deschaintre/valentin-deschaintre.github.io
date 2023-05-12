@@ -42,8 +42,8 @@ papers:
   full_teaser: "img/nlp4mat_teaser.jpeg"
   square_teaser: "img/nlp4mat_teaser.jpeg"
   date: "2023-08"
-  paper_link: "#"
-  website_link: "#"
+  paper_link: "files/Visual_language_fabric_optim.pdf"
+  website_link: "https://valentin.deschaintre.fr/text2fabric"
   citation: "The Visual Language of Fabrics. Valentin Deschaintre*, Julia Guerrero-Viu*, Diego Gutierrez, Tamy Boubekeur, Belen Masia, Transactions on Graphics (Siggraph proc.) 2023"
 
 - title: "PhotoMat: A Material Generator Learned from Single Flash Photos"

@@ -89,8 +89,8 @@ We also show that our dataset enables specializing large vision-language models 
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <ul class="nav nav-pills nav-justified">
                         <li>
-                            <a href="#">
-                                Paper (Coming soon)
+                            <a href="files/Visual_language_fabric_optim.pdf">
+                                Paper
                             </a>
                         </li>
                         <li>
