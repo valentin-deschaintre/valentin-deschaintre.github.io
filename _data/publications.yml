@@ -27,8 +27,8 @@ papers:
   full_teaser: "img/teaser_procedural.png"
   square_teaser: "img/teaser_procedural.png"
   date: "2023-08"
-  paper_link: "#"
-  website_link: "#"
+  paper_link: "https://arxiv.org/pdf/2304.13172.pdf"
+  website_link: "https://arxiv.org/abs/2304.13172"
   citation: "Generating Procedural Materials from Text or Image Prompts. Yiwei Hu, Paul Guerrero, Miloš Hašan, Holly Rushmeier, Valentin Deschaintre, Siggraph, 2023"
 
 - title: "The Visual Language of Fabrics"
