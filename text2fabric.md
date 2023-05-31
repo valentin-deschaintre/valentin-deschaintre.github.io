@@ -109,9 +109,9 @@ We also show that our dataset enables specializing large vision-language models 
                 </h3>
                 <div class="text-justify">
 					<pre style="display: flex; justify-content: center;">
-@article{deschaintre22_visual_fabric,
+@article{deschaintre23_visual_fabric,
   title = {The Visual Language of Fabrics},
-  author = {Valentin Deschaintre, Julia Guererro-Viu, Diego Gutierrez, Tamy Boubekeur, Belen Masia},
+  author = {Valentin Deschaintre, Julia Guerrero-Viu, Diego Gutierrez, Tamy Boubekeur, Belen Masia},
   journal = {ACM Trans. Graph.},
   year = {2023},
   publisher = {ACM},
