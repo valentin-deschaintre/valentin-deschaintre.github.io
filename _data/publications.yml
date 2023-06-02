@@ -15,6 +15,8 @@ papers:
   paper_link: "https://prafullsharma.net/materialistic/materialistic_camera_ready.pdf"
   website_link: "https://prafullsharma.net/materialistic/"
   citation: "Materialistic: Selecting Similar Materials in Images. Prafull Sharma, Julien Philip, Michael Gharbi, Bill Freeman, Fredo Durand, Valentin Deschaintre, Transactions on Graphics (Siggraph proc.) 2023"
+  miscs:
+    - "<a href = 'https://news.mit.edu/2023/researchers-identify-similar-materials-images-0523'>MIT News coverage</a>"
 
 - title: "Generating Procedural Materials from Text or Image Prompts"
   authors: 
