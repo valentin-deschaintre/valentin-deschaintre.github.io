@@ -93,9 +93,24 @@ We also show that our dataset enables specializing large vision-language models 
                                 Paper
                             </a>
                         </li>
+                      <li>
+                            <a href="text2fabric_browser_v1.html">
+                                Data Browser(Coming soon)
+                            </a>
+                        </li> 
                         <li>
-                            <a href="#">
-                                Data (Coming soon)
+                            <a href="https://language-fabric-pub.s3.us-west-2.amazonaws.com/descriptions.csv">
+                                Data: Descriptions
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://language-fabric-pub.s3.us-west-2.amazonaws.com/renderings.zip">
+                                Data: All renderings 512x512
+                            </a>
+                        </li> 
+                        <li>
+                            <a href="https://language-fabric-pub.s3.us-west-2.amazonaws.com/renderings_4096_drape.zip">
+                                Data: 4K Renderings
                             </a>
                         </li>
                     </ul>
