@@ -95,7 +95,7 @@ We also show that our dataset enables specializing large vision-language models 
                         </li>
                       <li>
                             <a href="text2fabric_browser_v1.html">
-                                Data Browser(Coming soon)
+                                Data Browser
                             </a>
                         </li> 
                         <li>
