@@ -1,5 +1,17 @@
 papers:
 
+- title: "Floaters No More: Radiance Field Gradient Scaling for Improved Near-Camera Training"
+  authors: 
+    - "Julien Philip"
+    - "Valentin Deschaintre"
+  abstract: "NeRF acquisition typically requires careful choice of near planes for the different cameras or suffers from background collapse, creating floating artifacts on the edges of the captured scene. The key insight of this work is that background collapse is caused by a higher density of samples in regions near cameras. As a result of this sampling imbalance, near-camera volumes receive significantly more gradients, leading to incorrect density buildup. We propose a gradient scaling approach to counter-balance this sampling imbalance, removing the need for near planes, while preventing background collapse. Our method can be implemented in a few lines, does not induce any significant overhead, and is compatible with most NeRF implementations."
+  full_teaser: "img/teaser_FNM.png"
+  square_teaser: "img/teaser_FNM.png"
+  date: "2023-08"
+  paper_link: "https://arxiv.org/pdf/2305.02756.pdf"
+  website_link: "https://gradient-scaling.github.io/"
+  citation: "Floaters No More: Radiance Field Gradient Scaling for Improved Near-Camera Training. Julien Philip, Valentin Deschaintre, EGSR, 2023"
+
 - title: "Materialistic: Selecting Similar Materials in Images"
   authors: 
     - "Prafull Sharma"
