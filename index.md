@@ -54,9 +54,8 @@ function choosePic() {
 		
 		
 	</div>
-	<h3>Internships and Collaborations</h3>
+	<h3>Internships</h3>
 	<div class="Introduction">
-		<b>Collaborations: </b>If you are interesting in working with me on materials and virtual environments, don't hesitate to reach out!<br><br>
 		<b>Adobe Research Internship:</b> I will be looking for strong PhD students to collaborate with for the 204 Adobe internship program. If you are interested in interning at Adobe with me (see my research interests above), don't hesitate to reach out (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. <br><br>	
 	</div>
 	<h3>Past Interns</h3>
