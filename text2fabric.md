@@ -115,7 +115,7 @@ We also show that our dataset enables specializing large vision-language models 
                         </li>
 		    	<li>
                             <a href="https://language-fabric-pub.s3.us-west-2.amazonaws.com/file_name_url_correspondance.json">
-                                Data: Substance Materials URls
+                                Data: Substance Materials URLs
                             </a>
                         </li>
                     </ul>
