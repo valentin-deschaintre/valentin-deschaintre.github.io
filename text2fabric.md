@@ -118,6 +118,11 @@ We also show that our dataset enables specializing large vision-language models 
                                 Data: Substance Materials URLs
                             </a>
                         </li>
+		  	<li>
+                            <a href="data_fabric_license.md">
+                                License
+                            </a>
+                        </li> 		    
                     </ul>
                 </div>
             </div>
