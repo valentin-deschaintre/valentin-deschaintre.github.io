@@ -94,10 +94,24 @@ We also show that our dataset enables specializing large vision-language models 
                             </a>
                         </li>
                       <li>
+                            <a href="files/The_Visual_Language_of_Fabrics_Supplemental_Material.pdf">
+                                Supplemental Materials
+                            </a>
+                        </li> 	
+                          <li>
+                            <a href="text2fabric_additional_results.html">
+                                Additional Results
+                            </a>
+                        </li> 
+                      <li>
                             <a href="text2fabric_browser_v1.html">
                                 Data Browser
                             </a>
-                        </li> 
+                        </li>     
+                    </ul>
+                </div>  <br>
+                <div class="col-md-8 col-md-offset-2 text-center">
+                    <ul class="nav nav-pills nav-justified">
                         <li>
                             <a href="https://language-fabric-pub.s3.us-west-2.amazonaws.com/descriptions.csv">
                                 Data: Descriptions
@@ -113,16 +127,16 @@ We also show that our dataset enables specializing large vision-language models 
                                 Data: 4K Renderings
                             </a>
                         </li>
-		    	<li>
+                <li>
                             <a href="https://language-fabric-pub.s3.us-west-2.amazonaws.com/file_name_url_correspondance.json">
                                 Data: Substance Materials URLs
                             </a>
                         </li>
-		  	<li>
+            <li>
                             <a href="data_fabric_license.md">
                                 License
                             </a>
-                        </li> 		    
+                        </li>           
                     </ul>
                 </div>
             </div>
