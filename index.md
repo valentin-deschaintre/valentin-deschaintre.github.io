@@ -133,30 +133,6 @@ function choosePic() {
 
 	</div>
 	
-	<h3>Presentations</h3>
-	<div class="Publications list">
-		
-		<div class='thumb image'>
-			<div style='padding-top:13px'><a href='http://egsr2019.icube.unistra.fr/program.html'>
-				<img src='img/teaserTalkMam.PNG' width='67' height='60' alt='D19'/></a>
-			</div>
-		</div>
-		
-		<div class='ref'>
-			<div class='title'>
-				Discussion: Research and questions in neural methods for material acquisition
-				<a href="files/mamTalk/MAM_19_NeuralNetDiscussion.pptx"><img class='doc' src='img/ppt.svg' width='19' height='19' alt='MAM_19_NeuralNetDiscussion.pptx' /></a>
-			</div>
-			<div class='authors'>
-				<a href='https://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
-			</div>
-			<div class='conf'>
-				Workshop on Material Appearance Modeling, jul 2019
-			</div>
-		</div>
-		<div class="interYear">&nbsp;</div>
-	</div>
-	
 	<h3>Community activities</h3>
 	<ul>
 		<li>Committee member: <a href="https://research.siggraph.org/">SIGGRAPH Research Career Development Committee, Siggraph Thesis Fast Forward Steering Committee</a>, <a href="https://www.cvmp-conference.org/2022/">Industry Chair CVMP 2022</a> </li>
