@@ -37,7 +37,7 @@ function choosePic() {
 						</td>
 					</tr>
 					<tr>
-						<td align="center"><a href="https://scholar.google.com/citations?user=UnO0Ap8AAAAJ&hl=en"><img src='img/google-scholar-logo.png' width='32' height='32' alt='Google scholar'/></a> <a href="https://github.com/valentin-deschaintre"><img src='img/GitHub-Mark-32px.png' width='32' height='32' alt='Github'/> </a><a href="https://www.linkedin.com/in/valentin-deschaintre-phd-75226948/?locale=en_US"><img src='img/linkedin-logo.png' width='32' height='32' alt='Linkedin'/></a> <a href="https://twitter.com/vdeschaintre"><img src='img/twitter_logo.png' width='32' height='32' alt='D19'/></a>
+						<td align="center"><a href="https://scholar.google.com/citations?user=UnO0Ap8AAAAJ&hl=en"><img src='img/google-scholar-logo.png' width='32' height='32' alt='Google scholar'/></a> <a href="https://github.com/valentin-deschaintre"><img src='img/GitHub-Mark-32px.png' width='32' height='32' alt='Github'/> </a><a href="https://www.linkedin.com/in/valentin-deschaintre-phd-75226948/?locale=en_US"><img src='img/linkedin-logo.png' width='32' height='32' alt='Linkedin'/></a> <a href="https://twitter.com/vdeschaintre"><img src='img/twitter_logo.png' width='32' height='32' alt='D19'/></a> <a rel="me" href="https://mastodon.gamedev.place/@vdeschaintre"><img src='img/mastodon_logo.svg' width='32' height='32' alt='Mastodon'/></a>
 						</td>
 					</tr>
 				</table> 
