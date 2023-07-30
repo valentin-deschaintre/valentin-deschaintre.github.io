@@ -141,12 +141,11 @@ img{
 }
 
 .Publications .thumb {
-	position: relative;
-	float: left;
-	padding: 0px;
-	margin: 0px;
-	width: 111px;
-	height: 88px;
+	width:135px;
+	height:135px;
+	vertical-align: middle;
+	display:table-cell;
+	margin:auto;
 }
 .image 
 {
@@ -161,15 +160,12 @@ img{
 .movie:hover {
 	background-image: url("img/thumbMovieHover.png");
 }
-.Publications .thumb img {
-	margin: auto;
-	display: block;
-}
 
 .list .ref {
-	margin-left: 130px;
+	margin-left: 135px;
 	position: relative;
 	text-align:left;
+
 }
 .gallery .ref {
 	float: left;
@@ -179,6 +175,7 @@ img{
 	padding: 0px;
 	margin: 0px;
 	width: 30%;
+
 }
 .Publications pre {
     margin-left:20px;
@@ -192,7 +189,7 @@ img{
 
 .Publications hr {
 	width: 80%;
-	margin: 12px 130px;
+	margin: 12px 150px;
 	padding: 0px;
 	height: 2px;
 	border: 0px;

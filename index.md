@@ -37,7 +37,7 @@ function choosePic() {
 						</td>
 					</tr>
 					<tr>
-						<td align="center"><a href="https://scholar.google.com/citations?user=UnO0Ap8AAAAJ&hl=en"><img src='img/google-scholar-logo.png' width='32' height='32' alt='Google scholar'/></a> <a href="https://github.com/valentin-deschaintre"><img src='img/github-mark.svg' width='32' height='32' alt='Github'/> </a><a href="https://www.linkedin.com/in/valentin-deschaintre-phd-75226948/?locale=en_US"><img src='img/linkedin-logo.png' width='32' height='32' alt='Linkedin'/></a> <a href="https://twitter.com/vdeschaintre"><img src='img/twitter_logo.png' width='32' height='32' alt='D19'/></a> <a rel="me" href="https://mastodon.gamedev.place/@vdeschaintre"><img src='img/mastodon-black-icon.svg' width='32' height='32' alt='Mastodon'/></a>
+						<td align="center"><a href="https://scholar.google.com/citations?user=UnO0Ap8AAAAJ&hl=en"><img src='img/google-scholar.svg' height='32' alt='Google scholar'/></a> <a href="https://github.com/valentin-deschaintre"><img src='img/github-mark.svg' width='32' height='32' alt='Github'/> </a><a href="https://www.linkedin.com/in/valentin-deschaintre-phd-75226948/?locale=en_US"><img src='img/linkedin-logo.svg' width='32' height='32' alt='Linkedin'/></a> <a href="https://twitter.com/vdeschaintre"><img src='img/twitter_logo.svg' width='32' height='32' alt='D19'/></a> <a rel="me" href="https://mastodon.gamedev.place/@vdeschaintre"><img src='img/mastodon-black-icon.svg' width='32' height='32' alt='Mastodon'/></a>
 						</td>
 					</tr>
 				</table> 
@@ -72,62 +72,63 @@ function choosePic() {
 	<h3>Publications</h3>
 	<div class="Publications list">
 		{% for paper in site.data.publications.papers %}
-			<div class='thumb image'>
-			<div style='padding-top:0px'><a href='{{paper.website_link}}'>
-				<img src='{{paper.square_teaser}}' width='100' height='90'/></a>
-			</div>
-		</div>
-		<div class='ref'>
-			<div class='title'>
-				<a href="{{paper.website_link}}">
-					{{paper.title}}
-				</a> &nbsp; 
-				{% if paper.paper_link %}
-				<a href="{{paper.paper_link}}"><img class='doc' src='img/pdf.png' width='19' height='19' alt='Paper'/></a>
-				{% endif %}
-				{% if paper.poster_link %}
-				<a href="{{paper.poster_link}}"><img class='doc' src='img/pdf.png' width='19' height='19' alt='Poster'/></a>
-				{% endif %}
-				{% if paper.presentation_link %}
-				<a href="{{paper.presentation_link}}"><img class='doc' src='img/ppt.png' width='19' height='19' alt='Presentation'/></a>
-				{% endif %}
-				{% if paper.youtube_link %}
-				<a href="{{paper.youtube_link}}"><img class='doc' src='img/yt.jpg' width='20' height='19' alt='Youtube presentation' /></a>
+		<div >
+				<div style = "position: relative; float: left;">
+				<div class='thumb'>
+					<center><a href='{{paper.website_link}}'><img src='{{paper.square_teaser}}' style="max-width:125px; max-height:125px"/></a></center>
+				</div>
+				</div>
+			<div class='ref'>
+				<div class='title'>
+					<a href="{{paper.website_link}}">
+						{{paper.title}}
+					</a> &nbsp; 
+					{% if paper.paper_link %}
+					<a href="{{paper.paper_link}}"><img class='doc' src='img/pdf.svg' width='19' alt='Paper'/></a>
+					{% endif %}
+					{% if paper.poster_link %}
+					<a href="{{paper.poster_link}}"><img class='doc' src='img/pdf.svg' width='19' alt='Poster'/></a>
+					{% endif %}
+					{% if paper.presentation_link %}
+					<a href="{{paper.presentation_link}}"><img class='doc' src='img/ppt.svg' width='19' alt='Presentation'/></a>
+					{% endif %}
+					{% if paper.youtube_link %}
+					<a href="{{paper.youtube_link}}"><img class='doc' src='img/yt.svg' height='19' alt='Youtube presentation' /></a>
+					{% endif %}
+
+				</div>
+				<div class='authors'>
+					{% for author in paper.authors %}
+					{% assign authorDet = site.data.people[author] %}
+					{% if authorDet and author != paper.authors.last %}
+						<a href='{{authorDet.website}}'>{{authorDet.name}},</a>
+					{% elsif authorDet and author == paper.authors.last %}
+						<a href='{{authorDet.website}}'>{{authorDet.name}}</a>
+					{% else %}
+						{{author}}
+					{% endif %}
+					{% endfor %}
+				</div>
+				{% if paper.miscs %}
+				<div>
+				<ul>
+					{% for misc in paper.miscs %}
+					<li>{{misc}}</li>
+					{% endfor %}
+
+				</ul>
+				</div>
 				{% endif %}
 
+				<div class='conf'>
+					{{paper.citation}}
+				</div>
 			</div>
-			<div class='authors'>
-				{% for author in paper.authors %}
-				{% assign authorDet = site.data.people[author] %}
-				{% if authorDet and author != paper.authors.last %}
-					<a href='{{authorDet.website}}'>{{authorDet.name}},</a>
-				{% elsif authorDet and author == paper.authors.last %}
-					<a href='{{authorDet.website}}'>{{authorDet.name}}</a>
-				{% else %}
-					{{author}}
-				{% endif %}
-				{% endfor %}
-			</div>
-			{% if paper.miscs %}
-			<div>
-			<ul>
-				{% for misc in paper.miscs %}
-				<li>{{misc}}</li>
-				{% endfor %}
-
-			</ul>
-			</div>
+			{% if paper != site.data.publications.papers.last %}
+			<hr />
 			{% endif %}
-
-			<div class='conf'>
-				{{paper.citation}}
-			</div>
+				
 		</div>
-		{% if paper != site.data.publications.papers.last %}
-		<hr />
-		{% endif %}
-			
-			
 		{% endfor %}
 
 	</div>
@@ -144,7 +145,7 @@ function choosePic() {
 		<div class='ref'>
 			<div class='title'>
 				Discussion: Research and questions in neural methods for material acquisition
-				<a href="files/mamTalk/MAM_19_NeuralNetDiscussion.pptx"><img class='doc' src='img/ppt.png' width='19' height='19' alt='MAM_19_NeuralNetDiscussion.pptx' /></a>
+				<a href="files/mamTalk/MAM_19_NeuralNetDiscussion.pptx"><img class='doc' src='img/ppt.svg' width='19' height='19' alt='MAM_19_NeuralNetDiscussion.pptx' /></a>
 			</div>
 			<div class='authors'>
 				<a href='https://valentin.deschaintre.fr'>Valentin Deschaintre</a>,
