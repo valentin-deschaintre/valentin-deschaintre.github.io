@@ -103,7 +103,7 @@ function choosePic() {
 					{% if authorDet and author != paper.authors.last %}
 						<a href='{{authorDet.website}}'>{{authorDet.name}},</a>
 					{% elsif authorDet and author == paper.authors.last %}
-						<a href='{{authorDet.website}}'>{{authorDet.name}}</a>
+						<a href='{{authorDet.website}}'>{{authorDet.name}},</a>
 					{% else %}
 						{{author}}
 					{% endif %}
