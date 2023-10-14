@@ -58,15 +58,12 @@ h3   {
 	border: 1px solid #000;
 }
 h4   { 
-	font-size:small;
+	font-size:medium;
 	color:#ff0000;
-	background: #000;
+	background: #fff;
 	font-weight: normal; 
 	text-align: left; 
-	padding-bottom: 1px;
-	padding-top: 3px;
-	padding-left: 25px;
-	border: 1px solid #000;
+	padding-left: 10px;
 }
 a 
 {	
