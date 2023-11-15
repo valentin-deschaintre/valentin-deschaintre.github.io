@@ -44,11 +44,18 @@ The study should not take more than 5 minutes  of your time - thank you for part
 <br/><br/>
 <script>
 const randomMeshes = [];
-const randomMethod = [];
-const methods_names = ["text2tex", "texture"];
+var randomMethod = ["text2tex", "texture", "text2tex", "texture", "text2tex", "texture", "text2tex", "texture", "text2tex", "texture"];
+const shuffle = (array) => { 
+  for (let i = array.length - 1; i > 0; i--) { 
+    const j = Math.floor(Math.random() * (i + 1)); 
+    [array[i], array[j]] = [array[j], array[i]]; 
+  } 
+  return array; 
+}; 
+randomMethod = shuffle(randomMethod);
+
 for (let i = 0; i < 10; i++) {
     randomMeshes.push(Math.floor(Math.random() * 411));
-    randomMethod.push(methods_names[Math.floor(Math.random() * 2)]);
 }
 
 window.onload = load_videos;
