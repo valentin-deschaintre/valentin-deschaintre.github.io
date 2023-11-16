@@ -4,13 +4,13 @@ title: "User Study"
 layout: wide
 ---
 
-<body style="width: 60%; margin: auto;">
+<body style="width: 70%; margin: auto;">
 
 <h2 style="font-size: larger; font-weight: bold; padding-top: 10px; padding-bottom: 10px;">
     Please read carefully: 
 </h2>
 
-The goal of our project is to generate plausible textures for a given geometry. A plausible texture is consistent from different viewpoints (i.e., has as few seams as possible). We will show you a geometry and a video with two results, please select which result you prefer.
+The goal of our project is to generate plausible textures for a given geometry. A plausible texture is consistent from different viewpoints (i.e., has as few seams as possible) and corresponds well to the geometry it is on. We will show you a geometry and a video with two results, please select which result you prefer.
 Please read the instructions carefully and in the end, do not forget to click 'submit'. 
 The study should not take more than 5 minutes  of your time - thank you for participating!
 
@@ -23,10 +23,10 @@ The study should not take more than 5 minutes  of your time - thank you for part
 <form id="NAvideoForm">
 
 <div class="top-image-container">
-    <img src="https://text2mat-bot.s3.us-west-2.amazonaws.com/video_user_study/0000/mesh.png" width=256 id="{{id}}_imgTop">
+    <img src="https://text2mat-bot.s3.us-west-2.amazonaws.com/video_user_study/0000/mesh.png" width=512 id="{{id}}_imgTop">
 </div>
     <div class="NAvideo-container">
-        <video width="512" height="512" mute loop autoplay controls id="{{id}}_video_src">
+        <video width="1024" height="1024" mute loop autoplay controls id="{{id}}_video_src">
         <source src="https://text2mat-bot.s3.us-west-2.amazonaws.com/video_user_study/0000/output_ours_text2tex.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
