@@ -40,7 +40,7 @@ The study should not take more than 5 minutes  of your time - thank you for part
 
 {% endfor %}
 <br/><br/>
-<center><button type="button" id="submit">Submit</button></center>
+<center><button type="button" id="submit">Submit (takes a few seconds)</button></center>
 <br/><br/>
 <script>
 const randomMeshes = [];
