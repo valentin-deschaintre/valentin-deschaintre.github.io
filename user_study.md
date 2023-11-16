@@ -18,7 +18,7 @@ The study should not take more than 5 minutes  of your time - thank you for part
 
 {% for id in (0..9) %}
 
-{{id | plus: 1}}/10: Given the geometry in the first image, which texture do you prefer?
+{{id | plus: 1}}/10: Given the geometry in the first image, which texture has the best overall quality?
 <center>
 <form id="NAvideoForm">
 
