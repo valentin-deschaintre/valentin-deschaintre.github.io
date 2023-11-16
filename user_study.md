@@ -10,7 +10,7 @@ layout: wide
     Please read carefully: 
 </h2>
 
-The goal of our project is to generate plausible textures for a given geometry. We will show you a geometry and a video with two results, please select which result you prefer.
+The goal of our project is to generate plausible textures for a given geometry. A plausible texture is consistent from different viewpoints (i.e., has as few seams as possible) and also aligns well with the input mesh and the text prompt. We will show you a geometry and a video with two results, please select which result you prefer.
 Please read the instructions carefully and in the end, do not forget to click 'submit'. 
 The study should not take more than 5 minutes  of your time - thank you for participating!
 
