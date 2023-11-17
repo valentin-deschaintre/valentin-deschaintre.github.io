@@ -149,12 +149,24 @@ We also show that our dataset enables specializing large vision-language models 
                 <div class="text-justify">
 					<pre style="display: flex; justify-content: center;">
 @article{deschaintre23_visual_fabric,
-  title = {The Visual Language of Fabrics},
-  author = {Valentin Deschaintre, Julia Guerrero-Viu, Diego Gutierrez, Tamy Boubekeur, Belen Masia},
-  journal = {ACM Trans. Graph.},
-  year = {2023},
-  publisher = {ACM},
-}</pre>
+author = {Deschaintre, Valentin and Guerrero-Viu, Julia and Gutierrez, Diego and Boubekeur, Tamy and Masia, Belen},
+title = {The Visual Language of Fabrics},
+year = {2023},
+issue_date = {August 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {42},
+number = {4},
+issn = {0730-0301},
+doi = {10.1145/3592391},
+journal = {ACM Trans. Graph.},
+month = {jul},
+articleno = {50},
+numpages = {15},
+keywords = {material appearance, descriptions, perception}
+}
+
+</pre>
                 </div>
             </div>
         </div>
