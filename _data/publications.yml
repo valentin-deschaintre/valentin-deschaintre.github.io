@@ -29,7 +29,7 @@ papers:
   square_teaser: "img/teaser_psdr_scene.png"
   date: "2023-11"
   paper_link: "https://arxiv.org/pdf/2307.03244.pdf"
-  website_link: "https://arxiv.org/abs/2307.03244"
+  website_link: "https://shuangz.com/projects/psdr-room-sa23/"
   citation: "PSDR-Room: Single Photo to Scene using Differentiable Rendering. Kai Yan, Fujun Luan, Milos Hasan, Thibault Groueix, Valentin Deschaintre, Shuang Zhao, Siggraph Asia, 2023"
 
 - title: "Floaters No More: Radiance Field Gradient Scaling for Improved Near-Camera Training"
@@ -139,7 +139,7 @@ papers:
   square_teaser: "img/tileGen.jpg"
   date: "2022-06"
   paper_link: "https://arxiv.org/pdf/2206.05649"
-  website_link: "https://arxiv.org/abs/2206.05649"
+  website_link: "https://people.engr.tamu.edu/nimak/Papers/SIGAsia2022_TileGen/index.html"
   citation: "TileGen: Tileable, Controllable Material Generation and Capture. Xilong Zhou, Miloš Hašan, Valentin Deschaintre, Paul Guerrero, Kalyan Sunkavalli, Nima Kalantari, Siggraph Asia 2022"
 
 
