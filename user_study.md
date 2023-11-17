@@ -1,5 +1,5 @@
 ---
-permalink: /userstudy
+permalink: /userstudy_old
 title: "User Study"
 layout: wide
 ---
