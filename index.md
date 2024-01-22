@@ -81,10 +81,10 @@ function choosePic() {
 	<br/>
 	<div class="Introduction">
 		I am currently a Research Scientist at Adobe Research in the London lab. I previously was an Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
-		I received my PhD at Inria Sophia-Antipolis from the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a> in collaboration with Optis, an Ansys affiliate. During my PhD, I spent 2 great months in MIT under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
+		I received my PhD at Inria Sophia-Antipolis from the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a> in collaboration with Optis, an Ansys affiliate. During my PhD, I spent 2 months in MIT under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
 
-		My Thesis received the French Computer Graphics Thesis Award 2020 and UCA Academic Excellence Thesis Award 2020<br>
-		<b>My research focuses on inverse rendering, with a special focus on appearance acquisition, creation, editing and representation for virtual environments.</b> <br><br>
+		My Thesis received the French Computer Graphics Thesis Award and UCA Academic Excellence Thesis Awards<br>
+		<b>My research focuses on inverse rendering, with a special focus on generation, acquisition, creation, editing and representation for virtual environments.</b> <br><br>
 		<div id=conflicts>
 		</div>
 
@@ -92,7 +92,7 @@ function choosePic() {
 
 	<h3>Internships</h3>
 	<div class="Introduction">
-		<b>Adobe Research Internship:</b> I will be looking for strong PhD students to collaborate with for the 2024 Adobe internship program. If you are interested in interning at Adobe with me (see my research interests above), don't hesitate to reach out (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. <br><br>	
+		<b>Adobe Research Internship:</b> I will be looking for strong PhD students to collaborate with for the 2025 Adobe internship program. If you are interested in interning at Adobe with me (see my research interests above), don't hesitate to reach out (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. Internships are usually discussed around November December of the year preceding it. It is important that your advisor is aware of your plans to do an intership.<br><br>	
 	</div>
 	<h3>Past Interns</h3>
 
@@ -192,7 +192,7 @@ function choosePic() {
 			<li><a href="https://s2022.siggraph.org/">Siggraph 2020, 2021, 2022, 2023</a></li>
 			<li><a href="https://sa2020.siggraph.org/">Siggraph Asia 2019, 2020, 2021, 2022</a></li>
 			<li><a href="https://conferences.eg.org/eg2021/">Eurographics 2020, 2021, 2022</a></li>
-			<li><a href="https://cvpr2022.thecvf.com/">CVPR 2022, 2023</a></li>
+			<li><a href="https://cvpr2024.thecvf.com/">CVPR 2022, 2023, 2024</a></li>
 			<li><a href="https://iccv2021.thecvf.com/home">ICCV 2021</a></li>
 			</ul>
 		</li>
