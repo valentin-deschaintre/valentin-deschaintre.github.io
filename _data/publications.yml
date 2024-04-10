@@ -1,4 +1,22 @@
 papers:
+  - title: "https://duyguceylan.github.io/matatlas/"
+  authors: 
+    - "Duygu Ceylan"
+    - "Valentin Deschaintre*"
+    - "Thibault Groueix*"
+    - "Rosalie Martin"
+    - "Chun-Hao Huang"
+    - "Romain Rouffet"
+    - "Vladimir Kim"
+    - "Gaetan Lassagne"
+  abstract: "We present MatAtlas, a method for consistent text-guided 3D model texturing. Following recent progress we leverage a large scale text-to-image generation model (e.g., Stable Diffusion) as a prior to texture a 3D model. We carefully design an RGB texturing pipeline that leverages a grid pattern diffusion, driven by depth and edges. By proposing a multi-step texture refinement process, we significantly improve the quality and 3D consistency of the texturing output. To further address the problem of baked-in lighting, we move beyond RGB colors and pursue assigning parametric materials to the assets. Given the high-quality initial RGB texture, we propose a novel material retrieval method capitalized on Large Language Models (LLM), enabling editabiliy and relightability. We evaluate our method on a wide variety of geometries and show that our method significantly outperform prior arts. We also analyze the role of each component through a detailed ablation study."
+  full_teaser: "img/matatlas_teaser.jpg"
+  square_teaser: "img/matatlas_teaser.jpg"
+  date: "2024-03"
+  paper_link: "https://arxiv.org/pdf/2404.02899.pdf"
+  website_link: "https://duyguceylan.github.io/matatlas/"
+  citation: "MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment. Duygu Ceylan, Valentin Deschaintre, Thibault Groueix, Rosalie Martin, Chun-Hao Huang, Romain Rouffet, Vladimir Kim, Gaëtan Lassagne, Arxiv"
+
 - title: "MatSynth: A Modern PBR Materials Dataset"
   authors: 
     - "Giuseppe Vecchio"

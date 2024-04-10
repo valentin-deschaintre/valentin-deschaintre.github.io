@@ -180,7 +180,7 @@ function choosePic() {
 	</ul>
 	<h4> Technical Program Committee member: </h4>
 	<ul>
-	<li><a href='https://asia.siggraph.org/2023/submissions/technical-papers/'>Siggraph Asia 2023</a></li>
+	<li><a href='https://asia.siggraph.org/2023/submissions/technical-papers/'>Siggraph Asia 2023, 2024</a></li>
 	<li><a href="https://eg2023.saarland-informatics-campus.de/">Eurographics 2023, 2024</a></li>
 	<li><a href="https://conferences.eg.org/egsr2023/">EGSR 2021, 2022, 2023</a></li>
 	<li><a href="https://www.cvcs.no/">CVCS 2020</a></li>
@@ -189,7 +189,7 @@ function choosePic() {
 	<ul>
 		<li>Conferences
 			<ul>
-			<li><a href="https://s2022.siggraph.org/">Siggraph 2020, 2021, 2022, 2023</a></li>
+			<li><a href="https://s2022.siggraph.org/">Siggraph 2020, 2021, 2022, 2023, 2024</a></li>
 			<li><a href="https://sa2020.siggraph.org/">Siggraph Asia 2019, 2020, 2021, 2022</a></li>
 			<li><a href="https://conferences.eg.org/eg2021/">Eurographics 2020, 2021, 2022</a></li>
 			<li><a href="https://cvpr2024.thecvf.com/">CVPR 2022, 2023, 2024</a></li>
