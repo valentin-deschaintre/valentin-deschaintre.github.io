@@ -1,4 +1,59 @@
 papers:
+- title: "TexSliders: Diffusion-Based Texture Editing in CLIP Space"
+  authors: 
+    - "Julia Guerrero-Viu"
+    - "Milos Hasan"
+    - "Arthur Roullier"
+    - "Midhun Harikumar"
+    - "Yiwei Hu"
+    - "Paul Guerrero"
+    - "Diego Gutierrez"
+    - "Belen Masia"
+    - "Valentin Deschaintre"
+  abstract: 'Generative models have enabled intuitive image creation and manipulation using natural language. In particular, diffusion models have recently shown remarkable results for natural image editing. In this work, we propose to apply diffusion techniques to edit textures, a specific class of images that are an essential part of 3D content creation pipelines. We analyze existing editing methods and show that they are not directly applicable to textures, since their common underlying approach, manipulating attention maps, is unsuitable for the texture domain. To address this, we propose a novel approach that instead manipulates CLIP image embeddings to condition the diffusion generation. We define editing directions using simple text prompts (e.g., "aged wood" to "new wood") and map these to CLIP image embedding space using a texture prior, with a sampling-based approach that gives us identity-preserving directions in CLIP space. To further improve identity preservation, we project these directions to a CLIP subspace that minimizes identity variations resulting from entangled texture attributes. Our editing pipeline facilitates the creation of arbitrary sliders using natural language prompts only, with no ground-truth annotated data necessary.'
+  full_teaser: "img/teaser_texsliders.jpg"
+  square_teaser: "img/teaser_texsliders.jpg"
+  date: "2024-04"
+  paper_link: "https://graphics.unizar.es/projects/TexSliders/pdf/TexSliders_SIGGRAPH2024_postprint.pdf"
+  website_link: "https://graphics.unizar.es/projects/TexSliders/#"
+  citation: "TexSliders: Diffusion-Based Texture Editing in CLIP Space. Julia Guerrero-Viu, Miloš Hašan, Arthur Roullier, Midhun Harikumar, Yiwei Hu, Paul Guerrero, Diego Gutierrez, Belen Masia, Valentin Deschaintre, Siggraph 2024"
+
+- title: "RGB↔X: Image Decomposition and Synthesis Using Material- and Lighting-aware Diffusion Models"
+  authors: 
+    - "Zheng Zeng"
+    - "Valentin Deschaintre"
+    - "Iliyan Georgiev"
+    - "Yannick Hold-Geoffroy"
+    - "Fujun Luan"
+    - "Ling-Qi Yan"
+    - "Milos Hasan"
+  abstract: "The three areas of realistic forward rendering, per-pixel inverse rendering, and generative image synthesis may seem like separate and unrelated sub-fields of graphics and vision. However, recent work has demonstrated improved estimation of per-pixel intrinsic channels (albedo, roughness, metallicity) based on a diffusion architecture; we call this the RGB→X problem. We further show that the reverse problem of synthesizing realistic images given intrinsic channels, X→RGB, can also be addressed in a diffusion framework. Focusing on the image domain of interior scenes, we introduce an improved diffusion model for RGB→X, which also estimates lighting, as well as the first diffusion X→RGB model capable of synthesizing realistic images from (full or partial) intrinsic channels. Our X→RGB model explores a middle ground between traditional rendering and generative models: we can specify only certain appearance properties that should be followed, and give freedom to the model to hallucinate a plausible version of the rest. This flexibility makes it possible to use a mix of heterogeneous training datasets, which differ in the available channels. We use multiple existing datasets and extend them with our own synthetic and real data, resulting in a model capable of extracting scene properties better than previous work and of generating highly realistic images of interior scenes."
+  full_teaser: "img/rgbxrgb_teaser.jpg"
+  square_teaser: "img/rgbxrgb_teaser.jpg"
+  date: "2024-04"
+  paper_link: "https://zheng95z.github.io/assets/files/sig24-rgbx.pdf"
+  website_link: "https://zheng95z.github.io/publications/rgbx24"
+  citation: "RGB↔X: Image Decomposition and Synthesis Using Material- and Lighting-aware Diffusion Models. Zheng Zeng, Valentin Deschaintre, Iliyan Georgiev, Yannick Hold-Geoffroy, Yiwei Hu, Fujun Luan, Ling-Qi Yan, Miloš Hašan, Siggraph 2024"
+
+- title: "MeshLRM: Large Reconstruction Model for High-Quality Meshes"
+  authors: 
+    - "Xinyue Wei*"
+    - "Kai Zhang*"
+    - "Sai Bi"
+    - "Hao Tan"
+    - "Fujun Luan"
+    - "Valentin Deschaintre"
+    - "Kalyan Sunkavalli"
+    - "Hao Su"
+    - "Zexiang Xu"
+  abstract: "We propose MeshLRM, a novel LRM-based approach that can reconstruct a high-quality mesh from merely four input images in less than one second. Different from previous large reconstruction models (LRMs) that focus on NeRF-based reconstruction, MeshLRM incorporates differentiable mesh extraction and rendering within the LRM framework. This allows for end-to-end mesh reconstruction by fine-tuning a pre-trained NeRF LRM with mesh rendering. Moreover, we improve the LRM architecture by simplifying several complex designs in previous LRMs. MeshLRM's NeRF initialization is sequentially trained with low- and high-resolution images; this new LRM training strategy enables significantly faster convergence and thereby leads to better quality with less compute. Our approach achieves state-of-the-art mesh reconstruction from sparse-view inputs and also allows for many downstream applications, including text-to-3D and single-image-to-3D generation."
+  full_teaser: "img/meshlrm_teaser.jpg"
+  square_teaser: "img/meshlrm_teaser.jpg"
+  date: "2024-03"
+  paper_link: "https://arxiv.org/pdf/2404.12385"
+  website_link: "https://sarahweiii.github.io/meshlrm/"
+  citation: "MeshLRM: Large Reconstruction Model for High-Quality Meshes. Xinyue Wei*, Kai Zhang*, Sai Bi, Hao Tan, Fujun Luan, Valentin Deschaintre, Kalyan Sunkavalli, Hao Su, Zexiang Xu, Arxiv 2024"
+
 - title: "MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment"
   authors: 
     - "Duygu Ceylan"
@@ -15,7 +70,7 @@ papers:
   date: "2024-03"
   paper_link: "https://arxiv.org/pdf/2404.02899.pdf"
   website_link: "https://duyguceylan.github.io/matatlas/"
-  citation: "MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment. Duygu Ceylan, Valentin Deschaintre, Thibault Groueix, Rosalie Martin, Chun-Hao Huang, Romain Rouffet, Vladimir Kim, Gaëtan Lassagne, Arxiv"
+  citation: "MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment. Duygu Ceylan, Valentin Deschaintre, Thibault Groueix, Rosalie Martin, Chun-Hao Huang, Romain Rouffet, Vladimir Kim, Gaëtan Lassagne, Arxiv 2024"
 
 - title: "MatSynth: A Modern PBR Materials Dataset"
   authors: 
