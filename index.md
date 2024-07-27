@@ -18,8 +18,8 @@ function get_conflicts() {
 	var authors = [{% for paper in site.data.publications.papers %}{% for author in paper.authors %}{% assign authorDet = site.data.people[author] %}"{{authorDet.name}}",{% endfor %}{% endfor %}]
 	var dates = [{% for paper in site.data.publications.papers %}{% for author in paper.authors %}"{{paper.date}}",{% endfor %}{% endfor %}]
 	var date = new Date();
-	var limit_date = new Date(date - 1000 * 60 * 60 * 24 * 730);
-	var final_text = "<b>Current conflicts</b> (automatically computed from the last two years publications & permanent conflicts): Adobe, George Drettakis, Adrien Bousseau, Yulia Gryaditskaya, "
+	var limit_date = new Date(date - 1000 * 60 * 60 * 24 * 1095);
+	var final_text = "<b>Current conflicts</b> (automatically computed from the last three years publications & permanent conflicts): Adobe, George Drettakis, Adrien Bousseau, Yulia Gryaditskaya, Peter Hedman, Mohamed Sayed"
 	for (let id =0; id < dates.length; id++)
 	{
 		var paper_date = new Date(dates[id])
@@ -97,11 +97,12 @@ function choosePic() {
 	<h3>Past Interns</h3>
 
 	<div class="Introduction">
-		In recent years, I was happy to collaborate with great students in the context of Adobe's PhD Internship program!
+		In recent years, I was happy to act as main mentor for great students in the context of Adobe's PhD Internship program!
 		<ul>
-			<li><a href='http://webdiis.unizar.es/~juliagv/'>Julia Guerrero-Viu (Universidad de Zaragoza): 2023</a></li>
-			<li><a href='https://rubenwiersma.nl//'>Ruben Wiersma (Delft University): 2023</a></li>
-			<li><a href='https://prafullsharma.net/'>Prafull Sharma (MIT): 2022</a></li>
+			<li><a href='https://mfischer-ucl.github.io/'>Michael Fischer (University College London): 2024</a></li>
+			<li><a href='http://webdiis.unizar.es/~juliagv/'>Julia Guerrero-Viu (Universidad de Zaragoza): 2023, 2024</a></li>
+			<li><a href='https://rubenwiersma.nl//'>Ruben Wiersma (Delft University): 2023</a> (now postdoc at ETH)</li>
+			<li><a href='https://prafullsharma.net/'>Prafull Sharma (MIT): 2022</a> (now postdoc at MIT)</li>
 			<li><a href='https://yiweihu.netlify.app/'>Yiwei Hu (Yale University): 2021, 2022</a> (Now at Adobe)</li>
 		</ul>
 	</div>
