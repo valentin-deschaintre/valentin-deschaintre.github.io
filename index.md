@@ -109,63 +109,72 @@ function choosePic() {
 	<h3>Publications</h3>
 	<div class="Publications list">
 		{% for paper in site.data.publications.papers %}
-		<div >
-				<div style = "position: relative; float: left;">
-				<div class='thumb'>
-					<center><a href='{{paper.website_link}}'><img src='{{paper.square_teaser}}' style="max-width:125px; max-height:125px"/></a></center>
-				</div>
-				</div>
-			<div class='ref'>
-				<div class='title'>
-					<a href="{{paper.website_link}}">
-						{{paper.title}}
-					</a> &nbsp; 
-					{% if paper.paper_link %}
-					<a href="{{paper.paper_link}}"><img class='doc' src='img/pdf.svg' width='19' alt='Paper'/></a>
-					{% endif %}
-					{% if paper.poster_link %}
-					<a href="{{paper.poster_link}}"><img class='doc' src='img/pdf.svg' width='19' alt='Poster'/></a>
-					{% endif %}
-					{% if paper.presentation_link %}
-					<a href="{{paper.presentation_link}}"><img class='doc' src='img/ppt.svg' width='19' alt='Presentation'/></a>
-					{% endif %}
-					{% if paper.youtube_link %}
-					<a href="{{paper.youtube_link}}"><img class='doc' src='img/yt.svg' height='19' alt='Youtube presentation' /></a>
+		{% assign thispaperyear = paper.date  | split:'-'%}
+		{% assign thispaperyear = thispaperyear[0]%}
+
+		{% if thispaperyear != lastpaperyear %}
+			{% assign lastpaperyear = thispaperyear%}
+			<h2>{{thispaperyear}}</h2>
+
+		{% endif %}
+			<div >
+					<div style = "position: relative; float: left;">
+					<div class='thumb'>
+						<center><a href='{{paper.website_link}}'><img src='{{paper.square_teaser}}' style="max-width:125px; max-height:125px"/></a></center>
+					</div>
+					</div>
+				<div class='ref'>
+					<div class='title'>
+						<a href="{{paper.website_link}}">
+							{{paper.title}}
+						</a> &nbsp; 
+						{% if paper.paper_link %}
+						<a href="{{paper.paper_link}}"><img class='doc' src='img/pdf.svg' width='19' alt='Paper'/></a>
+						{% endif %}
+						{% if paper.poster_link %}
+						<a href="{{paper.poster_link}}"><img class='doc' src='img/pdf.svg' width='19' alt='Poster'/></a>
+						{% endif %}
+						{% if paper.presentation_link %}
+						<a href="{{paper.presentation_link}}"><img class='doc' src='img/ppt.svg' width='19' alt='Presentation'/></a>
+						{% endif %}
+						{% if paper.youtube_link %}
+						<a href="{{paper.youtube_link}}"><img class='doc' src='img/yt.svg' height='19' alt='Youtube presentation' /></a>
+						{% endif %}
+
+					</div>
+					<div class='authors'>
+						{% for author in paper.authors %}
+						{% assign authorDet = site.data.people[author] %}
+						{% if authorDet and author != paper.authors.last %}
+							<a href='{{authorDet.website}}'>{{authorDet.name}},</a>
+						{% elsif authorDet and author == paper.authors.last %}
+							<a href='{{authorDet.website}}'>{{authorDet.name}},</a>
+						{% else %}
+							{{author}}
+						{% endif %}
+						{% endfor %}
+					</div>
+					{% if paper.miscs %}
+					<div>
+					<ul>
+						{% for misc in paper.miscs %}
+						<li>{{misc}}</li>
+						{% endfor %}
+
+					</ul>
+					</div>
 					{% endif %}
 
+					<div class='conf'>
+						{{paper.citation}}
+					</div>
 				</div>
-				<div class='authors'>
-					{% for author in paper.authors %}
-					{% assign authorDet = site.data.people[author] %}
-					{% if authorDet and author != paper.authors.last %}
-						<a href='{{authorDet.website}}'>{{authorDet.name}},</a>
-					{% elsif authorDet and author == paper.authors.last %}
-						<a href='{{authorDet.website}}'>{{authorDet.name}},</a>
-					{% else %}
-						{{author}}
-					{% endif %}
-					{% endfor %}
-				</div>
-				{% if paper.miscs %}
-				<div>
-				<ul>
-					{% for misc in paper.miscs %}
-					<li>{{misc}}</li>
-					{% endfor %}
-
-				</ul>
-				</div>
+				{% if paper != site.data.publications.papers.last %}
+				<hr />
 				{% endif %}
-
-				<div class='conf'>
-					{{paper.citation}}
-				</div>
+					
 			</div>
-			{% if paper != site.data.publications.papers.last %}
-			<hr />
-			{% endif %}
-				
-		</div>
+
 		{% endfor %}
 
 	</div><br>

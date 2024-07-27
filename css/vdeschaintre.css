@@ -38,13 +38,11 @@ h1   {
 h2   { 
 	font-family: DroidSans-webfont, DroidSans, 'Droid Sans', Arial, helvetica;
 	font-size:x-large;
-	color:#ff0000;
+	color:#000000;
 	letter-spacing:1px;
-	background: #AAA;
 	font-weight: normal; 
 	padding: 2px 0px 1px 15px;
 	text-align: left; 
-	border: 1px solid #000;
 }
 h3   { 
 	font-size:large;
