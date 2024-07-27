@@ -19,7 +19,7 @@ function get_conflicts() {
 	var dates = [{% for paper in site.data.publications.papers %}{% for author in paper.authors %}"{{paper.date}}",{% endfor %}{% endfor %}]
 	var date = new Date();
 	var limit_date = new Date(date - 1000 * 60 * 60 * 24 * 1095);
-	var final_text = "<b>Current conflicts</b> (automatically computed from the last three years publications & permanent conflicts): Adobe, George Drettakis, Adrien Bousseau, Yulia Gryaditskaya, Peter Hedman, Mohamed Sayed"
+	var final_text = "<b>Current conflicts</b> (automatically computed from the last three years publications & permanent conflicts): Adobe, George Drettakis, Adrien Bousseau, Yulia Gryaditskaya, Peter Hedman, Mohamed Sayed, "
 	for (let id =0; id < dates.length; id++)
 	{
 		var paper_date = new Date(dates[id])
