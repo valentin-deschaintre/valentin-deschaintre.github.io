@@ -47,13 +47,15 @@ h2   {
 h3   { 
 	font-size:large;
 	color:#ff0000;
-	background: #FFF;
+	background: #fef7f7;
 	font-weight: normal; 
 	text-align: left; 
 	padding-bottom: 1px;
 	padding-top: 3px;
-	padding-left: 25px;
-	border: 1px solid #000;
+	padding-left: 2px;
+	font-size: 14pt;
+	font-weight: bold;
+	/* border: 1px solid #000; */
 }
 h4   { 
 	font-size:medium;
@@ -85,9 +87,16 @@ img{
 	font-size:large;
 }
 #content {
-	margin:0px;
+	width:50%;
+	margin:0 auto;
+	font-size: 12pt;
+	text-align: justify;
+	line-height: 1.2;
 	padding:15px;
 	background-color:#FFF;
+}
+#conflicts{
+	font-size: 10pt;
 }
 #footer {
     text-align: center;
@@ -183,7 +192,7 @@ img{
 }
 
 .Publications hr {
-	width: 80%;
+	width: 70%;
 	margin: 12px 150px;
 	padding: 0px;
 	height: 2px;
