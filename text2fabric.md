@@ -80,13 +80,13 @@ We also show that our dataset enables specializing large vision-language models 
                 </p>
             </div>
         </div>
-        <div class="row">
+                <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <h3>
                 <!-- <h3 class="text&#45;center"> -->
                     Downloads
                 </h3>
-                <div class="col-md-8 col-md-offset-2 text-center">
+                <div class="col-md-16 text-center">
                     <ul class="nav nav-pills nav-justified">
                         <li>
                             <a href="files/Visual_language_fabric_optim.pdf">
@@ -110,7 +110,7 @@ We also show that our dataset enables specializing large vision-language models 
                         </li>     
                     </ul>
                 </div>  <br>
-                <div class="col-md-8 col-md-offset-2 text-center">
+                <div class="col-md-16 text-center">
                     <ul class="nav nav-pills nav-justified">
                         <li>
                             <a href="https://language-fabric-pub.s3.us-west-2.amazonaws.com/descriptions.csv">
@@ -127,20 +127,38 @@ We also show that our dataset enables specializing large vision-language models 
                                 Data: 4K Renderings
                             </a>
                         </li>
-                <li>
+                        <li>
                             <a href="https://language-fabric-pub.s3.us-west-2.amazonaws.com/file_name_url_correspondance.json">
                                 Data: Substance Materials URLs
                             </a>
                         </li>
-            <li>
-                            <a href="data_fabric_license.md">
-                                License
+   
+                    </ul>
+                </div> <br>
+                <div class="col-md-16 col-md text-center">
+                    <ul class="nav nav-pills nav-justified">
+                        <li>
+                            <a href="files/clip_test.py">
+                                Test code snippet
                             </a>
-                        </li>           
+                        </li> 	
+                        <li>
+                            <a href="https://nas-graphics.unizar.es/s/cpHC4jAE59PSAos">
+                                Model weights
+                            </a>
+                        </li> 	   
+                        <li>
+                            <a href="data_model_code_fabric_license.md">
+                                Data, model and code license
+                            </a>
+                        </li>        
+
                     </ul>
                 </div>
+
             </div>
         </div>
+
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <h3>
