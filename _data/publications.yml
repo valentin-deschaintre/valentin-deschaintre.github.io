@@ -1,4 +1,37 @@
 papers:
+- title: "Procedural Material Generation with Reinforcement Learning"
+  authors: 
+    - "Beichen Li"
+    - "Yiwei Hu"
+    - "Paul Guerrero"
+    - "Milos Hasan"
+    - "Liang Shi"
+    - "Valentin Deschaintre"
+    - "Wojciech Matusik"
+  abstract: 'Modern 3D content creation heavily relies on procedural assets. In particular, procedural materials are ubiquitous in the industry, but their manipulation remains challenging. Previous work [Hu et al. 2023] conditionally generates procedural graphs that match a given input image. However, the parameter generation step limits how accurately the generated graph matches the input image, due to a reliance on supervision with scarcely available procedural data. We propose to improve parameter prediction accuracy for image-conditioned procedural material generation by leveraging reinforcement learning (RL) and present the first RL approach for procedural materials. RL circumvents the limited availability of procedural data, the domain gap between real and synthetic materials, and the need for end-to-end differentiable loss functions. Given a target image, we retrieve a procedural material and use an RL-trained transformer model to predict a set of parameters that reconstruct the target image as closely as possible. We show that using RL significantly improves parameter prediction to match a given target image compared to supervised methods on both synthetic and real target images. '
+  full_teaser: "img/RL_procedural_mat_teaser.jpg"
+  square_teaser: "img/RL_procedural_mat_teaser_square.jpg"
+  date: "2024-12"
+  paper_link: "#"
+  website_link: "#"
+  citation: "Procedural Material Generation with Reinforcement Learning. Beichen Li, Yiwei Hu, Paul Guerrero, Miloš Hašan, Liang Shi, Valentin Deschaintre, Wojciech Matusik, Transactions on Graphics (Siggraph Asia proc.) 2024"
+
+- title: "Direct Manipulation of Analytic Implicit Surfaces"
+  authors: 
+    - "Marzia Riso"
+    - "Elie Michel"
+    - "Axel Paris"
+    - "Valentin Deschaintre"
+    - "Mathieu Gaillard"
+    - "Fabio Pellacini"
+  abstract: 'Procedural Implicit surfaces are a popular representation for shape modeling. They provide a simple framework for complex geometric operations such as Booleans, blending and deformations. However, their editability remains a challenging task: as the definition of the shape is purely implicit, direct manipulation of the shape cannot be performed. Thus, parameters of the model are often exposed through abstract sliders, which have to be non-trivially created by the user and understood by others for each individual model to modify. Further, each of these sliders needs to be set one by one to achieve the desired appearance. To circumvent this laborious process while preserving editability, we propose to directly manipulate the implicit surface in the viewport. We let the user naturally interact with the output shape, leveraging points on a co-parameterization we design specifically for implicit surfaces, to guide the parameter updates and reach the desired appearance faster. We leverage our automatic differentiation of the procedural implicit surface to propagate interactions made by the user in the viewport to the shape parameters themselves. We further design a solver that uses such information to guide an intuitive and smooth user workflow. We demonstrate different editing processes across multiple implicit shapes and parameters that would be tedious by tuning sliders.'
+  full_teaser: "img/teaser_sdfmanipulation_full.jpg"
+  square_teaser: "img/teaser_sdfmanipulation_square.jpg"
+  date: "2024-12"
+  paper_link: "https://eliemichel.github.io/SdfManipulation/documents/riso24direct.pdf"
+  website_link: "https://eliemichel.github.io/SdfManipulation/"
+  citation: "Direct Manipulation of Analytic Implicit Surfaces. Marzia Riso, Elie Michel, Axel Paris, Valentin Deschaintre, Mathieu Gaillard, Fabio Pellacini, Transactions on Graphics (Siggraph Asia proc.) 2024"
+
 - title: "TexSliders: Diffusion-Based Texture Editing in CLIP Space"
   authors: 
     - "Julia Guerrero-Viu"
