@@ -71,7 +71,7 @@ function choosePic() {
 						</td>
 					</tr>
 					<tr>
-						<td align="center"><a href="https://scholar.google.com/citations?user=UnO0Ap8AAAAJ&hl=en"><img src='img/google-scholar.svg' height='32' alt='Google scholar'/></a> <a href="https://github.com/valentin-deschaintre"><img src='img/github-mark.svg' width='32' height='32' alt='Github'/> </a><a href="https://www.linkedin.com/in/valentin-deschaintre-phd-75226948/?locale=en_US"><img src='img/linkedin-logo.svg' width='32' height='32' alt='Linkedin'/></a> <a href="https://twitter.com/vdeschaintre"><img src='img/twitter_logo.svg' width='32' height='32' alt='D19'/></a> <a rel="me" href="https://mastodon.gamedev.place/@vdeschaintre"><img src='img/mastodon-black-icon.svg' width='32' height='32' alt='Mastodon'/></a><a rel="me" href="https://orcid.org/0000-0002-6219-3747"> <img src='img/orcid_logo.svg' width='32' height='32' alt='OrcId'/></a>
+						<td align="center"><a href="https://scholar.google.com/citations?user=UnO0Ap8AAAAJ&hl=en"><img src='img/google-scholar.svg' height='32' alt='Google scholar'/></a> <a href="https://github.com/valentin-deschaintre"><img src='img/github-mark.svg' width='32' height='32' alt='Github'/> </a><a href="https://www.linkedin.com/in/valentin-deschaintre-phd-75226948/?locale=en_US"><img src='img/linkedin-logo.svg' width='32' height='32' alt='Linkedin'/></a><a href="https://bsky.app/profile/vdeschaintre.bsky.social"><img src='img/Bluesky_Logo.svg' width='32' height='32' alt='D19'/> <a href="https://twitter.com/vdeschaintre"><img src='img/twitter_logo.svg' width='32' height='32' alt='D19'/></a> <a rel="me" href="https://mastodon.gamedev.place/@vdeschaintre"><img src='img/mastodon-black-icon.svg' width='32' height='32' alt='Mastodon'/></a><a rel="me" href="https://orcid.org/0000-0002-6219-3747"> <img src='img/orcid_logo.svg' width='32' height='32' alt='OrcId'/></a>
 						</td>
 					</tr>
 				</table> 
@@ -192,7 +192,7 @@ function choosePic() {
 	<ul>
 	<li><a href='https://asia.siggraph.org/2023/submissions/technical-papers/'>Siggraph Asia 2023, 2024</a></li>
 	<li><a href="https://eg2023.saarland-informatics-campus.de/">Eurographics 2023, 2024</a></li>
-	<li><a href="https://conferences.eg.org/egsr2023/">EGSR 2021, 2022, 2023</a></li>
+	<li><a href="https://conferences.eg.org/egsr2023/">EGSR 2021, 2022, 2023, 2025</a></li>
 	<li><a href="https://www.cvcs.no/">CVCS 2020</a></li>
 	</ul>
 	<h4>Reviewer</h4>
@@ -201,7 +201,7 @@ function choosePic() {
 			<ul>
 			<li><a href="https://s2022.siggraph.org/">Siggraph 2020, 2021, 2022, 2023, 2024</a></li>
 			<li><a href="https://sa2020.siggraph.org/">Siggraph Asia 2019, 2020, 2021, 2022</a></li>
-			<li><a href="https://conferences.eg.org/eg2021/">Eurographics 2020, 2021, 2022</a></li>
+			<li><a href="https://conferences.eg.org/eg2021/">Eurographics 2020, 2021, 2022, 2025</a></li>
 			<li><a href="https://cvpr2024.thecvf.com/">CVPR 2022, 2023, 2024</a></li>
 			<li><a href="https://iccv2021.thecvf.com/home">ICCV 2021</a></li>
 			</ul>
