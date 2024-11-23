@@ -12,8 +12,8 @@ papers:
   full_teaser: "img/RL_procedural_mat_teaser.jpg"
   square_teaser: "img/RL_procedural_mat_teaser_square.jpg"
   date: "2024-12"
-  paper_link: "#"
-  website_link: "#"
+  paper_link: "https://dl.acm.org/doi/pdf/10.1145/3687979"
+  website_link: "https://dl.acm.org/doi/10.1145/3687979"
   citation: "Procedural Material Generation with Reinforcement Learning. Beichen Li, Yiwei Hu, Paul Guerrero, Miloš Hašan, Liang Shi, Valentin Deschaintre, Wojciech Matusik, Transactions on Graphics (Siggraph Asia proc.) 2024"
 
 - title: "Direct Manipulation of Analytic Implicit Surfaces"
