@@ -65,7 +65,7 @@ papers:
   website_link: "https://eliemichel.github.io/SdfManipulation/"
   citation: "Direct Manipulation of Analytic Implicit Surfaces. Marzia Riso, Elie Michel, Axel Paris, Valentin Deschaintre, Mathieu Gaillard, Fabio Pellacini, Transactions on Graphics (Siggraph Asia proc.) 2024"
   miscs:
-    - "The paper received a Best Paper Honorable Mention at SIGGRAPH Asia 2024"
+    - "Best Paper Honorable Mention at SIGGRAPH Asia 2024"
 
 - title: "TexSliders: Diffusion-Based Texture Editing in CLIP Space"
   authors: 
