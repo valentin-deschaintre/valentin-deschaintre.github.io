@@ -15,23 +15,6 @@ papers:
   website_link: "https://mfischer-ucl.github.io/sama/"
   citation: "SAMa: Material-aware 3D Selection and Segmentation. Michael Fischer, Iliyan Georgiev, Thibault Groueix, Vladimir G. Kim, Tobias Ritschel, Valentin Deschaintre, Arxiv"
 
-- title: "MaterialPicker: Multi-Modal Material Generation with Diffusion Transformers"
-  authors: 
-    - "Xiaohe Ma"
-    - "Valentin Deschaintre"
-    - "Milos Hasan"
-    - "Fujun Luan"
-    - "Kun Zhou"
-    - "Hongzhi Wu"
-    - "Yiwei Hu"
-  abstract: 'High-quality material generation is key for virtual environment authoring and inverse rendering. We propose MaterialPicker, a multi-modal material generator leveraging a Diffusion Transformer (DiT) architecture, improving and simplifying the creation of high-quality materials from text prompts and/or photographs. Our method can generate a material based on an image crop of a material sample, even if the captured surface is distorted, viewed at an angle or partially occluded, as is often the case in photographs of natural scenes. We further allow the user to specify a text prompt to provide additional guidance for the generation. We finetune a pre-trained DiT-based video generator into a material generator, where each material map is treated as a frame in a video sequence. We evaluate our approach both quantitatively and qualitatively and show that it enables more diverse material generation and better distortion correction than previous work.'
-  full_teaser: "img/materialpicker_teaser.jpg"
-  square_teaser: "img/materialpicker_teaser.jpg"
-  date: "2025-01"
-  paper_link: "https://beashaper.github.io/publications/materialpicker/materialpicker.pdf"
-  website_link: "https://xiaohema98.com/publications/materialpicker/index.html"
-  citation: "MaterialPicker: Multi-Modal Material Generation with Diffusion Transformers. Xiaohe Ma, Valentin Deschaintre, Miloš Hašan, Fujun Luan, Kun Zhou, Hongzhi Wu, Yiwei Hu, Arxiv"
-
 - title: "Procedural Material Generation with Reinforcement Learning"
   authors: 
     - "Beichen Li"
