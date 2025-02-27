@@ -92,7 +92,7 @@ function choosePic() {
 
 	<h3>Internships</h3>
 	<div class="Introduction">
-		<b>Adobe Research Internship:</b> I will be looking for strong PhD students to collaborate with for the 2025 Adobe internship program. If you are interested in interning at Adobe with me (see my research interests above), don't hesitate to reach out (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. Internships are usually discussed around November December of the year preceding it. It is important that your advisor is aware of your plans to do an intership.<br><br>	
+		<b>Adobe Research Internship:</b> I will be looking for strong PhD students to collaborate with for the 2026 Adobe internship program. If you are interested in interning at Adobe with me (see my research interests above), don't hesitate to reach out (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. Internships are usually discussed around November December of the year preceding it. It is important that your advisor is aware of your plans to do an intership.<br><br>	
 	</div>
 	<h3>Past Interns</h3>
 
@@ -181,9 +181,10 @@ function choosePic() {
 	
 	<h3>Community activities</h3>
 	<div class="Introduction">
-	<h4>Committee member</h4>
+	<h4>Committee member / Chair</h4>
 	<ul>
 	<li><a href="https://eg2024.cyens.org.cy/doctoral-consortium/">Eurographics 2024 Doctoral Consortium co-chair</a></li>
+	<li><a href="https://www.eg.org/wp/junior-fellows/">Eurographics Junior Fellows chair</a></li>
 	<li><a href="https://research.siggraph.org/programs/thesisff-2023/">Siggraph Thesis Fast Forward: Steering Committee, Co-chair 2023, Chair 2024</a></li>
 	<li><a href="https://research.siggraph.org/">SIGGRAPH Research Career Development Committee</a></li>
 	<li><a href="https://www.cvmp-conference.org/2022/">Industry Chair CVMP 2022</a> </li>
