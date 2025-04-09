@@ -184,7 +184,7 @@ function choosePic() {
 	<h4>Committee member / Chair</h4>
 	<ul>
 	<li><a href="https://eg2024.cyens.org.cy/doctoral-consortium/">Eurographics 2024 Doctoral Consortium co-chair</a></li>
-	<li><a href="https://www.eg.org/wp/junior-fellows/">Eurographics Junior Fellows chair</a></li>
+	<li><a href="https://www.eg.org/wp/junior-fellows/">Eurographics Junior Fellows chair 2025-</a></li>
 	<li><a href="https://research.siggraph.org/programs/thesisff-2023/">Siggraph Thesis Fast Forward: Steering Committee, Co-chair 2023, Chair 2024</a></li>
 	<li><a href="https://research.siggraph.org/">SIGGRAPH Research Career Development Committee</a></li>
 	<li><a href="https://www.cvmp-conference.org/2022/">Industry Chair CVMP 2022</a> </li>
@@ -200,11 +200,11 @@ function choosePic() {
 	<ul>
 		<li>Conferences
 			<ul>
-			<li><a href="https://s2022.siggraph.org/">Siggraph 2020, 2021, 2022, 2023, 2024</a></li>
+			<li><a href="https://s2022.siggraph.org/">Siggraph 2020, 2021, 2022, 2023, 2024, 2025</a></li>
 			<li><a href="https://sa2020.siggraph.org/">Siggraph Asia 2019, 2020, 2021, 2022</a></li>
 			<li><a href="https://conferences.eg.org/eg2021/">Eurographics 2020, 2021, 2022, 2025</a></li>
 			<li><a href="https://cvpr2024.thecvf.com/">CVPR 2022, 2023, 2024, 2025</a></li>
-			<li><a href="https://iccv2021.thecvf.com/home">ICCV 2021</a></li>
+			<li><a href="https://iccv2021.thecvf.com/home">ICCV 2021, 2025</a></li>
 			</ul>
 		</li>
 		<li>Journals
