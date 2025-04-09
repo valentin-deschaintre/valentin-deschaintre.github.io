@@ -1,4 +1,57 @@
 papers:
+
+- title: "IntrinsicEdit: Precise generative image manipulation in intrinsic space"
+  authors: 
+    - "Linjie Lyu"
+    - "Valentin Deschaintre"
+    - "Yannick Hold-Geoffroy"
+    - "Milos Hasan"
+    - "Jae Shin Yoon"
+    - "Thomas Leimkuehler"
+    - "Christian Theobalt"
+    - "Iliyan Georgiev"
+  abstract: 'Generative diffusion models have advanced image editing with high-quality results and intuitive interfaces such as prompts and semantic drawing. However, these interfaces lack precise control, and the associated methods typically specialize on a single editing task. We introduce a versatile, generative workflow that operates in an intrinsic-image latent space, enabling semantic, local manipulation with pixel precision for a range of editing operations. Building atop the RGB-X diffusion framework, we address key challenges of identity preservation and intrinsic-channel entanglement. By incorporating exact diffusion inversion and disentangled channel manipulation, we enable precise, efficient editing with automatic resolution of global illumination effects -- all without additional data collection or model fine-tuning. We demonstrate state-of-the-art performance across a variety of tasks on complex images, including color and texture adjustments, object insertion and removal, global relighting, and their combinations.'
+  full_teaser: "img/intrinsicedit_teaser.jpg"
+  square_teaser: "img/intrinsicedit_teaser.jpg"
+  date: "2025-07"
+  paper_link: ""
+  website_link: ""
+  citation: "IntrinsicEdit: Precise generative image manipulation in intrinsic space. Linjie Lyu, Valentin Deschaintre, Yannick Hold-Geoffroy, Milos Hasan, Jae Shin Yoon, Thomas Leimkuehler, Christian Theobalt, Iliyan Georgiev, Conditional Accept Transactions on Graphics (Siggraph proc.) 2025"
+
+- title: "MaterialPicker: Multi-Modal DiT-Based Material Generation"
+  authors: 
+    - "Xiaohe Ma"
+    - "Valentin Deschaintre"
+    - "Milos Hasan"
+    - "Fujun Luan"
+    - "Kun Zhou"
+    - "Hongzhi Wu"
+    - "Yiwei Hu"
+  abstract: 'High-quality material generation is key for virtual environment authoring and inverse rendering. We propose MaterialPicker, a multi-modal material generator leveraging a Diffusion Transformer (DiT) architecture, improving and simplifying the creation of high-quality materials from text prompts and/or photographs. Our method can generate a material based on an image crop of a material sample, even if the captured surface is distorted, viewed at an angle or partially occluded, as is often the case in photographs of natural scenes. We further allow the user to specify a text prompt to provide additional guidance for the generation. We finetune a pre-trained DiT-based video generator into a material generator, where each material map is treated as a frame in a video sequence. We evaluate our approach both quantitatively and qualitatively and show that it enables more diverse material generation and better distortion correction than previous work.'
+  full_teaser: "img/materialpicker_teaser.jpg"
+  square_teaser: "img/materialpicker_teaser.jpg"
+  date: "2025-07"
+  paper_link: ""
+  website_link: "https://xiaohema98.com/publications/materialpicker/index.html"
+  citation: "MaterialPicker: Multi-Modal DiT-Based Material Generation. Xiaohe Ma, Valentin Deschaintre, Milos Hasan, Fujun Luan, Kun Zhou, Hongzhi Wu, Yiwei Hu, Conditional Accept Transactions on Graphics (Siggraph proc.) 2025"
+
+- title: "Uncertainty for SVBRDF Acquisition using Frequency Analysis"
+  authors: 
+    - "Ruben Wiersma"
+    - "Julien Philip"
+    - "Milos Hasan"
+    - "Krishna Mullia"
+    - "Fujun Luan"
+    - "Elmar Eisemann"
+    - "Valentin Deschaintre"
+  abstract: 'This paper aims to quantify uncertainty for SVBRDF acquisition. Under uncontrolled illumination and unstructured viewpoints, there is no guarantee that the observations contain enough information to reconstruct the appearance properties of a captured object. We study this ambiguity, or uncertainty, using entropy and accelerate the analysis by using the frequency domain, rather than the domain of incoming and outgoing viewing angles. The result is a method that computes a map of uncertainty over an entire object within a millisecond. We first validate that the frequency model allows us to recover SVBRDF parameters with competitive performance, that the accelerated entropy computation matches results with a physically-based path tracer, and that there is a positive correlation between error and uncertainty. We then show that the uncertainty map can be applied to improve SVBRDF acquisition using capture guidance, sharing information on the surface, and using a diffusion model to inpaint uncertain regions.'
+  full_teaser: "img/uncertaintycapture_teaser.jpg"
+  square_teaser: "img/uncertaintycapture_teaser.jpg"
+  date: "2025-07"
+  paper_link: ""
+  website_link: "https://svbrdf-uncertainty.github.io/"
+  citation: "Uncertainty for SVBRDF Acquisition using Frequency Analysis. Ruben Wiersma, Julien Philip, Milos Hasan, Krishna Mullia, Fujun Luan, Elmar Eisemann, Valentin Deschaintre, Conditional Accept Siggraph 2025"
+
 - title: "SAMa: Material-aware 3D Selection and Segmentation"
   authors: 
     - "Michael Fischer"
