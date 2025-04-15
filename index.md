@@ -7,7 +7,7 @@ layout: main
 <script>
 window.onload = load_all;
 
-var myPix = new Array("img/profilePic1.jpg","img/profilePic2.png","img/profilePic3.jpg","img/profilePic4.jpg");
+var myPix = new Array("img/profilePic4.jpg", "img/profilePic5.jpg");
 
 function load_all() {
      choosePic();
