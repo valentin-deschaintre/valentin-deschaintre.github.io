@@ -71,7 +71,7 @@ function choosePic() {
 						</td>
 					</tr>
 					<tr>
-						<td align="center"><a href="https://scholar.google.com/citations?user=UnO0Ap8AAAAJ&hl=en"><img src='img/google-scholar.svg' height='32' alt='Google scholar'/></a> <a href="https://github.com/valentin-deschaintre"><img src='img/github-mark.svg' width='32' height='32' alt='Github'/> </a><a href="https://www.linkedin.com/in/valentin-deschaintre-phd-75226948/?locale=en_US"><img src='img/linkedin-logo.svg' width='32' height='32' alt='Linkedin'/></a><a href="https://bsky.app/profile/vdeschaintre.bsky.social"><img src='img/Bluesky_Logo.svg' width='32' height='32' alt='D19'/></a> <a href="https://twitter.com/vdeschaintre"><img src='img/twitter_logo.svg' width='32' height='32' alt='D19'/></a> <a rel="me" href="https://mastodon.gamedev.place/@vdeschaintre"><img src='img/mastodon-black-icon.svg' width='32' height='32' alt='Mastodon'/></a><a rel="me" href="https://orcid.org/0000-0002-6219-3747"> <img src='img/orcid_logo.svg' width='32' height='32' alt='OrcId'/></a>
+						<td align="center"><a href="https://scholar.google.com/citations?user=UnO0Ap8AAAAJ&hl=en"><img src='img/google-scholar.svg' height='32' alt='Google scholar'/></a> <a href="https://github.com/valentin-deschaintre"><img src='img/github-mark.svg' width='32' height='32' alt='Github'/> </a><a href="https://www.linkedin.com/in/valentin-deschaintre-phd-75226948/?locale=en_US"><img src='img/linkedin-logo.svg' width='32' height='32' alt='Linkedin'/></a><a href="https://bsky.app/profile/vdeschaintre.bsky.social"><img src='img/Bluesky_Logo.svg' width='32' height='32' alt='D19'/></a> <a href="https://twitter.com/vdeschaintre"><img src='img/twitter_logo.svg' width='32' height='32' alt='D19'/></a><a rel="me" href="https://orcid.org/0000-0002-6219-3747"> <img src='img/orcid_logo.svg' width='32' height='32' alt='OrcId'/></a>
 						</td>
 					</tr>
 				</table> 
@@ -83,8 +83,8 @@ function choosePic() {
 		I am currently a Research Scientist at Adobe Research in the London lab. I previously was an Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
 		I received my PhD at Inria Sophia-Antipolis from the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a> in collaboration with Optis, an Ansys affiliate. During my PhD, I spent 2 months under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
 
-		My thesis received the <a href='https://gdr-igrv.fr/actions/prix-these/'>French Computer Graphics Thesis Award</a> and <a href='https://www.fondation-unica.org/'>UCA Academic Excellence Thesis Awards</a>. I was elected as <a href='https://www.eg.org/wp/junior-fellows/'>Eurographics Junior Fellow 2024</a>.<br>
-		<b>My research focuses on inverse rendering/appearance generation, acquisition, authoring and representation for virtual environments and scene understanding.</b> <br><br>
+		My thesis received the <a href='https://gdr-igrv.fr/actions/prix-these/'>French Computer Graphics Thesis Award</a> and <a href='https://www.fondation-unica.org/'>UCA Academic Excellence Thesis Awards</a>. I was elected as <a href='https://www.eg.org/wp/junior-fellows/'>Eurographics Junior Fellow 2024</a>.<br><br>
+		<b>My research currently focuses on image and 3D/appearance assets understanding, generation and authoring, with a focus on user control.</b> <br><br>
 		<div id=conflicts>
 		</div>
 
@@ -191,6 +191,7 @@ function choosePic() {
 	</ul>
 	<h4> Technical Program Committee member: </h4>
 	<ul>
+	<li><a href='https://asia.siggraph.org/2025/submissions/courses/'>Siggraph Asia Courses 2025</a></li>
 	<li><a href='https://asia.siggraph.org/2023/submissions/technical-papers/'>Siggraph Asia 2023, 2024</a></li>
 	<li><a href="https://eg2023.saarland-informatics-campus.de/">Eurographics 2023, 2024</a></li>
 	<li><a href="https://conferences.eg.org/egsr2023/">EGSR 2021, 2022, 2023, 2025</a></li>
