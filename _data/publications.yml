@@ -31,7 +31,7 @@ papers:
   full_teaser: "img/materialpicker_teaser.jpg"
   square_teaser: "img/materialpicker_teaser.jpg"
   date: "2025-07"
-  paper_link: ""
+  paper_link: "https://beashaper.github.io/publications/materialpicker/materialpicker.pdf"
   website_link: "https://xiaohema98.com/publications/materialpicker/index.html"
   citation: "MaterialPicker: Multi-Modal DiT-Based Material Generation. Xiaohe Ma, Valentin Deschaintre, Milos Hasan, Fujun Luan, Kun Zhou, Hongzhi Wu, Yiwei Hu, Conditional Accept Transactions on Graphics (Siggraph proc.) 2025"
 
@@ -48,7 +48,7 @@ papers:
   full_teaser: "img/uncertaintycapture_teaser.jpg"
   square_teaser: "img/uncertaintycapture_teaser.jpg"
   date: "2025-07"
-  paper_link: ""
+  paper_link: "https://svbrdf-uncertainty.github.io/static/pdf/svbrdf_uncertainty_siggraph_2025.pdf"
   website_link: "https://svbrdf-uncertainty.github.io/"
   citation: "Uncertainty for SVBRDF Acquisition using Frequency Analysis. Ruben Wiersma, Julien Philip, Milos Hasan, Krishna Mullia, Fujun Luan, Elmar Eisemann, Valentin Deschaintre, Conditional Accept Siggraph 2025"
 
