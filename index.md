@@ -84,6 +84,9 @@ function choosePic() {
 		I received my PhD at Inria Sophia-Antipolis from the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a> in collaboration with Optis, an Ansys affiliate. During my PhD, I spent 2 months under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
 
 		My thesis received the <a href='https://gdr-igrv.fr/actions/prix-these/'>French Computer Graphics Thesis Award</a> and <a href='https://www.fondation-unica.org/'>UCA Academic Excellence Thesis Awards</a>. I was elected as <a href='https://www.eg.org/wp/junior-fellows/'>Eurographics Junior Fellow 2024</a>.<br><br>
+
+		<b>News:</b> I am happy to share that I received the <a href="https://www.eg.org/wp/eurographics-awards-programme/the-young-researcher-award/">Eurographics Young Researcher Award</a> 2025! <br><br>
+ 
 		<b>My research currently focuses on image and 3D/appearance assets understanding, generation and authoring, with a focus on user control.</b> <br><br>
 		<div id=conflicts>
 		</div>
