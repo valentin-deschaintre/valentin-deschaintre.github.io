@@ -313,6 +313,8 @@ papers:
   paper_link: "https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14781"
   website_link: "https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14781"
   citation: "A Semi‐Procedural Convolutional Material Prior. Xilong Zhou, Miloš Hašan, Valentin Deschaintre, Paul Guerrero, Kalyan Sunkavalli, Nima Kalantari, CGF, 2023"
+  miscs:
+    - "<a href = 'img/certificate.pdf'>Top 10% most-viewed article in CGF in 2023</a>"
 
 
 - title: "TileGen: Tileable, Controllable Material Generation and Capture"
