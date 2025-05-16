@@ -14,8 +14,8 @@ papers:
   full_teaser: "img/intrinsicedit_teaser.jpg"
   square_teaser: "img/intrinsicedit_teaser.jpg"
   date: "2025-07"
-  paper_link: ""
-  website_link: ""
+  paper_link: "https://intrinsic-edit.github.io/static/pdfs/main.pdf"
+  website_link: "https://intrinsic-edit.github.io/"
   citation: "IntrinsicEdit: Precise generative image manipulation in intrinsic space. Linjie Lyu, Valentin Deschaintre, Yannick Hold-Geoffroy, Milos Hasan, Jae Shin Yoon, Thomas Leimkuehler, Christian Theobalt, Iliyan Georgiev, Conditional Accept Transactions on Graphics (Siggraph proc.) 2025"
 
 - title: "MaterialPicker: Multi-Modal DiT-Based Material Generation"
