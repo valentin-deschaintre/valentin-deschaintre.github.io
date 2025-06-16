@@ -207,7 +207,7 @@ function choosePic() {
 			<li><a href="https://s2022.siggraph.org/">Siggraph 2020, 2021, 2022, 2023, 2024, 2025</a></li>
 			<li><a href="https://sa2020.siggraph.org/">Siggraph Asia 2019, 2020, 2021, 2022</a></li>
 			<li><a href="https://conferences.eg.org/eg2021/">Eurographics 2020, 2021, 2022, 2025</a></li>
-			<li><a href="https://cvpr2024.thecvf.com/">CVPR 2022, 2023, 2024, 2025</a></li>
+			<li><a href="https://cvpr2024.thecvf.com/">CVPR 2022, 2023, 2024, 2025 (Outstanding Reviewer)</a></li>
 			<li><a href="https://iccv2021.thecvf.com/home">ICCV 2021, 2025</a></li>
 			</ul>
 		</li>
