@@ -1,5 +1,4 @@
 papers:
-
 - title: "IntrinsicEdit: Precise generative image manipulation in intrinsic space"
   authors: 
     - "Linjie Lyu"
@@ -16,7 +15,7 @@ papers:
   date: "2025-07"
   paper_link: "https://intrinsic-edit.github.io/static/pdfs/main.pdf"
   website_link: "https://intrinsic-edit.github.io/"
-  citation: "IntrinsicEdit: Precise generative image manipulation in intrinsic space. Linjie Lyu, Valentin Deschaintre, Yannick Hold-Geoffroy, Milos Hasan, Jae Shin Yoon, Thomas Leimkuehler, Christian Theobalt, Iliyan Georgiev, Conditional Accept Transactions on Graphics (Siggraph proc.) 2025"
+  citation: "IntrinsicEdit: Precise generative image manipulation in intrinsic space. Linjie Lyu, Valentin Deschaintre, Yannick Hold-Geoffroy, Milos Hasan, Jae Shin Yoon, Thomas Leimkuehler, Christian Theobalt, Iliyan Georgiev, Transactions on Graphics (Siggraph proc.) 2025"
 
 - title: "MaterialPicker: Multi-Modal DiT-Based Material Generation"
   authors: 
@@ -33,7 +32,7 @@ papers:
   date: "2025-07"
   paper_link: "https://beashaper.github.io/publications/materialpicker/materialpicker.pdf"
   website_link: "https://xiaohema98.com/publications/materialpicker/index.html"
-  citation: "MaterialPicker: Multi-Modal DiT-Based Material Generation. Xiaohe Ma, Valentin Deschaintre, Milos Hasan, Fujun Luan, Kun Zhou, Hongzhi Wu, Yiwei Hu, Conditional Accept Transactions on Graphics (Siggraph proc.) 2025"
+  citation: "MaterialPicker: Multi-Modal DiT-Based Material Generation. Xiaohe Ma, Valentin Deschaintre, Milos Hasan, Fujun Luan, Kun Zhou, Hongzhi Wu, Yiwei Hu, Transactions on Graphics (Siggraph proc.) 2025"
 
 - title: "Uncertainty for SVBRDF Acquisition using Frequency Analysis"
   authors: 
@@ -50,7 +49,23 @@ papers:
   date: "2025-07"
   paper_link: "https://svbrdf-uncertainty.github.io/static/pdf/svbrdf_uncertainty_siggraph_2025.pdf"
   website_link: "https://svbrdf-uncertainty.github.io/"
-  citation: "Uncertainty for SVBRDF Acquisition using Frequency Analysis. Ruben Wiersma, Julien Philip, Milos Hasan, Krishna Mullia, Fujun Luan, Elmar Eisemann, Valentin Deschaintre, Conditional Accept Siggraph 2025"
+  citation: "Uncertainty for SVBRDF Acquisition using Frequency Analysis. Ruben Wiersma, Julien Philip, Milos Hasan, Krishna Mullia, Fujun Luan, Elmar Eisemann, Valentin Deschaintre, Siggraph 2025"
+
+- title: "MatSwap: Light-aware Material Transfers in Images"
+  authors: 
+    - "Ivan Lopes"
+    - "Valentin Deschaintre"
+    - "Yannick Hold-Geoffroy"
+    - "Raoul de Charette"
+  abstract: 'We present MatSwap, a method to transfer materials to designated surfaces in an image realistically. Such a task is non-trivial due to the large entanglement of material appearance, geometry, and lighting in a photograph. In the literature, material editing methods typically rely on either cumbersome text engineering or extensive manual annotations requiring artist knowledge and 3D scene properties that are impractical to obtain. In contrast, we propose to directly learn the relationship between the input material—as observed on a flat surface—and its appearance within the scene, without the need for explicit UV mapping. To achieve this, we rely on a custom light- and geometry-aware diffusion model. We fine-tune a large-scale pre-trained text-to- image model for material transfer using our synthetic dataset, preserving its strong priors to ensure effective generalization to real images. As a result, our method seamlessly integrates a desired material into the target location in the photograph while retaining the identity of the scene. MatSwap is evaluated on synthetic and real images showing that it compares favorably to recent works. Our code and data are made publicly available on https://github.com/astra-vision/MatSwap' 
+  full_teaser: "img/matswap_teaser.jpg"
+  square_teaser: "img/matswap_teaser.jpg"
+  date: "2025-06"
+  paper_link: "https://arxiv.org/pdf/2502.07784"
+  website_link: "https://diglib.eg.org/items/7fc765e4-b2b3-4a13-9366-6287a5b68e47"
+  citation: "MatSwap: Light-aware Material Transfers in Images. Ivan Lopes, Valentin Deschaintre, Yannick Hold-Geoffroy, Raoul de Charette, CGF (EGSR proc.) 2025"
+  miscs:
+    - "Best Paper Honorable Mention at EGSR 2025"
 
 - title: "SAMa: Material-aware 3D Selection and Segmentation"
   authors: 
