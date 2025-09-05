@@ -1,4 +1,21 @@
 papers:
+- title: "Fine-Grained Spatially Varying Material Selection in Images"
+  authors: 
+    - "Julia Guerrero-Viu"
+    - "Michael Fischer"
+    - "Iliyan Georgiev"
+    - "Elena Garces"
+    - "Diego Gutierrez"
+    - "Belen Masia"
+    - "Valentin Deschaintre"
+  abstract: 'Selection is the first step in many image editing processes, enabling faster and simpler modifications of all pixels sharing a common modality. In this work, we present a method for material selection in images, robust to lighting and reflectance variations, which can be used for downstream editing tasks. We rely on vision transformer (ViT) models and leverage their features for selection, proposing a multi-resolution processing strategy that yields finer and more stable selection results than prior methods. Furthermore, we enable selection at two levels: texture and subtexture, leveraging a new two-level material selection (DuMaS) dataset which includes dense annotations for over 800,000 synthetic images, both on the texture and subtexture levels. '
+  full_teaser: "img/teaser_squareFGMS.jpg"
+  square_teaser: "img/teaser_squareFGMS.jpg"
+  date: "2025-07"
+  paper_link: "https://arxiv.org/abs/2506.09023"
+  website_link: "https://arxiv.org/abs/2506.09023"
+  citation: "Fine-Grained Spatially Varying Material Selection in Images. Julia Guerrero-Viu,  Michael Fischer, Iliyan Georgiev, Elena Garces, Diego Gutierrez, Belen Masia, Valentin Deschaintre, Transactions on Graphics (Siggraph Asia proc.) 2025 (Conditional accept)"
+
 - title: "IntrinsicEdit: Precise generative image manipulation in intrinsic space"
   authors: 
     - "Linjie Lyu"

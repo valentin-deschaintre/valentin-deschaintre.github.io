@@ -64,7 +64,7 @@ function choosePic() {
 						<td align="center"><h1>Valentin Deschaintre</h1></td>
 					</tr>
 					<tr>
-						<td align="center">Research Scientist - Adobe Research</td>
+						<td align="center">Senior Research Scientist - Adobe Research</td>
 					</tr>
 					<tr>
 						<td align="center"><div class="email" cellpadding="10">e-mail: <a href="mailto:deschain@adobe.com">deschain[at]a***e.com</a></div>
@@ -80,14 +80,14 @@ function choosePic() {
 	</table>
 	<br/>
 	<div class="Introduction">
-		I am currently a Research Scientist at Adobe Research in the London lab. I previously was an Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
+		I am currently a Senior Research Scientist at Adobe Research in the London lab. I previously was an Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
 		I received my PhD at Inria Sophia-Antipolis from the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a> in collaboration with Optis, an Ansys affiliate. During my PhD, I spent 2 months under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
 
 		My thesis received the <a href='https://gdr-igrv.fr/actions/prix-these/'>French Computer Graphics Thesis Award</a> and <a href='https://www.fondation-unica.org/'>UCA Academic Excellence Thesis Awards</a>. I was elected as <a href='https://www.eg.org/wp/junior-fellows/'>Eurographics Junior Fellow 2024</a>.<br><br>
 
 		<b>News:</b> I am happy to share that I received the <a href="https://www.eg.org/wp/eurographics-awards-programme/the-young-researcher-award/">Eurographics Young Researcher Award</a> 2025! <br><br>
  
-		<b>My research currently focuses on image and 3D/appearance assets understanding, generation and authoring, with a focus on user control.</b> <br><br>
+		<b>My research currently focuses on image and 3D/appearance assets & image understanding, generation and authoring, with a focus on user control.</b> <br><br>
 		<div id=conflicts>
 		</div>
 
@@ -102,7 +102,10 @@ function choosePic() {
 	<div class="Introduction">
 		In recent years, I was happy to act as main mentor for great students in the context of Adobe's PhD Internship program!
 		<ul>
-			<li><a href='https://mfischer-ucl.github.io/'>Michael Fischer (University College London): 2024</a></li>
+			<li><a href='https://samsartor.com/'>Sam Sartor (William & Mary College): 2025</a></li>
+			<li><a href='https://zzt76.github.io/'>Zitian Zhang (Université Laval): 2025</a></li>
+			<li><a href='https://jadenpark0.github.io/'>Jaden Park (UW Madison): 2025</a></li>
+			<li><a href='https://mfischer-ucl.github.io/'>Michael Fischer (University College London): 2024</a> (Now at Adobe)</li>
 			<li><a href='http://webdiis.unizar.es/~juliagv/'>Julia Guerrero-Viu (Universidad de Zaragoza): 2023, 2024</a></li>
 			<li><a href='https://rubenwiersma.nl//'>Ruben Wiersma (Delft University): 2023</a> (now postdoc at ETH)</li>
 			<li><a href='https://prafullsharma.net/'>Prafull Sharma (MIT): 2022</a> (now postdoc at MIT)</li>
