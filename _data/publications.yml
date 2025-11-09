@@ -1,4 +1,19 @@
 papers:
+- title: "SAMa: Material-aware 3D Selection and Segmentation"
+  authors: 
+    - "Michael Fischer"
+    - "Iliyan Georgiev"
+    - "Thibault Groueix"
+    - "Vladimir Kim"
+    - "Tobias Ritschel"
+    - "Valentin Deschaintre"
+  abstract: 'Decomposing 3D assets into material parts is a common task for artists and creators, yet remains a highly manual process. In this work, we introduce Select Any Material (SAMa), a material selection approach for various 3D representations. Building on the recently introduced SAM2 video selection model, we extend its capabilities to the material domain. We leverage the model s cross-view consistency to create a 3D-consistent intermediate material-similarity representation in the form of a point cloud from a sparse set of views. Nearest-neighbor lookups in this similarity cloud allow us to efficiently reconstruct accurate continuous selection masks over objects surfaces that can be inspected from any view. Our method is multiview-consistent by design, alleviating the need for contrastive learning or feature-field pre-processing, and performs optimization-free selection in seconds. Our approach works on arbitrary 3D representations and outperforms several strong baselines in terms of selection accuracy and multiview consistency. It enables several compelling applications, such as replacing the diffuse-textured materials on a text-to-3D output with PBR materials, or selecting and editing materials on NeRFs and 3D-Gaussians.'
+  full_teaser: "img/sama_teaser.jpg"
+  square_teaser: "img/sama_teaser.jpg"
+  date: "2026-03"
+  paper_link: "https://mfischer-ucl.github.io/assets/sama_main.pdf"
+  website_link: "https://mfischer-ucl.github.io/sama/"
+  citation: "SAMa: Material-aware 3D Selection and Segmentation. Michael Fischer, Iliyan Georgiev, Thibault Groueix, Vladimir G. Kim, Tobias Ritschel, Valentin Deschaintre, 3DV 2026"
 - title: "Fine-Grained Spatially Varying Material Selection in Images"
   authors: 
     - "Julia Guerrero-Viu"
@@ -13,8 +28,8 @@ papers:
   square_teaser: "img/teaser_squareFGMS.jpg"
   date: "2025-07"
   paper_link: "https://arxiv.org/abs/2506.09023"
-  website_link: "https://arxiv.org/abs/2506.09023"
-  citation: "Fine-Grained Spatially Varying Material Selection in Images. Julia Guerrero-Viu,  Michael Fischer, Iliyan Georgiev, Elena Garces, Diego Gutierrez, Belen Masia, Valentin Deschaintre, Transactions on Graphics (Siggraph Asia proc.) 2025 (Conditional accept)"
+  website_link: "https://graphics.unizar.es/projects/MatSelection/"
+  citation: "Fine-Grained Spatially Varying Material Selection in Images. Julia Guerrero-Viu,  Michael Fischer, Iliyan Georgiev, Elena Garces, Diego Gutierrez, Belen Masia, Valentin Deschaintre, Transactions on Graphics (Siggraph Asia proc.) 2025"
 
 - title: "IntrinsicEdit: Precise generative image manipulation in intrinsic space"
   authors: 
@@ -84,21 +99,6 @@ papers:
   miscs:
     - "Best Paper Honorable Mention at EGSR 2025"
 
-- title: "SAMa: Material-aware 3D Selection and Segmentation"
-  authors: 
-    - "Michael Fischer"
-    - "Iliyan Georgiev"
-    - "Thibault Groueix"
-    - "Vladimir Kim"
-    - "Tobias Ritschel"
-    - "Valentin Deschaintre"
-  abstract: 'Decomposing 3D assets into material parts is a common task for artists and creators, yet remains a highly manual process. In this work, we introduce Select Any Material (SAMa), a material selection approach for various 3D representations. Building on the recently introduced SAM2 video selection model, we extend its capabilities to the material domain. We leverage the model s cross-view consistency to create a 3D-consistent intermediate material-similarity representation in the form of a point cloud from a sparse set of views. Nearest-neighbor lookups in this similarity cloud allow us to efficiently reconstruct accurate continuous selection masks over objects surfaces that can be inspected from any view. Our method is multiview-consistent by design, alleviating the need for contrastive learning or feature-field pre-processing, and performs optimization-free selection in seconds. Our approach works on arbitrary 3D representations and outperforms several strong baselines in terms of selection accuracy and multiview consistency. It enables several compelling applications, such as replacing the diffuse-textured materials on a text-to-3D output with PBR materials, or selecting and editing materials on NeRFs and 3D-Gaussians.'
-  full_teaser: "img/sama_teaser.jpg"
-  square_teaser: "img/sama_teaser.jpg"
-  date: "2025-01"
-  paper_link: "https://mfischer-ucl.github.io/assets/sama_main.pdf"
-  website_link: "https://mfischer-ucl.github.io/sama/"
-  citation: "SAMa: Material-aware 3D Selection and Segmentation. Michael Fischer, Iliyan Georgiev, Thibault Groueix, Vladimir G. Kim, Tobias Ritschel, Valentin Deschaintre, Arxiv"
 
 - title: "Procedural Material Generation with Reinforcement Learning"
   authors: 
