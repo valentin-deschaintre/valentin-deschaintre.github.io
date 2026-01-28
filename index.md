@@ -93,7 +93,7 @@ function choosePic() {
 
 	<h3>Internships</h3>
 	<div class="Introduction">
-		<b>Adobe Research Internship:</b> I will be looking for strong PhD students to collaborate with for the 2026 Adobe internship program. If you are interested in interning at Adobe with me (see my research interests above), don't hesitate to reach out (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. Internships are usually discussed around November December of the year preceding it. It is important that your advisor is aware of your plans to do an intership.<br><br>	
+		<b>Adobe Research Internship:</b> I will be looking for strong PhD students to collaborate with for the 2027 Adobe internship program. If you are interested in interning at Adobe with me (see my research interests above), don't hesitate to reach out (deschain@a***e.com) detailing what your research interests are, and what you would like to work on during the internship. Internships are usually discussed around November December of the year preceding it. It is important that your advisor is aware of your plans to do an intership.<br><br>	
 	</div>
 	<h3>Past Interns</h3>
 
