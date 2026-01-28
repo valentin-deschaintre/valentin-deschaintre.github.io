@@ -83,11 +83,9 @@ function choosePic() {
 		I am currently a Senior Research Scientist at Adobe Research in the London lab. I previously was an Associate Researcher in the <a href="http://wp.doc.ic.ac.uk/rgi/">Realistic Graphics and Imaging group</a> of Imperial College London hosted by <a href="https://www.doc.ic.ac.uk/~ghosh/">Abhijeet Ghosh</a>.
 		I received my PhD at Inria Sophia-Antipolis from the GraphDeco research group under the supervision of <a href='https://www-sop.inria.fr/members/Adrien.Bousseau/'>Adrien Bousseau</a> and <a href='https://www-sop.inria.fr/reves/George.Drettakis'>George Drettakis</a> in collaboration with Optis, an Ansys affiliate. During my PhD, I spent 2 months under the supervision of <a href='https://people.csail.mit.edu/fredo/'>Fr&eacute;do Durand</a>, at MIT CSAIL. <br> 
 
-		My thesis received the <a href='https://gdr-igrv.fr/actions/prix-these/'>French Computer Graphics Thesis Award</a> and <a href='https://www.fondation-unica.org/'>UCA Academic Excellence Thesis Awards</a>. I was elected as <a href='https://www.eg.org/wp/junior-fellows/'>Eurographics Junior Fellow 2024</a>.<br><br>
-
-		<b>News:</b> I am happy to share that I received the <a href="https://www.eg.org/wp/eurographics-awards-programme/the-young-researcher-award/">Eurographics Young Researcher Award</a> 2025! <br><br>
+		My thesis received the <a href='https://gdr-igrv.fr/actions/prix-these/'>French Computer Graphics Thesis Award</a> and <a href='https://www.fondation-unica.org/'>UCA Academic Excellence Thesis Awards</a>. I was elected as <a href='https://www.eg.org/wp/junior-fellows/'>Eurographics Junior Fellow 2024</a> and receibed the <a href="https://www.eg.org/wp/eurographics-awards-programme/the-young-researcher-award/">Eurographics Young Researcher Award</a> 2025.<br><br>
  
-		<b>My research currently focuses on image and 3D/appearance assets & image understanding, generation and authoring, with a focus on user control.</b> <br><br>
+		<b>My research currently focuses on image generation and editing, with a focus on user control, and scene understanding through foundation and world models.</b> <br><br>
 		<div id=conflicts>
 		</div>
 
@@ -199,7 +197,7 @@ function choosePic() {
 	<ul>
 	<li><a href='https://asia.siggraph.org/2025/submissions/courses/'>Siggraph Asia Courses 2025</a></li>
 	<li><a href='https://asia.siggraph.org/2023/submissions/technical-papers/'>Siggraph Asia 2023, 2024</a></li>
-	<li><a href="https://eg2023.saarland-informatics-campus.de/">Eurographics 2023, 2024</a></li>
+	<li><a href="https://eg2023.saarland-informatics-campus.de/">Eurographics 2023, 2024, 2026 (sorting committee)</a></li>
 	<li><a href="https://conferences.eg.org/egsr2023/">EGSR 2021, 2022, 2023, 2025</a></li>
 	<li><a href="https://www.cvcs.no/">CVCS 2020</a></li>
 	</ul>
