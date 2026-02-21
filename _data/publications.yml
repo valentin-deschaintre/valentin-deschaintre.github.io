@@ -13,7 +13,7 @@ papers:
   date: "2026-01"
   paper_link: "https://arxiv.org/pdf/2512.04267v1"
   website_link: "https://lvsn.github.io/UniLight/"
-  citation: "UniLight: A Unified Representation for Lighting. Zitian Zhang, Iliyan Georgiev, Michael Fischer, Yannick Hold-Geoffroy, Jean-François Lalonde, Valentin Deschaintre, Arxiv"
+  citation: "UniLight: A Unified Representation for Lighting. Zitian Zhang, Iliyan Georgiev, Michael Fischer, Yannick Hold-Geoffroy, Jean-François Lalonde, Valentin Deschaintre, CVPR 2026"
 - title: "V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties"
   authors: 
     - "Ye Fang"
@@ -31,7 +31,7 @@ papers:
   date: "2026-01"
   paper_link: "https://arxiv.org/pdf/2512.11799"
   website_link: "https://aleafy.github.io/vrgbx/"
-  citation: "V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties. Ye Fang, Tong Wu, Valentin Deschaintre, Duygu Ceylan, Iliyan Georgiev, Chun-Hao Paul Huang, Yiwei Hu, Xuelin Chen, Tuanfeng Yang Wang, Arxiv"
+  citation: "V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties. Ye Fang, Tong Wu, Valentin Deschaintre, Duygu Ceylan, Iliyan Georgiev, Chun-Hao Paul Huang, Yiwei Hu, Xuelin Chen, Tuanfeng Yang Wang, CVPR 2026"
 - title: "RealMat: Realistic Materials with Diffusion and Reinforcement Learning"
   authors: 
     - "Xilong Zhou"
