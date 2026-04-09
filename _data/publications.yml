@@ -14,6 +14,9 @@ papers:
   paper_link: "https://arxiv.org/pdf/2512.04267v1"
   website_link: "https://lvsn.github.io/UniLight/"
   citation: "UniLight: A Unified Representation for Lighting. Zitian Zhang, Iliyan Georgiev, Michael Fischer, Yannick Hold-Geoffroy, Jean-François Lalonde, Valentin Deschaintre, CVPR 2026"
+  miscs:
+  - "Our paper was accepted as <strong>CVPR Highlight</strong>."
+
 - title: "V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties"
   authors: 
     - "Ye Fang"
