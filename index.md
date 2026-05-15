@@ -97,12 +97,12 @@ function choosePic() {
 	<div class="Introduction">
 		In recent years, I was happy to act as main mentor for great students in the context of Adobe's PhD Internship program!
 		<ul>
-			<li><a href='https://samsartor.com/'>Sam Sartor (William & Mary College): 2025</a></li>
-			<li><a href='https://zzt76.github.io/'>Zitian Zhang (Université Laval): 2025</a></li>
+			<li><a href='https://samsartor.com/'>Sam Sartor (William & Mary College): 2025</a>(Now at Adobe)</li>
+			<li><a href='https://zzt76.github.io/'>Zitian Zhang (Université Laval): 2025, 2026</a></li>
 			<li><a href='https://jadenpark0.github.io/'>Jaden Park (UW Madison): 2025</a></li>
 			<li><a href='https://mfischer-ucl.github.io/'>Michael Fischer (University College London): 2024</a> (Now at Adobe)</li>
-			<li><a href='http://webdiis.unizar.es/~juliagv/'>Julia Guerrero-Viu (Universidad de Zaragoza): 2023, 2024</a></li>
-			<li><a href='https://rubenwiersma.nl//'>Ruben Wiersma (Delft University): 2023</a> (now postdoc at ETH)</li>
+			<li><a href='http://webdiis.unizar.es/~juliagv/'>Julia Guerrero-Viu (Universidad de Zaragoza): 2023, 2024</a>(Now at Xoople)</li>
+			<li><a href='https://rubenwiersma.nl//'>Ruben Wiersma (Delft University): 2023</a> (Now at Adobe)</li>
 			<li><a href='https://prafullsharma.net/'>Prafull Sharma (MIT): 2022</a> (now postdoc at MIT)</li>
 			<li><a href='https://yiweihu.netlify.app/'>Yiwei Hu (Yale University): 2021, 2022</a> (Now at Adobe)</li>
 		</ul>
